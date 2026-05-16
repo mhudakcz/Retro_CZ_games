@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pokémon FireRed CZ — Retro hry česky</title>
+<meta name="description" content="Český překlad hry Pokémon FireRed Version pro Game Boy Advance.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/game.css">
+</head>
+<body data-platform="gba">
+
+<header>
+  <nav><a href="../index.html">← zpět na katalog</a></nav>
+  <div class="platform-tag">GBA · 2004 · RPG</div>
+  <h1 class="crt">Pokémon FireRed<br><span class="accent">česky</span></h1>
+  <p class="tagline">Předělávka Pokémon Red (1996) na Game Boy Advance — nová grafika, nové menu, stejné dobrodružství v Kanto. Druhý projekt po Pokémon Yellow.</p>
+  <span class="badge status-wip">WIP — rozjíždíme</span>
+</header>
+
+<main>
+
+<section>
+  <h2>O hře</h2>
+  <p><strong>Pokémon FireRed Version</strong> je remake originální Pokémon Red z roku 1996 pro Game Boy Advance. Vyšel v roce 2004 spolu s LeafGreen. Hra obsahuje:</p>
+  <ul>
+    <li>Kompletní příběh Kanto regionu (Pallet Town → Indigo Plateau)</li>
+    <li>Sevii Islands — bonusový obsah po porážce Elite Four</li>
+    <li>151 originálních Pokémonů + integrace s Ruby/Sapphire/Emerald</li>
+    <li>Vylepšené menu, grafika, hudba oproti původnímu Red</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Jak na překlad</h2>
+  <p>Naštěstí pro nás existuje <strong>kompletní veřejný disassembly</strong> v repu <a href="https://github.com/pret/pokefirered">pret/pokefirered</a> — stejně jako pro Yellow. Workflow je identický:</p>
+  <ol>
+    <li>Naklonujeme disassembly, sestavíme byte-perfektní kopii originální ROM (ověřujeme přes SHA1).</li>
+    <li>Texty žijí v <code>data/text/</code> a <code>data/maps/*/text.inc</code> jako čisté plain text soubory.</li>
+    <li>Přepíšeme angličtinu na češtinu, držíme se šířkových limitů, buildíme.</li>
+    <li>Linterujeme šířku, opravujeme přetečení, pushujeme.</li>
+  </ol>
+  <p>FireRed má proti Yellow <strong>výrazně víc textu</strong> — odhadem 4–6× tolik. Sevii Islands přidají další velký kus. Plus typové názvy, jména měst, abilities — kategorie, které Yellow neměl.</p>
+</section>
+
+<section>
+  <h2>Tvrdá omezení</h2>
+  <ul>
+    <li><strong>Šířka textového okna</strong> — GBA má vyšší rozlišení (240 px), text box pojme typicky 24-26 znaků na řádek (versus 18 u Yellow). Trochu víc prostoru.</li>
+    <li><strong>Diakritika</strong> — stejný problém jako Yellow. První vlna bez diakritiky, později rozšířit font.</li>
+    <li><strong>Speciální tokeny</strong> — <code>{PLAYER}</code>, <code>{RIVAL}</code>, <code>{POKéMON}</code>, <code>{LV}</code>, <code>{PP}</code> atd. — nesahat.</li>
+    <li><strong>Velikost textu</strong> — disassembly umí přealokovat banky, tj. dlouhý český překlad není tvrdá blokáda (na rozdíl od přímého ROM-patchingu).</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Stav</h2>
+  <div class="grid-2">
+    <div class="card">
+      <h3>HOTOVO</h3>
+      <ul>
+        <li><span class="check">✓</span> Identifikace disassembly</li>
+        <li><span class="check">✓</span> Toolchain z Yellow projektu (kompatibilní)</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>NÁSLEDUJE</h3>
+      <ul>
+        <li><span class="pending">…</span> Clone pret/pokefirered, ověřit build</li>
+        <li><span class="pending">…</span> SHA1 verifikace proti uživatelově ROM</li>
+        <li><span class="pending">…</span> Linter pro šířku (GBA = 26 znaků)</li>
+        <li><span class="pending">…</span> Glosář pro konzistenci s Yellow</li>
+        <li><span class="pending">…</span> První pilot batch (Pallet, Viridian)</li>
+        <li><span class="pending">…</span> Full sweep (paralelní agenti)</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Stáhnout</h2>
+  <p>Zatím žádná verze nevyšla. Až bude první build hotov, najdeš ho tady.</p>
+</section>
+
+<section>
+  <h2>Repo a kontakt</h2>
+  <p>Pracovní repo dorazí jakmile dotáhneme první funkční build. Mezitím sleduj <a href="../index.html">katalog</a> nebo pilotní projekt <a href="https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/">Pokémon Yellow CZ</a>.</p>
+</section>
+
+</main>
+
+<footer>
+  <p><a href="../index.html">← zpět na Retro hry česky</a></p>
+  <p style="margin-top:8px; font-size:16px; opacity:0.7;">Fanouškovský projekt — všechny ochranné známky patří jejich vlastníkům.</p>
+</footer>
+
+</body>
+</html>

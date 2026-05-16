@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Retro hry česky — komunitní překlady klasik</title>
+<meta name="description" content="Komunitní české překlady retro her — Game Boy, GBA, SNES. Open-source, postavené nad veřejnými disassembly a ROM-hacking nástroji.">
+<meta property="og:title" content="Retro hry česky">
+<meta property="og:description" content="Komunitní české překlady retro her — Game Boy, GBA, SNES.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #1a0b2e;
+    --bg-grad-1: #240b36;
+    --bg-grad-2: #0f3460;
+    --neon-pink: #ff2a6d;
+    --neon-cyan: #05d9e8;
+    --neon-yellow: #fff200;
+    --neon-green: #39ff14;
+    --neon-orange: #ff9100;
+    --paper: #f5f5dc;
+    --ink: #0a0a0a;
+    --ink-soft: #c5c5c5;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'VT323', 'Courier New', monospace;
+    font-size: 22px;
+    line-height: 1.5;
+    background: linear-gradient(180deg, var(--bg) 0%, var(--bg-grad-1) 50%, var(--bg-grad-2) 100%);
+    background-attachment: fixed;
+    color: var(--paper);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+      repeating-linear-gradient(0deg, rgba(0,0,0,0.15) 0 1px, transparent 1px 3px),
+      repeating-linear-gradient(90deg, rgba(255,255,255,0.02) 0 1px, transparent 1px 3px);
+    pointer-events: none;
+    z-index: 1;
+  }
+  main, header, footer { position: relative; z-index: 2; }
+
+  .pixel {
+    font-family: 'Press Start 2P', monospace;
+    letter-spacing: 0.02em;
+  }
+
+  header {
+    text-align: center;
+    padding: 80px 20px 60px;
+    border-bottom: 3px solid var(--neon-pink);
+    box-shadow: 0 0 40px rgba(255,42,109,0.4);
+  }
+  header .crt {
+    font-size: clamp(28px, 7vw, 60px);
+    font-family: 'Press Start 2P', monospace;
+    color: var(--neon-cyan);
+    text-shadow:
+      0 0 8px var(--neon-cyan),
+      0 0 24px rgba(5,217,232,0.5),
+      4px 4px 0 var(--neon-pink);
+    margin-bottom: 24px;
+    line-height: 1.3;
+  }
+  header .crt .accent { color: var(--neon-yellow); text-shadow: 0 0 8px var(--neon-yellow), 4px 4px 0 var(--neon-pink); }
+  header .tagline {
+    font-size: clamp(20px, 2.4vw, 28px);
+    color: var(--paper);
+    max-width: 760px;
+    margin: 0 auto 24px;
+  }
+  header .blink {
+    display: inline-block;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 14px;
+    color: var(--neon-green);
+    margin-top: 18px;
+    animation: blink 1.2s infinite;
+  }
+  @keyframes blink { 0%, 60% { opacity: 1; } 61%, 100% { opacity: 0.15; } }
+
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 60px 20px 100px;
+  }
+  section { margin-bottom: 72px; }
+  section h2 {
+    font-family: 'Press Start 2P', monospace;
+    font-size: clamp(18px, 2.6vw, 26px);
+    color: var(--neon-yellow);
+    text-shadow: 0 0 8px rgba(255,242,0,0.6), 3px 3px 0 var(--neon-pink);
+    margin-bottom: 32px;
+    padding-bottom: 12px;
+    border-bottom: 2px dashed var(--neon-cyan);
+  }
+  p { margin-bottom: 14px; }
+  ul { margin: 14px 0 14px 28px; }
+  li { margin-bottom: 6px; }
+
+  a {
+    color: var(--neon-cyan);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: rgba(5,217,232,0.5);
+  }
+  a:hover { color: var(--neon-yellow); text-shadow: 0 0 6px var(--neon-yellow); }
+
+  code, .mono {
+    font-family: 'VT323', monospace;
+    background: rgba(0,0,0,0.6);
+    padding: 1px 8px;
+    border: 1px solid var(--neon-cyan);
+    font-size: 0.95em;
+    color: var(--neon-cyan);
+  }
+
+  /* Game shelf grid */
+  .shelf {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 20px;
+  }
+  .cart {
+    position: relative;
+    background: rgba(0,0,0,0.5);
+    border: 3px solid var(--neon-cyan);
+    padding: 18px 18px 16px;
+    box-shadow:
+      4px 4px 0 var(--ink),
+      0 0 12px rgba(5,217,232,0.3);
+    transition: transform 0.1s, box-shadow 0.1s;
+    text-decoration: none;
+    color: var(--paper);
+    display: block;
+  }
+  .cart:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 6px 6px 0 var(--ink), 0 0 20px rgba(5,217,232,0.5);
+    color: var(--paper);
+    text-decoration: none;
+  }
+  .cart .platform {
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    background: var(--neon-pink);
+    color: var(--ink);
+    padding: 4px 10px;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 10px;
+  }
+  .cart h3 {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 13px;
+    color: var(--neon-yellow);
+    margin: 28px 0 10px;
+    line-height: 1.4;
+    min-height: 36px;
+  }
+  .cart .meta {
+    font-size: 18px;
+    color: var(--ink-soft);
+    margin-bottom: 8px;
+  }
+  .cart .status {
+    display: inline-block;
+    padding: 3px 10px;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 10px;
+    margin-top: 6px;
+  }
+  .status.done { background: var(--neon-green); color: var(--ink); }
+  .status.wip  { background: var(--neon-yellow); color: var(--ink); }
+  .status.planned { background: var(--neon-orange); color: var(--ink); }
+  .status.hard { background: #888; color: var(--ink); }
+  .status.no { background: #444; color: #999; }
+
+  /* Difficulty legend */
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 28px;
+    font-size: 18px;
+  }
+  .legend > span {
+    padding: 4px 12px;
+    background: rgba(0,0,0,0.4);
+    border: 1px solid var(--ink-soft);
+  }
+
+  details {
+    background: rgba(0,0,0,0.4);
+    border: 2px solid var(--neon-cyan);
+    padding: 14px 18px;
+    margin: 12px 0;
+  }
+  summary {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 13px;
+    cursor: pointer;
+    color: var(--neon-cyan);
+  }
+  details[open] summary { margin-bottom: 12px; }
+
+  footer {
+    border-top: 3px solid var(--neon-pink);
+    padding: 40px 20px;
+    text-align: center;
+    background: rgba(0,0,0,0.5);
+    font-size: 18px;
+    box-shadow: 0 0 40px rgba(255,42,109,0.3);
+  }
+  footer a { color: var(--neon-yellow); }
+  footer .pixelrow {
+    font-size: 22px;
+    letter-spacing: 8px;
+    margin: 10px 0;
+    user-select: none;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div style="font-size: 26px; letter-spacing: 12px; margin-bottom: 14px;">🕹️ 👾 🎮</div>
+  <h1 class="crt">RETRO HRY<br><span class="accent">ČESKY</span></h1>
+  <p class="tagline">Komunitní české překlady retro herních klasik.<br>Open-source, postavené nad veřejnými disassembly a ROM-hacking nástroji.</p>
+  <span class="blink">▶ PRESS START</span>
+</header>
+
+<main>
+
+<section id="o-projektu">
+  <h2>O projektu</h2>
+  <p>Tenhle projekt se snaží přeložit nejlegendárnější retro hry do češtiny. Cíl: žádné výmluvy typu „v dětství jsme to hráli aniž bysme rozuměli příběhu". Otevřená přístupnost pro každého, kdo si chce dát klasiku v rodném jazyce.</p>
+  <p>Pracujeme transparentně: každý překlad je v open-source repu, každá verze ROM-ky se buildí z čistého zdroje, každá hra má vlastní detailní stránku se stavem a download odkazem.</p>
+  <p><strong>První pilotní projekt</strong> — <a href="https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/">Pokémon Yellow CZ v0.4</a> — je hotov a slouží jako referenční implementace celého workflow.</p>
+</section>
+
+<section id="hry">
+  <h2>Katalog her</h2>
+  <div class="legend">
+    <span><span class="status done">DONE</span> hotovo</span>
+    <span><span class="status wip">WIP</span> právě překládáme</span>
+    <span><span class="status planned">PLANNED</span> v plánu</span>
+    <span><span class="status hard">HARD</span> jen pro otrlé</span>
+    <span><span class="status no">SKIP</span> mimo scope</span>
+  </div>
+
+  <div class="shelf">
+
+    <a class="cart" href="https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/">
+      <span class="platform">GBC</span>
+      <h3>Pokémon Yellow</h3>
+      <p class="meta">Game Freak, 1998 · RPG</p>
+      <span class="status done">DONE v0.4</span>
+    </a>
+
+    <a class="cart" href="games/pokemon-firered.html">
+      <span class="platform">GBA</span>
+      <h3>Pokémon FireRed</h3>
+      <p class="meta">Game Freak, 2004 · RPG</p>
+      <span class="status wip">WIP — rozjíždíme</span>
+    </a>
+
+    <a class="cart" href="games/pokemon-ruby.html">
+      <span class="platform">GBA</span>
+      <h3>Pokémon Ruby</h3>
+      <p class="meta">Game Freak, 2002 · RPG</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/zelda-link-to-the-past.html">
+      <span class="platform">SNES</span>
+      <h3>Zelda: A Link to the Past</h3>
+      <p class="meta">Nintendo, 1991 · Adventure</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/zelda-minish-cap.html">
+      <span class="platform">GBA</span>
+      <h3>Zelda: The Minish Cap</h3>
+      <p class="meta">Capcom/Nintendo, 2004 · Adventure</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/super-mario-rpg.html">
+      <span class="platform">SNES</span>
+      <h3>Super Mario RPG</h3>
+      <p class="meta">Square/Nintendo, 1996 · JRPG</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/fire-emblem.html">
+      <span class="platform">GBA</span>
+      <h3>Fire Emblem (7)</h3>
+      <p class="meta">Intelligent Systems, 2003 · SRPG</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/fire-emblem-sacred-stones.html">
+      <span class="platform">GBA</span>
+      <h3>Fire Emblem: Sacred Stones</h3>
+      <p class="meta">Intelligent Systems, 2004 · SRPG</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/final-fantasy-6.html">
+      <span class="platform">GBA</span>
+      <h3>Final Fantasy VI</h3>
+      <p class="meta">Square Enix, 2006 · JRPG</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/final-fantasy-4.html">
+      <span class="platform">GBA</span>
+      <h3>Final Fantasy IV</h3>
+      <p class="meta">Square Enix, 2005 · JRPG</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/final-fantasy-5.html">
+      <span class="platform">GBA</span>
+      <h3>Final Fantasy V</h3>
+      <p class="meta">Square Enix, 2006 · JRPG</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/final-fantasy-1-2.html">
+      <span class="platform">GBA</span>
+      <h3>Final Fantasy I+II: Dawn of Souls</h3>
+      <p class="meta">Square Enix, 2004 · JRPG</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/fft-advance.html">
+      <span class="platform">GBA</span>
+      <h3>Final Fantasy Tactics Advance</h3>
+      <p class="meta">Square Enix, 2003 · SRPG</p>
+      <span class="status hard">HARD</span>
+    </a>
+
+    <a class="cart" href="games/metroid-fusion.html">
+      <span class="platform">GBA</span>
+      <h3>Metroid Fusion</h3>
+      <p class="meta">Nintendo, 2002 · Action/Adventure</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/metroid-zero-mission.html">
+      <span class="platform">GBA</span>
+      <h3>Metroid: Zero Mission</h3>
+      <p class="meta">Nintendo, 2004 · Action/Adventure</p>
+      <span class="status planned">PLANNED</span>
+    </a>
+
+    <a class="cart" href="games/castlevania-aria.html">
+      <span class="platform">GBA</span>
+      <h3>Castlevania: Aria of Sorrow</h3>
+      <p class="meta">Konami, 2003 · Metroidvania</p>
+      <span class="status hard">HARD</span>
+    </a>
+
+    <a class="cart" href="games/castlevania-cotm.html">
+      <span class="platform">GBA</span>
+      <h3>Castlevania: Circle of the Moon</h3>
+      <p class="meta">Konami, 2001 · Metroidvania</p>
+      <span class="status hard">HARD</span>
+    </a>
+
+    <a class="cart" href="games/castlevania-hod.html">
+      <span class="platform">GBA</span>
+      <h3>Castlevania: Harmony of Dissonance</h3>
+      <p class="meta">Konami, 2002 · Metroidvania</p>
+      <span class="status hard">HARD</span>
+    </a>
+
+    <a class="cart" href="games/super-mario-world.html">
+      <span class="platform">SNES</span>
+      <h3>Super Mario World</h3>
+      <p class="meta">Nintendo, 1990 · Platformer</p>
+      <span class="status planned">PLANNED (málo textu)</span>
+    </a>
+
+    <a class="cart" href="games/yoshis-island.html">
+      <span class="platform">SNES</span>
+      <h3>Super Mario World 2: Yoshi's Island</h3>
+      <p class="meta">Nintendo, 1995 · Platformer</p>
+      <span class="status hard">HARD</span>
+    </a>
+
+    <a class="cart" href="games/super-metroid.html">
+      <span class="platform">SNES</span>
+      <h3>Super Metroid</h3>
+      <p class="meta">Nintendo, 1994 · Action/Adventure</p>
+      <span class="status planned">PLANNED (málo textu)</span>
+    </a>
+
+    <a class="cart" href="games/super-r-type.html">
+      <span class="platform">SNES</span>
+      <h3>Super R-Type</h3>
+      <p class="meta">Irem, 1991 · Shoot 'em up</p>
+      <span class="status hard">HARD (málo textu)</span>
+    </a>
+
+    <a class="cart" href="games/startrek-dsn9.html">
+      <span class="platform">SNES</span>
+      <h3>Star Trek: Deep Space Nine</h3>
+      <p class="meta">Playmates, 1995 · Adventure</p>
+      <span class="status hard">HARD</span>
+    </a>
+
+    <a class="cart" href="games/startrek-tng.html">
+      <span class="platform">SNES</span>
+      <h3>Star Trek TNG: Future's Past</h3>
+      <p class="meta">Spectrum HoloByte, 1994 · Adventure</p>
+      <span class="status hard">HARD</span>
+    </a>
+
+    <a class="cart" href="games/startrek-academy.html">
+      <span class="platform">SNES</span>
+      <h3>Star Trek: Starfleet Academy</h3>
+      <p class="meta">Interplay, 1994 · Simulator</p>
+      <span class="status hard">HARD</span>
+    </a>
+
+    <a class="cart" href="games/re1.html">
+      <span class="platform">PS1</span>
+      <h3>Resident Evil</h3>
+      <p class="meta">Capcom, 1996 · Survival Horror</p>
+      <span class="status no">SKIP (PS1 mimo)</span>
+    </a>
+
+    <a class="cart" href="games/re3.html">
+      <span class="platform">PS1</span>
+      <h3>Resident Evil 3: Nemesis</h3>
+      <p class="meta">Capcom, 1999 · Survival Horror</p>
+      <span class="status no">SKIP (PS1 mimo)</span>
+    </a>
+
+    <a class="cart" href="games/silent-hill.html">
+      <span class="platform">PS1</span>
+      <h3>Silent Hill</h3>
+      <p class="meta">Konami, 1999 · Survival Horror</p>
+      <span class="status no">SKIP (PS1 mimo)</span>
+    </a>
+
+  </div>
+</section>
+
+<section id="metoda">
+  <h2>Jak to děláme</h2>
+  <p>Pro každou hru hledáme nejčistší cestu, jak změnit jen text (a nic dalšího v ROM-ce):</p>
+  <details open>
+    <summary>🟢 Disassembly cesta (Pokémon, …)</summary>
+    <p>Pokud existuje veřejný disassembly (např. <a href="https://github.com/pret/pokefirered">pret/pokefirered</a>), buildí se z něj <strong>byte-perfektní</strong> kopie originální ROM-ky. Texty jsou v čistých <code>.asm</code> souborech s makry typu <code>text "..."</code>. Stačí přepsat anglické řetězce, spustit <code>make</code>, a vyjde česká verze.</p>
+  </details>
+  <details>
+    <summary>🟡 ROM-hacking cesta (Zelda, Fire Emblem, …)</summary>
+    <p>Pro hry bez disassembly používáme komunitní nástroje — textové editory specifické pro tu hru (např. FEBuilder pro Fire Emblem, Hyrule Magic pro Zelda LTTP). Texty se extrahují, přeloží, zase vloží zpět. Tvrdší limity na délku, ale stále schůdné.</p>
+  </details>
+  <details>
+    <summary>🟠 Tvrdá cesta (Castlevania, custom enginy)</summary>
+    <p>Když nic z výše uvedeného neexistuje, musí se hra <em>nejdřív</em> reverse-engineerovat — najít text v ROM, pochopit jeho kódování, najít a upravit ukazatele, vyrobit vlastní extrakční/injekční nástroj. Tady už záleží, kolik je v komunitě zdrojů.</p>
+  </details>
+</section>
+
+<section id="omezeni">
+  <h2>Tvrdá omezení napříč hrami</h2>
+  <ul>
+    <li><strong>Délka textu</strong> — retro hry mají pevnou šířku textových oken (typicky 16–32 znaků na řádek). Český překlad je často delší než angličtina.</li>
+    <li><strong>Diakritika</strong> — většina originálních fontů obsahuje jen ASCII. Háčky a čárky vyžadují přidání nových znaků do fontu (víc práce, řešíme jako druhou vrstvu).</li>
+    <li><strong>Speciální znaky/tokeny</strong> — `&lt;PLAYER&gt;`, `#`, `@` a podobné nesahat — to jsou herní mechaniky.</li>
+    <li><strong>Tvrdé jazykové konstrukce</strong> — angličtina nemá rody, pády, čísla. Některé fráze v překladu znějí nepřirozeně bez engine-level změn.</li>
+  </ul>
+</section>
+
+<section id="prispet">
+  <h2>Přispět</h2>
+  <p>Jednotlivé hry žijí v <strong>samostatných GitHub repech</strong>. Tady je metaprojekt — rozcestník, blog o pokroku, jak začít s vlastní hrou.</p>
+  <p>Chceš pomoct? Vyber si hru z katalogu, klikni na ni a najdeš tam návod a kontakt.</p>
+</section>
+
+</main>
+
+<footer>
+  <div class="pixelrow">▼ ▲ ◀ ▶ Ⓐ Ⓑ</div>
+  <p>Retro hry česky · <a href="#">github.com/.../Retro_CZ_games</a></p>
+  <p style="margin-top:8px; font-size:16px; opacity:0.7;">Made with ❤️ in Czech Republic · Fanouškovský projekt — všechny ochranné známky patří jejich vlastníkům.</p>
+</footer>
+
+</body>
+</html>

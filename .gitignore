@@ -1,0 +1,31 @@
+# Input ROMs — never commit
+IN/
+*.gba
+*.GBA
+*.gbc
+*.gb
+*.smc
+*.sfc
+*.nds
+*.bin
+*.img
+*.iso
+*.pbp
+*.cue
+*.sav
+*.sgm
+
+# Subproject disassemblies (cloned separately)
+projects/*/disassembly/
+projects/*/build/
+
+# Tools (downloaded toolchains)
+tools/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
