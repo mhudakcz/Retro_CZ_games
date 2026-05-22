@@ -15,6 +15,13 @@ IN/
 *.sav
 *.sgm
 
+# BUT do track release ROMs under projects/*/roms/
+!projects/*/roms/*.gba
+!projects/*/roms/*.gbc
+!projects/*/roms/*.gb
+!projects/*/roms/*.smc
+!projects/*/roms/*.sfc
+
 # Subproject disassemblies (cloned separately)
 projects/*/disassembly/
 projects/*/build/

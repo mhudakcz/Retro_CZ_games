@@ -12,3 +12,8 @@
 *.jpg binary
 *.gif binary
 *.ico binary
+*.gba binary
+*.gbc binary
+*.gb  binary
+*.smc binary
+*.sfc binary
