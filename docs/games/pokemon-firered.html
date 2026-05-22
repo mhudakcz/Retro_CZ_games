@@ -49,7 +49,7 @@
   <h2>Tvrdá omezení</h2>
   <ul>
     <li><strong>Šířka textového okna</strong> — GBA má vyšší rozlišení (240 px), text box pojme typicky 24-26 znaků na řádek (versus 18 u Yellow). Trochu víc prostoru.</li>
-    <li><strong>Diakritika</strong> — stejný problém jako Yellow. První vlna bez diakritiky, později rozšířit font.</li>
+    <li><strong>Diakritika</strong> — FireRed má proti Yellow obrovskou výhodu: <strong>á, é, í, ó, ú</strong> jsou v originálním fontu (hra byla v 6 evropských jazycích). Pouze ý, č, š, ž, ř, ě, ť, ď, ň, ů mapujeme na ASCII.</li>
     <li><strong>Speciální tokeny</strong> — <code>{PLAYER}</code>, <code>{RIVAL}</code>, <code>{POKéMON}</code>, <code>{LV}</code>, <code>{PP}</code> atd. — nesahat.</li>
     <li><strong>Velikost textu</strong> — disassembly umí přealokovat banky, tj. dlouhý český překlad není tvrdá blokáda (na rozdíl od přímého ROM-patchingu).</li>
   </ul>
@@ -61,19 +61,22 @@
     <div class="card">
       <h3>HOTOVO</h3>
       <ul>
-        <li><span class="check">✓</span> Identifikace disassembly</li>
-        <li><span class="check">✓</span> Toolchain z Yellow projektu (kompatibilní)</li>
+        <li><span class="check">✓</span> pret/pokefirered naklonován</li>
+        <li><span class="check">✓</span> Build MODERN=1 funguje (16 MB ROM)</li>
+        <li><span class="check">✓</span> Linter (36 znaků + charset)</li>
+        <li><span class="check">✓</span> Glosář s mapováním diakritiky</li>
+        <li><span class="check">✓</span> Pallet Town pilot přeložen + ověřen build</li>
+        <li><span class="check">✓</span> 10 paralelních agentů spuštěno</li>
       </ul>
     </div>
     <div class="card">
-      <h3>NÁSLEDUJE</h3>
+      <h3>BĚŽÍ</h3>
       <ul>
-        <li><span class="pending">…</span> Clone pret/pokefirered, ověřit build</li>
-        <li><span class="pending">…</span> SHA1 verifikace proti uživatelově ROM</li>
-        <li><span class="pending">…</span> Linter pro šířku (GBA = 26 znaků)</li>
-        <li><span class="pending">…</span> Glosář pro konzistenci s Yellow</li>
-        <li><span class="pending">…</span> První pilot batch (Pallet, Viridian)</li>
-        <li><span class="pending">…</span> Full sweep (paralelní agenti)</li>
+        <li><span class="pending">⏳</span> 10× agent: 290 map + 27 system files</li>
+        <li><span class="pending">…</span> Aggregate + build v0.1</li>
+        <li><span class="pending">…</span> Sevii Islands (postgame) — v0.2</li>
+        <li><span class="pending">…</span> Jména Pokémonů/útoků/předmětů</li>
+        <li><span class="pending">…</span> Plná diakritika (rozšířit font o ý č š ž ř ě ť ď ň ů)</li>
       </ul>
     </div>
   </div>
@@ -81,12 +84,18 @@
 
 <section>
   <h2>Stáhnout</h2>
-  <p>Zatím žádná verze nevyšla. Až bude první build hotov, najdeš ho tady.</p>
+  <p>Pilotní ROM s přeloženým <strong>Pallet Town</strong> už existuje:</p>
+  <p style="margin-top:14px;">
+    <a class="cta" href="https://github.com/mhudakcz/Retro_CZ_games/raw/master/projects/pokemon-firered/roms/Pokemon_FIRERED_CZ_pilot.gbc">⬇ Pokemon_FIRERED_CZ_pilot.gbc (16 MB)</a>
+  </p>
+  <p style="font-size:18px; color:var(--ink-soft); margin-top:14px;">Verze v0.1 s kompletním hlavním příběhem dorazí po dokončení paralelního překladu.</p>
 </section>
 
 <section>
-  <h2>Repo a kontakt</h2>
-  <p>Pracovní repo dorazí jakmile dotáhneme první funkční build. Mezitím sleduj <a href="../index.html">katalog</a> nebo pilotní projekt <a href="https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/">Pokémon Yellow CZ</a>.</p>
+  <h2>Repo</h2>
+  <p>Pracovní soubory: <a href="https://github.com/mhudakcz/Retro_CZ_games/tree/master/projects/pokemon-firered">Retro_CZ_games/projects/pokemon-firered/</a></p>
+  <p>Disassembly: <a href="https://github.com/pret/pokefirered">pret/pokefirered</a></p>
+  <p>Reference implementace workflow: <a href="https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/">Pokémon Yellow CZ</a></p>
 </section>
 
 </main>
