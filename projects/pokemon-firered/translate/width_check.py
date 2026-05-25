@@ -28,7 +28,7 @@ SUPPORTED = set(
 # Czech diacritics that need transliteration (NOT supported)
 UNSUPPORTED_CZ = "ýčšžřěťďňůÝČŠŽŘĚŤĎŇŮ"
 
-# Token expansions worst-case
+# Token expansions worst-case (visible text width)
 TOKEN_WIDTH = {
     'PLAYER': 7,
     'RIVAL': 7,
@@ -39,15 +39,34 @@ TOKEN_WIDTH = {
     'NICKNAME': 10,
 }
 
+# Tokens whose names start with these prefixes (or match these exact names)
+# are CONTROL CODES that don't render text. They have width = 0.
+ZERO_WIDTH_TOKEN_PREFIXES = (
+    'PLAY_', 'MUS_', 'PAUSE', 'RESUME_', 'STOP_', 'COLOR', 'SHIFT_',
+    'CLEAR', 'SCROLL', 'WAIT_', 'SE_', 'JINGLE_', 'CRY_', 'FACE_',
+    'PROMPT_', 'BUTTON', 'BG_', 'FRAME_', 'SOUND_',
+)
+ZERO_WIDTH_TOKENS_EXACT = {
+    'BIG_MUS', 'SMALL_MUS', 'BLACK', 'WHITE', 'RED', 'BLUE', 'GREEN',
+    'YELLOW', 'GRAY', 'NAVY_BLUE',
+}
+
 STRING_RE = re.compile(r'^\s*\.string\s+"((?:[^"\\]|\\.)*)"')
 LINE_BREAK_RE = re.compile(r'\\[nlp]')
-TOKEN_RE = re.compile(r'\{(\w+)(?:\s*,\s*[^}]+)?\}')
+TOKEN_RE = re.compile(r'\{(\w+)(?:\s*,?\s*[^}]+)?\}')
 
 def visible_width(s: str) -> int:
     def replace_token(m):
         name = m.group(1)
-        w = TOKEN_WIDTH.get(name, len(m.group(0)))
-        return 'x' * w
+        if name in TOKEN_WIDTH:
+            return 'x' * TOKEN_WIDTH[name]
+        if name in ZERO_WIDTH_TOKENS_EXACT:
+            return ''
+        for p in ZERO_WIDTH_TOKEN_PREFIXES:
+            if name.startswith(p):
+                return ''
+        # Unknown token — assume it's a control code, 0 width
+        return ''
     s = TOKEN_RE.sub(replace_token, s)
     s = re.sub(r'\\.', '', s)
     s = s.rstrip('$')
