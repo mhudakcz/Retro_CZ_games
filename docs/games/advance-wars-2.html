@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Advance Wars 2: Black Hole Rising CZ — Retro hry česky</title>
-<meta name="description" content="Český překlad hry Advance Wars 2: Black Hole Rising pro GBA.">
+<title>Advance Wars 2 CZ — Retro hry česky</title>
+<meta name="description" content="Český překlad hry Advance Wars 2: Black Hole Rising pro Game Boy Advance.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
@@ -14,32 +14,71 @@
 
 <header>
   <nav><a href="../index.html">← zpět na katalog</a></nav>
-  <div class="platform-tag">GBA · 2003 · Turn-based Strategy</div>
-  <h1 class="crt">Advance Wars 2: Black Hole Rising<br><span class="accent">česky</span></h1>
-  <p class="tagline">Pokračování AW. Black Hole armáda, Sturm, nové CO Sensei, Hawke, Lash, Adder, Flak.</p>
-  <span class="badge status-planned">PLANNED</span>
+  <div class="platform-tag">GBA · 2003 · Tahová strategie</div>
+  <h1 class="crt">Advance Wars 2<br><span class="accent">česky</span></h1>
+  <p class="tagline">Black Hole Rising — Sturm a jeho armáda dobývají Wars World. Tahová válka s veliteli (CO), kterou mnozí mají za vrchol série.</p>
+  <span class="badge status-wip">v0.1 — beta</span>
 </header>
 
 <main>
 
 <section>
   <h2>O hře</h2>
-  <p>Advance Wars 2 je pokračování s rozšířeným rosterem CO a delším příběhem. Stejný kreslený styl, stejné gameplay principy, víc obsahu. Dialogy nejdou do hloubky postav (žádná FE-styl romance), ale jsou character-defining.</p>
+  <p><strong>Advance Wars 2: Black Hole Rising</strong> (Intelligent Systems, 2003) je pokračování kultovní tahové strategie. Armáda Black Hole pod vedením Sturma napadne Wars World a hráč velí jednotkám čtyř armád (Orange Star, Blue Moon, Green Earth, Yellow Comet), aby ji zastavil. Každý velitel (CO) má unikátní schopnosti a CO síly.</p>
 </section>
 
 <section>
   <h2>Jak na překlad</h2>
-  <p>Stejný workflow jako AW1 — ROM-hacking přístup s komunitními tools.</p>
+  <p>Tady byla cesta jiná než u Pokémonů. Existuje sice <a href="https://github.com/Eebit/aw2bhr">disassembly (Eebit/aw2bhr)</a>, které se buildí byte-perfektně, ale <strong>text v něm zatím není dekompilovaný</strong> — jsou to syrové bajty z originální ROM.</p>
+  <p>Musel jsem proto text <strong>reverse-engineerovat přímo z ROM</strong>:</p>
+  <ul>
+    <li>Text je <strong>ASCII</strong>, null-terminovaný, vícejazyčný (EN/FR/DE/ES v ROM)</li>
+    <li>Řídicí kódy: <code>\r</code> (nový řádek), <code>0x0E</code> (scénový marker), <code>0x0F</code> (prompt/konec)</li>
+    <li><strong>Pointer tabulky</strong> v regionu <code>0x61xxxx</code> (4-bajtové ukazatele <code>0x08000000</code>+offset)</li>
+    <li>Hlavní kampaňová tabulka má <strong>2310 ukazatelů</strong> + 6 UI/tutorial tabulek</li>
+  </ul>
+  <p>Postavil jsem vlastní pipeline (Python): <code>extract</code> vytáhne 3145 stringů → překlad (10 paralelních agentů) → <code>inject</code> přepíše český text do <strong>1.9 MB volného místa</strong> na konci ROM a přepointuje ukazatele. Délka překladu tak není omezena.</p>
 </section>
 
 <section>
   <h2>Stav</h2>
-  <p>Zatím nezačato. Sleduj <a href="../index.html">katalog</a> nebo pilotní projekt <a href="https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/">Pokémon Yellow CZ</a>, který běží jako referenční implementace celého workflow.</p>
+  <div class="grid-2">
+    <div class="card">
+      <h3>HOTOVO (v0.1)</h3>
+      <ul>
+        <li><span class="check">✓</span> RE text formátu z ROM</li>
+        <li><span class="check">✓</span> 3128 / 3145 stringů přeloženo</li>
+        <li><span class="check">✓</span> Kompletní kampaňové dialogy</li>
+        <li><span class="check">✓</span> Mission briefingy, vítězství/porážka</li>
+        <li><span class="check">✓</span> CO síly, popisy jednotek, terénu</li>
+        <li><span class="check">✓</span> UI, menu, tutoriály</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>NÁSLEDUJE</h3>
+      <ul>
+        <li><span class="pending">…</span> Test v emulátoru, oprava délek řádků</li>
+        <li><span class="pending">…</span> Diakritika (font má pár accentů přes <code>'</code>/<code>~</code> prefix)</li>
+        <li><span class="pending">…</span> Jména map (zatím EN)</li>
+        <li><span class="pending">…</span> Advance Wars 1 (potřebuje Rev 0 ROM)</li>
+      </ul>
+    </div>
+  </div>
 </section>
 
 <section>
-  <h2>Repo a kontakt</h2>
-  <p>Repo dorazí později.</p>
+  <h2>Stáhnout v0.1</h2>
+  <p>Patch aplikovaný na <em>Advance Wars 2 - Black Hole Rising (USA)</em>. Text relokován + přepointován, velikost ROM zůstává 8 MB.</p>
+  <p style="margin-top:20px;">
+    <a class="cta" href="https://github.com/mhudakcz/Retro_CZ_games/raw/master/projects/advance-wars-2/roms/Advance_Wars_2_CZ_v0.1.gba">⬇ Advance_Wars_2_CZ_v0.1.gba (8 MB)</a>
+  </p>
+  <p style="font-size:18px; color:var(--ink-soft); margin-top:14px;">Bez diakritiky (ASCII). Jména frakcí a velitelů ponechána originální.</p>
+</section>
+
+<section>
+  <h2>Repo</h2>
+  <p>Pipeline + překlad: <a href="https://github.com/mhudakcz/Retro_CZ_games/tree/master/projects/advance-wars-2">Retro_CZ_games/projects/advance-wars-2/</a></p>
+  <p>Disassembly (pro verifikaci): <a href="https://github.com/Eebit/aw2bhr">Eebit/aw2bhr</a></p>
 </section>
 
 </main>
