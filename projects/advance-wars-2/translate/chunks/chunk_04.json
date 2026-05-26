@@ -1,0 +1,2837 @@
+[
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364648,
+  "str_off": 6240692,
+  "len": 64,
+  "en": "Hold on...\\e Er... I think so, sir.\\e\\rNothing but air units, sir.\\f",
+  "cz": "Moment...\\e Ehm... Asi ano, pane.\\e\\rJen vzdusne jednotky, pane.\\f",
+  "idx": 1260
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364652,
+  "str_off": 6240760,
+  "len": 50,
+  "en": "How predictable.\\e\\e\\rDeploy our troops immediately.\\f",
+  "cz": "Jak predvidatelne.\\e\\e\\rOkamzite nasadte nase jednotky.\\f",
+  "idx": 1261
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364656,
+  "str_off": 6240812,
+  "len": 10,
+  "en": "Yes, sir.\\f",
+  "cz": "Ano, pane.\\f",
+  "idx": 1262
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364660,
+  "str_off": 6240824,
+  "len": 59,
+  "en": "Attention all units!\\e\\e\\rTarget that fortress and open fire!\\f",
+  "cz": "Pozor vsem jednotkam!\\e\\e\\rZamerte tu pevnost a palte!\\f",
+  "idx": 1263
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364664,
+  "str_off": 6240884,
+  "len": 83,
+  "en": "Oh no!\\e Hold on, sir!\\fThis is no good!\\e\\e There are\\ranti-aircraft units everywhere!\\f",
+  "cz": "Ach ne!\\e Moment, pane!\\fTo je zle!\\e\\e Vsude jsou\\rprotiletadlove jednotky!\\f",
+  "idx": 1264
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364668,
+  "str_off": 6240968,
+  "len": 205,
+  "en": "What?!\\e\\e They knew we were coming...\\f(What should I do?)\\f(If we allow them to complete that\\rfactory, Green Earth will suffer.)\\f(If we press our attack, \\ewe might win,\\rbut the casualties will be enormous.)\\f",
+  "cz": "Coze?!\\e\\e Vedeli, ze prijdeme...\\f(Co mam delat?)\\f(Pokud jim dovolime dokoncit tu\\rtovarnu, Green Earth bude trpet.)\\f(Pokud zautocime, \\emozna vyhrajeme,\\rale ztraty budou obrovske.)\\f",
+  "idx": 1265
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364672,
+  "str_off": 6241176,
+  "len": 44,
+  "en": "Commander! \\eLet's continue with\\rthe attack.\\f",
+  "cz": "Velitel! \\ePokracujme\\rv utoku.\\f",
+  "idx": 1266
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364676,
+  "str_off": 6241224,
+  "len": 7,
+  "en": "But...\\f",
+  "cz": "Ale...\\f",
+  "idx": 1267
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364680,
+  "str_off": 6241232,
+  "len": 95,
+  "en": "We're Green Earth's strongest force.\\fWe cannot lose.\\fThat's what you always tell us,\\risn't it?\\f",
+  "cz": "Jsme nejsilnejsi sila Green Earth.\\fNemuzeme prohrat.\\fTo nam prece vzdy rikate,\\rnemam pravdu?\\f",
+  "idx": 1268
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364684,
+  "str_off": 6241328,
+  "len": 146,
+  "en": "He's right, sir.\\e\\e We won't be beaten by\\rthe likes of those Black Hole thugs.\\fAnd we can't sit by and let them\\rcomplete that fortress! \\eWe can't!\\f",
+  "cz": "Ma pravdu, pane.\\e\\e Neporazi nas\\rzadni takovi grazlove z Black Hole.\\fA nemuzeme jen tak sedet a nechat je\\rdokoncit tu pevnost! \\eNemuzeme!\\f",
+  "idx": 1269
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364688,
+  "str_off": 6241476,
+  "len": 26,
+  "en": "Let's hit 'em, Commander!\\f",
+  "cz": "Uderme na ne, veliteli!\\f",
+  "idx": 1270
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364692,
+  "str_off": 6241504,
+  "len": 12,
+  "en": "C'mon, sir!\\f",
+  "cz": "No tak, pane!\\f",
+  "idx": 1271
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364696,
+  "str_off": 6241520,
+  "len": 172,
+  "en": "My soldiers.\\e.\\e.\\e\\e\\rAll right, \\ewe proceed as planned.\\fAim for the heart of their offensive\\rpower, \\ethe minicannons.\\fLet's give them a show of power they\\rwon't soon forget!\\f",
+  "cz": "Moji vojaci.\\e.\\e.\\e\\e\\rDobre, \\epostupujeme dle planu.\\fMirte na srdce jejich utocne\\rsily, \\ena minidela.\\fUkazme jim takovou silu, na kterou\\rhned tak nezapomenou!\\f",
+  "idx": 1272
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364700,
+  "str_off": 6241696,
+  "len": 48,
+  "en": "Commander!\\e\\e\\rThe minicannons...\\e They're all...\\f",
+  "cz": "Velitel!\\e\\e\\rTa minidela...\\e Vsechna jsou...\\f",
+  "idx": 1273
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364704,
+  "str_off": 6241748,
+  "len": 63,
+  "en": "They've been destroyed?\\e\\e\\rThat's it then. \\e\\eWe shall withdraw.\\f",
+  "cz": "Byla znicena?\\e\\e\\rTak je rozhodnuto. \\e\\eStahneme se.\\f",
+  "idx": 1274
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364708,
+  "str_off": 6241812,
+  "len": 53,
+  "en": "Look at that!\\e\\e\\rThe enemy's abandoning the fortress!\\f",
+  "cz": "Podivejte!\\e\\e\\rNepritel opousti pevnost!\\f",
+  "idx": 1275
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364712,
+  "str_off": 6241868,
+  "len": 27,
+  "en": "It appears that we've won.\\f",
+  "cz": "Zda se, ze jsme vyhrali.\\f",
+  "idx": 1276
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364716,
+  "str_off": 6241896,
+  "len": 32,
+  "en": "Shall we launch a pursuit, sir?\\f",
+  "cz": "Mame zahajit pronasledovani, pane?\\f",
+  "idx": 1277
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364720,
+  "str_off": 6241932,
+  "len": 38,
+  "en": "No, \\ewe deal with the fortress first.\\f",
+  "cz": "Ne, \\enejprve se postarame o pevnost.\\f",
+  "idx": 1278
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364724,
+  "str_off": 6241972,
+  "len": 10,
+  "en": "Yes, sir.\\f",
+  "cz": "Ano, pane.\\f",
+  "idx": 1279
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364728,
+  "str_off": 6241984,
+  "len": 81,
+  "en": "You have my gratitude.\\fIt was your bravery that led me...\\e\\r...led US to victory.\\f",
+  "cz": "Mate moji vdecnost.\\fByla to vase statecnost, ktera me...\\e\\r...nas dovedla k vitezstvi.\\f",
+  "idx": 1280
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364732,
+  "str_off": 6242068,
+  "len": 37,
+  "en": "Thank you, sir.\\e We appreciate that.\\f",
+  "cz": "Dekujeme, pane.\\e Vazime si toho.\\f",
+  "idx": 1281
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364736,
+  "str_off": 6242108,
+  "len": 66,
+  "en": "The war has just begun.\\fThe road before us will be long\\rand hard.\\f",
+  "cz": "Valka teprve zacala.\\fCesta pred nami bude dlouha\\ra tezka.\\f",
+  "idx": 1282
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364740,
+  "str_off": 6242176,
+  "len": 63,
+  "en": "No problem, sir.\\fAs long as you're in command,\\e\\rwe can't lose!\\f",
+  "cz": "Zadny problem, pane.\\fDokud jste v cele vy,\\e\\rnemuzeme prohrat!\\f",
+  "idx": 1283
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364744,
+  "str_off": 6242240,
+  "len": 34,
+  "en": "There is no one who\\rcan defeat us.",
+  "cz": "Neexistuje nikdo, kdo\\rby nas mohl porazit.",
+  "idx": 1284
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364748,
+  "str_off": 6242276,
+  "len": 37,
+  "en": "I cannot believe we were defeated...\\f",
+  "cz": "Nemohu uverit, ze jsme prohrali...\\f",
+  "idx": 1285
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364752,
+  "str_off": 6242316,
+  "len": 66,
+  "en": "That was the famed Green Earth Air\\rForce?\\e What a disappointment.\\f",
+  "cz": "To bylo to slavne letectvo Green\\rEarth?\\e Jake zklamani.\\f",
+  "idx": 1286
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364756,
+  "str_off": 6242384,
+  "len": 183,
+  "en": "Heh heh heh...\\e\\rAs impressive as always, Hawke.\\fNothing but air units...\\e\\rThose cretins never stood a chance.\\fDestroy the bombers, and their ability\\rto inflict damage is neutralized.\\f",
+  "cz": "Che che che...\\e\\rPusobive jako vzdy, Hawke.\\fJen vzdusne jednotky...\\e\\rTi kretini nemeli zadnou sanci.\\fZnic bombardery a jejich schopnost\\rzpusobit skodu je neutralizovana.\\f",
+  "idx": 1287
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364760,
+  "str_off": 6242568,
+  "len": 69,
+  "en": "Adder, \\eyou talk too much.\\e\\e Finish\\rthe fortress before they return.\\f",
+  "cz": "Adder, \\emluvis prilis.\\e\\e Dokonci\\rpevnost, nez se vrati.\\f",
+  "idx": 1288
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364764,
+  "str_off": 6242640,
+  "len": 64,
+  "en": "Leave it to me, and there will be no\\rproblems. \\e\\eHeh heh heh...\\f",
+  "cz": "Nech to na me a nebudou zadne\\rproblemy. \\e\\eChe che che...\\f",
+  "idx": 1289
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364768,
+  "str_off": 6242708,
+  "len": 33,
+  "en": "What are the enemy troops doing?\\f",
+  "cz": "Co delaji neprijatelske jednotky?\\f",
+  "idx": 1290
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364772,
+  "str_off": 6242744,
+  "len": 66,
+  "en": "They appear to be gathering on a \\rsmall island on the inland sea.\\f",
+  "cz": "Zda se, ze se shromazduji na \\rmalem ostrove ve vnitrozemskem mori.\\f",
+  "idx": 1291
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364776,
+  "str_off": 6242812,
+  "len": 40,
+  "en": "And our troops have surrounded\\rthe sea?\\f",
+  "cz": "A nase jednotky obklicily\\rto more?\\f",
+  "idx": 1292
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364780,
+  "str_off": 6242856,
+  "len": 116,
+  "en": "Yes, sir.\\e\\e A complete wall encircles\\rthem.\\fAll that remains is to destroy them\\runit by unit with the Black Cannon.\\f",
+  "cz": "Ano, pane.\\e\\e Obklicuje je\\rdokonala zed.\\fZbyva uz jen znicit je jednotku po\\rjednotce pomoci Black Cannon.\\f",
+  "idx": 1293
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364784,
+  "str_off": 6242976,
+  "len": 113,
+  "en": "It's too early to relax.\\e\\e Much could\\rhappen before they are annihilated.\\fTell the troops to keep on their toes.\\f",
+  "cz": "Je brzy na uvolneni.\\e\\e Hodne se\\rmuze stat, nez budou znicen.\\fAt jsou jednotky stale ve strehu.\\f",
+  "idx": 1294
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364788,
+  "str_off": 6243092,
+  "len": 10,
+  "en": "Yes, sir!\\f",
+  "cz": "Ano, pane!\\f",
+  "idx": 1295
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364792,
+  "str_off": 6243104,
+  "len": 189,
+  "en": "Enemy troops everywhere.\\fI've got to find a way to turn the\\rtides, or we'll all be swept away.\\fShould I weather that cannon's fire\\rin the reefs \\eor transport troops to\\fthe HQ with landers?\\f",
+  "cz": "Nepratelske jednotky vsude.\\fMusim najit zpusob, jak otocit list,\\rjinak nas vsechny smetou.\\fMam prestat palbu toho dela\\rv utesech \\enebo prepravit jednotky na\\fHQ pomoci vysadkovych lodi?\\f",
+  "idx": 1296
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364796,
+  "str_off": 6243296,
+  "len": 49,
+  "en": "Commander!\\e\\e\\rIncoming call from Commander Eagle!\\f",
+  "cz": "Velitel!\\e\\e\\rPrichozi hovor od velitele Eagla!\\f",
+  "idx": 1297
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364800,
+  "str_off": 6243348,
+  "len": 33,
+  "en": "From Eagle?\\e\\e\\rPatch him through.\\f",
+  "cz": "Od Eagla?\\e\\e\\rPrepojte ho.\\f",
+  "idx": 1298
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364804,
+  "str_off": 6243384,
+  "len": 20,
+  "en": "Drake, \\eare you OK?\\f",
+  "cz": "Drake, \\ejsi v poradku?\\f",
+  "idx": 1299
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364808,
+  "str_off": 6243408,
+  "len": 119,
+  "en": "Eagle? \\eWe've hit a patch of rough\\rsea here. \\eThe enemy's surrounded us.\\fWe've got to find a way to save the\\rtroops...\\f",
+  "cz": "Eagle? \\eNarazili jsme tu na rozbourene\\rmore. \\eNepritel nas obklicil.\\fMusime najit zpusob, jak zachranit\\rjednotky...\\f",
+  "idx": 1300
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364812,
+  "str_off": 6243528,
+  "len": 44,
+  "en": "Hold on. \\e\\eI've got some good news\\rfor you.\\f",
+  "cz": "Vydrz. \\e\\eMam pro tebe dobre\\rzpravy.\\f",
+  "idx": 1301
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364816,
+  "str_off": 6243576,
+  "len": 12,
+  "en": "What is it?\\f",
+  "cz": "Co je to?\\f",
+  "idx": 1302
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364820,
+  "str_off": 6243592,
+  "len": 147,
+  "en": "I received a communique from Yellow\\rComet.\\e\\e They've sent reinforcements!\\fAnd that's not all. \\e\\eThey're being led\\rby the emperor himself, \\eKanbei!\\f",
+  "cz": "Dostal jsem zpravu od Yellow\\rComet.\\e\\e Poslali posily!\\fA to neni vse. \\e\\eVede je\\rsam cisar, \\eKanbei!\\f",
+  "idx": 1303
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364824,
+  "str_off": 6243740,
+  "len": 83,
+  "en": "That IS good news!\\fOK, \\eI'll launch a counteroffensive\\rtimed with Kanbei's attack.\\f",
+  "cz": "To JSOU dobre zpravy!\\fDobre, \\ezahajim protiofenzivu\\rsesladenou s Kanbeiho utokem.\\f",
+  "idx": 1304
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364828,
+  "str_off": 6243824,
+  "len": 59,
+  "en": "You'll be aiming to take out those\\r2 Black Cannons, right?\\f",
+  "cz": "Budes se snazit znicit ta\\r2 Black Cannon, ze ano?\\f",
+  "idx": 1305
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364832,
+  "str_off": 6243884,
+  "len": 61,
+  "en": "Yep.\\e\\e We can mop up the rest of\\rthe enemy once that's done.\\f",
+  "cz": "Jo.\\e\\e Zbytek nepritele zlikvidujeme,\\raz to bude hotove.\\f",
+  "idx": 1306
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364836,
+  "str_off": 6243948,
+  "len": 79,
+  "en": "Understood. \\e\\eI'll request that Kanbei's\\rtroops target the Black Cannons, too.\\f",
+  "cz": "Rozumim. \\e\\ePozadam, aby Kanbeiho\\rjednotky take zamerily Black Cannon.\\f",
+  "idx": 1307
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364840,
+  "str_off": 6244028,
+  "len": 54,
+  "en": "Thanks, Eagle.\\e You have this old\\rsailor's gratitude.\\f",
+  "cz": "Diky, Eagle.\\e Mas vdek tohoto\\rstareho namornika.\\f",
+  "idx": 1308
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364844,
+  "str_off": 6244084,
+  "len": 64,
+  "en": "Save it for the victory celebration.\\e\\e\\rGood luck to you, Drake.\\f",
+  "cz": "Schovej si to na oslavu vitezstvi.\\e\\e\\rHodne stesti, Drake.\\f",
+  "idx": 1309
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364848,
+  "str_off": 6244152,
+  "len": 67,
+  "en": "Commander.\\e\\e Black Hole appears to\\rhave the inland sea surrounded.\\f",
+  "cz": "Velitel.\\e\\e Black Hole zrejme\\robklicilo vnitrozemske more.\\f",
+  "idx": 1310
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364852,
+  "str_off": 6244220,
+  "len": 50,
+  "en": "What do we know of Green Earth's\\rCommander Drake?\\f",
+  "cz": "Co vime o veliteli Drakeovi\\rz Green Earth?\\f",
+  "idx": 1311
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364856,
+  "str_off": 6244272,
+  "len": 20,
+  "en": "He's unharmed, sir.\\f",
+  "cz": "Je nezranen, pane.\\f",
+  "idx": 1312
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364860,
+  "str_off": 6244296,
+  "len": 225,
+  "en": "Let's establish our field HQ.\\e\\e When\\rthat's done, we'll send out the troops.\\fOur mission is to eradicate the 2\\rBlack Cannons.\\fYou think you've got Drake where you\\rwant him, Black Hole?\\fPrepare to taste steel from both\\rsides!\\f",
+  "cz": "Zridme nase polni HQ.\\e\\e Az to\\rbude hotove, vyslem jednotky.\\fNasi misi je znicit ta 2\\rBlack Cannon.\\fMyslis, ze mas Drakea tam, kde ho\\rchces, Black Hole?\\fPriprav se ochutnat ocel z obou\\rstran!\\f",
+  "idx": 1313
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364864,
+  "str_off": 6244524,
+  "len": 149,
+  "en": "So now the Yellow Comet Army\\rhas arrived.\\fIf they use those missile silos, it \\rmay prove problematic.\\fCan the cannons withstand direct\\rmissile fire?\\f",
+  "cz": "Takze ted dorazila armada\\rYellow Comet.\\fPokud pouziji ta raketova sila, \\rmuze to byt problematicke.\\fVydrzi dela primy zasah\\rstrelami?\\f",
+  "idx": 1314
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364868,
+  "str_off": 6244676,
+  "len": 72,
+  "en": "Yes, sir.\\e\\e Mistress Lash says the\\rmissiles won't even leave scratches.\\f",
+  "cz": "Ano, pane.\\e\\e Pani Lash rika, ze\\rstrely nezanechaji ani skrabance.\\f",
+  "idx": 1315
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364872,
+  "str_off": 6244752,
+  "len": 136,
+  "en": "If that's true, we're safe.\\fThey don't have many troops\\rdeployed yet, do they?\\fAttack immediately.\\e An ounce of\\rprevention as they say.\\f",
+  "cz": "Pokud je to pravda, jsme v bezpeci.\\fZatim nemaji nasazeno mnoho\\rjednotek, ze ne?\\fOkamzite zautocte.\\e Jak se rika,\\rprevence je zaklad.\\f",
+  "idx": 1316
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364876,
+  "str_off": 6244892,
+  "len": 113,
+  "en": "The Black Cannons were destroyed.\\e\\e\\rUseless hunks of--\\fWe'll withdraw for the moment.\\e\\e\\rAdjust our preparations.\\f",
+  "cz": "Black Cannon byla znicena.\\e\\e\\rNanic kusy--\\fProzatim se stahneme.\\e\\e\\rUpravte nase pripravy.\\f",
+  "idx": 1317
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364880,
+  "str_off": 6245008,
+  "len": 18,
+  "en": "Commander Kanbei!\\f",
+  "cz": "Veliteli Kanbei!\\f",
+  "idx": 1318
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364884,
+  "str_off": 6245028,
+  "len": 57,
+  "en": "Ah, Commander Drake.\\e\\e\\rI am pleased to see you unharmed.\\f",
+  "cz": "Ach, veliteli Drake.\\e\\e\\rTesi me, ze jste nezranen.\\f",
+  "idx": 1319
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364888,
+  "str_off": 6245088,
+  "len": 116,
+  "en": "You have our gratitude for the\\rreinforcements.\\fI believe we might have gone down with\\rour ships if you hadn't come.\\f",
+  "cz": "Mate nas vdek za\\rposily.\\fVerim, ze bychom klesli ke dnu\\rs nasimi lodemi, kdybyste neprisel.\\f",
+  "idx": 1320
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364892,
+  "str_off": 6245208,
+  "len": 133,
+  "en": "Nonsense. \\eEven surrounded, I believe\\ryou would have turned the tables and\\femerged victorious.\\e\\rWe simply sped the process up a bit.\\f",
+  "cz": "Nesmysl. \\eI obklicen byste, jak verim,\\robratil list a\\fvysel vitezne.\\e\\rJen jsme cely proces trochu urychlili.\\f",
+  "idx": 1321
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364896,
+  "str_off": 6245344,
+  "len": 35,
+  "en": "Thanks for the vote of confidence.\\f",
+  "cz": "Diky za projev duvery.\\f",
+  "idx": 1322
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364900,
+  "str_off": 6245380,
+  "len": 51,
+  "en": "I would like to battle at your\\rside again someday.\\f",
+  "cz": "Rad bych nekdy znovu bojoval\\rpo vasem boku.\\f",
+  "idx": 1323
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364904,
+  "str_off": 6245432,
+  "len": 73,
+  "en": "The feeling's mutual.\\fMaybe when we're storming Black\\rHole's fortress...\\f",
+  "cz": "Ten pocit je vzajemny.\\fMozna az budeme dobyvat pevnost\\rBlack Hole...\\f",
+  "idx": 1324
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364908,
+  "str_off": 6245508,
+  "len": 48,
+  "en": "May that day come soon.\\e\\e\\rUntil then, good-bye.\\f",
+  "cz": "Kez ten den brzy prijde.\\e\\e\\rDo te doby sbohem.\\f",
+  "idx": 1325
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364912,
+  "str_off": 6245560,
+  "len": 10,
+  "en": "Good-bye!\\f",
+  "cz": "Sbohem!\\f",
+  "idx": 1326
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364916,
+  "str_off": 6245572,
+  "len": 28,
+  "en": "That was some rough\\rsailing!",
+  "cz": "To byla poradna\\rplavba!",
+  "idx": 1327
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364920,
+  "str_off": 6245604,
+  "len": 65,
+  "en": "Barnacles!\\fMy apologies, Commander Kanbei.\\e\\e\\rI failed us both...\\f",
+  "cz": "Hrom do toho!\\fOmlouvam se, veliteli Kanbei.\\e\\e\\rZklamal jsem nas oba...\\f",
+  "idx": 1328
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364924,
+  "str_off": 6245672,
+  "len": 247,
+  "en": "Do not let your spirit fail, Drake.\\e\\e\\rWe will surely win the next battle.\\fAfter all, \\eKanbei is at your side!\\fAllow me to handle the land battle.\\e\\rYou attack from the seas.\\fAs you advance, hide your battleships\\rin reefs to keep them from cannons.\\f",
+  "cz": "Nenechte sveho ducha klesnout, Drake.\\e\\e\\rPristi bitvu jiste vyhrajeme.\\fKonec koncu, \\eKanbei je po vasem boku!\\fNechte pozemni bitvu na mne.\\e\\rVy utocte z mori.\\fJak postupujete, ukryvejte sve bitevni\\rlode v utesech mimo dosah del.\\f",
+  "idx": 1329
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364928,
+  "str_off": 6245920,
+  "len": 122,
+  "en": "That's it!\\fUse the reefs to cover my advance,\\e\\rthen blast away with my battleships.\\fExcellent strategy, Commander\\rKanbei!\\f",
+  "cz": "To je ono!\\fUkryt postup za utesy,\\e\\rpak palit z mych bitevnich lodi.\\fVyborna strategie, veliteli\\rKanbei!\\f",
+  "idx": 1330
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364932,
+  "str_off": 6246044,
+  "len": 73,
+  "en": "Actually, \\emy daughter suggested that\\rstrategy to me earlier!\\e Ha ha ha!\\f",
+  "cz": "Vlastne, \\etu strategii mi drive\\rnavrhla ma dcera!\\e Ha ha ha!\\f",
+  "idx": 1331
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364936,
+  "str_off": 6246120,
+  "len": 72,
+  "en": "Mistress Lash, \\ethe battleships in need\\rof repair have all been docked.\\f",
+  "cz": "Pani Lash, \\evsechny bitevni lode\\rpotrebujici opravu jsou v doku.\\f",
+  "idx": 1332
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364940,
+  "str_off": 6246196,
+  "len": 24,
+  "en": "Let's get started then.\\f",
+  "cz": "Tak tedy zacneme.\\f",
+  "idx": 1333
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364944,
+  "str_off": 6246224,
+  "len": 63,
+  "en": "Before that, \\ewe'd better reply to\\rCommander Hawke's question.\\f",
+  "cz": "Predtim \\ebychom meli odpovedet na\\rotazku velitele Hawkea.\\f",
+  "idx": 1334
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364948,
+  "str_off": 6246288,
+  "len": 44,
+  "en": "Oh,\\e what a pain!\\e\\e\\rWhat did he want again?\\f",
+  "cz": "Ach,\\e to je otrava!\\e\\e\\rCo zase chtel?\\f",
+  "idx": 1335
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364952,
+  "str_off": 6246336,
+  "len": 66,
+  "en": "The estimated time on the repairs.\\e\\e\\rCan they be done in 30 days?\\f",
+  "cz": "Odhadovany cas oprav.\\e\\e\\rDaji se stihnout za 30 dni?\\f",
+  "idx": 1336
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364956,
+  "str_off": 6246404,
+  "len": 9,
+  "en": "17 days.\\f",
+  "cz": "17 dni.\\f",
+  "idx": 1337
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364960,
+  "str_off": 6246416,
+  "len": 11,
+  "en": "Excuse me?\\f",
+  "cz": "Prosim?\\f",
+  "idx": 1338
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364964,
+  "str_off": 6246428,
+  "len": 75,
+  "en": "Under my brilliant direction, \\ethe\\rrepairs will take 17 days.\\fNot 30, \\e17.\\f",
+  "cz": "Pod mym genialnim vedenim \\ebudou\\ropravy trvat 17 dni.\\fNe 30, \\e17.\\f",
+  "idx": 1339
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364968,
+  "str_off": 6246504,
+  "len": 52,
+  "en": "However, the workers...\\e\\rCan they handle that pace?\\f",
+  "cz": "Ale ti delnici...\\e\\rZvladnou to tempo?\\f",
+  "idx": 1340
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364972,
+  "str_off": 6246560,
+  "len": 176,
+  "en": "If we don't have enough manpower,\\e\\rwe'll simply borrow some soldiers.\\fThe units sent to hide the lab map\\rhave returned, haven't they?\\fAnyway, \\ewe'll have them done\\rin 17 days!\\f",
+  "cz": "Pokud nemame dost lidi,\\e\\rproste si pujcime nejake vojaky.\\fJednotky vyslane ukryt mapu laborky\\rse uz vratily, ze ano?\\fTak ci tak, \\ebudou hotove\\rza 17 dni!\\f",
+  "idx": 1341
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364976,
+  "str_off": 6246740,
+  "len": 15,
+  "en": "Yes...um...OK.\\f",
+  "cz": "Ano...ehm...OK.\\f",
+  "idx": 1342
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364980,
+  "str_off": 6246756,
+  "len": 65,
+  "en": "We've received word the battleships\\rhave docked. \\e\\eNot long now.\\f",
+  "cz": "Dostali jsme zpravu, ze bitevni lode\\rzakotvily. \\e\\eUz to nebude dlouho.\\f",
+  "idx": 1343
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364984,
+  "str_off": 6246824,
+  "len": 125,
+  "en": "Jess, can you really pull this off\\rwith this many troops?\\fIt's still not too late for Eagle\\ror me to provide reinforcements.\\f",
+  "cz": "Jess, opravdu to zvladnes\\rs timhle poctem jednotek?\\fPorad jeste neni pozde, aby Eagle\\rnebo ja poslali posily.\\f",
+  "idx": 1344
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364988,
+  "str_off": 6246952,
+  "len": 131,
+  "en": "The more troops, \\ethe longer it takes\\rto get organized.\\fTime is of the essence here.\\e\\e We must\\rattack before the repairs are done!\\f",
+  "cz": "Cim vic jednotek, \\etim dele trva\\rse zorganizovat.\\fCas je tu klicovy.\\e\\e Musime\\rzautocit, nez budou opravy hotove!\\f",
+  "idx": 1345
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364992,
+  "str_off": 6247084,
+  "len": 135,
+  "en": "That's true, but...\\fIf the enemy captures that airport,\\e\\rthey'll deploy B copters and bombers.\\fAt any rate, \\eyou're in for rough seas.\\f",
+  "cz": "To je pravda, ale...\\fPokud nepritel obsadi to letiste,\\e\\rnasadi vrtulniky a bombardery.\\fTak ci tak, \\ecekaji te rozbourena mora.\\f",
+  "idx": 1346
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6364996,
+  "str_off": 6247220,
+  "len": 129,
+  "en": "Take a look, Drake.\\e\\e\\rFor air units, I've got my A-airs.\\fI'm going to bathe those battleships\\rin artillery fire!\\e Watch and see!\\f",
+  "cz": "Podivej, Drake.\\e\\e\\rProti vzdusnym mam sva protiletadla.\\fVykoupu ty bitevni lode\\rv delostrelecke palbe!\\e Jen sleduj!\\f",
+  "idx": 1347
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365000,
+  "str_off": 6247352,
+  "len": 79,
+  "en": "What? \\eWe're under attack?!\\fThat's not fair!\\e\\e\\rWe're in the middle of repairs!\\f",
+  "cz": "Coze? \\eJsme napadeni?!\\fTo neni fer!\\e\\e\\rJsme uprostred oprav!\\f",
+  "idx": 1348
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365004,
+  "str_off": 6247432,
+  "len": 37,
+  "en": "What are your orders,\\rMistress Lash?\\f",
+  "cz": "Jake jsou vase rozkazy,\\rpani Lash?\\f",
+  "idx": 1349
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365008,
+  "str_off": 6247472,
+  "len": 48,
+  "en": "What are my orders?\\e\\e\\rCounterattack, you twerp!\\f",
+  "cz": "Jake jsou me rozkazy?\\e\\e\\rProtiutok, ty trubko!\\f",
+  "idx": 1350
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365012,
+  "str_off": 6247524,
+  "len": 55,
+  "en": "So, we'll need to push back the\\rdeadline on repairs...\\f",
+  "cz": "Takze budeme muset posunout\\rtermin oprav...\\f",
+  "idx": 1351
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365016,
+  "str_off": 6247580,
+  "len": 8,
+  "en": "No way!\\f",
+  "cz": "V zadnem!\\f",
+  "idx": 1352
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365020,
+  "str_off": 6247592,
+  "len": 29,
+  "en": "But... But...the deadline...\\f",
+  "cz": "Ale... Ale...ten termin...\\f",
+  "idx": 1353
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365024,
+  "str_off": 6247624,
+  "len": 49,
+  "en": "STOP SAYING THAT!\\e Just do as\\ryou're told.\\e NOW!\\f",
+  "cz": "PRESTAN TO RIKAT!\\e Proste delej, co\\rmas rozkazano.\\e HNED!\\f",
+  "idx": 1354
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365028,
+  "str_off": 6247676,
+  "len": 62,
+  "en": "Mistress Lash.\\e\\e We have one day\\rremaining to finish repairs.\\f",
+  "cz": "Pani Lash.\\e\\e Zbyva nam jeden den\\rna dokonceni oprav.\\f",
+  "idx": 1355
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365032,
+  "str_off": 6247740,
+  "len": 56,
+  "en": "I know, I know.\\e\\e\\rI'm busy right now. \\eCome back later.\\f",
+  "cz": "Ja vim, ja vim.\\e\\e\\rTed mam praci. \\ePrijd pozdeji.\\f",
+  "idx": 1356
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365036,
+  "str_off": 6247800,
+  "len": 52,
+  "en": "Perhaps we should rethink the\\rdeadline after all...\\f",
+  "cz": "Mozna bychom meli prece jen\\rprehodnotit termin...\\f",
+  "idx": 1357
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365040,
+  "str_off": 6247856,
+  "len": 105,
+  "en": "You're such a pest!\\e\\e\\rWe're almost finished!\\fIf you have enough time to keep\\rjabbering at me, then help!\\f",
+  "cz": "Jsi takovy otravny!\\e\\e\\rUz jsme skoro hotovi!\\fKdyz mas dost casu na mlaceni\\rprazdne slamy, tak pomahej!\\f",
+  "idx": 1358
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365044,
+  "str_off": 6247964,
+  "len": 28,
+  "en": "Yaaah!\\e Let me go!\\e Please!\\f",
+  "cz": "Jaaaa!\\e Pust me!\\e Prosim!\\f",
+  "idx": 1359
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365048,
+  "str_off": 6247996,
+  "len": 56,
+  "en": "Commander!\\e\\e We found this in a\\rproperty we captured...\\f",
+  "cz": "Velitel!\\e\\e Nasli jsme to v\\robsazene budove...\\f",
+  "idx": 1360
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365052,
+  "str_off": 6248056,
+  "len": 219,
+  "en": "Hm? \\e\\eA lab...\\e They've been developing\\rweapons within our borders.\\fSince they went to the trouble,\\e let's\\rtake the weapons along with this map.\\fWe need to let Eagle know about this.\\e\\e\\rHe definitely won't stand for it.\\f",
+  "cz": "Hm? \\e\\eLaborka...\\e Vyvijeli\\rzbrane uvnitr nasich hranic.\\fKdyz uz si dali tu praci,\\e vezmeme\\rzbrane spolu s touto mapou.\\fMusime o tom dat vedet Eaglovi.\\e\\e\\rUrcite to nenecha jen tak.\\f",
+  "idx": 1361
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365056,
+  "str_off": 6248276,
+  "len": 25,
+  "en": "Yes, ma'am.\\e Understood.\\f",
+  "cz": "Ano, pani.\\e Rozumim.\\f",
+  "idx": 1362
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365060,
+  "str_off": 6248304,
+  "len": 43,
+  "en": "These Black Hole goons really are\\rtrouble.\\f",
+  "cz": "Ti hlupaci z Black Hole jsou\\rfakt na obtiz.\\f",
+  "idx": 1363
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365064,
+  "str_off": 6248348,
+  "len": 54,
+  "en": "Commander, \\ethe enemy battleships\\rhave all been sunk.\\f",
+  "cz": "Velitel, \\evsechny neprijatelske\\rbitevni lode jsou potopene.\\f",
+  "idx": 1364
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365068,
+  "str_off": 6248404,
+  "len": 34,
+  "en": "Well done.\\e\\e\\rPrepare to withdraw.\\f",
+  "cz": "Vyborne.\\e\\e\\rPripravte se k ustupu.\\f",
+  "idx": 1365
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365072,
+  "str_off": 6248440,
+  "len": 10,
+  "en": "Withdraw?\\f",
+  "cz": "Ustupu?\\f",
+  "idx": 1366
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365076,
+  "str_off": 6248452,
+  "len": 72,
+  "en": "We've achieved our goal.\\fLet's vanish before they send out\\rmore troops.\\f",
+  "cz": "Dosahli jsme sveho cile.\\fZmizme, nez vyslou\\rdalsi jednotky.\\f",
+  "idx": 1367
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365080,
+  "str_off": 6248528,
+  "len": 43,
+  "en": "Yes, ma'am. \\eWe'll get started right\\raway.\\f",
+  "cz": "Ano, pani. \\eHned se do toho\\rpustime.\\f",
+  "idx": 1368
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365084,
+  "str_off": 6248572,
+  "len": 48,
+  "en": "Stick and move...\\e\\e\\rThat's just like you, Jess.\\f",
+  "cz": "Uder a zmiz...\\e\\e\\rTo je pro tebe typicke, Jess.\\f",
+  "idx": 1369
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365088,
+  "str_off": 6248624,
+  "len": 141,
+  "en": "No sense getting caught up in the\\rmoment and getting your troops hurt.\\fWe seriously reduced the enemy's\\rfirepower...\\e That's enough for now.\\f",
+  "cz": "Nema smysl nechat se strhnout\\rchvili a obetovat sve jednotky.\\fVazne jsme oslabili neprijatelskou\\rpalebnou silu...\\e Pro ted to staci.\\f",
+  "idx": 1370
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365092,
+  "str_off": 6248768,
+  "len": 75,
+  "en": "When you're right, you're right.\\e\\e\\rI'll help get your troops out of there.\\f",
+  "cz": "Kdyz mas pravdu, tak mas pravdu.\\e\\e\\rPomohu dostat tve jednotky pryc.\\f",
+  "idx": 1371
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365096,
+  "str_off": 6248844,
+  "len": 91,
+  "en": "Aaaaah!!!\\e What are you doing?!\\fWe can't fix the battleships if\\rthey're all sunk, can we?!\\f",
+  "cz": "Aaaaa!!!\\e Co to delas?!\\fNemuzeme opravit bitevni lode,\\rkdyz jsou vsechny potopene, ne?!\\f",
+  "idx": 1372
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365100,
+  "str_off": 6248936,
+  "len": 27,
+  "en": "What... What should we do?\\f",
+  "cz": "Co... Co mame delat?\\f",
+  "idx": 1373
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365104,
+  "str_off": 6248964,
+  "len": 121,
+  "en": "What else is there to do?\\e\\rWe attack with all of our strength!\\fThey've made me mad, \\eand now\\rthey're gonna pay big time!\\f",
+  "cz": "Co jineho je k udelani?\\e\\rZautocime vsemi nasimi silami!\\fNastvali me, \\ea ted\\rto poradne zaplati!\\f",
+  "idx": 1374
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365108,
+  "str_off": 6249088,
+  "len": 26,
+  "en": "Mistress Lash, \\ethat's...\\f",
+  "cz": "Pani Lash, \\eto je...\\f",
+  "idx": 1375
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365112,
+  "str_off": 6249116,
+  "len": 4,
+  "en": "Hm?\\f",
+  "cz": "Hm?\\f",
+  "idx": 1376
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365116,
+  "str_off": 6249124,
+  "len": 18,
+  "en": "The enemy's gone.\\f",
+  "cz": "Nepritel je pryc.\\f",
+  "idx": 1377
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365120,
+  "str_off": 6249144,
+  "len": 6,
+  "en": "What?\\f",
+  "cz": "Coze?\\f",
+  "idx": 1378
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365124,
+  "str_off": 6249152,
+  "len": 88,
+  "en": "There's no sign of enemy units.\\fIt seems they've done what they set\\rout to do and left.\\f",
+  "cz": "Po neprijatelskych jednotkach ani stopy.\\fZda se, ze udelali, co chteli,\\ra odesli.\\f",
+  "idx": 1379
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365128,
+  "str_off": 6249244,
+  "len": 88,
+  "en": "You've got to be joking!\\e\\e They\\rjust sank my boats and took off?\\fI...am...so...angry!!!\\f",
+  "cz": "To si delas srandu!\\e\\e Jen tak\\rmi potopili lode a zmizeli?\\fJa...jsem...tak...nastvana!!!\\f",
+  "idx": 1380
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365132,
+  "str_off": 6249336,
+  "len": 65,
+  "en": "OK, \\ethe repairs are completed.\\e\\e\\rTake the ships out right away.\\f",
+  "cz": "OK, \\eopravy jsou dokonceny.\\e\\e\\rIhned vyplujte s lodemi.\\f",
+  "idx": 1381
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365136,
+  "str_off": 6249404,
+  "len": 42,
+  "en": "We still have troops engaged\\rin combat...\\f",
+  "cz": "Porad mame jednotky\\rv boji...\\f",
+  "idx": 1382
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365140,
+  "str_off": 6249448,
+  "len": 23,
+  "en": "Oh...\\ewell, leave 'em.\\f",
+  "cz": "Ach...\\eno, nech je byt.\\f",
+  "idx": 1383
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365144,
+  "str_off": 6249472,
+  "len": 23,
+  "en": "Is that...\\eacceptable?\\f",
+  "cz": "Je to...\\epripustne?\\f",
+  "idx": 1384
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365148,
+  "str_off": 6249496,
+  "len": 60,
+  "en": "If I say we're leaving, then we're\\rleaving.\\e\\e Now let's go!\\f",
+  "cz": "Kdyz reknu, ze odchazime, tak\\rodchazime.\\e\\e Tak jdeme!\\f",
+  "idx": 1385
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365152,
+  "str_off": 6249560,
+  "len": 47,
+  "en": "This should make things\\ra little easier for us.",
+  "cz": "Tohle by nam to melo\\rtrochu usnadnit.",
+  "idx": 1386
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365156,
+  "str_off": 6249608,
+  "len": 65,
+  "en": "OK, \\ethe repairs are completed.\\e\\e\\rTake the ships out right away.\\f",
+  "cz": "OK, \\eopravy jsou dokonceny.\\e\\e\\rIhned vyplujte s lodemi.\\f",
+  "idx": 1387
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365160,
+  "str_off": 6249676,
+  "len": 42,
+  "en": "We still have troops engaged\\rin combat...\\f",
+  "cz": "Porad mame jednotky\\rv boji...\\f",
+  "idx": 1388
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365164,
+  "str_off": 6249720,
+  "len": 23,
+  "en": "Oh...\\ewell, leave 'em.\\f",
+  "cz": "Ach...\\eno, nech je byt.\\f",
+  "idx": 1389
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365168,
+  "str_off": 6249744,
+  "len": 23,
+  "en": "Is that...\\eacceptable?\\f",
+  "cz": "Je to...\\epripustne?\\f",
+  "idx": 1390
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365172,
+  "str_off": 6249768,
+  "len": 60,
+  "en": "If I say we're leaving, then we're\\rleaving.\\e\\e Now let's go!\\f",
+  "cz": "Kdyz reknu, ze odchazime, tak\\rodchazime.\\e\\e Tak jdeme!\\f",
+  "idx": 1391
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365176,
+  "str_off": 6249832,
+  "len": 53,
+  "en": "Commander, \\ethe battleships have\\rbegun leaving port.\\f",
+  "cz": "Velitel, \\ebitevni lode zacaly\\ropoustet pristav.\\f",
+  "idx": 1392
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365180,
+  "str_off": 6249888,
+  "len": 396,
+  "en": "Shoot...\\ewe're too late.\\e\\rI guess I need to rework my strategy.\\fI underestimated the enemy's repair\\rskills.\\e\\e I'll have to work faster\\fnext time, too.\\fI probably don't have time to rest\\rinjured troops, \\eso I'll have to\\fcombine units and join them.\\e\\e\\rWait a minute! \\eThat's it!\\fThe enemy will join injured units, too.\\fWhen units merge, the overall number\\ris reduced.\\e I might be able to use that.\\f",
+  "cz": "Sakra...\\ejsme prilis pozde.\\e\\rAsi musim prepracovat svou strategii.\\fPodcenil jsem schopnosti nepritele\\ropravovat.\\e\\e Pristne budu muset\\fpracovat rychleji.\\fNejspis nemam cas nechat zranene\\rjednotky odpocinout, \\etakze budu muset\\fjednotky slucovat a spojovat.\\e\\e\\rMoment! \\eTo je ono!\\fNepritel bude take spojovat zranene jednotky.\\fKdyz se jednotky sloucii, celkovy pocet\\rse snizi.\\e Mozna toho vyuziju.\\f",
+  "idx": 1393
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365184,
+  "str_off": 6250288,
+  "len": 38,
+  "en": "Lash,\\e how's the laser cannon coming?\\f",
+  "cz": "Lash,\\e jak to jde s laserovym delem?\\f",
+  "idx": 1394
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365188,
+  "str_off": 6250328,
+  "len": 91,
+  "en": "Full steam ahead!\\fI've tweaked it so it can fire every\\rsingle day! \\eIt's sooo dangerous!!!\\f",
+  "cz": "Plnou parou vpred!\\fVyladila jsem ho tak, ze muze palit\\rkazdy den! \\eJe to taaak nebezpecne!!!\\f",
+  "idx": 1395
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365192,
+  "str_off": 6250420,
+  "len": 42,
+  "en": "Heh heh heh... \\eDelicious...\\e\\rHow's Flak?\\f",
+  "cz": "Che che che... \\eLahodne...\\e\\rCo Flak?\\f",
+  "idx": 1396
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365196,
+  "str_off": 6250464,
+  "len": 45,
+  "en": "My troops've been deployed,\\rlike you wanted.\\f",
+  "cz": "Me jednotky jsou nasazene,\\rjak jsi chtel.\\f",
+  "idx": 1397
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365200,
+  "str_off": 6250512,
+  "len": 61,
+  "en": "At last, we will neutralize the\\rOrange Star Army completely.\\f",
+  "cz": "Konecne uplne zneskodnime\\rarmadu Orange Star.\\f",
+  "idx": 1398
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365204,
+  "str_off": 6250576,
+  "len": 67,
+  "en": "Why is Orange Star even here?\\fWe're in Green Earth now, aren't we?\\f",
+  "cz": "Proc je tu vubec Orange Star?\\fJsme ted v Green Earth, ze ano?\\f",
+  "idx": 1399
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365208,
+  "str_off": 6250644,
+  "len": 78,
+  "en": "It seems they're here bearing supplies.\\e\\rMeddlers!\\e They shouldn't have come!\\f",
+  "cz": "Zda se, ze prijeli s zasobami.\\e\\rNakladci!\\e Nemeli sem chodit!\\f",
+  "idx": 1400
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365212,
+  "str_off": 6250724,
+  "len": 32,
+  "en": "So are we going to attack soon?\\f",
+  "cz": "Takze brzy zautocime?\\f",
+  "idx": 1401
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365216,
+  "str_off": 6250760,
+  "len": 143,
+  "en": "No. \\eFirst, we suggest they surrender.\\e\\rTheir CO's a young girl, you know.\\fPerhaps she can be convinced to come\\ralong quietly.\\e Heh heh heh...\\f",
+  "cz": "Ne. \\eNejprve jim navrhneme kapitulaci.\\e\\rJejich velitel je mlada divka, vis.\\fMozna ji presvedcime, aby sla\\rpo dobrem.\\e Che che che...\\f",
+  "idx": 1402
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365220,
+  "str_off": 6250904,
+  "len": 93,
+  "en": "C'mon, everyone! \\eStay tough!\\fGreen Earth's reinforcements are on\\rtheir way.\\e\\e Just hang on!\\f",
+  "cz": "No tak, vsichni! \\eVydrzte!\\fPosily Green Earth jsou na\\rceste.\\e\\e Jen vydrzte!\\f",
+  "idx": 1403
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365224,
+  "str_off": 6251000,
+  "len": 58,
+  "en": "Commander, we have a communique\\rfrom the Black Hole Army.\\f",
+  "cz": "Velitel, mame zpravu\\rod armady Black Hole.\\f",
+  "idx": 1404
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365228,
+  "str_off": 6251060,
+  "len": 18,
+  "en": "What does it say?\\f",
+  "cz": "Co se v ni pise?\\f",
+  "idx": 1405
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365232,
+  "str_off": 6251080,
+  "len": 60,
+  "en": "They recommend we surrender.\\rThey're awaiting our response.\\f",
+  "cz": "Doporucuji nam kapitulovat.\\rCekaji na nasi odpoved.\\f",
+  "idx": 1406
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365236,
+  "str_off": 6251144,
+  "len": 87,
+  "en": "Surrender?!\\fRight, here's my reply, \\eand I want\\ryou to take this down word for word...\\f",
+  "cz": "Kapitulovat?!\\fTak dobre, tady je ma odpoved, \\echci,\\rabys to zapsal slovo od slova...\\f",
+  "idx": 1407
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365240,
+  "str_off": 6251232,
+  "len": 65,
+  "en": "Commander!\\e\\e Black Hole has demanded\\rthat Orange Star surrender.\\f",
+  "cz": "Velitel!\\e\\e Black Hole pozadovalo\\rkapitulaci Orange Star.\\f",
+  "idx": 1408
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365244,
+  "str_off": 6251300,
+  "len": 80,
+  "en": "Hm... I believe Sami's commanding the\\rOrange Star forces...\\fWhat was her reply?\\f",
+  "cz": "Hm... Myslim, ze silam Orange Star\\rveli Sami...\\fJaka byla jeji odpoved?\\f",
+  "idx": 1409
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365248,
+  "str_off": 6251384,
+  "len": 45,
+  "en": "Well, in a word,\\e she turned\\rthem down flat.\\f",
+  "cz": "Inu, jednim slovem,\\e jasne je\\rodmitla.\\f",
+  "idx": 1410
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365252,
+  "str_off": 6251432,
+  "len": 26,
+  "en": "What exactly did she say?\\f",
+  "cz": "Co presne rekla?\\f",
+  "idx": 1411
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365256,
+  "str_off": 6251460,
+  "len": 67,
+  "en": "Um...\\e I'd rather not say. It\\e wasn't\\rthe most...\\epolite response.\\f",
+  "cz": "Ehm...\\e Radsi to nereknu. Nebyla\\e to\\rzrovna...\\ezdvorila odpoved.\\f",
+  "idx": 1412
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365260,
+  "str_off": 6251528,
+  "len": 19,
+  "en": "Be that as it may.\\f",
+  "cz": "At je to jak chce.\\f",
+  "idx": 1413
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365264,
+  "str_off": 6251548,
+  "len": 73,
+  "en": "Er... How about I write it down on\\rthis paper, and then you can read it?\\f",
+  "cz": "Ehm... Co kdybych to napsal na\\rtenhle papir a vy si to prectete?\\f",
+  "idx": 1414
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365268,
+  "str_off": 6251624,
+  "len": 43,
+  "en": "Hm...\\e\\e\\e ... \\e\\e\\e...?\\rHa...\\e Ha ha ha ha!!!\\f",
+  "cz": "Hm...\\e\\e\\e ... \\e\\e\\e...?\\rHa...\\e Ha ha ha ha!!!\\f",
+  "idx": 1415
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365272,
+  "str_off": 6251668,
+  "len": 11,
+  "en": "Commander?\\f",
+  "cz": "Velitel?\\f",
+  "idx": 1416
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365276,
+  "str_off": 6251680,
+  "len": 87,
+  "en": "She certainly is outspoken!\\fIt would be a shame to let her get\\rcaptured by Black Hole.\\f",
+  "cz": "Ta si rozhodne nebere servitky!\\fByla by skoda nechat ji padnout\\rdo zajeti Black Hole.\\f",
+  "idx": 1417
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365280,
+  "str_off": 6251768,
+  "len": 27,
+  "en": "Er...\\e Yes, sir, it would.\\f",
+  "cz": "Ehm...\\e Ano, pane, byla.\\f",
+  "idx": 1418
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365284,
+  "str_off": 6251796,
+  "len": 58,
+  "en": "Get anyone who's available ready\\rfor combat.\\e\\e We go now!\\f",
+  "cz": "Pripravte do boje kazdeho, kdo je\\rk dispozici.\\e\\e Vyrazime hned!\\f",
+  "idx": 1419
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365288,
+  "str_off": 6251856,
+  "len": 36,
+  "en": "Sir,\\e the enemy outnumbers us by...\\f",
+  "cz": "Pane,\\e nepritel nas prevysuje o...\\f",
+  "idx": 1420
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365292,
+  "str_off": 6251896,
+  "len": 258,
+  "en": "There's no reason for us to attack\\rthem head-on.\\fEither we pour everything at their\\rlaser cannon \\eor we capture their\\fproperties.\\e One of the two.\\fOur goal is to break their siege.\\e\\rThat's all.\\fFor the pride of Green Earth,\\e\\rlet's save the Orange Star Army!\\f",
+  "cz": "Nemame duvod na ne utocit\\rcelni.\\fBud vrhneme vse na jejich\\rlaserove delo \\enebo obsadime jejich\\fbudovy.\\e Jedno z toho.\\fNasim cilem je prelomit jejich obkliceni.\\e\\rTo je vse.\\fPro cest Green Earth,\\e\\rzachranme armadu Orange Star!\\f",
+  "idx": 1421
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365296,
+  "str_off": 6252156,
+  "len": 65,
+  "en": "Commander, \\ewe successfully joined\\rup with the Orange Star Army.\\f",
+  "cz": "Velitel, \\euspesne jsme se spojili\\rs armadou Orange Star.\\f",
+  "idx": 1422
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365300,
+  "str_off": 6252224,
+  "len": 73,
+  "en": "OK.\\e Now guard them.\\fOur purpose here is to save the\\rOrange Star troops.\\f",
+  "cz": "OK.\\e Ted je chrante.\\fNasim ucelem je zachranit\\rjednotky Orange Star.\\f",
+  "idx": 1423
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365304,
+  "str_off": 6252300,
+  "len": 25,
+  "en": "Are you all right, Sami?\\f",
+  "cz": "Jsi v poradku, Sami?\\f",
+  "idx": 1424
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365308,
+  "str_off": 6252328,
+  "len": 96,
+  "en": "Eagle! \\eSo it was you who saved us.\\fI apologize.\\e\\e I never meant to\\rbe a burden on Green Earth.\\f",
+  "cz": "Eagle! \\eTakze tys nas zachranil.\\fOmlouvam se.\\e\\e Nikdy jsem nechtela\\rbyt zatezi pro Green Earth.\\f",
+  "idx": 1425
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365312,
+  "str_off": 6252428,
+  "len": 18,
+  "en": "Don't be foolish.\\f",
+  "cz": "Nebud husa.\\f",
+  "idx": 1426
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365316,
+  "str_off": 6252448,
+  "len": 77,
+  "en": "We were trying to bring you supplies,\\rand we let ourselves get surrounded...\\f",
+  "cz": "Snazili jsme se vam privezt zasoby\\ra nechali se obklicit...\\f",
+  "idx": 1427
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365320,
+  "str_off": 6252528,
+  "len": 65,
+  "en": "Everyone makes mistakes.\\e\\e It\\rturned out all right. \\e\\eLet it go.\\f",
+  "cz": "Kazdy dela chyby.\\e\\e Nakonec\\rto dopadlo dobre. \\e\\eNech to byt.\\f",
+  "idx": 1428
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365324,
+  "str_off": 6252596,
+  "len": 12,
+  "en": "Yes, but...\\f",
+  "cz": "Ano, ale...\\f",
+  "idx": 1429
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365328,
+  "str_off": 6252612,
+  "len": 181,
+  "en": "Sami, \\eI'm not just saying this to\\rsave your wounded pride.\\fOrange Star came here to fight\\ralongside Green Earth.\\fThat alone has raised the morale\\rof our troops more than you know.\\f",
+  "cz": "Sami, \\enerikam to jen proto, abych\\rzachranil tvou ranenou hrdost.\\fOrange Star sem prislo bojovat\\rpo boku Green Earth.\\fUz jen to zvedlo moralku\\rnasich jednotek vic, nez tusis.\\f",
+  "idx": 1430
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365332,
+  "str_off": 6252796,
+  "len": 18,
+  "en": "Thank you, Eagle.\\f",
+  "cz": "Dekuji ti, Eagle.\\f",
+  "idx": 1431
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365336,
+  "str_off": 6252816,
+  "len": 105,
+  "en": "I should be thanking you.\\fWe're very grateful for the supplies.\\e\\e\\rI think they'll ease our burden a bit.\\f",
+  "cz": "To ja bych mel dekovat tobe.\\fJsme moc vdecni za zasoby.\\e\\e\\rMyslim, ze nam trochu uleci.\\f",
+  "idx": 1432
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365340,
+  "str_off": 6252924,
+  "len": 9,
+  "en": "Eagle...\\f",
+  "cz": "Eagle...\\f",
+  "idx": 1433
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365344,
+  "str_off": 6252936,
+  "len": 44,
+  "en": "I will not permit the\\renemy a moment's rest!",
+  "cz": "Nedopreji nepriteli\\rani chvili odpocinku!",
+  "idx": 1434
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365348,
+  "str_off": 6252984,
+  "len": 40,
+  "en": "Commander!\\e\\rBlack Hole has beaten us...\\f",
+  "cz": "Velitel!\\e\\rBlack Hole nas porazilo...\\f",
+  "idx": 1435
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365352,
+  "str_off": 6253028,
+  "len": 230,
+  "en": "NO!!\\e\\e\\rWe arrived too late...\\fThere's no time to hesitate.\\e\\e\\rAll right, \\ethere's a change in plans.\\fSend everyone at the laser!\\e The\\ronly properties we need are airports!\\fAbove all else, \\ewe must strike before\\rour ally is routed!\\f",
+  "cz": "NE!!\\e\\e\\rPrijeli jsme prilis pozde...\\fNeni cas vahat.\\e\\e\\rDobre, \\eplan se meni.\\fVrhnete vsechny na laser!\\e Jedine\\rbudovy, ktere potrebujeme, jsou letiste!\\fHlavne ze vseho, \\emusime uderit, nez\\rbude nas spojenec rozprasen!\\f",
+  "idx": 1436
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365356,
+  "str_off": 6253260,
+  "len": 10,
+  "en": "Yes, sir!\\f",
+  "cz": "Ano, pane!\\f",
+  "idx": 1437
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365360,
+  "str_off": 6253272,
+  "len": 32,
+  "en": "Lash, is the airport completed?\\f",
+  "cz": "Lash, je letiste hotove?\\f",
+  "idx": 1438
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365364,
+  "str_off": 6253308,
+  "len": 39,
+  "en": "Yep!\\e I built it to your specs, but...\\f",
+  "cz": "Jo!\\e Postavila jsem ho dle zadani, ale...\\f",
+  "idx": 1439
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365368,
+  "str_off": 6253348,
+  "len": 10,
+  "en": "But what?\\f",
+  "cz": "Ale co?\\f",
+  "idx": 1440
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365372,
+  "str_off": 6253360,
+  "len": 68,
+  "en": "Are you sure you want a standard\\rairport?\\e\\e Lemme add some options!\\f",
+  "cz": "Urcite chces standardni\\rletiste?\\e\\e Pridam nejake doplnky!\\f",
+  "idx": 1441
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365376,
+  "str_off": 6253432,
+  "len": 39,
+  "en": "Options?\\e\\e\\rWhat are you talking about?\\f",
+  "cz": "Doplnky?\\e\\e\\rO cem to mluvis?\\f",
+  "idx": 1442
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365380,
+  "str_off": 6253472,
+  "len": 61,
+  "en": "You know, all kinds of stuff.\\e\\e\\rLike a self-destruct system.\\f",
+  "cz": "No vis, vsemozne veci.\\e\\e\\rTreba sebedestrukcni system.\\f",
+  "idx": 1443
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365384,
+  "str_off": 6253536,
+  "len": 15,
+  "en": "Not necessary.\\f",
+  "cz": "Neni treba.\\f",
+  "idx": 1444
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365388,
+  "str_off": 6253552,
+  "len": 18,
+  "en": "Tsk! \\eBoooooring!\\f",
+  "cz": "Pcha! \\eNuuuuda!\\f",
+  "idx": 1445
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365392,
+  "str_off": 6253572,
+  "len": 70,
+  "en": "If it's ready,\\e I'd like to use it now.\\e\\e\\rThe enemy is close at hand.\\f",
+  "cz": "Kdyz je hotove,\\e rad bych ho ted pouzil.\\e\\e\\rNepritel je nablizku.\\f",
+  "idx": 1446
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365396,
+  "str_off": 6253644,
+  "len": 23,
+  "en": "Go ahead, be my guest.\\f",
+  "cz": "Jen do toho, posluz si.\\f",
+  "idx": 1447
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365400,
+  "str_off": 6253668,
+  "len": 30,
+  "en": "The enemy's built an airport?\\f",
+  "cz": "Nepritel postavil letiste?\\f",
+  "idx": 1448
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365404,
+  "str_off": 6253700,
+  "len": 32,
+  "en": "They'll finish it shortly, sir.\\f",
+  "cz": "Brzy ho dokonci, pane.\\f",
+  "idx": 1449
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365408,
+  "str_off": 6253736,
+  "len": 32,
+  "en": "You didn't notice this earlier?\\f",
+  "cz": "Tohos drive nezpozoroval?\\f",
+  "idx": 1450
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365412,
+  "str_off": 6253772,
+  "len": 102,
+  "en": "They must have hidden it somehow.\\fPlus, they built it in such a short\\ramount of time. \\eAmazing speed.\\f",
+  "cz": "Museli ho nejak ukryt.\\fNavic ho postavili za tak kratkou\\rdobu. \\eUzasna rychlost.\\f",
+  "idx": 1451
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365416,
+  "str_off": 6253876,
+  "len": 43,
+  "en": "I see...\\fThanks for the intel.\\e Good work.\\f",
+  "cz": "Chapu...\\fDiky za informace.\\e Dobra prace.\\f",
+  "idx": 1452
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365420,
+  "str_off": 6253920,
+  "len": 27,
+  "en": "Yes, sir. \\eThank you, sir.\\f",
+  "cz": "Ano, pane. \\eDekuji, pane.\\f",
+  "idx": 1453
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365424,
+  "str_off": 6253948,
+  "len": 200,
+  "en": "They must've realized I'm the only one\\rwho can sail these waters.\\fPlanes vs. boats...\\e Air units do\\rhave powerful advantages, but...\\fI'm not sunk yet! \\e\\eThis sea dog's\\rgot a few tricks up his sleeve!\\f",
+  "cz": "Museli pochopit, ze jen ja\\rdokazu plout temito vodami.\\fLetadla vs. lode...\\e Vzdusne jednotky\\rmaji silne vyhody, ale...\\fJeste nejsem potopen! \\e\\eTenhle mursky\\rvlk ma par triku v rukave!\\f",
+  "idx": 1454
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365428,
+  "str_off": 6254152,
+  "len": 180,
+  "en": "Naval units repelling a superior\\rair force?\\e Quite a feat.\\fIt seems I underestimated my opponent.\\fThis war's far from over, though.\\fThe only battle I have to win\\ris the final one.\\f",
+  "cz": "Namorni jednotky odrazi presilu\\rletectva?\\e Pozoruhodny vykon.\\fZda se, ze jsem sveho soupere podcenil.\\fTahle valka ale zdaleka neskoncila.\\fJedina bitva, kterou musim vyhrat,\\rje ta posledni.\\f",
+  "idx": 1455
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365432,
+  "str_off": 6254336,
+  "len": 39,
+  "en": "The enemy is retreating on all fronts.\\f",
+  "cz": "Nepritel ustupuje na vsech frontach.\\f",
+  "idx": 1456
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365436,
+  "str_off": 6254376,
+  "len": 34,
+  "en": "It looks like we won. \\eSomehow...\\f",
+  "cz": "Vypada to, ze jsme vyhrali. \\eNejak...\\f",
+  "idx": 1457
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365440,
+  "str_off": 6254412,
+  "len": 31,
+  "en": "So I'm here for no reason, eh?\\f",
+  "cz": "Takze jsem tu zbytecne, co?\\f",
+  "idx": 1458
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365444,
+  "str_off": 6254444,
+  "len": 34,
+  "en": "Eagle!\\e\\e\\rYou came to lend a hand!\\f",
+  "cz": "Eagle!\\e\\e\\rPrisels nam pomoct!\\f",
+  "idx": 1459
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365448,
+  "str_off": 6254480,
+  "len": 137,
+  "en": "I heard the enemy was mainly air units.\\fI left the front under the command of\\rthe subcommander,\\fbut it looks like I worried for nothing.\\f",
+  "cz": "Slysel jsem, ze nepritel jsou hlavne vzdusne jednotky.\\fNechal jsem frontu pod velenim\\rzastupce,\\fale vypada to, ze jsem se bal zbytecne.\\f",
+  "idx": 1460
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365452,
+  "str_off": 6254620,
+  "len": 13,
+  "en": "I got lucky.\\f",
+  "cz": "Mel jsem stesti.\\f",
+  "idx": 1461
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365456,
+  "str_off": 6254636,
+  "len": 23,
+  "en": "It was more than luck.\\f",
+  "cz": "Bylo to vic nez stesti.\\f",
+  "idx": 1462
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365460,
+  "str_off": 6254660,
+  "len": 8,
+  "en": "How so?\\f",
+  "cz": "Jak to?\\f",
+  "idx": 1463
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365464,
+  "str_off": 6254672,
+  "len": 146,
+  "en": "Drake, \\eyou're a gifted tactician.\\e\\rYou should give yourself more credit.\\fYou do realize you defeated an army\\rcomprising mainly air units, right?\\f",
+  "cz": "Drake, \\ejsi nadany taktik.\\e\\rMel by sis vic verit.\\fUvedomujes si, ze jsi porazil armadu\\rslozenou hlavne ze vzdusnych jednotek?\\f",
+  "idx": 1464
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365468,
+  "str_off": 6254820,
+  "len": 60,
+  "en": "It's nothing you or Jess couldn't have\\rdone.\\e I'm not so...\\f",
+  "cz": "Nic, co bys ty nebo Jess nezvladli\\ri vy.\\e Nejsem tak...\\f",
+  "idx": 1465
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365472,
+  "str_off": 6254884,
+  "len": 60,
+  "en": "Perhaps it's your humility that\\rpeople find so appealing...\\f",
+  "cz": "Mozna je to tva skromnost, ktera\\rlidem tak imponuje...\\f",
+  "idx": 1466
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365476,
+  "str_off": 6254948,
+  "len": 31,
+  "en": "Blow me down...\\rWe finally won.",
+  "cz": "Aby me hrom...\\rKonecne jsme vyhrali.",
+  "idx": 1467
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365480,
+  "str_off": 6254980,
+  "len": 63,
+  "en": "Barnacles! \\eWe lost...\\e\\e\\rI can't face Eagle or Jess like this.\\f",
+  "cz": "Hrom do toho! \\eProhrali jsme...\\e\\e\\rTakhle nemohu predstoupit pred Eagla ci Jess.\\f",
+  "idx": 1468
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365484,
+  "str_off": 6255044,
+  "len": 63,
+  "en": "Commander Drake, \\eshall we request\\rassistance from another CO?\\f",
+  "cz": "Veliteli Drake, \\emame pozadat\\ro pomoc jineho velitele?\\f",
+  "idx": 1469
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365488,
+  "str_off": 6255108,
+  "len": 314,
+  "en": "No, I don't think so.\\e\\e\\rLet's take another run at it.\\fFirst, we've got to capture the base\\rin the middle as soon as possible.\\fI can only load 2 units onto my\\rlanders, but...\\fI can load APCs carrying infantry,\\e\\rwhich doubles my transport maximum.\\fYep, \\elet's see what we can do.\\e\\e\\rNo need to ask for help just yet!\\f",
+  "cz": "Ne, to si nemyslim.\\e\\e\\rZkusme to znovu.\\fNejprve musime co nejdriv obsadit\\rzakladnu uprostred.\\fNa vysadkove lode naloadim jen\\r2 jednotky, ale...\\fMohu nalozit APC s pechotou,\\e\\rcoz zdvojnasobi muj prepravni maximum.\\fJo, \\euvidime, co zvladneme.\\e\\e\\rO pomoc zatim zadat netreba!\\f",
+  "idx": 1470
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365492,
+  "str_off": 6255424,
+  "len": 10,
+  "en": "Yes, sir!\\f",
+  "cz": "Ano, pane!\\f",
+  "idx": 1471
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365496,
+  "str_off": 6255436,
+  "len": 63,
+  "en": "Barnacles! \\eWe lost...\\e\\e\\rI can't face Eagle or Jess like this.\\f",
+  "cz": "Hrom do toho! \\eProhrali jsme...\\e\\e\\rTakhle nemohu predstoupit pred Eagla ci Jess.\\f",
+  "idx": 1472
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365500,
+  "str_off": 6255500,
+  "len": 63,
+  "en": "Commander Drake, \\eshall we request\\rassistance from another CO?\\f",
+  "cz": "Veliteli Drake, \\emame pozadat\\ro pomoc jineho velitele?\\f",
+  "idx": 1473
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365504,
+  "str_off": 6255564,
+  "len": 341,
+  "en": "No, I don't think so.\\e\\e\\rLet's take another run at it.\\fFirst, we have to shoot down that\\rinitial wave of planes.\\fWe've got to check movement ranges\\rso that we always attack first.\\fThen we've got to capture the base\\rin the middle. The little islands can be\\fdealt with later.\\fYep, \\elet's see what we can do.\\e\\e\\rNo need to ask for help just yet!\\f",
+  "cz": "Ne, to si nemyslim.\\e\\e\\rZkusme to znovu.\\fNejprve musime sestrelit tu\\rprvni vlnu letadel.\\fMusime hlidat dosahy pohybu,\\rabychom vzdy utocili prvni.\\fPak musime obsadit zakladnu\\ruprostred. Male ostruvky muzeme\\fvyresit pozdeji.\\fJo, \\euvidime, co zvladneme.\\e\\e\\rO pomoc zatim zadat netreba!\\f",
+  "idx": 1474
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365508,
+  "str_off": 6255908,
+  "len": 10,
+  "en": "Yes, sir!\\f",
+  "cz": "Ano, pane!\\f",
+  "idx": 1475
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365512,
+  "str_off": 6255920,
+  "len": 21,
+  "en": "Hawke, \\eFlak's here.\\f",
+  "cz": "Hawke, \\eFlak je tady.\\f",
+  "idx": 1476
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365516,
+  "str_off": 6255944,
+  "len": 57,
+  "en": "Why? He's supposed to be implementing\\rmy plan elsewhere.\\f",
+  "cz": "Proc? Mel by jinde provadet\\rmuj plan.\\f",
+  "idx": 1477
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365520,
+  "str_off": 6256004,
+  "len": 49,
+  "en": "He said he's got something to talk\\rto you about.\\f",
+  "cz": "Rikal, ze s tebou potrebuje\\rneco probrat.\\f",
+  "idx": 1478
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365524,
+  "str_off": 6256056,
+  "len": 26,
+  "en": "Very well.\\e\\e\\rSend him in.\\f",
+  "cz": "Dobre tedy.\\e\\e\\rPosli ho dovnitr.\\f",
+  "idx": 1479
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365528,
+  "str_off": 6256084,
+  "len": 36,
+  "en": "Heard you were launching an attack.\\f",
+  "cz": "Slysel jsem, ze zahajujes utok.\\f",
+  "idx": 1480
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365532,
+  "str_off": 6256124,
+  "len": 5,
+  "en": "Yes.\\f",
+  "cz": "Ano.\\f",
+  "idx": 1481
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365536,
+  "str_off": 6256132,
+  "len": 18,
+  "en": "Near the volcano.\\f",
+  "cz": "U sopky.\\f",
+  "idx": 1482
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365540,
+  "str_off": 6256152,
+  "len": 16,
+  "en": "That's correct.\\f",
+  "cz": "Spravne.\\f",
+  "idx": 1483
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365544,
+  "str_off": 6256172,
+  "len": 18,
+  "en": "Sounds dangerous.\\f",
+  "cz": "Zni to nebezpecne.\\f",
+  "idx": 1484
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365548,
+  "str_off": 6256192,
+  "len": 138,
+  "en": "Which is why we're doing it.\\fThe volcano disrupts the air currents.\\fOur enemies will be unable to use\\rtheir best troops, their air force.\\f",
+  "cz": "Prave proto to delame.\\fSopka narusuje vzdusne proudy.\\fNasi nepratele nebudou moct pouzit\\rsve nejlepsi jednotky, sve letectvo.\\f",
+  "idx": 1485
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365552,
+  "str_off": 6256332,
+  "len": 76,
+  "en": "But there's lava flying everywhere.\\e\\rOur own troops are being injured, too.\\f",
+  "cz": "Ale vsude lita lava.\\e\\rZranuji se i nase vlastni jednotky.\\f",
+  "idx": 1486
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365556,
+  "str_off": 6256412,
+  "len": 92,
+  "en": "Which means what to us, exactly?\\fAny losses we incur are acceptable\\rin the name of victory.\\f",
+  "cz": "Coz nam presne znamena co?\\fJakekoli ztraty jsou pripustne\\rve jmenu vitezstvi.\\f",
+  "idx": 1487
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365560,
+  "str_off": 6256508,
+  "len": 59,
+  "en": "But the strength of the enemy forces\\rattacking my front...\\f",
+  "cz": "Ale sila neprijatelskych sil\\rutocicich na mou frontu...\\f",
+  "idx": 1488
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365564,
+  "str_off": 6256568,
+  "len": 106,
+  "en": "Now I see.\\e This is all about you.\\fPretending to be concerned about the\\rtroops when it's your own skin...\\f",
+  "cz": "Uz to chapu.\\e Tohle je o tobe.\\fPredstiras starost o jednotky,\\rzatimco jde o tvou vlastni kuzi...\\f",
+  "idx": 1489
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365568,
+  "str_off": 6256676,
+  "len": 22,
+  "en": "Whuh!?\\e\\e No, that's--\\f",
+  "cz": "Coze!?\\e\\e Ne, to je--\\f",
+  "idx": 1490
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365572,
+  "str_off": 6256700,
+  "len": 94,
+  "en": "Before you question my plans again,\\fI suggest you win a battle with one\\rof your own devising.\\f",
+  "cz": "Nez znovu zpochybnis me plany,\\fnavrhuji, abys vyhral bitvu podle\\rsveho vlastniho navrhu.\\f",
+  "idx": 1491
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365576,
+  "str_off": 6256796,
+  "len": 7,
+  "en": "......\\f",
+  "cz": "......\\f",
+  "idx": 1492
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365580,
+  "str_off": 6256804,
+  "len": 64,
+  "en": "The lava's going to make little\\rpeople pancakes!\\e\\e Tee hee hee!\\f",
+  "cz": "Lava udela z malych lidicek\\rplacky!\\e\\e Chi chi chi!\\f",
+  "idx": 1493
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365584,
+  "str_off": 6256872,
+  "len": 50,
+  "en": "The enemy's preparing an attack near\\rthe volcano?\\f",
+  "cz": "Nepritel chysta utok u\\rsopky?\\f",
+  "idx": 1494
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365588,
+  "str_off": 6256924,
+  "len": 65,
+  "en": "What're you going to do, Eagle?\\e\\e\\rYou can't fly near that thing.\\f",
+  "cz": "Co budes delat, Eagle?\\e\\e\\rU te veci nemuzes letat.\\f",
+  "idx": 1495
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365592,
+  "str_off": 6256992,
+  "len": 49,
+  "en": "In that case, \\ewe'll meet the foe\\ron the ground.\\f",
+  "cz": "V tom pripade \\ese s nepritelem\\rstretneme na zemi.\\f",
+  "idx": 1496
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365596,
+  "str_off": 6257044,
+  "len": 124,
+  "en": "Hold on, Eagle!\\e\\e You know you're not\\rat your best on the ground.\\fLet me take care of this.\\e\\e\\rGround combat's my specialty.\\f",
+  "cz": "Pockej, Eagle!\\e\\e Vis, ze na zemi\\rnejsi ve sve nejlepsi forme.\\fNech to na mne.\\e\\e\\rPozemni boj je ma specialita.\\f",
+  "idx": 1497
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365600,
+  "str_off": 6257172,
+  "len": 26,
+  "en": "Hey! \\eJess!\\e\\rStop right--\\f",
+  "cz": "Hej! \\eJess!\\e\\rZastav se--\\f",
+  "idx": 1498
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365604,
+  "str_off": 6257200,
+  "len": 12,
+  "en": "She's gone.\\f",
+  "cz": "Je pryc.\\f",
+  "idx": 1499
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365608,
+  "str_off": 6257216,
+  "len": 61,
+  "en": "Does she think she can decide who's\\rgoing?\\e\\e Who does she...\\f",
+  "cz": "Mysli si, ze muze rozhodovat, kdo\\rjde?\\e\\e Co si to...\\f",
+  "idx": 1500
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365612,
+  "str_off": 6257280,
+  "len": 54,
+  "en": "Eagle...\\e Jess is right.\\e\\e\\rLet her take care of this.\\f",
+  "cz": "Eagle...\\e Jess ma pravdu.\\e\\e\\rNech to na ni.\\f",
+  "idx": 1501
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365616,
+  "str_off": 6257336,
+  "len": 57,
+  "en": "Yes, I know she's right.\\e\\e\\rI'm just\\e\\e letting off steam.\\f",
+  "cz": "Ano, vim, ze ma pravdu.\\e\\e\\rJen si\\e\\e vybijim zlost.\\f",
+  "idx": 1502
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365620,
+  "str_off": 6257396,
+  "len": 24,
+  "en": "Jess, \\ecan you hear me?\\f",
+  "cz": "Jess, \\eslysis me?\\f",
+  "idx": 1503
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365624,
+  "str_off": 6257424,
+  "len": 21,
+  "en": "Eagle? \\e\\eWhat is it?\\f",
+  "cz": "Eagle? \\e\\eCo je?\\f",
+  "idx": 1504
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365628,
+  "str_off": 6257448,
+  "len": 135,
+  "en": "It seems that the lava from the\\rvolcano falls in a set pattern.\\fIf you can decipher it, you might be\\rable to use it to your advantage.\\f",
+  "cz": "Zda se, ze lava ze sopky\\rdopada v urcitem vzorci.\\fPokud ho rozlustis, mozna ho\\rdokazes vyuzit ve svuj prospech.\\f",
+  "idx": 1505
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365632,
+  "str_off": 6257584,
+  "len": 29,
+  "en": "That's good intel. \\e\\eThanks.\\f",
+  "cz": "To je dobra informace. \\e\\eDiky.\\f",
+  "idx": 1506
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365636,
+  "str_off": 6257616,
+  "len": 72,
+  "en": "Don't endanger yourself by trying\\ranything foolish.\\e\\e Luck be with you.\\f",
+  "cz": "Neohrozuj se necim\\rpobloublym.\\e\\e Stesti at te provazi.\\f",
+  "idx": 1507
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365640,
+  "str_off": 6257692,
+  "len": 56,
+  "en": "They've made it this far.\\e\\e\\rWe should withdraw for now.\\f",
+  "cz": "Dostali se az sem.\\e\\e\\rProzatim bychom se meli stahnout.\\f",
+  "idx": 1508
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365644,
+  "str_off": 6257752,
+  "len": 95,
+  "en": "Tell the troops they fought well\\runder these terrible conditions.\\fTell them I'm proud of them.\\f",
+  "cz": "Rekni jednotkam, ze bojovaly dobre\\rv techto hroznych podminkach.\\fRekni jim, ze jsem na ne hrda.\\f",
+  "idx": 1509
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365648,
+  "str_off": 6257848,
+  "len": 12,
+  "en": "Yes, ma'am.\\f",
+  "cz": "Ano, pani.\\f",
+  "idx": 1510
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365652,
+  "str_off": 6257864,
+  "len": 27,
+  "en": "Jess, \\ethat was well done.\\f",
+  "cz": "Jess, \\eto bylo dobre odvedene.\\f",
+  "idx": 1511
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365656,
+  "str_off": 6257892,
+  "len": 60,
+  "en": "It was all the soldiers' doing.\\e\\e\\rI just nudged them along.\\f",
+  "cz": "To vse je zasluha vojaku.\\e\\e\\rJa je jen trochu popostrcila.\\f",
+  "idx": 1512
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365660,
+  "str_off": 6257956,
+  "len": 22,
+  "en": "That's exactly right.\\f",
+  "cz": "Presne tak.\\f",
+  "idx": 1513
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365664,
+  "str_off": 6257980,
+  "len": 25,
+  "en": "Eagle, \\estow that bilge.\\f",
+  "cz": "Eagle, \\enech si ty zvasty.\\f",
+  "idx": 1514
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365668,
+  "str_off": 6258008,
+  "len": 72,
+  "en": "However, \\eyou weren't terrible, Red.\\e\\e\\rTry to continue not screwing up.\\f",
+  "cz": "Nicmene, \\enebylas hrozna, Red.\\e\\e\\rZkus to dal nepokazit.\\f",
+  "idx": 1515
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365672,
+  "str_off": 6258084,
+  "len": 50,
+  "en": "Now, \\ehold on a minute, Eagle...\\fWhere did he go?\\f",
+  "cz": "Hej, \\epockej chvilku, Eagle...\\fKam zmizel?\\f",
+  "idx": 1516
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365676,
+  "str_off": 6258136,
+  "len": 57,
+  "en": "Jess, believe it or not,\\e he meant\\rthat as a compliment.\\f",
+  "cz": "Jess, ver tomu nebo ne,\\e myslel to\\rjako kompliment.\\f",
+  "idx": 1517
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365680,
+  "str_off": 6258196,
+  "len": 77,
+  "en": "I know that.\\fI was just wondering if he couldn't\\rfind a better way to do it.\\f",
+  "cz": "To vim.\\fJen me napadlo, jestli by to\\rneslo rict lip.\\f",
+  "idx": 1518
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365684,
+  "str_off": 6258276,
+  "len": 34,
+  "en": "Looks like I survived\\ranother day.",
+  "cz": "Vypada to, ze jsem prezila\\rdalsi den.",
+  "idx": 1519
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365688,
+  "str_off": 6258312,
+  "len": 76,
+  "en": "My inexperience caused me to lose\\rthose soldiers...\\eright in front of me...\\f",
+  "cz": "Ma nezkusenost zpusobila, ze jsem\\rztratila ty vojaky...\\epred svyma ocima...\\f",
+  "idx": 1520
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365692,
+  "str_off": 6258392,
+  "len": 6,
+  "en": "Jess.\\f",
+  "cz": "Jess.\\f",
+  "idx": 1521
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365696,
+  "str_off": 6258400,
+  "len": 88,
+  "en": "Eagle...\\fI took off without authorization, and\\rthis is what I get.\\e Go ahead and laugh.\\f",
+  "cz": "Eagle...\\fVyrazila jsem bez povoleni a\\rtohle z toho mam.\\e Jen se smej.\\f",
+  "idx": 1522
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365700,
+  "str_off": 6258492,
+  "len": 323,
+  "en": "I'm not the type to kick a person when\\rshe's down.\\fJess.\\e\\e Everything else aside,\\e you are\\ra gifted ground tactician. \\eIt's a fact.\\fI believe, even under these conditions,\\e\\rthat you can defeat Hawke.\\fIf you really value your troops, don't\\rlet their sacrifices be for nothing.\\fPull yourself together and finish\\rthis battle!\\f",
+  "cz": "Nejsem typ, co kope do cloveka,\\rkdyz je na dne.\\fJess.\\e\\e Vse ostatni stranou,\\e jsi\\rnadana pozemni takticcka. \\eTo je fakt.\\fVerim, ze i za techto podminek\\e\\rdokazes porazit Hawkea.\\fPokud si svych jednotek opravdu cenis,\\rnenech jejich obeti vyznit naprazdno.\\fSeber se a dokonci\\rtuhle bitvu!\\f",
+  "idx": 1523
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365704,
+  "str_off": 6258816,
+  "len": 260,
+  "en": "I'm so disappointed, but Eagle's right.\\fTo have a chance, I have to suppress\\rthe bases to the top and to the right.\\fIf I can get the enemy to focus on one,\\e\\rI might be able to capture the other.\\fI also have to think about the lava\\rpattern and how to use it...\\f",
+  "cz": "Jsem tak zklamana, ale Eagle ma pravdu.\\fAbych mela sanci, musim potlacit\\rzakladny nahore a vpravo.\\fKdyz prinutim nepritele soustredit se na jednu,\\e\\rmozna obsadim tu druhou.\\fTaky musim myslet na vzorec\\rlavy a jak ho vyuzit...\\f",
+  "idx": 1524
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365708,
+  "str_off": 6259080,
+  "len": 68,
+  "en": "According to the map we recovered,\\e\\rthe lab should be in this area.\\f",
+  "cz": "Podle mapy, kterou jsme ziskali,\\e\\rby laborka mela byt v teto oblasti.\\f",
+  "idx": 1525
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365712,
+  "str_off": 6259152,
+  "len": 57,
+  "en": "So the freebooters are working\\ron some sort of new tank?\\f",
+  "cz": "Takze ti pirati pracuji\\rna nejakem novem tanku?\\f",
+  "idx": 1526
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365716,
+  "str_off": 6259212,
+  "len": 9,
+  "en": "Perhaps.\\f",
+  "cz": "Mozna.\\f",
+  "idx": 1527
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365720,
+  "str_off": 6259224,
+  "len": 70,
+  "en": "From what we know, the contingent\\rguarding the place is fairly small.\\f",
+  "cz": "Z toho, co vime, je oddil\\rstrezici to misto dost maly.\\f",
+  "idx": 1528
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365724,
+  "str_off": 6259296,
+  "len": 51,
+  "en": "So if we're going to attack, \\ewe\\rshould do it now.\\f",
+  "cz": "Takze pokud zautocime, \\emeli\\rbychom to udelat ted.\\f",
+  "idx": 1529
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365728,
+  "str_off": 6259348,
+  "len": 9,
+  "en": "I agree.\\f",
+  "cz": "Souhlasim.\\f",
+  "idx": 1530
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365732,
+  "str_off": 6259360,
+  "len": 8,
+  "en": "Hmmm...\\f",
+  "cz": "Hmmm...\\f",
+  "idx": 1531
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365736,
+  "str_off": 6259372,
+  "len": 12,
+  "en": "What is it?\\f",
+  "cz": "Co je?\\f",
+  "idx": 1532
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365740,
+  "str_off": 6259388,
+  "len": 32,
+  "en": "You two can agree on something.\\f",
+  "cz": "Vy dva se na necem shodnete.\\f",
+  "idx": 1533
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365744,
+  "str_off": 6259424,
+  "len": 133,
+  "en": "We're both trying to come up with a\\rplan to save Green Earth.\\fIt seems to me that sharing some of\\rthe same opinions is only natural.\\f",
+  "cz": "Oba se snazime prijit s\\rplanem na zachranu Green Earth.\\fPripada mi, ze sdilet nektere\\rstejne nazory je jen prirozene.\\f",
+  "idx": 1534
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365748,
+  "str_off": 6259560,
+  "len": 39,
+  "en": "That's right.\\e\\e\\rEagle's exactly right.\\f",
+  "cz": "Presne tak.\\e\\e\\rEagle ma naprostou pravdu.\\f",
+  "idx": 1535
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365752,
+  "str_off": 6259600,
+  "len": 19,
+  "en": "OK.\\e\\e Say no more.\\f",
+  "cz": "OK.\\e\\e Uz ani slovo.\\f",
+  "idx": 1536
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365756,
+  "str_off": 6259620,
+  "len": 91,
+  "en": "There is one thing that concerns me,\\rthough.\\fThe enemy has a large force\\rheading this way.\\f",
+  "cz": "Je tu ale jedna vec, ktera me\\rznepokojuje.\\fNepritel sem miri\\rs velkou silou.\\f",
+  "idx": 1537
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365760,
+  "str_off": 6259712,
+  "len": 23,
+  "en": "When will they arrive?\\f",
+  "cz": "Kdy dorazi?\\f",
+  "idx": 1538
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365764,
+  "str_off": 6259736,
+  "len": 37,
+  "en": "According to our intel, \\ein 10 days.\\f",
+  "cz": "Podle nasich informaci \\eza 10 dni.\\f",
+  "idx": 1539
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365768,
+  "str_off": 6259776,
+  "len": 72,
+  "en": "So we must capture the lab by then.\\e\\e\\rIt's going to be a hectic 9 days.\\f",
+  "cz": "Takze musime do te doby obsadit laborku.\\e\\e\\rBude to hekticnych 9 dni.\\f",
+  "idx": 1540
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365772,
+  "str_off": 6259852,
+  "len": 33,
+  "en": "I will get the enemy's new tank.\\f",
+  "cz": "Ziskam neprijatelsky novy tank.\\f",
+  "idx": 1541
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365776,
+  "str_off": 6259888,
+  "len": 53,
+  "en": "I bet that new tank would improve my\\rcombat prowess.\\f",
+  "cz": "Vsadim se, ze ten novy tank by zvysil\\rmou bojovou zdatnost.\\f",
+  "idx": 1542
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365780,
+  "str_off": 6259944,
+  "len": 57,
+  "en": "With that new tank,\\e I'm sure our\\rcasualties would drop.\\f",
+  "cz": "S tim novym tankem,\\e jsem si jista,\\rze nase ztraty klesnou.\\f",
+  "idx": 1543
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365784,
+  "str_off": 6260004,
+  "len": 45,
+  "en": "Day 9 already?\\e\\e\\rI'll clean things up today!\\f",
+  "cz": "Uz devaty den?\\e\\e\\rDnes to uklidim!\\f",
+  "idx": 1544
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365788,
+  "str_off": 6260052,
+  "len": 62,
+  "en": "Day 9...\\e Gotta finish up today.\\e\\e\\rAhoy, mateys! \\eLook alive!\\f",
+  "cz": "Devaty den...\\e Dnes to musim dotahnout.\\e\\e\\rAhoj, kamaradi! \\eDo prace!\\f",
+  "idx": 1545
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365792,
+  "str_off": 6260116,
+  "len": 74,
+  "en": "The enemy battalion arrives tomorrow.\\e\\rI must complete the mission today.\\f",
+  "cz": "Neprijatelsky prapor dorazi zitra.\\e\\rDnes musim dokoncit misi.\\f",
+  "idx": 1546
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365796,
+  "str_off": 6260192,
+  "len": 49,
+  "en": "Well? \\e\\eDid you find the plans\\rfor the new tank?\\f",
+  "cz": "Tak? \\e\\eNasli jste plany\\rna novy tank?\\f",
+  "idx": 1547
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365800,
+  "str_off": 6260244,
+  "len": 37,
+  "en": "I heard that they'd just been found.\\f",
+  "cz": "Slysel jsem, ze je prave nasli.\\f",
+  "idx": 1548
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365804,
+  "str_off": 6260284,
+  "len": 65,
+  "en": "This brings us one step closer to\\rmatching the enemy's strength.\\f",
+  "cz": "Tim jsme o krok bliz k tomu,\\rabychom dorovnali silu nepritele.\\f",
+  "idx": 1549
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365808,
+  "str_off": 6260352,
+  "len": 61,
+  "en": "Uh-huh.\\e\\e I'm looking forward to\\rtrying out those new tanks.\\f",
+  "cz": "Aha.\\e\\e Tesim se, az ty\\rnove tanky vyzkousim.\\f",
+  "idx": 1550
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365812,
+  "str_off": 6260416,
+  "len": 48,
+  "en": "At last, \\ea chance to demonstrate\\rmy specialty.\\f",
+  "cz": "Konecne \\esance predvest\\rmou specialitu.\\f",
+  "idx": 1551
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365816,
+  "str_off": 6260468,
+  "len": 122,
+  "en": "Excuse me? \\eEagle, you're just a\\rglorified flyboy, right?\\fLeave those new tanks to the ground-\\rcombat expert. \\eThat's me!\\f",
+  "cz": "Prosim? \\eEagle, ty jsi jen\\roslavovany letec, ze ano?\\fNech ty nove tanky expertovi na\\rpozemni boj. \\eTo jsem ja!\\f",
+  "idx": 1552
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365820,
+  "str_off": 6260592,
+  "len": 95,
+  "en": "Who's a glorified flyboy?!\\fIf we leave these new tanks in your\\rhands, Red, \\ethey'll be wasted!\\f",
+  "cz": "Kdo je oslavovany letec?!\\fKdyz ty nove tanky nechame ve tvych\\rrukou, Red, \\eprijdou vnivec!\\f",
+  "idx": 1553
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365824,
+  "str_off": 6260688,
+  "len": 58,
+  "en": "What did you say?!\\e\\e\\rI dare you to say that again, Eagle!\\f",
+  "cz": "Cos to rekl?!\\e\\e\\rTo si troufni rict znovu, Eagle!\\f",
+  "idx": 1554
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365828,
+  "str_off": 6260748,
+  "len": 129,
+  "en": "Stop it, you two!\\fWhew...\\e And it all comes back to\\ran argument.\\fI wish this were more than just\\ran excuse for you two to fight.\\f",
+  "cz": "Prestante, vy dva!\\fUf...\\e A zase vse skonci\\rhadkou.\\fKez by tohle bylo neco vic nez\\rjen zaminka k vasi hadce.\\f",
+  "idx": 1555
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365832,
+  "str_off": 6260880,
+  "len": 36,
+  "en": "These tanks will cement\\rour victory.",
+  "cz": "Tyhle tanky stvrdi\\rnase vitezstvi.",
+  "idx": 1556
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365836,
+  "str_off": 6260920,
+  "len": 40,
+  "en": "With these new tanks,\\rnothing scares me.",
+  "cz": "S temito novymi tanky\\rme nic nevydesi.",
+  "idx": 1557
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365840,
+  "str_off": 6260964,
+  "len": 46,
+  "en": "I'll be happy if these\\rhelp save allied lives.",
+  "cz": "Budu rada, kdyz pomohou\\rzachranit spojenecke zivoty.",
+  "idx": 1558
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365844,
+  "str_off": 6261012,
+  "len": 107,
+  "en": "Eagle. \\eJess.\\e\\e\\rLet's try this again.\\fIf we destroy that pipe correctly,\\e\\rI think we can divide the enemy.\\f",
+  "cz": "Eagle. \\eJess.\\e\\e\\rZkusme to znovu.\\fPokud spravne znicime to potrubi,\\e\\rmyslim, ze dokazeme nepritele rozdelit.\\f",
+  "idx": 1559
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365848,
+  "str_off": 6261120,
+  "len": 120,
+  "en": "You're right, Drake.\\fBut this Fog of War makes moving\\rtough.\\e\\e We've gotta use our\\fvision range and advance cautiously.\\f",
+  "cz": "Mas pravdu, Drake.\\fAle tahle Mlha valky stezuje\\rpohyb.\\e\\e Musime vyuzit svuj\\fdosah videni a postupovat opatrne.\\f",
+  "idx": 1560
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365852,
+  "str_off": 6261244,
+  "len": 108,
+  "en": "Wrong. \\eWouldn't it be faster to swoop\\rin and rout the enemy completely?\\fWith my air units, \\eit would be...\\f",
+  "cz": "Spatne. \\eNebylo by rychlejsi vletet\\rdovnitr a uplne nepritele rozprasit?\\fS mymi vzdusnymi jednotkami \\eby to bylo...\\f",
+  "idx": 1561
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365856,
+  "str_off": 6261356,
+  "len": 61,
+  "en": "You never change, Eagle.\\e Your\\rtactics are too reckless to--\\f",
+  "cz": "Ty se nikdy nezmenis, Eagle.\\e Tve\\rtaktiky jsou prilis bezhlave na--\\f",
+  "idx": 1562
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365860,
+  "str_off": 6261420,
+  "len": 71,
+  "en": "And you're too deliberate, Red.\\e\\rYou sit, sit, sit,\\e and nothing else!\\f",
+  "cz": "A ty jsi prilis vahavy, Red.\\e\\rSedis, sedis, sedis,\\e a nic vic!\\f",
+  "idx": 1563
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365864,
+  "str_off": 6261492,
+  "len": 81,
+  "en": "By Neptune's beard!\\e\\e Stop your\\rcaterwauling, you two.\\fAll you ever do is fight!\\f",
+  "cz": "U Neptunova vousu!\\e\\e Prestante\\rs tim skrekem, vy dva.\\fPorad jen delate, ze se hadate!\\f",
+  "idx": 1564
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365868,
+  "str_off": 6261576,
+  "len": 65,
+  "en": "Lord Hawke, \\ethe enemy has finished\\restablishing their field HQ.\\f",
+  "cz": "Pane Hawke, \\enepritel dokoncil\\rzrizeni sveho polniho HQ.\\f",
+  "idx": 1565
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365872,
+  "str_off": 6261644,
+  "len": 63,
+  "en": "It has come to this...\\ebrought to bay\\ragainst our own factory.\\f",
+  "cz": "Doslo to az sem...\\ezahnani do kouta\\ru nasi vlastni tovarny.\\f",
+  "idx": 1566
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365876,
+  "str_off": 6261708,
+  "len": 9,
+  "en": "Hawke...\\f",
+  "cz": "Hawke...\\f",
+  "idx": 1567
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365880,
+  "str_off": 6261720,
+  "len": 18,
+  "en": "Here, Lord Sturm.\\f",
+  "cz": "Zde, pane Sturm.\\f",
+  "idx": 1568
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365884,
+  "str_off": 6261740,
+  "len": 139,
+  "en": "Explain yourself.\\e\\e The enemy has\\rrouted your wretched companions...\\fAnd here you are, cringing like a dog\\rwith its tail between its legs.\\f",
+  "cz": "Vysvetli se.\\e\\e Nepritel\\rrozprasil tve uboha druhy...\\fA ty jsi tady, krcis se jak pes\\rse stazenym ocasem.\\f",
+  "idx": 1569
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365888,
+  "str_off": 6261880,
+  "len": 7,
+  "en": "......\\f",
+  "cz": "......\\f",
+  "idx": 1570
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365892,
+  "str_off": 6261888,
+  "len": 94,
+  "en": "Protect my factory at any cost.\\fIf you fail, \\eyou will know no\\rpeace and no forgiveness, cur.\\f",
+  "cz": "Chran mou tovarnu za kazdou cenu.\\fPokud selzes, \\enepoznas zadny\\rklid a zadne odpusteni, hafane.\\f",
+  "idx": 1571
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365896,
+  "str_off": 6261984,
+  "len": 15,
+  "en": "Yes, my liege.\\f",
+  "cz": "Ano, muj pane.\\f",
+  "idx": 1572
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365900,
+  "str_off": 6262000,
+  "len": 59,
+  "en": "As soon as we're ready, \\ebegin the\\rattack on that factory.\\f",
+  "cz": "Jakmile budeme pripraveni, \\ezahajte\\rutok na tu tovarnu.\\f",
+  "idx": 1573
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6365904,
+  "str_off": 6262060,
+  "len": 91,
+  "en": "Think we can handle this on our own?\\fIt looks like Black Hole is mustering\\rall its troops.\\f",
+  "cz": "Myslis, ze to zvladneme sami?\\fVypada to, ze Black Hole shromazduje\\rvsechny sve jednotky.\\f",
+  "idx": 1574
+ }
+]

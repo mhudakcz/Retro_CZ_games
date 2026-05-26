@@ -1,0 +1,2837 @@
+[
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368428,
+  "str_off": 6308012,
+  "len": 29,
+  "en": "Now we rebuild the\\rcontinent!",
+  "cz": "Ted obnovime\\rkontinent!",
+  "idx": 2205
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368432,
+  "str_off": 6308044,
+  "len": 37,
+  "en": "We're the best. No\\rone can defeat us.",
+  "cz": "Jsme nejlepsi. Nikdo\\rnas neporazi.",
+  "idx": 2206
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368436,
+  "str_off": 6308084,
+  "len": 34,
+  "en": "Smooth sailing at last.\\rIt's over.",
+  "cz": "Konecne klidne vody.\\rJe po vsem.",
+  "idx": 2207
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368440,
+  "str_off": 6308120,
+  "len": 34,
+  "en": "I can finally send\\rmy troops home.",
+  "cz": "Konecne mohu poslat\\rsve vojaky domu.",
+  "idx": 2208
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368444,
+  "str_off": 6308156,
+  "len": 37,
+  "en": "Oh, no! \\eA missile!\\e It's launching!\\f",
+  "cz": "Ale ne! \\eStrela!\\e Odpaluji ji!\\f",
+  "idx": 2209
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368448,
+  "str_off": 6308196,
+  "len": 29,
+  "en": "We didn't make it in time...\\f",
+  "cz": "Nestihli jsme to vcas...\\f",
+  "idx": 2210
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368452,
+  "str_off": 6308228,
+  "len": 168,
+  "en": "We need to fall back and regroup.\\fThat was bad, \\ebut surely the\\rwhole world hasn't been destroyed.\\fWe can't let them fire another missile\\rthough. We have to stop them.\\f",
+  "cz": "Musime ustoupit a preskupit se.\\fBylo to zle, \\eale snad neni\\rcely svet zniceny.\\fNesmime je ale nechat vypalit\\rdalsi strelu. Musime je zastavit.\\f",
+  "idx": 2211
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368456,
+  "str_off": 6308400,
+  "len": 33,
+  "en": "We need to rethink our strategy.\\f",
+  "cz": "Musime prehodnotit nasi strategii.\\f",
+  "idx": 2212
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368460,
+  "str_off": 6308436,
+  "len": 36,
+  "en": "Sonja,\\e\\rdo you have any good ideas?\\f",
+  "cz": "Sonjo,\\e\\rmas nejaky dobry napad?\\f",
+  "idx": 2213
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368464,
+  "str_off": 6308476,
+  "len": 157,
+  "en": "I do, Father.\\e Leave it to me.\\fThat Deathray is truly powerful,\\e\\rbut only in one direction.\\fWhile the CO in the middle stops\\rthe enemy on that small isle...\\f",
+  "cz": "Mam, otce.\\e Nech to na mne.\\fTen Deathray je opravdu mocny,\\e\\rale jen v jednom smeru.\\fZatimco velitel uprostred zastavi\\rnepritele na tom ostruvku...\\f",
+  "idx": 2214
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368468,
+  "str_off": 6308636,
+  "len": 115,
+  "en": "The COs on the left and right break\\rthrough the pipe and advance.\\fTheir targets are the base and\\rairport, correct?\\f",
+  "cz": "Velitele vlevo a vpravo prorazi\\rtrubku a postoupi.\\fJejich cile jsou zakladna a\\rletiste, spravne?\\f",
+  "idx": 2215
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368472,
+  "str_off": 6308752,
+  "len": 21,
+  "en": "You've got it, Nell.\\f",
+  "cz": "Mas to, Nell.\\f",
+  "idx": 2216
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368476,
+  "str_off": 6308776,
+  "len": 68,
+  "en": "If you need power, I'm your man!\\e\\rI'll slice that pipe like butter!\\f",
+  "cz": "Kdyz potrebujes silu, jsem tu ja!\\e\\rRozkrojim tu trubku jak maslo!\\f",
+  "idx": 2217
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368480,
+  "str_off": 6308848,
+  "len": 112,
+  "en": "Don't y'all forget, I'm the best\\rmarksman there ever was.\\fAnd I got some mighty big guns\\raround here somewhere!\\f",
+  "cz": "Nezapomente, jsem nejlepsi\\rostrelovac vsech dob.\\fA nekde tu mam par pekne\\rvelkych del!\\f",
+  "idx": 2218
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368484,
+  "str_off": 6308964,
+  "len": 69,
+  "en": "I know I'm no Commander Grit,\\e but\\rI think I can be of service, too.\\f",
+  "cz": "Vim, ze nejsem velitel Grit,\\e ale\\rmyslim, ze take mohu byt uzitecny.\\f",
+  "idx": 2219
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368488,
+  "str_off": 6309036,
+  "len": 55,
+  "en": "Lest you forget, I do have the best\\rbombers available.\\f",
+  "cz": "Abys nezapomnel, mam ty nejlepsi\\rbombardery, co existuji.\\f",
+  "idx": 2220
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368492,
+  "str_off": 6309092,
+  "len": 78,
+  "en": "You're all so trustworthy.\\fI have every confidence that victory\\rwill be ours!\\f",
+  "cz": "Jste vsichni tak spolehlivi.\\fJsem pevne presvedcen, ze vitezstvi\\rbude nase!\\f",
+  "idx": 2221
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368496,
+  "str_off": 6309172,
+  "len": 40,
+  "en": "Oh, no! \\eFrom the platform! \\eA missile!\\f",
+  "cz": "Ale ne! \\eZ plosiny! \\eStrela!\\f",
+  "idx": 2222
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368500,
+  "str_off": 6309216,
+  "len": 29,
+  "en": "We didn't make it in time...\\f",
+  "cz": "Nestihli jsme to vcas...\\f",
+  "idx": 2223
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368504,
+  "str_off": 6309248,
+  "len": 168,
+  "en": "We need to fall back and regroup.\\fThat was bad, \\ebut surely the\\rwhole world hasn't been destroyed.\\fWe can't let them fire another missile\\rthough. We have to stop them.\\f",
+  "cz": "Musime ustoupit a preskupit se.\\fBylo to zle, \\eale snad neni\\rcely svet zniceny.\\fNesmime je ale nechat vypalit\\rdalsi strelu. Musime je zastavit.\\f",
+  "idx": 2224
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368508,
+  "str_off": 6309420,
+  "len": 33,
+  "en": "We need to rethink our strategy.\\f",
+  "cz": "Musime prehodnotit nasi strategii.\\f",
+  "idx": 2225
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368512,
+  "str_off": 6309456,
+  "len": 36,
+  "en": "Sonja,\\e\\rdo you have any good ideas?\\f",
+  "cz": "Sonjo,\\e\\rmas nejaky dobry napad?\\f",
+  "idx": 2226
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368516,
+  "str_off": 6309496,
+  "len": 269,
+  "en": "I do, Father.\\e Leave it to me.\\fFirst, the army in the center must\\rattack the Black Cannon from behind.\\fOnce the troops on the right and\\rleft are assured safe passage,\\feveryone can advance and attack at\\ronce.\\fDon't forget about the laser, either.\\rIt fires every 7 days.\\f",
+  "cz": "Mam, otce.\\e Nech to na mne.\\fNejprve musi armada uprostred\\rzautocit na Black Cannon zezadu.\\fJakmile maji jednotky vpravo a\\rvlevo zajistenu bezpecnou cestu,\\fvsichni mohou postoupit a zautocit\\rnajednou.\\fNezapominejte ani na laser.\\rPali kazdych 7 dni.\\f",
+  "idx": 2227
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368520,
+  "str_off": 6309768,
+  "len": 119,
+  "en": "The pipe seam, \\eBlack Cannon,\\e\\rminicannon, \\eDeathray...\\fStrong firepower is one thing that\\rwould give us an advantage.\\f",
+  "cz": "Spara trubky, \\eBlack Cannon,\\e\\rminicannon, \\eDeathray...\\fSilna palebna sila je neco, co\\rby nam dalo vyhodu.\\f",
+  "idx": 2228
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368524,
+  "str_off": 6309888,
+  "len": 68,
+  "en": "If you need power, I'm your man!\\e\\rI'll slice that pipe like butter!\\f",
+  "cz": "Kdyz potrebujes silu, jsem tu ja!\\e\\rRozkrojim tu trubku jak maslo!\\f",
+  "idx": 2229
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368528,
+  "str_off": 6309960,
+  "len": 112,
+  "en": "Don't y'all forget, I'm the best\\rmarksman there ever was.\\fAnd I got some mighty big guns\\raround here somewhere!\\f",
+  "cz": "Nezapomente, jsem nejlepsi\\rostrelovac vsech dob.\\fA nekde tu mam par pekne\\rvelkych del!\\f",
+  "idx": 2230
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368532,
+  "str_off": 6310076,
+  "len": 60,
+  "en": "Yellow Comet has Kanbei!\\e\\rMy superior troops are matchless!\\f",
+  "cz": "Yellow Comet ma Kanbeie!\\e\\rMe skvele jednotky nemaji soupere!\\f",
+  "idx": 2231
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368536,
+  "str_off": 6310140,
+  "len": 55,
+  "en": "Lest you forget, I do have the best\\rbombers available.\\f",
+  "cz": "Abys nezapomnel, mam ty nejlepsi\\rbombardery, co existuji.\\f",
+  "idx": 2232
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368540,
+  "str_off": 6310196,
+  "len": 171,
+  "en": "You're all so trustworthy.\\fWe've made it this far,\\e and I have\\revery confidence victory will be ours!\\fThe Black Hole Army is on the brink\\rof defeat!\\e Let's push 'em over!\\f",
+  "cz": "Jste vsichni tak spolehlivi.\\fDosli jsme az sem,\\e a jsem pevne\\rpresvedcen, ze vitezstvi bude nase!\\fBlack Hole Army je na pokraji\\rporazky!\\e Dorazme je!\\f",
+  "idx": 2233
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368544,
+  "str_off": 6310368,
+  "len": 8,
+  "en": "Infantry",
+  "cz": "Pechota",
+  "idx": 2234
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368548,
+  "str_off": 6310380,
+  "len": 4,
+  "en": "Mech",
+  "cz": "Mech",
+  "idx": 2235
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368552,
+  "str_off": 6310388,
+  "len": 7,
+  "en": "Neotank",
+  "cz": "Neotank",
+  "idx": 2236
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368556,
+  "str_off": 6310396,
+  "len": 7,
+  "en": "Md Tank",
+  "cz": "Str.tank",
+  "idx": 2237
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368560,
+  "str_off": 6310404,
+  "len": 4,
+  "en": "Tank",
+  "cz": "Tank",
+  "idx": 2238
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368564,
+  "str_off": 6310412,
+  "len": 5,
+  "en": "Recon",
+  "cz": "Pruzk.",
+  "idx": 2239
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368568,
+  "str_off": 6310420,
+  "len": 3,
+  "en": "APC",
+  "cz": "APC",
+  "idx": 2240
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368572,
+  "str_off": 6310424,
+  "len": 6,
+  "en": "Artlry",
+  "cz": "Delos.",
+  "idx": 2241
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368576,
+  "str_off": 6310432,
+  "len": 7,
+  "en": "Rockets",
+  "cz": "Rakety",
+  "idx": 2242
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368580,
+  "str_off": 6310440,
+  "len": 5,
+  "en": "A-Air",
+  "cz": "P-Letad",
+  "idx": 2243
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368584,
+  "str_off": 6310448,
+  "len": 8,
+  "en": "Missiles",
+  "cz": "Strely",
+  "idx": 2244
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368588,
+  "str_off": 6310460,
+  "len": 7,
+  "en": "Fighter",
+  "cz": "Stihac",
+  "idx": 2245
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368592,
+  "str_off": 6310468,
+  "len": 6,
+  "en": "Bomber",
+  "cz": "Bombar",
+  "idx": 2246
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368596,
+  "str_off": 6310476,
+  "len": 6,
+  "en": "B Cptr",
+  "cz": "B Vrt",
+  "idx": 2247
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368600,
+  "str_off": 6310484,
+  "len": 6,
+  "en": "T Cptr",
+  "cz": "T Vrt",
+  "idx": 2248
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368604,
+  "str_off": 6310492,
+  "len": 6,
+  "en": "B Ship",
+  "cz": "Bit.lod",
+  "idx": 2249
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368608,
+  "str_off": 6310500,
+  "len": 7,
+  "en": "Cruiser",
+  "cz": "Krizik",
+  "idx": 2250
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368612,
+  "str_off": 6310508,
+  "len": 6,
+  "en": "Lander",
+  "cz": "Vysad.",
+  "idx": 2251
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368616,
+  "str_off": 6310516,
+  "len": 3,
+  "en": "Sub",
+  "cz": "Pon.",
+  "idx": 2252
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368620,
+  "str_off": 6310520,
+  "len": 5,
+  "en": "M Gun",
+  "cz": "Kulomet",
+  "idx": 2253
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368624,
+  "str_off": 6310528,
+  "len": 7,
+  "en": "Bazooka",
+  "cz": "Bazooka",
+  "idx": 2254
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368628,
+  "str_off": 6310536,
+  "len": 6,
+  "en": "Cannon",
+  "cz": "Delo",
+  "idx": 2255
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368632,
+  "str_off": 6310544,
+  "len": 7,
+  "en": "Rockets",
+  "cz": "Rakety",
+  "idx": 2256
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368636,
+  "str_off": 6310552,
+  "len": 6,
+  "en": "Vulcan",
+  "cz": "Vulcan",
+  "idx": 2257
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368640,
+  "str_off": 6310560,
+  "len": 6,
+  "en": "Cannon",
+  "cz": "Delo",
+  "idx": 2258
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368644,
+  "str_off": 6310568,
+  "len": 6,
+  "en": "Cannon",
+  "cz": "Delo",
+  "idx": 2259
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368648,
+  "str_off": 6310576,
+  "len": 8,
+  "en": "Missiles",
+  "cz": "Strely",
+  "idx": 2260
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368652,
+  "str_off": 6310588,
+  "len": 8,
+  "en": "Missiles",
+  "cz": "Strely",
+  "idx": 2261
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368656,
+  "str_off": 6310600,
+  "len": 8,
+  "en": "Missiles",
+  "cz": "Strely",
+  "idx": 2262
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368660,
+  "str_off": 6310612,
+  "len": 5,
+  "en": "Bombs",
+  "cz": "Bomby",
+  "idx": 2263
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368664,
+  "str_off": 6310620,
+  "len": 5,
+  "en": "Torps",
+  "cz": "Torpeda",
+  "idx": 2264
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368668,
+  "str_off": 6310628,
+  "len": 9,
+  "en": "A-Air Gun",
+  "cz": "P-Letad kanon",
+  "idx": 2265
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368672,
+  "str_off": 6310640,
+  "len": 4,
+  "en": "None",
+  "cz": "Zadne",
+  "idx": 2266
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368676,
+  "str_off": 6310648,
+  "len": 10,
+  "en": "New Cannon",
+  "cz": "Nove delo",
+  "idx": 2267
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368680,
+  "str_off": 6310660,
+  "len": 7,
+  "en": "Neutral",
+  "cz": "Neutralni",
+  "idx": 2268
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368684,
+  "str_off": 6310668,
+  "len": 11,
+  "en": "Orange Star",
+  "cz": "Orange Star",
+  "idx": 2269
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368688,
+  "str_off": 6310680,
+  "len": 9,
+  "en": "Blue Moon",
+  "cz": "Blue Moon",
+  "idx": 2270
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368692,
+  "str_off": 6310692,
+  "len": 11,
+  "en": "Green Earth",
+  "cz": "Green Earth",
+  "idx": 2271
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368696,
+  "str_off": 6310704,
+  "len": 12,
+  "en": "Yellow Comet",
+  "cz": "Yellow Comet",
+  "idx": 2272
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368700,
+  "str_off": 6310720,
+  "len": 10,
+  "en": "Black Hole",
+  "cz": "Black Hole",
+  "idx": 2273
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368704,
+  "str_off": 6310732,
+  "len": 10,
+  "en": "Lucky Star",
+  "cz": "Lucky Star",
+  "idx": 2274
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368708,
+  "str_off": 6310744,
+  "len": 9,
+  "en": "Lady Luck",
+  "cz": "Lady Luck",
+  "idx": 2275
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368712,
+  "str_off": 6310756,
+  "len": 12,
+  "en": "Hyper Repair",
+  "cz": "Hyper Repair",
+  "idx": 2276
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368716,
+  "str_off": 6310772,
+  "len": 13,
+  "en": "Hyper Upgrade",
+  "cz": "Hyper Upgrade",
+  "idx": 2277
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368720,
+  "str_off": 6310788,
+  "len": 11,
+  "en": "Double Time",
+  "cz": "Double Time",
+  "idx": 2278
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368724,
+  "str_off": 6310800,
+  "len": 13,
+  "en": "Victory March",
+  "cz": "Victory March",
+  "idx": 2279
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368728,
+  "str_off": 6310816,
+  "len": 9,
+  "en": "Max Force",
+  "cz": "Max Force",
+  "idx": 2280
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368732,
+  "str_off": 6310828,
+  "len": 9,
+  "en": "Max Blast",
+  "cz": "Max Blast",
+  "idx": 2281
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368736,
+  "str_off": 6310840,
+  "len": 6,
+  "en": "Barter",
+  "cz": "Barter",
+  "idx": 2282
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368740,
+  "str_off": 6310848,
+  "len": 14,
+  "en": "Merchant Union",
+  "cz": "Merchant Union",
+  "idx": 2283
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368744,
+  "str_off": 6310864,
+  "len": 9,
+  "en": "Gold Rush",
+  "cz": "Gold Rush",
+  "idx": 2284
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368748,
+  "str_off": 6310876,
+  "len": 14,
+  "en": "Power of Money",
+  "cz": "Power of Money",
+  "idx": 2285
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368752,
+  "str_off": 6310892,
+  "len": 12,
+  "en": "Snipe Attack",
+  "cz": "Snipe Attack",
+  "idx": 2286
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368756,
+  "str_off": 6310908,
+  "len": 11,
+  "en": "Super Snipe",
+  "cz": "Super Snipe",
+  "idx": 2287
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368760,
+  "str_off": 6310920,
+  "len": 8,
+  "en": "Blizzard",
+  "cz": "Blizzard",
+  "idx": 2288
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368764,
+  "str_off": 6310932,
+  "len": 11,
+  "en": "Winter Fury",
+  "cz": "Winter Fury",
+  "idx": 2289
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368768,
+  "str_off": 6310944,
+  "len": 12,
+  "en": "Morale Boost",
+  "cz": "Morale Boost",
+  "idx": 2290
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368772,
+  "str_off": 6310960,
+  "len": 14,
+  "en": "Samurai Spirit",
+  "cz": "Samurai Spirit",
+  "idx": 2291
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368776,
+  "str_off": 6310976,
+  "len": 15,
+  "en": "Enhanced Vision",
+  "cz": "Enhanced Vision",
+  "idx": 2292
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368780,
+  "str_off": 6310992,
+  "len": 13,
+  "en": "Counter Break",
+  "cz": "Counter Break",
+  "idx": 2293
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368784,
+  "str_off": 6311008,
+  "len": 14,
+  "en": "Copter Command",
+  "cz": "Copter Command",
+  "idx": 2294
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368788,
+  "str_off": 6311024,
+  "len": 16,
+  "en": "Airborne Assault",
+  "cz": "Airborne Assault",
+  "idx": 2295
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368792,
+  "str_off": 6311044,
+  "len": 15,
+  "en": "Lightning Drive",
+  "cz": "Lightning Drive",
+  "idx": 2296
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368796,
+  "str_off": 6311060,
+  "len": 16,
+  "en": "Lightning Strike",
+  "cz": "Lightning Strike",
+  "idx": 2297
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368800,
+  "str_off": 6311080,
+  "len": 7,
+  "en": "Tsunami",
+  "cz": "Tsunami",
+  "idx": 2298
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368804,
+  "str_off": 6311088,
+  "len": 7,
+  "en": "Typhoon",
+  "cz": "Typhoon",
+  "idx": 2299
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368808,
+  "str_off": 6311096,
+  "len": 12,
+  "en": "Turbo Charge",
+  "cz": "Turbo Charge",
+  "idx": 2300
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368812,
+  "str_off": 6311112,
+  "len": 9,
+  "en": "Overdrive",
+  "cz": "Overdrive",
+  "idx": 2301
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368816,
+  "str_off": 6311124,
+  "len": 11,
+  "en": "Brute Force",
+  "cz": "Brute Force",
+  "idx": 2302
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368820,
+  "str_off": 6311136,
+  "len": 13,
+  "en": "Barbaric Blow",
+  "cz": "Barbaric Blow",
+  "idx": 2303
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368824,
+  "str_off": 6311152,
+  "len": 15,
+  "en": "Terrain Tactics",
+  "cz": "Terrain Tactics",
+  "idx": 2304
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368828,
+  "str_off": 6311168,
+  "len": 13,
+  "en": "Prime Tactics",
+  "cz": "Prime Tactics",
+  "idx": 2305
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368832,
+  "str_off": 6311184,
+  "len": 8,
+  "en": "Sideslip",
+  "cz": "Sideslip",
+  "idx": 2306
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368836,
+  "str_off": 6311196,
+  "len": 10,
+  "en": "Sidewinder",
+  "cz": "Sidewinder",
+  "idx": 2307
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368840,
+  "str_off": 6311208,
+  "len": 10,
+  "en": "Black Wave",
+  "cz": "Black Wave",
+  "idx": 2308
+ },
+ {
+  "table": "0x610A38",
+  "ptr_loc": 6368844,
+  "str_off": 6311220,
+  "len": 11,
+  "en": "Black Storm",
+  "cz": "Black Storm",
+  "idx": 2309
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369716,
+  "str_off": 6322772,
+  "len": 10,
+  "en": "Fog of War",
+  "cz": "Mlha valky",
+  "idx": 2310
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369720,
+  "str_off": 6322784,
+  "len": 7,
+  "en": "Climate",
+  "cz": "Pocasi",
+  "idx": 2311
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369724,
+  "str_off": 6322792,
+  "len": 23,
+  "en": "Funds per property held",
+  "cz": "Finance za drzeny objekt",
+  "idx": 2312
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369728,
+  "str_off": 6322816,
+  "len": 10,
+  "en": "Time Limit",
+  "cz": "Casovy limit",
+  "idx": 2313
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369732,
+  "str_off": 6322828,
+  "len": 32,
+  "en": "Number of properties for victory",
+  "cz": "Pocet objektu pro vitezstvi",
+  "idx": 2314
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369736,
+  "str_off": 6322864,
+  "len": 8,
+  "en": "CO Power",
+  "cz": "CO sila",
+  "idx": 2315
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369740,
+  "str_off": 6322876,
+  "len": 12,
+  "en": "No animation",
+  "cz": "Bez animace",
+  "idx": 2316
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369744,
+  "str_off": 6322892,
+  "len": 28,
+  "en": "Battle and capture animation",
+  "cz": "Animace boje a obsazeni",
+  "idx": 2317
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369748,
+  "str_off": 6322924,
+  "len": 21,
+  "en": "Battle animation only",
+  "cz": "Pouze animace boje",
+  "idx": 2318
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369752,
+  "str_off": 6322948,
+  "len": 32,
+  "en": "Battle animation for player only",
+  "cz": "Animace boje jen pro hrace",
+  "idx": 2319
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369756,
+  "str_off": 6322984,
+  "len": 29,
+  "en": "Welcome to the map designer!\\f",
+  "cz": "Vitej v navrhari map!\\f",
+  "idx": 2320
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369760,
+  "str_off": 6323016,
+  "len": 71,
+  "en": "We'll provide you with all the tools\\ryou need to design your own maps!\\f",
+  "cz": "Dame ti vsechny nastroje, ktere\\rpotrebujes k navrhu vlastnich map!\\f",
+  "idx": 2321
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369764,
+  "str_off": 6323088,
+  "len": 53,
+  "en": "If you need instructions,\\rchoose Help from the menu.\\f",
+  "cz": "Pokud potrebujes navod,\\rvyber z menu Napovedu.\\f",
+  "idx": 2322
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369768,
+  "str_off": 6323144,
+  "len": 35,
+  "en": "Press SELECT and\\rthen choose Help.\\f",
+  "cz": "Stiskni SELECT a\\rpak vyber Napovedu.\\f",
+  "idx": 2323
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369772,
+  "str_off": 6323180,
+  "len": 106,
+  "en": "Help contains control explanations, as\\rwell as rules and instructions for\\fplaying on the maps you create.\\f",
+  "cz": "Napoveda vysvetluje ovladani a take\\rpravidla a pokyny pro hrani\\fna mapach, ktere vytvoris.\\f",
+  "idx": 2324
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369776,
+  "str_off": 6323288,
+  "len": 7,
+  "en": "Enjoy!\\f",
+  "cz": "Bav se!\\f",
+  "idx": 2325
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369780,
+  "str_off": 6323296,
+  "len": 18,
+  "en": "Map Requirements :",
+  "cz": "Pozadavky na mapu :",
+  "idx": 2326
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369784,
+  "str_off": 6323316,
+  "len": 35,
+  "en": "At least two armies, with an HQ and",
+  "cz": "Alespon dve armady, kazda s HQ a",
+  "idx": 2327
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369788,
+  "str_off": 6323352,
+  "len": 36,
+  "en": "one or more units or factories each.",
+  "cz": "jednou ci vice jednotkami nebo tovarnami.",
+  "idx": 2328
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369792,
+  "str_off": 6323392,
+  "len": 13,
+  "en": "How to Play :",
+  "cz": "Jak hrat :",
+  "idx": 2329
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369796,
+  "str_off": 6323408,
+  "len": 25,
+  "en": "Select this map in either",
+  "cz": "Vyber tuto mapu v rezimu",
+  "idx": 2330
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369800,
+  "str_off": 6323436,
+  "len": 22,
+  "en": "Vs. mode or Link mode.",
+  "cz": "Vs. nebo rezimu Link.",
+  "idx": 2331
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369804,
+  "str_off": 6323460,
+  "len": 26,
+  "en": "Place the terrain or unit.",
+  "cz": "Umisti teren nebo jednotku.",
+  "idx": 2332
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369808,
+  "str_off": 6323488,
+  "len": 27,
+  "en": "Select the terrain or unit.",
+  "cz": "Vyber teren nebo jednotku.",
+  "idx": 2333
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369812,
+  "str_off": 6323516,
+  "len": 29,
+  "en": "Open the unit-selection menu.",
+  "cz": "Otevri menu vyberu jednotek.",
+  "idx": 2334
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369816,
+  "str_off": 6323548,
+  "len": 32,
+  "en": "Open the terrain-selection menu.",
+  "cz": "Otevri menu vyberu terenu.",
+  "idx": 2335
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369820,
+  "str_off": 6323584,
+  "len": 21,
+  "en": "Display overhead map.",
+  "cz": "Zobraz mapu shora.",
+  "idx": 2336
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369824,
+  "str_off": 6323608,
+  "len": 16,
+  "en": "There's no data.",
+  "cz": "Zadna data.",
+  "idx": 2337
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369828,
+  "str_off": 6323628,
+  "len": 17,
+  "en": "There's no data.\\f",
+  "cz": "Zadna data.\\f",
+  "idx": 2338
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369832,
+  "str_off": 6323648,
+  "len": 23,
+  "en": "Replace current data?\\r\\x17",
+  "cz": "Prepsat soucasna data?\\r\\x17",
+  "idx": 2339
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369836,
+  "str_off": 6323672,
+  "len": 7,
+  "en": "Save?\\r\\x17",
+  "cz": "Ulozit?\\r\\x17",
+  "idx": 2340
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369840,
+  "str_off": 6323680,
+  "len": 12,
+  "en": "Design Map 1",
+  "cz": "Navrh mapy 1",
+  "idx": 2341
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369844,
+  "str_off": 6323696,
+  "len": 12,
+  "en": "Design Map 2",
+  "cz": "Navrh mapy 2",
+  "idx": 2342
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369848,
+  "str_off": 6323712,
+  "len": 12,
+  "en": "Design Map 3",
+  "cz": "Navrh mapy 3",
+  "idx": 2343
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369852,
+  "str_off": 6323728,
+  "len": 5,
+  "en": "\\x1F\\x1FSea",
+  "cz": "\\x1F\\x1FMore",
+  "idx": 2344
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369856,
+  "str_off": 6323736,
+  "len": 7,
+  "en": "\\x1F\\x1FPlain",
+  "cz": "\\x1F\\x1FPlan",
+  "idx": 2345
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369860,
+  "str_off": 6323744,
+  "len": 5,
+  "en": "\\x1F\\x1FMtn",
+  "cz": "\\x1F\\x1FHora",
+  "idx": 2346
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369864,
+  "str_off": 6323752,
+  "len": 6,
+  "en": "\\x1F\\x1FWood",
+  "cz": "\\x1F\\x1FLes",
+  "idx": 2347
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369868,
+  "str_off": 6323760,
+  "len": 6,
+  "en": "Random",
+  "cz": "Nahodne",
+  "idx": 2348
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369872,
+  "str_off": 6323768,
+  "len": 31,
+  "en": "Fill the entire map with sea?\\r\\x17",
+  "cz": "Vyplnit celou mapu morem?\\r\\x17",
+  "idx": 2349
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369876,
+  "str_off": 6323800,
+  "len": 34,
+  "en": "Fill the entire map with plains?\\r\\x17",
+  "cz": "Vyplnit celou mapu planinami?\\r\\x17",
+  "idx": 2350
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369880,
+  "str_off": 6323836,
+  "len": 37,
+  "en": "Fill the entire map with mountains?\\r\\x17",
+  "cz": "Vyplnit celou mapu horami?\\r\\x17",
+  "idx": 2351
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369884,
+  "str_off": 6323876,
+  "len": 33,
+  "en": "Fill the entire map with woods?\\r\\x17",
+  "cz": "Vyplnit celou mapu lesy?\\r\\x17",
+  "idx": 2352
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369888,
+  "str_off": 6323912,
+  "len": 32,
+  "en": "Let the computer design a map?\\r\\x17",
+  "cz": "Necht navrhne mapu pocitac?\\r\\x17",
+  "idx": 2353
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369892,
+  "str_off": 6323948,
+  "len": 7,
+  "en": "Exit?\\r\\x17",
+  "cz": "Odejit?\\r\\x17",
+  "idx": 2354
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369896,
+  "str_off": 6323956,
+  "len": 22,
+  "en": "Exit without saving?\\r\\x17",
+  "cz": "Odejit bez ulozeni?\\r\\x17",
+  "idx": 2355
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369900,
+  "str_off": 6323980,
+  "len": 6,
+  "en": "\\x1F\\x1FLoad",
+  "cz": "\\x1F\\x1FNacist",
+  "idx": 2356
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369904,
+  "str_off": 6323988,
+  "len": 6,
+  "en": "\\x1F\\x1FSave",
+  "cz": "\\x1F\\x1FUlozit",
+  "idx": 2357
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369908,
+  "str_off": 6323996,
+  "len": 13,
+  "en": "\\x1F\\x1FName\\x18Entry\\x1F",
+  "cz": "\\x1F\\x1FNazev\\x18Zadat\\x1F",
+  "idx": 2358
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369912,
+  "str_off": 6324012,
+  "len": 6,
+  "en": "\\x1F\\x1FFile",
+  "cz": "\\x1F\\x1FSoubor",
+  "idx": 2359
+ },
+ {
+  "table": "0x6131B4",
+  "ptr_loc": 6369916,
+  "str_off": 6324020,
+  "len": 6,
+  "en": "\\x1F\\x1FHelp",
+  "cz": "\\x1F\\x1FNapoveda",
+  "idx": 2360
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369932,
+  "str_off": 6324052,
+  "len": 10,
+  "en": "\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F",
+  "cz": "\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F\\x1F",
+  "idx": 2361
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369936,
+  "str_off": 6324064,
+  "len": 65,
+  "en": "You must really like doing\\rthat over and over again.\\fKeep it up.\\f",
+  "cz": "Asi te fakt bavi delat\\rto porad dokola.\\fJen tak dal.\\f",
+  "idx": 2362
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369940,
+  "str_off": 6324132,
+  "len": 4,
+  "en": "Nell",
+  "cz": "Nell",
+  "idx": 2363
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369944,
+  "str_off": 6324140,
+  "len": 4,
+  "en": "Andy",
+  "cz": "Andy",
+  "idx": 2364
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369948,
+  "str_off": 6324148,
+  "len": 3,
+  "en": "Max",
+  "cz": "Max",
+  "idx": 2365
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369952,
+  "str_off": 6324152,
+  "len": 4,
+  "en": "Olaf",
+  "cz": "Olaf",
+  "idx": 2366
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369956,
+  "str_off": 6324160,
+  "len": 4,
+  "en": "Sami",
+  "cz": "Sami",
+  "idx": 2367
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369960,
+  "str_off": 6324168,
+  "len": 4,
+  "en": "Grit",
+  "cz": "Grit",
+  "idx": 2368
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369964,
+  "str_off": 6324176,
+  "len": 6,
+  "en": "Kanbei",
+  "cz": "Kanbei",
+  "idx": 2369
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369968,
+  "str_off": 6324184,
+  "len": 5,
+  "en": "Sonja",
+  "cz": "Sonja",
+  "idx": 2370
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369972,
+  "str_off": 6324192,
+  "len": 5,
+  "en": "Eagle",
+  "cz": "Eagle",
+  "idx": 2371
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369976,
+  "str_off": 6324200,
+  "len": 5,
+  "en": "Drake",
+  "cz": "Drake",
+  "idx": 2372
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369980,
+  "str_off": 6324208,
+  "len": 5,
+  "en": "Sturm",
+  "cz": "Sturm",
+  "idx": 2373
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369984,
+  "str_off": 6324216,
+  "len": 4,
+  "en": "Flak",
+  "cz": "Flak",
+  "idx": 2374
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369988,
+  "str_off": 6324224,
+  "len": 4,
+  "en": "Lash",
+  "cz": "Lash",
+  "idx": 2375
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369992,
+  "str_off": 6324232,
+  "len": 5,
+  "en": "Adder",
+  "cz": "Adder",
+  "idx": 2376
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6369996,
+  "str_off": 6324240,
+  "len": 5,
+  "en": "Hawke",
+  "cz": "Hawke",
+  "idx": 2377
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6370000,
+  "str_off": 6324248,
+  "len": 5,
+  "en": "Hachi",
+  "cz": "Hachi",
+  "idx": 2378
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6370004,
+  "str_off": 6324256,
+  "len": 5,
+  "en": "Colin",
+  "cz": "Colin",
+  "idx": 2379
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6370008,
+  "str_off": 6324264,
+  "len": 4,
+  "en": "Jess",
+  "cz": "Jess",
+  "idx": 2380
+ },
+ {
+  "table": "0x61328C",
+  "ptr_loc": 6370012,
+  "str_off": 6324272,
+  "len": 6,
+  "en": "Sensei",
+  "cz": "Sensei",
+  "idx": 2381
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6368996,
+  "str_off": 6311592,
+  "len": 3,
+  "en": "Out",
+  "cz": "Ven",
+  "idx": 2382
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369000,
+  "str_off": 6311596,
+  "len": 5,
+  "en": "Plain",
+  "cz": "Plan",
+  "idx": 2383
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369004,
+  "str_off": 6311604,
+  "len": 5,
+  "en": "River",
+  "cz": "Reka",
+  "idx": 2384
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369008,
+  "str_off": 6311612,
+  "len": 2,
+  "en": "Mt",
+  "cz": "Hr",
+  "idx": 2385
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369012,
+  "str_off": 6311616,
+  "len": 4,
+  "en": "Wood",
+  "cz": "Les",
+  "idx": 2386
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369016,
+  "str_off": 6311624,
+  "len": 4,
+  "en": "Road",
+  "cz": "Cesta",
+  "idx": 2387
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369020,
+  "str_off": 6311632,
+  "len": 4,
+  "en": "City",
+  "cz": "Mesto",
+  "idx": 2388
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369024,
+  "str_off": 6311640,
+  "len": 3,
+  "en": "Sea",
+  "cz": "More",
+  "idx": 2389
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369028,
+  "str_off": 6311644,
+  "len": 2,
+  "en": "HQ",
+  "cz": "HQ",
+  "idx": 2390
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369032,
+  "str_off": 6311648,
+  "len": 7,
+  "en": "Airport",
+  "cz": "Letiste",
+  "idx": 2391
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369036,
+  "str_off": 6311656,
+  "len": 4,
+  "en": "Port",
+  "cz": "Pristav",
+  "idx": 2392
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369040,
+  "str_off": 6311664,
+  "len": 6,
+  "en": "Bridge",
+  "cz": "Most",
+  "idx": 2393
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369044,
+  "str_off": 6311672,
+  "len": 5,
+  "en": "Shoal",
+  "cz": "Melcina",
+  "idx": 2394
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369048,
+  "str_off": 6311680,
+  "len": 4,
+  "en": "Base",
+  "cz": "Zaklad.",
+  "idx": 2395
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369052,
+  "str_off": 6311688,
+  "len": 8,
+  "en": "Pipeline",
+  "cz": "Potrubi",
+  "idx": 2396
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369056,
+  "str_off": 6311700,
+  "len": 4,
+  "en": "Silo",
+  "cz": "Silo",
+  "idx": 2397
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369060,
+  "str_off": 6311708,
+  "len": 4,
+  "en": "Reef",
+  "cz": "Utes",
+  "idx": 2398
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369064,
+  "str_off": 6311716,
+  "len": 3,
+  "en": "Lab",
+  "cz": "Lab",
+  "idx": 2399
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369068,
+  "str_off": 6311720,
+  "len": 10,
+  "en": "Minicannon",
+  "cz": "Minicannon",
+  "idx": 2400
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369072,
+  "str_off": 6311732,
+  "len": 6,
+  "en": "Cannon",
+  "cz": "Delo",
+  "idx": 2401
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369076,
+  "str_off": 6311740,
+  "len": 5,
+  "en": "Laser",
+  "cz": "Laser",
+  "idx": 2402
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369080,
+  "str_off": 6311748,
+  "len": 7,
+  "en": "Volcano",
+  "cz": "Sopka",
+  "idx": 2403
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369084,
+  "str_off": 6311756,
+  "len": 7,
+  "en": "Factory",
+  "cz": "Tovarna",
+  "idx": 2404
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369088,
+  "str_off": 6311764,
+  "len": 8,
+  "en": "Deathray",
+  "cz": "Deathray",
+  "idx": 2405
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369092,
+  "str_off": 6311776,
+  "len": 7,
+  "en": "Blocked",
+  "cz": "Zablok.",
+  "idx": 2406
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369096,
+  "str_off": 6311784,
+  "len": 73,
+  "en": "A rich, green plain.\\rEasy to traverse,\\rbut offers little\\rdefensive cover.",
+  "cz": "Bujna zelena plan.\\rSnadny prechod, ale\\rposkytuje malo\\robranneho krytu.",
+  "idx": 2407
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369100,
+  "str_off": 6311860,
+  "len": 61,
+  "en": "A gentle, flowing\\rriver. Only infantry\\runits can ford\\rrivers.",
+  "cz": "Klidna tekouci reka.\\rReky muze prebrodit\\rjen pechota.",
+  "idx": 2408
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369104,
+  "str_off": 6311924,
+  "len": 71,
+  "en": "A steep mountain.\\rInfantry units add\\r3 to their vision\\rrange from here.",
+  "cz": "Strma hora. Pechota\\rsi odtud zvysi\\rdohled o 3.",
+  "idx": 2409
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369108,
+  "str_off": 6311996,
+  "len": 82,
+  "en": "In Fog of War, units\\rhidden here can only\\rbe seen by adjacent\\runits and air units.",
+  "cz": "V Mlze valky vidi\\rzde skryte jednotky\\rjen sousedni a\\rvzdusne jednotky.",
+  "idx": 2410
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369112,
+  "str_off": 6312080,
+  "len": 66,
+  "en": "A paved road.\\rEasy to traverse,\\rbut offers little\\rdefensive cover.",
+  "cz": "Zpevnena cesta.\\rSnadny prechod, ale\\rposkytuje malo\\robranneho krytu.",
+  "idx": 2411
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369116,
+  "str_off": 6312148,
+  "len": 66,
+  "en": "A normal city.\\rGround units gain\\rsupplies and HP\\rin allied cities.",
+  "cz": "Bezne mesto. Pozemni\\rjednotky ziskaji ve\\rspojeneckych mestech\\rzasoby a HP.",
+  "idx": 2412
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369120,
+  "str_off": 6312216,
+  "len": 60,
+  "en": "A body of water.\\rOnly naval and\\rair units can\\rtraverse seas.",
+  "cz": "Vodni plocha. More\\rmohou prekonat jen\\rnamorni a vzdusne\\rjednotky.",
+  "idx": 2413
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369124,
+  "str_off": 6312280,
+  "len": 82,
+  "en": "An army HQ. Battle\\rends if it's \\x83captured\\x80.\\rGround units get HP\\rand supplies here.",
+  "cz": "HQ armady. Pri \\x83obsazeni\\x80\\rbitva konci. Pozemni\\rjednotky zde ziskaji\\rHP a zasoby.",
+  "idx": 2414
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369128,
+  "str_off": 6312364,
+  "len": 70,
+  "en": "An air base. Allied\\rbases deploy, supply,\\rand restore HP\\rto air units.",
+  "cz": "Letecka zakladna.\\rSpojenecke zakl. zde\\rnasazuji, zasobuji a\\robnovuji HP letadlum.",
+  "idx": 2415
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369132,
+  "str_off": 6312436,
+  "len": 73,
+  "en": "A naval base. Allied\\rbases deploy, supply,\\rand restore HP\\rto naval units.",
+  "cz": "Namorni zakladna.\\rSpojenecke zakl. zde\\rnasazuji, zasobuji a\\robnovuji HP lodim.",
+  "idx": 2416
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369136,
+  "str_off": 6312512,
+  "len": 73,
+  "en": "A bridge allows\\runits to traverse\\rrivers, but offers\\rno terrain benefits.",
+  "cz": "Most umoznuje\\rjednotkam prejit\\rreky, ale nedava\\rzadne vyhody terenu.",
+  "idx": 2417
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369140,
+  "str_off": 6312588,
+  "len": 57,
+  "en": "A sandy shoal.\\r\\x82Lander\\x80 units\\rload and unload\\runits here.",
+  "cz": "Piscita melcina.\\rJednotky \\x82Lander\\x80\\rzde nakladaji a\\rvykladaji jednotky.",
+  "idx": 2418
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369144,
+  "str_off": 6312648,
+  "len": 68,
+  "en": "A base. Allied bases\\rdeploy, supply,\\rand restore HP\\rto ground units.",
+  "cz": "Zakladna. Spojenecke\\rzakl. nasazuji,\\rzasobuji a obnovuji\\rHP pozemnim jednotkam.",
+  "idx": 2419
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369148,
+  "str_off": 6312720,
+  "len": 83,
+  "en": "A Black Hole pipeline.\\rThick armor renders\\rit indestructible. No\\runits can pass it.",
+  "cz": "Potrubi Black Hole.\\rSilny panic ho cini\\rneznicitelnym. Zadna\\rjednotka jim neprojde.",
+  "idx": 2420
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369152,
+  "str_off": 6312804,
+  "len": 83,
+  "en": "A Black Hole pipeline.\\rThe armor is weaker\\rhere than on other\\rsections of the pipe.",
+  "cz": "Potrubi Black Hole.\\rPanic je zde slabsi\\rnez na ostatnich\\rcastech potrubi.",
+  "idx": 2421
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369156,
+  "str_off": 6312888,
+  "len": 82,
+  "en": "A missile silo. Has a\\rhuge blast radius &\\runlimited range, but\\rcan only fire once.",
+  "cz": "Raketove silo. Ma\\robri dosah vybuchu i\\rneomezeny dostrel,\\rale pali jen jednou.",
+  "idx": 2422
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369160,
+  "str_off": 6312972,
+  "len": 82,
+  "en": "In Fog of War, units\\rhidden here can only\\rbe seen by adjacent\\runits and air units.",
+  "cz": "V Mlze valky vidi\\rzde skryte jednotky\\rjen sousedni a\\rvzdusne jednotky.",
+  "idx": 2423
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369164,
+  "str_off": 6313056,
+  "len": 71,
+  "en": "A Black Hole lab.\\rNew tank designs\\rare currently being\\rresearched here.",
+  "cz": "Laborator Black Hole.\\rPrave se zde vyvijeji\\rnove navrhy tanku.",
+  "idx": 2424
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369168,
+  "str_off": 6313128,
+  "len": 73,
+  "en": "A Lash invention.\\rA powerful cannon\\rwith unlimited ammo\\rand a huge range.",
+  "cz": "Lashin vynalez.\\rMocne delo s\\rneomezenou munici\\ra obrim dostrelem.",
+  "idx": 2425
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369172,
+  "str_off": 6313204,
+  "len": 71,
+  "en": "A Lash invention.\\rLess powerful than\\rthe cannon, but still\\rdevastating.",
+  "cz": "Lashin vynalez.\\rSlabsi nez velke\\rdelo, ale stale\\rzniciujici.",
+  "idx": 2426
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369176,
+  "str_off": 6313276,
+  "len": 65,
+  "en": "A Lash invention.\\rThis laser slices\\rthrough friend\\rand foe alike.",
+  "cz": "Lashin vynalez.\\rTento laser projde\\rpritelem i\\rnepritelem stejne.",
+  "idx": 2427
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369180,
+  "str_off": 6313344,
+  "len": 73,
+  "en": "A large volcano.\\rIt erupts from time\\rto time. No units\\rcan traverse here.",
+  "cz": "Velka sopka. Cas od\\rcasu vybuchne. Zadna\\rjednotka tudy\\rneprojde.",
+  "idx": 2428
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369184,
+  "str_off": 6313420,
+  "len": 63,
+  "en": "A Black Hole\\rfactory. It can\\rdeploy any and all\\rtypes of units.",
+  "cz": "Tovarna Black Hole.\\rMuze nasadit\\rjakekoli a vsechny\\rtypy jednotek.",
+  "idx": 2429
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369188,
+  "str_off": 6313484,
+  "len": 72,
+  "en": "Black Hole's pride\\rand joy. This mighty\\rlaser cannon fires\\revery 7 days.",
+  "cz": "Pycha a radost Black\\rHole. Toto mocne\\rlaserove delo pali\\rkazdych 7 dni.",
+  "idx": 2430
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369192,
+  "str_off": 6313560,
+  "len": 76,
+  "en": "Black Hole property.\\rIt's heavily armored\\rand cannot be\\rentered or attacked.",
+  "cz": "Objekt Black Hole.\\rJe silne pancirovany\\ra nelze do nej vstoupit\\rani na nej zautocit.",
+  "idx": 2431
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369196,
+  "str_off": 6313640,
+  "len": 5,
+  "en": "Units",
+  "cz": "Jednotky",
+  "idx": 2432
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369200,
+  "str_off": 6313648,
+  "len": 4,
+  "en": "Lost",
+  "cz": "Ztraceno",
+  "idx": 2433
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369204,
+  "str_off": 6313656,
+  "len": 9,
+  "en": "Remaining",
+  "cz": "Zbyva",
+  "idx": 2434
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369208,
+  "str_off": 6313668,
+  "len": 3,
+  "en": "Def",
+  "cz": "Obr",
+  "idx": 2435
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369212,
+  "str_off": 6313672,
+  "len": 6,
+  "en": "Repair",
+  "cz": "Oprava",
+  "idx": 2436
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369216,
+  "str_off": 6313680,
+  "len": 4,
+  "en": "Free",
+  "cz": "Zdarma",
+  "idx": 2437
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369220,
+  "str_off": 6313688,
+  "len": 13,
+  "en": "Neutral Bases",
+  "cz": "Neutralni zakl.",
+  "idx": 2438
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369224,
+  "str_off": 6313704,
+  "len": 6,
+  "en": "Earned",
+  "cz": "Ziskano",
+  "idx": 2439
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369228,
+  "str_off": 6313712,
+  "len": 5,
+  "en": "Total",
+  "cz": "Celkem",
+  "idx": 2440
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369232,
+  "str_off": 6313720,
+  "len": 4,
+  "en": "None",
+  "cz": "Zadne",
+  "idx": 2441
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369236,
+  "str_off": 6313728,
+  "len": 3,
+  "en": "Day",
+  "cz": "Den",
+  "idx": 2442
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369240,
+  "str_off": 6313732,
+  "len": 6,
+  "en": "Income",
+  "cz": "Prijem",
+  "idx": 2443
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369244,
+  "str_off": 6313740,
+  "len": 4,
+  "en": "----",
+  "cz": "----",
+  "idx": 2444
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369248,
+  "str_off": 6313748,
+  "len": 4,
+  "en": "Land",
+  "cz": "Souse",
+  "idx": 2445
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369252,
+  "str_off": 6313756,
+  "len": 3,
+  "en": "Sea",
+  "cz": "More",
+  "idx": 2446
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369256,
+  "str_off": 6313760,
+  "len": 3,
+  "en": "Air",
+  "cz": "Vzduch",
+  "idx": 2447
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369260,
+  "str_off": 6313764,
+  "len": 5,
+  "en": "Bases",
+  "cz": "Zaklad.",
+  "idx": 2448
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369264,
+  "str_off": 6313772,
+  "len": 5,
+  "en": "Funds",
+  "cz": "Finance",
+  "idx": 2449
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369268,
+  "str_off": 6313780,
+  "len": 4,
+  "en": "Unit",
+  "cz": "Jednotka",
+  "idx": 2450
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369272,
+  "str_off": 6313788,
+  "len": 2,
+  "en": "HP",
+  "cz": "HP",
+  "idx": 2451
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369276,
+  "str_off": 6313792,
+  "len": 3,
+  "en": "Gas",
+  "cz": "Palivo",
+  "idx": 2452
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369280,
+  "str_off": 6313796,
+  "len": 6,
+  "en": "Rounds",
+  "cz": "Munice",
+  "idx": 2453
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369284,
+  "str_off": 6313804,
+  "len": 9,
+  "en": "Select CO",
+  "cz": "Vyber CO",
+  "idx": 2454
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369288,
+  "str_off": 6313816,
+  "len": 12,
+  "en": "Select Color",
+  "cz": "Vyber barvu",
+  "idx": 2455
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369292,
+  "str_off": 6313832,
+  "len": 108,
+  "en": "A competent Orange\\rStar CO. Attended\\rmilitary school with\\rGrit and Max.\\rHit: Willful students\\rMiss: Downtime",
+  "cz": "Schopny velitel\\rOrange Star. Chodil\\rna vojenskou skolu s\\rGritem a Maxem.\\rMa rad: zvedave zaky\\rNemusi: necinnost",
+  "idx": 2456
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369296,
+  "str_off": 6313944,
+  "len": 100,
+  "en": "Sometimes strikes\\rwith more force than\\rexpected. She'll be\\rthe first to tell you\\rshe was born lucky.",
+  "cz": "Obcas udeti vetsi\\rsilou, nez se ceka.\\rRada vam rekne, ze\\rse narodila se\\rstestim.",
+  "idx": 2457
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369300,
+  "str_off": 6314048,
+  "len": 89,
+  "en": "Improves her chance\\rto strike with\\rincreased firepower,\\rand damages multiple\\rfoes. Lucky!",
+  "cz": "Zvysi sanci na uder\\rs vetsi palebnou\\rsilou a zasahne vice\\rnepratel. Stesti!",
+  "idx": 2458
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369304,
+  "str_off": 6314140,
+  "len": 90,
+  "en": "Improves her chance\\rto strike with\\rincreased firepower,\\rand damages even\\rmore foes. Lucky!",
+  "cz": "Zvysi sanci na uder\\rs vetsi palebnou\\rsilou a zasahne jeste\\rvice nepratel. Stesti!",
+  "idx": 2459
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369308,
+  "str_off": 6314232,
+  "len": 120,
+  "en": "A mechanical boy\\rwonder. Impulsive to a\\rfault, he's fiercely\\rprotective of friends.\\rHit: Mechanics\\rMiss: Waking up early",
+  "cz": "Mlady technicky\\rzazrak. Az prilis\\rimpulzivni, urputne\\rchrani sve pratele.\\rMa rad: mechaniku\\rNemusi: rano vstavat",
+  "idx": 2460
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369312,
+  "str_off": 6314356,
+  "len": 102,
+  "en": "No real weaknesses.\\rProficient with air,\\rsea, and land units.\\rReady to fight where-\\rever and whenever.",
+  "cz": "Zadne slabiny. Zdatny\\rse vzdusnymi, namor-\\rnimi i pozemnimi jed-\\rnotkami. Pripraven\\rbojovat kdekoli a kdykoli.",
+  "idx": 2461
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369316,
+  "str_off": 6314460,
+  "len": 27,
+  "en": "Restores 2 HP\\rto all units.",
+  "cz": "Obnovi 2 HP\\rvsem jednotkam.",
+  "idx": 2462
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369320,
+  "str_off": 6314488,
+  "len": 84,
+  "en": "Restores 5 HP to all\\runits. Firepower\\rrises, and unit\\rmovement increases\\rby 1 space.",
+  "cz": "Obnovi 5 HP vsem\\rjednotkam. Vzroste\\rpalebna sila a pohyb\\rjednotek se zvysi\\ro 1 pole.",
+  "idx": 2463
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369324,
+  "str_off": 6314576,
+  "len": 117,
+  "en": "A brave and loyal\\rfriend and an earnest\\rwarrior who hates\\rdeception and trickery.\\rHit: Weight training\\rMiss: Studying",
+  "cz": "Statecny a verny\\rpritel a opravdovy\\rbojovnik, jenz nesnasi\\rlsti a podvody.\\rMa rad: posilovani\\rNemusi: uceni",
+  "idx": 2464
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369328,
+  "str_off": 6314696,
+  "len": 102,
+  "en": "Non-infantry direct-\\rcombat units are tops.\\rIndirect-combat troops\\rare limited in range\\rand firepower.",
+  "cz": "Nepechotni jednotky\\rprimeho boje jsou\\rspicka. Jednotky\\rneprimeho boje maji\\romezeny dosah i silu.",
+  "idx": 2465
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369332,
+  "str_off": 6314800,
+  "len": 89,
+  "en": "Firepower of direct-\\rcombat units rises\\rslightly, and unit\\rmovement increases\\rby 1 space.",
+  "cz": "Palebna sila jednotek\\rprimeho boje mirne\\rvzroste a pohyb\\rjednotek se zvysi\\ro 1 pole.",
+  "idx": 2466
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369336,
+  "str_off": 6314892,
+  "len": 86,
+  "en": "Direct-combat units\\rreceive firepower\\rboost, and their\\rmovement increases\\rby 2 spaces.",
+  "cz": "Jednotky primeho boje\\rziskaji posilu palebne\\rsily a jejich pohyb\\rse zvysi o 2 pole.",
+  "idx": 2467
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369340,
+  "str_off": 6314980,
+  "len": 116,
+  "en": "A pompous braggart\\rwhose tactical prowess\\rhas earned him the\\rrespect of his peers.\\rHit: Warm boots\\rMiss: Rain clouds",
+  "cz": "Domyslivy chvastoun,\\rjehoz takticke umeni\\rmu ziskalo respekt\\rkolegu.\\rMa rad: teple boty\\rNemusi: destove mraky",
+  "idx": 2468
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369344,
+  "str_off": 6315100,
+  "len": 124,
+  "en": "Winter weather poses\\rno problem for Olaf or\\rhis troops. Rain,\\rhowever, does. His\\rgruff nature belies\\rhis overall competence.",
+  "cz": "Zimni pocasi neni pro\\rOlafa ani jeho vojaky\\rproblem. Dest ale ano.\\rJeho drsna povaha\\rskryva jeho celkovou\\rschopnost.",
+  "idx": 2469
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369348,
+  "str_off": 6315228,
+  "len": 70,
+  "en": "Causes snow to fall,\\rwhich adversely\\raffects all units\\rexcept his own.",
+  "cz": "Spusti snezeni, ktere\\rnepriznive ovlivni\\rvsechny jednotky\\rkrome jeho vlastnich.",
+  "idx": 2470
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369352,
+  "str_off": 6315300,
+  "len": 96,
+  "en": "A mighty blizzard\\rreduces enemy\\rmovement and causes\\r2 HP of damage to\\rall deployed enemy\\rtroops.",
+  "cz": "Mocna vanice snizi\\rpohyb nepritele a\\rzpusobi 2 HP poskozeni\\rvsem nasazenym\\rnepratelskym jednotkam.",
+  "idx": 2471
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369356,
+  "str_off": 6315400,
+  "len": 118,
+  "en": "A strong-willed soldier\\rwho backs up Max and\\rAndy. A graduate of\\rspecial-forces training.\\rHit: Chocolate\\rMiss: Cowards",
+  "cz": "Houzevnata vojacka,\\rktera kryje Maxe a\\rAndyho. Absolventka\\rvycviku specialnich sil.\\rMa rada: cokoladu\\rNemusi: zbabelce",
+  "idx": 2472
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369360,
+  "str_off": 6315520,
+  "len": 120,
+  "en": "Being an infantry\\rspecialist, her foot\\rsoldiers move farther,\\rcapture faster, and\\rcause more damage.\\rWeak vs. vehicles.\\r",
+  "cz": "Jako specialistka na\\rpechotu maji jeji pesi\\rvetsi dosah, rychleji\\robsazuji a vice\\rposkozuji.\\rSlaba proti vozidlum.\\r",
+  "idx": 2473
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369364,
+  "str_off": 6315644,
+  "len": 101,
+  "en": "Infantry and mech\\runits receive a\\rmovement bonus of\\r1 space. Their attack\\rstrength increases\\ras well.",
+  "cz": "Pechota a mechy\\rziskaji bonus pohybu\\r1 pole. Zvysi se i\\rjejich sila utoku.",
+  "idx": 2474
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369368,
+  "str_off": 6315748,
+  "len": 117,
+  "en": "Increases all foot\\rsoldiers' movement\\rrange by 2 spaces.\\rThey can capture in\\rone turn even if\\rthey're not at full HP.",
+  "cz": "Zvysi pohyb vsech\\rpesich o 2 pole.\\rMohou obsadit za\\rjeden tah, i kdyz\\rnemaji plne HP.",
+  "idx": 2475
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369372,
+  "str_off": 6315868,
+  "len": 104,
+  "en": "Laid-back style masks\\rhis dependability.\\rA peerless marksman.\\rWorks well with Olaf.\\rHit: Cats\\rMiss: Rats",
+  "cz": "Pohodovy styl skryva\\rjeho spolehlivost.\\rBezkonkurencni strelec.\\rDobre vychazi s Olafem.\\rMa rad: kocky\\rNemusi: krysy",
+  "idx": 2476
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369376,
+  "str_off": 6315976,
+  "len": 113,
+  "en": "Range for distance\\rweapons is 1 space\\rgreater than other\\rCOs. They cause more\\rdamage, too. Weak in\\rdirect combat.",
+  "cz": "Dostrel zbrani na\\rdalku je o 1 pole\\rvetsi nez u jinych CO.\\rTake vice poskozuji.\\rSlaby v primem boji.",
+  "idx": 2477
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369380,
+  "str_off": 6316092,
+  "len": 94,
+  "en": "Increases range of\\rdistance weapons by\\r1 space. Attack\\rstrength of these\\runits also increases.",
+  "cz": "Zvysi dostrel zbrani\\rna dalku o 1 pole.\\rZvysi se i sila\\rutoku techto jednotek.",
+  "idx": 2478
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369384,
+  "str_off": 6316188,
+  "len": 93,
+  "en": "Distance weapons can\\rshoot 2 spaces\\rfarther than normal.\\rThey also receive a\\rfirepower bonus.",
+  "cz": "Zbrane na dalku\\rstrili o 2 pole dale\\rnez obvykle. Take\\rziskaji bonus\\rpalebne sily.",
+  "idx": 2479
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369388,
+  "str_off": 6316284,
+  "len": 106,
+  "en": "The emperor of Yellow\\rComet. A skilled CO\\rwho has a soft spot\\rfor his daughter.\\rHit: Sonja\\rMiss: Computers",
+  "cz": "Cisar Yellow Comet.\\rSchopny velitel, ktery\\rma slabost pro svou\\rdceru.\\rMa rad: Sonju\\rNemusi: pocitace",
+  "idx": 2480
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369392,
+  "str_off": 6316392,
+  "len": 83,
+  "en": "All units have high\\roffensive and\\rdefensive abilities,\\rbut are expensive\\rto deploy.",
+  "cz": "Vsechny jednotky maji\\rvysoke utocne i\\robranne schopnosti,\\rale jejich nasazeni\\rje drahe.",
+  "idx": 2481
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369396,
+  "str_off": 6316476,
+  "len": 39,
+  "en": "Increases attack\\rstrength of all units.",
+  "cz": "Zvysi silu utoku\\rvsech jednotek.",
+  "idx": 2482
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369400,
+  "str_off": 6316516,
+  "len": 122,
+  "en": "Strengthens offensive\\rand defensive abilities\\rof all units. Damage\\rinflicted when counter-\\rattacking is multiplied\\rby 1.5.",
+  "cz": "Posili utocne i obranne\\rschopnosti vsech\\rjednotek. Poskozeni pri\\rprotiutoku se nasobi\\r1,5.",
+  "idx": 2483
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369404,
+  "str_off": 6316640,
+  "len": 104,
+  "en": "Kanbei's daughter.\\rCool and collected,\\rshe likes to plan\\rbefore making a move.\\rHit: Computers\\rMiss: Bugs",
+  "cz": "Kanbeiova dcera.\\rChladna a klidna, rada\\rplanuje, nez se\\rk necemu rozhodne.\\rMa rada: pocitace\\rNemusi: chyby",
+  "idx": 2484
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369408,
+  "str_off": 6316748,
+  "len": 118,
+  "en": "All units have an\\rextended vision\\rrange in Fog of War.\\rHides HP intel from\\rfoes. Counterattacks\\rare slightly stronger.",
+  "cz": "Vsechny jednotky maji\\rrozsireny dohled v\\rMlze valky. Skryva HP\\rpred nepriteli. Proti-\\rutoky jsou o neco\\rsilnejsi.",
+  "idx": 2485
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369412,
+  "str_off": 6316868,
+  "len": 95,
+  "en": "Increases the vision\\rrange of all units by\\r1 space and allows\\rthem to see into woods\\rand reefs.",
+  "cz": "Zvysi dohled vsech\\rjednotek o 1 pole a\\rumozni jim videt do\\rlesu a utesu.",
+  "idx": 2486
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369416,
+  "str_off": 6316964,
+  "len": 126,
+  "en": "Increases the vision\\rrange of all units by\\r1 space and allows\\rthem to see into woods\\rand reefs. Counter-\\rattacks are stronger.",
+  "cz": "Zvysi dohled vsech\\rjednotek o 1 pole a\\rumozni jim videt do\\rlesu a utesu. Proti-\\rutoky jsou silnejsi.",
+  "idx": 2487
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369420,
+  "str_off": 6317092,
+  "len": 117,
+  "en": "Green Earth's daring\\rpilot hero. Joined the\\rair force to honor his\\rfather's legacy.\\rHit: Lucky goggles\\rMiss: Swimming",
+  "cz": "Odvazny pilot a hrdina\\rGreen Earth. Vstoupil\\rk letectvu na pocest\\rodkazu sveho otce.\\rMa rad: stastne bryle\\rNemusi: plavani",
+  "idx": 2488
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369424,
+  "str_off": 6317212,
+  "len": 118,
+  "en": "Air units use less fuel\\rthan those of other\\rarmies. They have\\rsuperior offense\\rand defense, too.\\rWeak vs. naval units.",
+  "cz": "Vzdusne jednotky\\rspotrebuji mene paliva\\rnez u jinych armad.\\rMaji i lepsi utok a\\robranu.\\rSlabe proti lodim.",
+  "idx": 2489
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369428,
+  "str_off": 6317332,
+  "len": 57,
+  "en": "Air unit offensive and\\rdefensive abilities\\rare increased.",
+  "cz": "Utocne i obranne\\rschopnosti vzdusnych\\rjednotek se zvysi.",
+  "idx": 2490
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369432,
+  "str_off": 6317392,
+  "len": 128,
+  "en": "Improves offense\\rand defense of all\\rair units. Additionally,\\rall non-infantry units\\rthat have carried out\\rorders can move again.",
+  "cz": "Zlepsi utok a obranu\\rvsech vzdusnych jed-\\rnotek. Navic vsechny\\rnepechotni jednotky,\\rktere splnily rozkazy,\\rse mohou znovu pohnout.",
+  "idx": 2491
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369436,
+  "str_off": 6317524,
+  "len": 113,
+  "en": "A bighearted former\\rpirate, he often calms\\rthe waters between\\rJess and Eagle.\\rHit: The open sea\\rMiss: High places",
+  "cz": "Dobrosrdecny byvaly\\rpirat, casto urovnava\\rspory mezi Jess a\\rEaglem.\\rMa rad: sire more\\rNemusi: vysky",
+  "idx": 2492
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369440,
+  "str_off": 6317640,
+  "len": 116,
+  "en": "Naval units move 1\\rspace more than other\\rarmies' do, and their\\rdefenses are higher.\\rMovement isn't\\raffected by rain.",
+  "cz": "Namorni jednotky se\\rpohybuji o 1 pole\\rvice nez u jinych armad\\ra maji vyssi obranu.\\rDest neovlivnuje\\rjejich pohyb.",
+  "idx": 2493
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369444,
+  "str_off": 6317760,
+  "len": 95,
+  "en": "Causes a tidal wave\\rthat does 1 HP of\\rdamage to all enemy\\runits and reduces\\rtheir fuel by half.",
+  "cz": "Spusti prilivovou vlnu,\\rktera zpusobi 1 HP\\rposkozeni vsem nepra-\\rtelskym jednotkam a\\rsnizi jim palivo na pul.",
+  "idx": 2494
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369448,
+  "str_off": 6317856,
+  "len": 113,
+  "en": "Causes a tidal wave\\rthat does 2 HP of\\rdamage to all enemy\\runits and reduces\\rfuel by half. Hinders\\renemy movement.",
+  "cz": "Spusti prilivovou vlnu,\\rktera zpusobi 2 HP\\rposkozeni vsem nepra-\\rtelum a snizi palivo\\rna pul. Brzdi pohyb\\rnepritele.",
+  "idx": 2495
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369452,
+  "str_off": 6317972,
+  "len": 101,
+  "en": "Commander of Black\\rHole's forces. A\\rmysterious invader\\rfrom another world.\\rHit: Invasions\\rMiss: Peace",
+  "cz": "Velitel sil Black Hole.\\rZahadny utocnik z\\rjineho sveta.\\rMa rad: invaze\\rNemusi: mir",
+  "idx": 2496
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369456,
+  "str_off": 6318076,
+  "len": 99,
+  "en": "All units have superior\\rfirepower. Movement\\rcost is equal over all\\rterrain types. Weak\\rin the snow.",
+  "cz": "Vsechny jednotky maji\\rskvelou palebnou silu.\\rCena pohybu je stejna\\rna vsech typech terenu.\\rSlaby ve snehu.",
+  "idx": 2497
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369460,
+  "str_off": 6318176,
+  "len": 111,
+  "en": "Sturm focuses all his\\renergy on his Super\\rCO power, which is\\rso strong that he does\\rnot need a normal\\rCO Power.",
+  "cz": "Sturm soustredi vsi\\rsvou energii na Super\\rCO silu, ktera je tak\\rsilna, ze nepotrebuje\\rbeznou CO silu.",
+  "idx": 2498
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369464,
+  "str_off": 6318288,
+  "len": 123,
+  "en": "Pulls a giant meteor\\rfrom space, which\\rdoes 8 HP of damage\\rto all affected units.\\rIncreases his units'\\rfirepower & defense.",
+  "cz": "Pritahne obri meteor\\rz vesmiru, ktery zpusobi\\r8 HP poskozeni vsem\\rzasazenym jednotkam.\\rZvysi palebnou silu a\\robranu jeho jednotek.",
+  "idx": 2499
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369468,
+  "str_off": 6318412,
+  "len": 93,
+  "en": "The strongman of the\\rBlack Hole Army.\\rPromoted from private\\rby Hawke.\\rHit: Meat\\rMiss: Veggies",
+  "cz": "Silak armady Black\\rHole. Z vojina ho\\rpovysil Hawke.\\rMa rad: maso\\rNemusi: zeleninu",
+  "idx": 2500
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369472,
+  "str_off": 6318508,
+  "len": 115,
+  "en": "High firepower, but\\rhe relies solely on\\rstrength. His shoddy\\rtechnique sometimes\\rreduces the damage\\rhis units deal.",
+  "cz": "Vysoka palebna sila,\\rale spoleha jen na sile.\\rJeho mizerna technika\\robcas snizi poskozeni,\\rktere jeho jednotky\\rzpusobi.",
+  "idx": 2501
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369476,
+  "str_off": 6318624,
+  "len": 129,
+  "en": "Increases dispersion\\rof fire. There is a\\rchance of getting a\\rsuper strong blow, but\\runits' firepower might\\rsuddenly drop instead.",
+  "cz": "Zvysi rozptyl palby.\\rJe sance na super\\rsilny uder, ale palebna\\rsila jednotek muze\\rmisto toho nahle\\rklesnout.",
+  "idx": 2502
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369480,
+  "str_off": 6318756,
+  "len": 119,
+  "en": "Attack power\\rincreases dramatically,\\rbut so does the\\rdispersion rate, which\\raffects the amount of\\rdamage targets take.\\r",
+  "cz": "Sila utoku dramaticky\\rvzroste, ale i rozptyl,\\rktery ovlivnuje vysi\\rposkozeni, jez cile\\rutrpi.\\r",
+  "idx": 2503
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369484,
+  "str_off": 6318876,
+  "len": 123,
+  "en": "The wunderkind of the\\rBlack Hole forces. A\\rsmall, fierce, and\\rbrilliant inventor.\\rHit: Getting her way\\rMiss: Not getting it",
+  "cz": "Zazracne dite sil Black\\rHole. Mala, divoka a\\rgenialni vynalezkyne.\\rMa rada: kdyz je po\\rjejim\\rNemusi: kdyz neni",
+  "idx": 2504
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369488,
+  "str_off": 6319000,
+  "len": 97,
+  "en": "Skilled at taking\\radvantage of terrain\\rfeatures. Can turn\\rterrain effects into\\rfirepower bonuses.",
+  "cz": "Umi vyuzit vyhody\\rterenu. Dokaze promenit\\refekty terenu v\\rbonusy palebne sily.",
+  "idx": 2505
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369492,
+  "str_off": 6319100,
+  "len": 99,
+  "en": "In addition to using\\rterrain effects to\\rincrease firepower,\\rdrops movement cost\\rfor all units to 1.",
+  "cz": "Krome vyuziti efektu\\rterenu ke zvyseni\\rpalebne sily snizi cenu\\rpohybu vsech jednotek\\rna 1.",
+  "idx": 2506
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369496,
+  "str_off": 6319200,
+  "len": 119,
+  "en": "Terrain effects are\\rdoubled and used\\rto increase attack\\rstrength. Additionally,\\rmovement cost for all\\runits drops to 1.",
+  "cz": "Efekty terenu se\\rzdvojnasobi a slouzi\\rke zvyseni sily utoku.\\rNavic cena pohybu\\rvsech jednotek\\rklesne na 1.",
+  "idx": 2507
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369500,
+  "str_off": 6319320,
+  "len": 119,
+  "en": "A self-absorbed CO\\rwho believes his skills\\rare matchless. Second\\rto Hawke in rank.\\rHit: His own face\\rMiss: Dirty things",
+  "cz": "Sobecky velitel, ktery\\rveri, ze jeho schopnosti\\rnemaji soupere. Hodnosti\\rdruhy po Hawkeovi.\\rMa rad: svuj obliceji\\rNemusi: spinave veci",
+  "idx": 2508
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369504,
+  "str_off": 6319440,
+  "len": 109,
+  "en": "Adept at making\\rquick command\\rdecisions, he stores\\rup energy for his CO\\rPower more rapidly\\rthan other COs do.",
+  "cz": "Zdatny v rychlem\\rrozhodovani, energii\\rpro svou CO silu\\rsbira rychleji nez\\rostatni velitele.",
+  "idx": 2509
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369508,
+  "str_off": 6319552,
+  "len": 53,
+  "en": "Movement range for\\rall units is increased\\rby 1 space.",
+  "cz": "Dosah pohybu vsech\\rjednotek se zvysi\\ro 1 pole.",
+  "idx": 2510
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369512,
+  "str_off": 6319608,
+  "len": 51,
+  "en": "All units improve\\rtheir movement range\\rby 2 spaces.",
+  "cz": "Vsechny jednotky si\\rzvysi dosah pohybu\\ro 2 pole.",
+  "idx": 2511
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369516,
+  "str_off": 6319660,
+  "len": 114,
+  "en": "The leader of Black\\rHole's 4 COs.\\rHe'll stop at nothing\\rto achieve his goals.\\rHit: Black coffee\\rMiss: Incompetence",
+  "cz": "Vudce 4 velitelu Black\\rHole. Nezastavi se\\rpred nicim, aby dosahl\\rsvych cilu.\\rMa rad: cernou kavu\\rNemusi: neschopnost",
+  "idx": 2512
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369520,
+  "str_off": 6319776,
+  "len": 101,
+  "en": "All units possess\\rsuperior firepower.\\rHis CO Power builds\\rup more slowly than\\rthose of the other COs.",
+  "cz": "Vsechny jednotky maji\\rskvelou palebnou silu.\\rJeho CO sila se\\rnabiji pomaleji nez\\ru ostatnich velitelu.",
+  "idx": 2513
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369524,
+  "str_off": 6319880,
+  "len": 83,
+  "en": "All damaged units\\rrecover 1 HP. In\\raddition, all enemy\\runits suffer 1 HP\\rof damage.",
+  "cz": "Vsechny poskozene\\rjednotky obnovi 1 HP.\\rNavic vsechny nepra-\\rtelske jednotky utrpi\\r1 HP poskozeni.",
+  "idx": 2514
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369528,
+  "str_off": 6319964,
+  "len": 82,
+  "en": "All damaged units\\rrecover 2 HP. In\\raddition, all enemy\\runits suffer 2 HP\\rof damage",
+  "cz": "Vsechny poskozene\\rjednotky obnovi 2 HP.\\rNavic vsechny nepra-\\rtelske jednotky utrpi\\r2 HP poskozeni",
+  "idx": 2515
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369532,
+  "str_off": 6320048,
+  "len": 110,
+  "en": "Rumored to be Orange\\rStar's former chief,\\rhe's closing up shop\\rto hit the battlefield.\\rHit: Tea\\rMiss: Medicine",
+  "cz": "Pry byvaly velitel\\rOrange Star, zaviraji\\rkram a vraci se na\\rbojiste.\\rMa rad: caj\\rNemusi: leky",
+  "idx": 2516
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369536,
+  "str_off": 6320160,
+  "len": 69,
+  "en": "Uses secret trade\\rroutes to get lower\\rdeployment costs\\rfor all units.",
+  "cz": "Vyuziva tajne obchodni\\rcesty k ziskani nizsi\\rceny nasazeni vsech\\rjednotek.",
+  "idx": 2517
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369540,
+  "str_off": 6320232,
+  "len": 71,
+  "en": "Speaks with such\\rauthority that he\\robtains even lower\\rdeployment costs.",
+  "cz": "Mluvi s takovou\\rautoritou, ze ziska\\rjeste nizsi cenu\\rnasazeni.",
+  "idx": 2518
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369544,
+  "str_off": 6320304,
+  "len": 124,
+  "en": "Deployment costs drop.\\rMerchant pals gather\\rfrom around the globe\\rand help him deploy\\rground units from any\\rallied property.",
+  "cz": "Cena nasazeni klesne.\\rObchodnicti pratele se\\rsejdou z celeho sveta a\\rpomohou mu nasadit\\rpozemni jednotky z\\rkterehokoli spojen. objektu.",
+  "idx": 2519
+ }
+]

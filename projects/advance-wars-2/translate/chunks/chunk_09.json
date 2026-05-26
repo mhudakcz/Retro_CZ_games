@@ -1,0 +1,2792 @@
+[
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371116,
+  "str_off": 6335560,
+  "len": 49,
+  "en": "Thanks for coming in!\\rDon't forget your stuff.\\e\\e\\e",
+  "cz": "Diky za navstevu!\\rNezapomen si sve veci.\\e\\e\\e",
+  "idx": 2835
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371120,
+  "str_off": 6335612,
+  "len": 53,
+  "en": "You don't have enough points!\\rI can't sell you this!\\f",
+  "cz": "Nemas dost bodu!\\rTohle ti prodat nemuzu!\\f",
+  "idx": 2836
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371124,
+  "str_off": 6335668,
+  "len": 32,
+  "en": "Well, how about something else?\\f",
+  "cz": "Co treba neco jineho?\\f",
+  "idx": 2837
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371128,
+  "str_off": 6335704,
+  "len": 69,
+  "en": "Darn!\\rI'm out of everything!\\fI guess I'll close up\\rshop for the day.\\f",
+  "cz": "Sakra!\\rUz nic nemam!\\fAsi pro dnesek zavru\\rkram.\\f",
+  "idx": 2838
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371132,
+  "str_off": 6335776,
+  "len": 18,
+  "en": "Come back again!\\e\\e",
+  "cz": "Prijd zase!\\e\\e",
+  "idx": 2839
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371136,
+  "str_off": 6335796,
+  "len": 24,
+  "en": "Don't get discouraged!\\e\\e",
+  "cz": "Nenech se odradit!\\e\\e",
+  "idx": 2840
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371140,
+  "str_off": 6335824,
+  "len": 15,
+  "en": "Don't get beat!",
+  "cz": "Nenech se porazit!",
+  "idx": 2841
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371144,
+  "str_off": 6335840,
+  "len": 24,
+  "en": "Keep up the good work!\\e\\e",
+  "cz": "Jen tak dal, dobra prace!\\e\\e",
+  "idx": 2842
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371148,
+  "str_off": 6335868,
+  "len": 22,
+  "en": "Do you want to save?\\r\\x17",
+  "cz": "Chces ulozit hru?\\r\\x17",
+  "idx": 2843
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371152,
+  "str_off": 6335892,
+  "len": 39,
+  "en": "All right! And I'll win\\rnext time, too!",
+  "cz": "Dobre! A vyhraju i\\rpriste!",
+  "idx": 2844
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371156,
+  "str_off": 6335932,
+  "len": 38,
+  "en": "Mission accomplished!\\rAwaiting orders!",
+  "cz": "Mise splnena!\\rCekam na rozkazy!",
+  "idx": 2845
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371160,
+  "str_off": 6335972,
+  "len": 19,
+  "en": "Wahoo!\\rEasy as pie!",
+  "cz": "Juhu!\\rHracka!",
+  "idx": 2846
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371164,
+  "str_off": 6335992,
+  "len": 29,
+  "en": "Nicely fought!\\rSee you again.",
+  "cz": "Hezky boj!\\rUvidime se zas.",
+  "idx": 2847
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371168,
+  "str_off": 6336024,
+  "len": 36,
+  "en": "Done already?\\rBetter luck next time!",
+  "cz": "Uz konec?\\rPriste vic stesti!",
+  "idx": 2848
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371172,
+  "str_off": 6336064,
+  "len": 28,
+  "en": "Olaf's troops know\\rno match!",
+  "cz": "Olafovy oddily nemaji\\rsoupere!",
+  "idx": 2849
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371176,
+  "str_off": 6336096,
+  "len": 39,
+  "en": "Not bad, y'all!\\rDon't be a sore loser!\\r",
+  "cz": "Slusne, vsichni!\\rNebud spatny prohravac!\\r",
+  "idx": 2850
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371180,
+  "str_off": 6336136,
+  "len": 28,
+  "en": "Whew...\\rI won! I really won!",
+  "cz": "Uf...\\rVyhral jsem! Vazne!",
+  "idx": 2851
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371184,
+  "str_off": 6336168,
+  "len": 42,
+  "en": "Kanbei is victorious!\\rWe shall meet again!",
+  "cz": "Kanbei vitezi!\\rJeste se setkame!",
+  "idx": 2852
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371188,
+  "str_off": 6336212,
+  "len": 42,
+  "en": "That settles that! It\\rtakes brains to win!",
+  "cz": "A je to! K vitezstvi\\rje treba rozum!",
+  "idx": 2853
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371192,
+  "str_off": 6336256,
+  "len": 43,
+  "en": "Hm hm hmmm... I've\\rstill got what it takes!",
+  "cz": "Hm hm hmmm... Porad\\rna to mam!",
+  "idx": 2854
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371196,
+  "str_off": 6336300,
+  "len": 42,
+  "en": "Another victory! Was\\rthere ever any doubt!",
+  "cz": "Dalsi vitezstvi! Byly\\rvubec pochyby?",
+  "idx": 2855
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371200,
+  "str_off": 6336344,
+  "len": 40,
+  "en": "I won this time!\\rI can't be beat at sea!",
+  "cz": "Tentokrat jsem vyhral!\\rNa mori me neporazis!",
+  "idx": 2856
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371204,
+  "str_off": 6336388,
+  "len": 31,
+  "en": "Never give up!\\rThat's my motto!",
+  "cz": "Nikdy se nevzdavej!\\rTo je me heslo!",
+  "idx": 2857
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371208,
+  "str_off": 6336420,
+  "len": 35,
+  "en": "What was that?\\rA waste of my time!\\r",
+  "cz": "Co to bylo?\\rJen ztrata meho casu!\\r",
+  "idx": 2858
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371212,
+  "str_off": 6336456,
+  "len": 34,
+  "en": "Hee hee hee...\\rHm? Broken already?",
+  "cz": "Chi chi chi...\\rHm? Uz zniceny?",
+  "idx": 2859
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371216,
+  "str_off": 6336492,
+  "len": 35,
+  "en": "Heh heh heh...\\rWhat did you expect?",
+  "cz": "Che che che...\\rCo jsi cekal?",
+  "idx": 2860
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371220,
+  "str_off": 6336528,
+  "len": 39,
+  "en": "You're not weak--I'm\\rjust way too good!",
+  "cz": "Nejsi slaby--ja jsem\\rjen moc dobry!",
+  "idx": 2861
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371224,
+  "str_off": 6336568,
+  "len": 38,
+  "en": "My name is Sturm.\\rHear it and tremble.",
+  "cz": "Jmenuji se Sturm.\\rSlys a chvej se.",
+  "idx": 2862
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371228,
+  "str_off": 6336608,
+  "len": 13,
+  "en": "Lucky me!\\e\\e\\e\\e",
+  "cz": "Mam stesti!\\e\\e\\e\\e",
+  "idx": 2863
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371232,
+  "str_off": 6336624,
+  "len": 32,
+  "en": "Hmm...\\e\\rTime to get serious!\\e\\e\\e\\e",
+  "cz": "Hmm...\\e\\rCas pritvrdit!\\e\\e\\e\\e",
+  "idx": 2864
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371236,
+  "str_off": 6336660,
+  "len": 39,
+  "en": "C'mon now!\\e\\rLet's have a little fun!\\e\\e\\e",
+  "cz": "No tak!\\e\\rTrochu se pobavme!\\e\\e\\e",
+  "idx": 2865
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371240,
+  "str_off": 6336700,
+  "len": 20,
+  "en": "Luck IS a skill!\\e\\e\\e\\e",
+  "cz": "Stesti JE dovednost!\\e\\e\\e\\e",
+  "idx": 2866
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371244,
+  "str_off": 6336724,
+  "len": 29,
+  "en": "I'm just getting started!\\e\\e\\e\\e",
+  "cz": "Ja teprve zacinam!\\e\\e\\e\\e",
+  "idx": 2867
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371248,
+  "str_off": 6336756,
+  "len": 50,
+  "en": "Pretty good offense.\\e\\rI'm not too bad, myself!\\e\\e\\e\\e",
+  "cz": "Slusny utok.\\e\\rJa taky nejsem spatny!\\e\\e\\e\\e",
+  "idx": 2868
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371252,
+  "str_off": 6336808,
+  "len": 28,
+  "en": "It's time for a tune-up!\\e\\e\\e\\e",
+  "cz": "Cas na doladeni!\\e\\e\\e\\e",
+  "idx": 2869
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371256,
+  "str_off": 6336840,
+  "len": 22,
+  "en": "I'll win for sure!\\e\\e\\e\\e",
+  "cz": "Urcite vyhraju!\\e\\e\\e\\e",
+  "idx": 2870
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371260,
+  "str_off": 6336864,
+  "len": 22,
+  "en": "I'm all revved up!\\e\\e\\e\\e",
+  "cz": "Jsem nazhaveny!\\e\\e\\e\\e",
+  "idx": 2871
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371264,
+  "str_off": 6336888,
+  "len": 40,
+  "en": "I'm not worried! I can fix anything!\\e\\e\\e\\e",
+  "cz": "Nebojim se! Vsechno spravim!\\e\\e\\e\\e",
+  "idx": 2872
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371268,
+  "str_off": 6336932,
+  "len": 28,
+  "en": "This is how I do battle!\\e\\e\\e\\e",
+  "cz": "Takhle ja bojuji!\\e\\e\\e\\e",
+  "idx": 2873
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371272,
+  "str_off": 6336964,
+  "len": 46,
+  "en": "Never give up, and never lose!\\e\\rI'm on my way!",
+  "cz": "Nikdy se nevzdat a nikdy neprohrat!\\e\\rUz jdu na to!",
+  "idx": 2874
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371276,
+  "str_off": 6337012,
+  "len": 22,
+  "en": "Roll, tanks, roll!\\e\\e\\e\\e",
+  "cz": "Vpred, tanky, vpred!\\e\\e\\e\\e",
+  "idx": 2875
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371280,
+  "str_off": 6337036,
+  "len": 37,
+  "en": "Hey! Give up while you still can!\\e\\e\\e\\e",
+  "cz": "Hej! Vzdej to, dokud muzes!\\e\\e\\e\\e",
+  "idx": 2876
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371284,
+  "str_off": 6337076,
+  "len": 30,
+  "en": "Now you're gonna get hurt!\\e\\e\\e\\e",
+  "cz": "Ted to schytas!\\e\\e\\e\\e",
+  "idx": 2877
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371288,
+  "str_off": 6337108,
+  "len": 35,
+  "en": "Wanna test might? I won't lose!\\e\\e\\e\\e",
+  "cz": "Chces zmerit sily? Neprohraju!\\e\\e\\e\\e",
+  "idx": 2878
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371292,
+  "str_off": 6337144,
+  "len": 20,
+  "en": "I'm no show-off!\\e\\e\\e\\e",
+  "cz": "Ja se nepredvadim!\\e\\e\\e\\e",
+  "idx": 2879
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371296,
+  "str_off": 6337168,
+  "len": 38,
+  "en": "That's enough! Get outta the road!\\e\\e\\e\\e",
+  "cz": "Uz dost! Uhni z cesty!\\e\\e\\e\\e",
+  "idx": 2880
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371300,
+  "str_off": 6337208,
+  "len": 30,
+  "en": "Ready or not, here I come!\\e\\e\\e\\e",
+  "cz": "At chces nebo ne, uz jdu!\\e\\e\\e\\e",
+  "idx": 2881
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371304,
+  "str_off": 6337240,
+  "len": 24,
+  "en": "Infantry... Assault!\\e\\e\\e\\e",
+  "cz": "Pechoto... Utok!\\e\\e\\e\\e",
+  "idx": 2882
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371308,
+  "str_off": 6337268,
+  "len": 32,
+  "en": "All right! Time to end this!\\e\\e\\e\\e",
+  "cz": "Dobre! Cas to ukoncit!\\e\\e\\e\\e",
+  "idx": 2883
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371312,
+  "str_off": 6337304,
+  "len": 37,
+  "en": "You're not bad! Now it's my turn!\\e\\e\\e\\e",
+  "cz": "Nejsi spatny! Ted jsem na rade ja!\\e\\e\\e\\e",
+  "idx": 2884
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371316,
+  "str_off": 6337344,
+  "len": 39,
+  "en": "In a test of skill, I'm unbeatable!\\e\\e\\e\\e",
+  "cz": "V souboji dovednosti me neporazis!\\e\\e\\e\\e",
+  "idx": 2885
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371320,
+  "str_off": 6337384,
+  "len": 50,
+  "en": "Stay cool, stay calm...\\e\\rHe who panics\\e loses!\\e\\e\\e\\e",
+  "cz": "Klid, jen klid...\\e\\rKdo panikari\\e prohrava!\\e\\e\\e\\e",
+  "idx": 2886
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371324,
+  "str_off": 6337436,
+  "len": 36,
+  "en": "Let the winds of war bring snow!\\e\\e\\e\\e",
+  "cz": "At vetry valky prinesou snih!\\e\\e\\e\\e",
+  "idx": 2887
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371328,
+  "str_off": 6337476,
+  "len": 32,
+  "en": "Blue Moon is indestructible!\\e\\e\\e\\e",
+  "cz": "Blue Moon je nezdolny!\\e\\e\\e\\e",
+  "idx": 2888
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371332,
+  "str_off": 6337512,
+  "len": 43,
+  "en": "You're going to regret\\e\\rchallenging me!\\e\\e\\e\\e",
+  "cz": "Budes litovat, ze\\e\\rsis na me troufl!\\e\\e\\e\\e",
+  "idx": 2889
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371336,
+  "str_off": 6337556,
+  "len": 62,
+  "en": "Neither man nor machine can\\e\\rwithstand the fury of nature!\\e\\e\\e\\e",
+  "cz": "Clovek ani stroj nevzdoruji\\e\\rzurivosti prirody!\\e\\e\\e\\e",
+  "idx": 2890
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371340,
+  "str_off": 6337620,
+  "len": 60,
+  "en": "You've got courage to face me,\\e\\rI'll give you that much!\\e\\e\\e\\e",
+  "cz": "Mas odvahu postavit se mi,\\e\\rto ti musim uznat!\\e\\e\\e\\e",
+  "idx": 2891
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371344,
+  "str_off": 6337684,
+  "len": 67,
+  "en": "Ho ho ho. Do you think your\\e\\rpitiful troops can stand the cold?\\e\\e\\e\\e",
+  "cz": "Ho ho ho. Myslis, ze tve\\e\\rubohe oddily snesou mraz?\\e\\e\\e\\e",
+  "idx": 2892
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371348,
+  "str_off": 6337752,
+  "len": 38,
+  "en": "Reckon it's time to take you down!\\e\\e\\e\\e",
+  "cz": "Asi je cas te sejmout!\\e\\e\\e\\e",
+  "idx": 2893
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371352,
+  "str_off": 6337792,
+  "len": 64,
+  "en": "Where's the fool who wants\\e\\rto help me with target practice?\\e\\e\\e\\e",
+  "cz": "Kde je ten hlupak, co mi chce\\e\\rposlouzit jako tercik?\\e\\e\\e\\e",
+  "idx": 2894
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371356,
+  "str_off": 6337860,
+  "len": 55,
+  "en": "Once you're in my sights,\\e\\rthere's no gettin' away!\\e\\e\\e\\e",
+  "cz": "Kdyz te mam na musce,\\e\\rneutecete mi!\\e\\e\\e\\e",
+  "idx": 2895
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371360,
+  "str_off": 6337916,
+  "len": 36,
+  "en": "You can run, but you can't hide!\\e\\e\\e\\e",
+  "cz": "Muzes utikat, ale neschovas se!\\e\\e\\e\\e",
+  "idx": 2896
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371364,
+  "str_off": 6337956,
+  "len": 66,
+  "en": "Don't get me all riled up!\\e\\rI wanna take things nice and slow.\\e\\e\\e\\e",
+  "cz": "Nerozciluj me!\\e\\rChci to brat pekne pomalu.\\e\\e\\e\\e",
+  "idx": 2897
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371368,
+  "str_off": 6338024,
+  "len": 59,
+  "en": "No need for all the fuss.\\e\\rYou just calm yourself down!\\e\\e\\e\\e",
+  "cz": "Neni treba se cuchat.\\e\\rJen se pekne uklidni!\\e\\e\\e\\e",
+  "idx": 2898
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371372,
+  "str_off": 6338084,
+  "len": 29,
+  "en": "Who shall taste my wrath?\\e\\e\\e\\e",
+  "cz": "Kdo okusi muj hnev?\\e\\e\\e\\e",
+  "idx": 2899
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371376,
+  "str_off": 6338116,
+  "len": 37,
+  "en": "Prepare yourself! Kanbei is here!\\e\\e\\e\\e",
+  "cz": "Priprav se! Kanbei je tu!\\e\\e\\e\\e",
+  "idx": 2900
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371380,
+  "str_off": 6338156,
+  "len": 52,
+  "en": "Your numbers mean nothing!\\e\\rNothing can stop me!\\e\\e\\e\\e",
+  "cz": "Tva presila nic neznamena!\\e\\rNic me nezastavi!\\e\\e\\e\\e",
+  "idx": 2901
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371384,
+  "str_off": 6338212,
+  "len": 67,
+  "en": "My mind is honed for battle.\\e\\rThat is the essence of a samurai!\\e\\e\\e\\e",
+  "cz": "Ma mysl je nabrousena k boji.\\e\\rTo je podstata samuraje!\\e\\e\\e\\e",
+  "idx": 2902
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371388,
+  "str_off": 6338280,
+  "len": 50,
+  "en": "I do not worry about that\\e\\rwhich MIGHT happen!\\e\\e\\e\\e",
+  "cz": "Netrapim se tim,\\e\\rco se MOZNA stane!\\e\\e\\e\\e",
+  "idx": 2903
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371392,
+  "str_off": 6338332,
+  "len": 67,
+  "en": "You fight admirably, my foe!\\e\\rAllow me to show you my strength!\\e\\e\\e\\e",
+  "cz": "Bojujes obdivuhodne, nepriteli!\\e\\rDovol, at ti ukazu svou silu!\\e\\e\\e\\e",
+  "idx": 2904
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371396,
+  "str_off": 6338400,
+  "len": 28,
+  "en": "Now you're gonna get it!\\e\\e\\e\\e",
+  "cz": "Ted to schytas!\\e\\e\\e\\e",
+  "idx": 2905
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371400,
+  "str_off": 6338432,
+  "len": 35,
+  "en": "I see right through your plans!\\e\\e\\e\\e",
+  "cz": "Prohledam tve plany skrz naskrz!\\e\\e\\e\\e",
+  "idx": 2906
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371404,
+  "str_off": 6338468,
+  "len": 69,
+  "en": "Father, Sensei, citizens of\\e\\rYellow Comet! Lend me your strength!\\e\\e\\e\\e",
+  "cz": "Otce, Sensei, obcane\\e\\rYellow Comet! Pujcte mi svou silu!\\e\\e\\e\\e",
+  "idx": 2907
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371408,
+  "str_off": 6338540,
+  "len": 59,
+  "en": "I'll show you there's more to\\e\\rcombat than power alone!\\e\\e\\e\\e",
+  "cz": "Ukazu ti, ze v boji jde\\e\\ro vic nez jen o silu!\\e\\e\\e\\e",
+  "idx": 2908
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371412,
+  "str_off": 6338600,
+  "len": 24,
+  "en": "Watch me, and learn!\\e\\e\\e\\e",
+  "cz": "Sleduj me a uc se!\\e\\e\\e\\e",
+  "idx": 2909
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371416,
+  "str_off": 6338628,
+  "len": 66,
+  "en": "Number of enemy troops...location...\\e\\rGot it! This is so easy!\\e\\e\\e\\e",
+  "cz": "Pocet nepratel...pozice...\\e\\rMam to! To je tak snadne!\\e\\e\\e\\e",
+  "idx": 2910
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371420,
+  "str_off": 6338696,
+  "len": 30,
+  "en": "The Eagle soars above you!\\e\\e\\e\\e",
+  "cz": "Eagle se vznasi nad tebou!\\e\\e\\e\\e",
+  "idx": 2911
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371424,
+  "str_off": 6338728,
+  "len": 46,
+  "en": "I have no interest in underlings.\\e\\rBegone!\\e\\e\\e\\e",
+  "cz": "O podradne nemam zajem.\\e\\rZmiz!\\e\\e\\e\\e",
+  "idx": 2912
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371428,
+  "str_off": 6338776,
+  "len": 71,
+  "en": "All units, ready for attack!\\e\\rDon't even give them time for regret!\\e\\e\\e\\e",
+  "cz": "Vsechny jednotky, k utoku!\\e\\rNedejte jim ani cas k litosti!\\e\\e\\e\\e",
+  "idx": 2913
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371432,
+  "str_off": 6338848,
+  "len": 37,
+  "en": "Speed is the lifeblood of battle!\\e\\e\\e\\e",
+  "cz": "Rychlost je miza boje!\\e\\e\\e\\e",
+  "idx": 2914
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371436,
+  "str_off": 6338888,
+  "len": 33,
+  "en": "Do you think you can keep up?\\e\\e\\e\\e",
+  "cz": "Myslis, ze mi stacis?\\e\\e\\e\\e",
+  "idx": 2915
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371440,
+  "str_off": 6338924,
+  "len": 64,
+  "en": "Heh heh... Impressive!\\e\\rYou had almost overtaken me. Almost!\\e\\e\\e\\e",
+  "cz": "Che che... Pozoruhodne!\\e\\rTemer jsi me predehnal. Temer!\\e\\e\\e\\e",
+  "idx": 2916
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371444,
+  "str_off": 6338992,
+  "len": 33,
+  "en": "Wave good-bye to your troops!\\e\\e\\e\\e",
+  "cz": "Rozluc se se svymi oddily!\\e\\e\\e\\e",
+  "idx": 2917
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371448,
+  "str_off": 6339028,
+  "len": 19,
+  "en": "Anchors aweigh!\\e\\e\\e\\e",
+  "cz": "Zvednout kotvy!\\e\\e\\e\\e",
+  "idx": 2918
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371452,
+  "str_off": 6339048,
+  "len": 46,
+  "en": "Time to show you\\e\\rhow we do things at sea!\\e\\e\\e\\e",
+  "cz": "Cas ti ukazat,\\e\\rjak to delame na mori!\\e\\e\\e\\e",
+  "idx": 2919
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371456,
+  "str_off": 6339096,
+  "len": 29,
+  "en": "Panic is for landlubbers!\\e\\e\\e\\e",
+  "cz": "Panika je pro suchozemce!\\e\\e\\e\\e",
+  "idx": 2920
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371460,
+  "str_off": 6339128,
+  "len": 31,
+  "en": "I'm a nautical know-it-all!\\e\\e\\e\\e",
+  "cz": "Jsem namornicky vseved!\\e\\e\\e\\e",
+  "idx": 2921
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371464,
+  "str_off": 6339160,
+  "len": 30,
+  "en": "Prepare to be washed away!\\e\\e\\e\\e",
+  "cz": "Priprav se, ze te smete!\\e\\e\\e\\e",
+  "idx": 2922
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371468,
+  "str_off": 6339192,
+  "len": 37,
+  "en": "You will tremble before my power!\\e\\e\\e\\e",
+  "cz": "Budes se chvet pred mou silou!\\e\\e\\e\\e",
+  "idx": 2923
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371472,
+  "str_off": 6339232,
+  "len": 32,
+  "en": "Fear is all you have left...\\e\\e\\e\\e",
+  "cz": "Zbyl ti uz jen strach...\\e\\e\\e\\e",
+  "idx": 2924
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371476,
+  "str_off": 6339268,
+  "len": 26,
+  "en": "You shall not survive!\\e\\e\\e\\e",
+  "cz": "Neprezijes!\\e\\e\\e\\e",
+  "idx": 2925
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371480,
+  "str_off": 6339296,
+  "len": 32,
+  "en": "Prepare to embrace darkness!\\e\\e\\e\\e",
+  "cz": "Priprav se objmout temnotu!\\e\\e\\e\\e",
+  "idx": 2926
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371484,
+  "str_off": 6339332,
+  "len": 39,
+  "en": "Such power... I regret crushing it.\\e\\e\\e\\e",
+  "cz": "Takova sila... Litost, ze ji drtim.\\e\\e\\e\\e",
+  "idx": 2927
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371488,
+  "str_off": 6339372,
+  "len": 16,
+  "en": "Burning earth!!!",
+  "cz": "Horici zeme!!!",
+  "idx": 2928
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371492,
+  "str_off": 6339392,
+  "len": 25,
+  "en": "Try this on for size!\\e\\e\\e\\e",
+  "cz": "Zkus tohle!\\e\\e\\e\\e",
+  "idx": 2929
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371496,
+  "str_off": 6339420,
+  "len": 39,
+  "en": "Grrrrrraaaaaaa!\\e\\rI'm outta control!\\e\\e\\e\\e",
+  "cz": "Grrrrrraaaaaaa!\\e\\rUz se neovladam!\\e\\e\\e\\e",
+  "idx": 2930
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371500,
+  "str_off": 6339460,
+  "len": 29,
+  "en": "I'm gonna smash you good!\\e\\e\\e\\e",
+  "cz": "Poradne te rozmacknu!\\e\\e\\e\\e",
+  "idx": 2931
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371504,
+  "str_off": 6339492,
+  "len": 68,
+  "en": "Crushing stuff's what I do best!\\e\\rYou got a problem with that?!?\\e\\e\\e\\e",
+  "cz": "Drceni mi jde nejlip!\\e\\rMas s tim problem?!?\\e\\e\\e\\e",
+  "idx": 2932
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371508,
+  "str_off": 6339564,
+  "len": 34,
+  "en": "Why think when you can fight!?\\e\\e\\e\\e",
+  "cz": "Proc premyslet, kdyz muzes bojovat!?\\e\\e\\e\\e",
+  "idx": 2933
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371512,
+  "str_off": 6339600,
+  "len": 22,
+  "en": "Stay outta my way!\\e\\e\\e\\e",
+  "cz": "Neplett se mi do cesty!\\e\\e\\e\\e",
+  "idx": 2934
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371516,
+  "str_off": 6339624,
+  "len": 30,
+  "en": "Can you survive my attack?\\e\\e\\e\\e",
+  "cz": "Prezijes muj utok?\\e\\e\\e\\e",
+  "idx": 2935
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371520,
+  "str_off": 6339656,
+  "len": 31,
+  "en": "Tee hee! C'mon! Let's play!\\e\\e\\e\\e",
+  "cz": "Chi chi! No tak! Pojdme si hrat!\\e\\e\\e\\e",
+  "idx": 2936
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371524,
+  "str_off": 6339688,
+  "len": 37,
+  "en": "I've had enough!\\rI'm bored now!\\e\\e\\e\\e\\r",
+  "cz": "Uz mam dost!\\rTed se nudim!\\e\\e\\e\\e\\r",
+  "idx": 2937
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371528,
+  "str_off": 6339728,
+  "len": 45,
+  "en": "You're no fun... I don't like you at all!\\e\\e\\e\\e",
+  "cz": "Vubec te neuzijes... Nemam te rada!\\e\\e\\e\\e",
+  "idx": 2938
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371532,
+  "str_off": 6339776,
+  "len": 53,
+  "en": "You want to match wits with me?\\e\\rYou're so silly!\\e\\e\\e\\e",
+  "cz": "Chces se se mnou merit chytrosti?\\e\\rTy jsi ale hloupy!\\e\\e\\e\\e",
+  "idx": 2939
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371536,
+  "str_off": 6339832,
+  "len": 67,
+  "en": "Ooh! You're so annoying!\\e\\rI'm gonna have to get rid of you now!\\e\\e\\e\\e",
+  "cz": "Ooh! Ty jsi ale otravny!\\e\\rTed se te budu muset zbavit!\\e\\e\\e\\e",
+  "idx": 2940
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371540,
+  "str_off": 6339900,
+  "len": 52,
+  "en": "Heh heh heh... I'm going\\e\\rto enjoy breaking you!\\e\\e\\e\\e",
+  "cz": "Che che che... Uziju si\\e\\rtve zlomeni!\\e\\e\\e\\e",
+  "idx": 2941
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371544,
+  "str_off": 6339956,
+  "len": 66,
+  "en": "The look of terror on your face...\\e\\rIt's absolutely delicious!\\e\\e\\e\\e",
+  "cz": "Ten vyraz hruzy v tve tvari...\\e\\rJe naprosto lahodny!\\e\\e\\e\\e",
+  "idx": 2942
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371548,
+  "str_off": 6340024,
+  "len": 51,
+  "en": "Heh heh heh...\\e\\rCan't a guy have a little fun!?\\e\\e\\e\\e",
+  "cz": "Che che che...\\e\\rNemuze se clovek trochu pobavit!?\\e\\e\\e\\e",
+  "idx": 2943
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371552,
+  "str_off": 6340076,
+  "len": 47,
+  "en": "Heh heh heh...\\e\\rIt only hurts for a moment.\\e\\e\\e\\e",
+  "cz": "Che che che...\\e\\rBoli to jen chvilku.\\e\\e\\e\\e",
+  "idx": 2944
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371556,
+  "str_off": 6340124,
+  "len": 58,
+  "en": "A battle with me is a greater\\e\\rhonor than you deserve!\\e\\e\\e\\e",
+  "cz": "Boj se mnou je vetsi cest,\\e\\rnez si zaslouzis!\\e\\e\\e\\e",
+  "idx": 2945
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371560,
+  "str_off": 6340184,
+  "len": 39,
+  "en": "Heh heh heh...\\e\\rKneel before Adder!\\e\\e\\e\\e",
+  "cz": "Che che che...\\e\\rKlekni pred Adderem!\\e\\e\\e\\e",
+  "idx": 2946
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371564,
+  "str_off": 6340224,
+  "len": 20,
+  "en": "This is the end.\\e\\e\\e\\e",
+  "cz": "Toto je konec.\\e\\e\\e\\e",
+  "idx": 2947
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371568,
+  "str_off": 6340248,
+  "len": 13,
+  "en": "Farewell.\\e\\e\\e\\e",
+  "cz": "Sbohem.\\e\\e\\e\\e",
+  "idx": 2948
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371572,
+  "str_off": 6340264,
+  "len": 47,
+  "en": "I give you credit for\\e\\rpushing me this far.\\e\\e\\e\\e",
+  "cz": "Uznavam, ze jsi me\\e\\rdohnal az sem.\\e\\e\\e\\e",
+  "idx": 2949
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371576,
+  "str_off": 6340312,
+  "len": 77,
+  "en": "To be defeated is to lose everything.\\e\\rAre you prepared for that outcome?\\e\\e\\e\\e",
+  "cz": "Byt porazen znamena ztratit vse.\\e\\rJsi na takovy konec pripraven?\\e\\e\\e\\e",
+  "idx": 2950
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371580,
+  "str_off": 6340392,
+  "len": 63,
+  "en": "Victory goes to the better combatant.\\e\\rIt's a simple truth.\\e\\e\\e\\e",
+  "cz": "Vitezstvi nalezi lepsimu bojovniku.\\e\\rJe to prosta pravda.\\e\\e\\e\\e",
+  "idx": 2951
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371584,
+  "str_off": 6340456,
+  "len": 47,
+  "en": "Impressive....\\e\\rI will remember your skill!\\e\\e\\e\\e",
+  "cz": "Pusobive....\\e\\rTvou dovednost si zapamatuji!\\e\\e\\e\\e",
+  "idx": 2952
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371588,
+  "str_off": 6340504,
+  "len": 19,
+  "en": "How's business?\\e\\e\\e\\e",
+  "cz": "Jak jde kseft?\\e\\e\\e\\e",
+  "idx": 2953
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371592,
+  "str_off": 6340524,
+  "len": 30,
+  "en": "Come by and buy something!\\e\\e\\e\\e",
+  "cz": "Zastav se a neco si kup!\\e\\e\\e\\e",
+  "idx": 2954
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371596,
+  "str_off": 6340556,
+  "len": 55,
+  "en": "You can call me Hachi, the\\e\\rbest CO there ever was!\\e\\e\\e\\e",
+  "cz": "Rikej mi Hachi, nejlepsi\\e\\rvelitel vsech dob!\\e\\e\\e\\e",
+  "idx": 2955
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371600,
+  "str_off": 6340612,
+  "len": 33,
+  "en": "No need to get all worked up!\\e\\e\\e\\e",
+  "cz": "Neni treba se rozcilovat!\\e\\e\\e\\e",
+  "idx": 2956
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371604,
+  "str_off": 6340648,
+  "len": 30,
+  "en": "This brings back memories!\\e\\e\\e\\e",
+  "cz": "Tohle mi pripomina stare casy!\\e\\e\\e\\e",
+  "idx": 2957
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371608,
+  "str_off": 6340680,
+  "len": 67,
+  "en": "Runnin' away won't prove anything!\\e\\rStand your ground, soldier!\\e\\e\\e\\e",
+  "cz": "Utekem nic nedokazes!\\e\\rDrz pozici, vojaku!\\e\\e\\e\\e",
+  "idx": 2958
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371612,
+  "str_off": 6340748,
+  "len": 39,
+  "en": "Let me show you the power of money!\\e\\e\\e\\e",
+  "cz": "Ukazu ti silu penez!\\e\\e\\e\\e",
+  "idx": 2959
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371616,
+  "str_off": 6340788,
+  "len": 43,
+  "en": "People of Blue Moon!\\e\\rI need your help!\\e\\e\\e\\e",
+  "cz": "Lide Blue Moon!\\e\\rPotrebuji vasi pomoc!\\e\\e\\e\\e",
+  "idx": 2960
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371620,
+  "str_off": 6340832,
+  "len": 23,
+  "en": "Money buys power!!!\\e\\e\\e\\e",
+  "cz": "Penize kupuji moc!!!\\e\\e\\e\\e",
+  "idx": 2961
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371624,
+  "str_off": 6340856,
+  "len": 44,
+  "en": "Don't underestimate me\\e\\rbecause I'm new!\\e\\e\\e\\e",
+  "cz": "Nepodcenuj me jen proto,\\e\\rze jsem novy!\\e\\e\\e\\e",
+  "idx": 2962
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371628,
+  "str_off": 6340904,
+  "len": 38,
+  "en": "When the time comes, I do my duty!\\e\\e\\e\\e",
+  "cz": "Az prijde cas, splnim svou povinnost!\\e\\e\\e\\e",
+  "idx": 2963
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371632,
+  "str_off": 6340944,
+  "len": 54,
+  "en": "This is not a drill...\\e\\rI won't give up so easily!\\e\\e\\e\\e",
+  "cz": "Toto neni cviceni...\\e\\rTak snadno se nevzdam!\\e\\e\\e\\e",
+  "idx": 2964
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371636,
+  "str_off": 6341000,
+  "len": 39,
+  "en": "I won't let this chance pass me by!\\e\\e\\e\\e",
+  "cz": "Tuhle sanci si nenecham ujit!\\e\\e\\e\\e",
+  "idx": 2965
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371640,
+  "str_off": 6341040,
+  "len": 31,
+  "en": "All at once now!\\rPress on!\\e\\e\\e\\e",
+  "cz": "Vsichni naraz!\\rVpred!\\e\\e\\e\\e",
+  "idx": 2966
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371644,
+  "str_off": 6341072,
+  "len": 72,
+  "en": "Battle should never be taken lightly.\\e\\rI always give 100%! Always!!!\\e\\e\\e\\e",
+  "cz": "Boj se nikdy nesmi brat na lehkou vahu.\\e\\rVzdy davam 100%! Vzdy!!!\\e\\e\\e\\e",
+  "idx": 2967
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371648,
+  "str_off": 6341148,
+  "len": 46,
+  "en": "I'll survive this battle, too! Believe me!\\e\\e\\e\\e",
+  "cz": "I tuhle bitvu prezivu! Ver mi!\\e\\e\\e\\e",
+  "idx": 2968
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371652,
+  "str_off": 6341196,
+  "len": 43,
+  "en": "It's simply a matter of being the best!\\e\\e\\e\\e",
+  "cz": "Proste jde o to byt nejlepsi!\\e\\e\\e\\e",
+  "idx": 2969
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371656,
+  "str_off": 6341240,
+  "len": 67,
+  "en": "You're a formidable opponent,\\e\\rbut that doesn't mean I'll lose!\\e\\e\\e\\e",
+  "cz": "Jsi obavany soupere,\\e\\rale to neznamena, ze prohraju!\\e\\e\\e\\e",
+  "idx": 2970
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371660,
+  "str_off": 6341308,
+  "len": 59,
+  "en": "I've still got what it takes to\\e\\rdefeat you youngsters!\\e\\e\\e\\e",
+  "cz": "Porad mam na to, abych\\e\\rporazil vas mladiky!\\e\\e\\e\\e",
+  "idx": 2971
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371664,
+  "str_off": 6341368,
+  "len": 34,
+  "en": "Paratroopers! Prepare to jump!\\e\\e\\e\\e",
+  "cz": "Vysadkari! Priprava ke skoku!\\e\\e\\e\\e",
+  "idx": 2972
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371668,
+  "str_off": 6341404,
+  "len": 48,
+  "en": "Ha ha hah!\\rThis will be a crushing victory!\\e\\e\\e\\e",
+  "cz": "Ha ha hah!\\rTohle bude drtive vitezstvi!\\e\\e\\e\\e",
+  "idx": 2973
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371672,
+  "str_off": 6341456,
+  "len": 41,
+  "en": "See what experience\\e\\rcan do for you!?\\e\\e\\e\\e",
+  "cz": "Vidis, co dokazou\\e\\rzkusenosti!?\\e\\e\\e\\e",
+  "idx": 2974
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371676,
+  "str_off": 6341500,
+  "len": 50,
+  "en": "You put up a good fight,\\e\\rbut this is the end!\\e\\e\\e\\e",
+  "cz": "Bojoval jsi dobre,\\e\\rale toto je konec!\\e\\e\\e\\e",
+  "idx": 2975
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371680,
+  "str_off": 6341552,
+  "len": 74,
+  "en": "Nothing good ever comes from war...\\e\\rWhen this is done, let's go home.\\e\\e\\e\\e",
+  "cz": "Z valky nikdy nevzejde nic dobreho...\\e\\rAz to skonci, pojdme domu.\\e\\e\\e\\e",
+  "idx": 2976
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372168,
+  "str_off": 6351392,
+  "len": 87,
+  "en": "This is the unit's\\rmovement range. It can\\rcover most terrain at a\\rmovement cost of one.",
+  "cz": "Toto je dosah pohybu\\rjednotky. Vetsinu terenu\\rzdola za cenu pohybu\\rjedna.",
+  "idx": 2977
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372172,
+  "str_off": 6351480,
+  "len": 82,
+  "en": "This is the unit's\\rmovement range. As it\\rmoves on tires, it has\\rtrouble on plains.",
+  "cz": "Toto je dosah pohybu\\rjednotky. Jede na kolech,\\rtakze ma potize\\rna plani.",
+  "idx": 2978
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372176,
+  "str_off": 6351564,
+  "len": 84,
+  "en": "This is the unit's\\rmovement range. Its\\rtreads allow it to move\\ron plains unhindered.",
+  "cz": "Toto je dosah pohybu\\rjednotky. Pasy ji\\rdovoluji pohyb po plani\\rbez prekazek.",
+  "idx": 2979
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372180,
+  "str_off": 6351652,
+  "len": 64,
+  "en": "This is an air unit.\\rTerrain does not\\raffect its movement\\rrange.",
+  "cz": "Toto je vzdusna\\rjednotka. Teren\\rneovlivnuje jeji\\rdosah pohybu.",
+  "idx": 2980
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372184,
+  "str_off": 6351720,
+  "len": 77,
+  "en": "This is a naval unit.\\rThis is its movement\\rrange across open\\rwater and reefs.",
+  "cz": "Toto je namorni\\rjednotka. Toto je jeji\\rdosah pohybu po vode\\ra utesech.",
+  "idx": 2981
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372188,
+  "str_off": 6351800,
+  "len": 76,
+  "en": "This is a transport\\runit's movement\\rrange. These units\\rcan move over reefs. ",
+  "cz": "Toto je dosah pohybu\\rtransportni jednotky.\\rTyto jednotky se umi\\rpohybovat po utesech. ",
+  "idx": 2982
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372192,
+  "str_off": 6351880,
+  "len": 80,
+  "en": "This is the unit's\\rvision range. This\\rincreases when the\\runit climbs a mountain.",
+  "cz": "Toto je dohled\\rjednotky. Zvetsi se,\\rkdyz jednotka vystoupi\\rna horu.",
+  "idx": 2983
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372196,
+  "str_off": 6351964,
+  "len": 77,
+  "en": "This is the unit's vision\\rrange. It's how far the\\runit can see in Fog\\rof War.",
+  "cz": "Toto je dohled jednotky.\\rUrcuje, jak daleko vidi\\rv Mlze valky.",
+  "idx": 2984
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372200,
+  "str_off": 6352044,
+  "len": 87,
+  "en": "This is the current fuel\\ramount. The unit can no\\rlonger move when all the\\rfuel is used.",
+  "cz": "Toto je aktualni stav\\rpaliva. Jednotka se\\rnemuze hybat, kdyz\\rpalivo dojde.",
+  "idx": 2985
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372204,
+  "str_off": 6352132,
+  "len": 93,
+  "en": "This is the current fuel\\ramount. It's used at 5\\runits per turn. Units\\rcrash when out of fuel.",
+  "cz": "Toto je aktualni stav\\rpaliva. Spotreba 5\\rjednotek za tah. Bez\\rpaliva se zriti.",
+  "idx": 2986
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372208,
+  "str_off": 6352228,
+  "len": 93,
+  "en": "This is the current fuel\\ramount. It's used at 2\\runits per turn. Units\\rcrash when out of fuel.",
+  "cz": "Toto je aktualni stav\\rpaliva. Spotreba 2\\rjednotek za tah. Bez\\rpaliva se zriti.",
+  "idx": 2987
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372212,
+  "str_off": 6352324,
+  "len": 91,
+  "en": "This is the current fuel\\ramount. It's used at 1\\runit per turn. Units\\rsink when out of fuel.",
+  "cz": "Toto je aktualni stav\\rpaliva. Spotreba 1\\rjednotky za tah. Bez\\rpaliva se potopi.",
+  "idx": 2988
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372216,
+  "str_off": 6352416,
+  "len": 30,
+  "en": "No primary weapon\\ris equipped.",
+  "cz": "Nema osazenu\\rprimarni zbran.",
+  "idx": 2989
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372220,
+  "str_off": 6352448,
+  "len": 61,
+  "en": "This is the primary\\rweapon. It can \\x83fire\\x80\\ron the units below.",
+  "cz": "Toto je primarni\\rzbran. Muze \\x83palit\\x80\\rna jednotky nize.",
+  "idx": 2990
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372224,
+  "str_off": 6352512,
+  "len": 85,
+  "en": "This is the amount of\\rprimary weapon ammo.\\rSecondary weapons are\\rused when it's gone.",
+  "cz": "Toto je mnozstvi\\rmunice primarni zbrane.\\rPo vycerpani se pouziva\\rsekundarni zbran.",
+  "idx": 2991
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372228,
+  "str_off": 6352600,
+  "len": 69,
+  "en": "The symbol on the unit\\rindicates the\\rpotential to hit\\rthis unit type.",
+  "cz": "Symbol na jednotce\\rurcuje sanci zasahnout\\rtento typ jednotky.",
+  "idx": 2992
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372232,
+  "str_off": 6352672,
+  "len": 69,
+  "en": "The symbol on the unit\\rindicates the\\rpotential to hit\\rthis unit type.",
+  "cz": "Symbol na jednotce\\rurcuje sanci zasahnout\\rtento typ jednotky.",
+  "idx": 2993
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372236,
+  "str_off": 6352744,
+  "len": 69,
+  "en": "The symbol on the unit\\rindicates the\\rpotential to hit\\rthis unit type.",
+  "cz": "Symbol na jednotce\\rurcuje sanci zasahnout\\rtento typ jednotky.",
+  "idx": 2994
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372240,
+  "str_off": 6352816,
+  "len": 89,
+  "en": "The symbol on the unit\\rshows hit potential.\\rThis weapon can't \\x83fire\\x80\\ron submerged \\x82subs\\x80.",
+  "cz": "Symbol na jednotce\\rurcuje sanci zasahu.\\rTato zbran nemuze \\x83palit\\x80\\rna ponorene \\x82ponorky\\x80.",
+  "idx": 2995
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372244,
+  "str_off": 6352908,
+  "len": 40,
+  "en": "The secondary weapon\\ris the machine gun.",
+  "cz": "Sekundarni zbran\\rje kulomet.",
+  "idx": 2996
+ },
+ {
+  "table": "0x613B48",
+  "ptr_loc": 6372248,
+  "str_off": 6352952,
+  "len": 84,
+  "en": "These are new weapons\\rdeveloped by Black Hole.\\rThey are more powerful\\rthan Md tanks.",
+  "cz": "Toto jsou nove zbrane\\rvyvinute Black Hole.\\rJsou silnejsi nez\\rMd tanky.",
+  "idx": 2997
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372284,
+  "str_off": 6353632,
+  "len": 72,
+  "en": "If you want to win, capture the enemy\\rHQ or defeat all the enemy units.\\f",
+  "cz": "Chces-li vyhrat, obsad neprijatelske\\rHQ nebo znic vsechny nepratelske jednotky.\\f",
+  "idx": 2998
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372288,
+  "str_off": 6353708,
+  "len": 90,
+  "en": "To win here, capture the enemy HQ\\ror defeat all the enemy troops.\\fGood luck and move out!\\f",
+  "cz": "K vitezstvi obsad neprijatelske HQ\\rnebo poraz vsechny nepratelske oddily.\\fHodne stesti a vpred!\\f",
+  "idx": 2999
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372292,
+  "str_off": 6353800,
+  "len": 81,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces to win.\\fThat's your mission!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny nepratelske sily a vyhrajes.\\fTo je tvoje mise!\\f",
+  "idx": 3000
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372296,
+  "str_off": 6353884,
+  "len": 68,
+  "en": "Seize the enemy HQ or defeat all\\rthe enemy units to clear this map.\\f",
+  "cz": "Zaber neprijatelske HQ nebo znic\\rvsechny jednotky a dokoncis mapu.\\f",
+  "idx": 3001
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372300,
+  "str_off": 6353956,
+  "len": 99,
+  "en": "Flak's forces are moving in...\\fCapture Lash's HQ within 7 days or\\rdefeat all of her troops to win!\\f",
+  "cz": "Flakovy sily se blizi...\\fObsad Lashino HQ do 7 dni nebo\\rporaz vsechny jeji oddily a vyhrajes!\\f",
+  "idx": 3002
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372304,
+  "str_off": 6354056,
+  "len": 112,
+  "en": "The Black Cannon must be destroyed\\rto win here! There's no need to panic.\\fFocus on the objective, and move out!\\f",
+  "cz": "K vitezstvi musis znicit Black\\rCannon! Neni treba panikarit.\\fSoustred se na cil a vpred!\\f",
+  "idx": 3003
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372308,
+  "str_off": 6354172,
+  "len": 67,
+  "en": "Capture the enemy lab or destroy\\rthe enemy units in 7 days to win!\\f",
+  "cz": "Obsad neprijatelskou lab nebo znic\\rjednotky do 7 dni a vyhrajes!\\f",
+  "idx": 3004
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372312,
+  "str_off": 6354240,
+  "len": 64,
+  "en": "We've finally arrived! All we need\\rto worry about is that pipe!\\f",
+  "cz": "Konecne jsme tu! Stara se musime\\rjen o to potrubi!\\f",
+  "idx": 3005
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372316,
+  "str_off": 6354308,
+  "len": 65,
+  "en": "Defeat all the enemy forces or\\rcapture the enemy HQ to win here.\\f",
+  "cz": "Poraz vsechny nepratelske sily nebo\\robsad neprijatelske HQ a vyhrajes.\\f",
+  "idx": 3006
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372320,
+  "str_off": 6354376,
+  "len": 72,
+  "en": "To win here, defeat all the enemy\\rtroops. Pay attention to those woods!\\f",
+  "cz": "K vitezstvi poraz vsechny\\rnepratelske oddily. Pozor na ten les!\\f",
+  "idx": 3007
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372324,
+  "str_off": 6354452,
+  "len": 76,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces for victory!\\fGood luck!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny nepratelske sily a vyhrajes!\\fHodne stesti!\\f",
+  "idx": 3008
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372328,
+  "str_off": 6354532,
+  "len": 103,
+  "en": "Capture the cities around the giant\\rmissile silo within 15 days.\\fIf you can do that, victory is yours!\\f",
+  "cz": "Obsad mesta kolem obriho\\rraketoveho sila do 15 dni.\\fKdyz to dokazes, vitezstvi je tve!\\f",
+  "idx": 3009
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372332,
+  "str_off": 6354636,
+  "len": 56,
+  "en": "All you need to do here is protect\\ryour HQ for 14 days!\\f",
+  "cz": "Stari jen ochranit sve\\rHQ po 14 dni!\\f",
+  "idx": 3010
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372336,
+  "str_off": 6354696,
+  "len": 81,
+  "en": "Move a unit onto your HQ, or\\rdefeat all enemy units.\\fThat's all it takes to win!\\f",
+  "cz": "Premisti jednotku na sve HQ nebo\\rznic vsechny nepratelske jednotky.\\fVic k vitezstvi netreba!\\f",
+  "idx": 3011
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372340,
+  "str_off": 6354780,
+  "len": 103,
+  "en": "Capture the enemy lab or defeat all\\rthe enemy forces within 15 days!\\fThat's what it takes to win here!\\f",
+  "cz": "Obsad neprijatelskou lab nebo poraz\\rvsechny nepratelske sily do 15 dni!\\fTo je cesta k vitezstvi!\\f",
+  "idx": 3012
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372344,
+  "str_off": 6354884,
+  "len": 67,
+  "en": "At last, the factory battle!\\rDestroy that pipe to claim the field!\\f",
+  "cz": "Konecne, bitva o tovarnu!\\rZnic to potrubi a obsad pole!\\f",
+  "idx": 3013
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372348,
+  "str_off": 6354952,
+  "len": 76,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces for victory!\\fGood luck!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny nepratelske sily a vyhrajes!\\fHodne stesti!\\f",
+  "idx": 3014
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372352,
+  "str_off": 6355032,
+  "len": 66,
+  "en": "Capture the enemy HQ or destroy\\rthe 8 minicannons to win the day!\\f",
+  "cz": "Obsad neprijatelske HQ nebo znic\\r8 minidel a zvitezis!\\f",
+  "idx": 3015
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372356,
+  "str_off": 6355100,
+  "len": 76,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces for victory!\\fGood luck!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny nepratelske sily a vyhrajes!\\fHodne stesti!\\f",
+  "idx": 3016
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372360,
+  "str_off": 6355180,
+  "len": 73,
+  "en": "Destroy all enemy units, but protect\\rthose 10 cities in the upper right!\\f",
+  "cz": "Znic vsechny nepratelske jednotky,\\rale chran tech 10 mest vpravo nahore!\\f",
+  "idx": 3017
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372364,
+  "str_off": 6355256,
+  "len": 56,
+  "en": "Defeat all the enemy forces before\\rthey get to your HQ!\\f",
+  "cz": "Poraz vsechny nepratelske sily,\\rnez se dostanou k tvemu HQ!\\f",
+  "idx": 3018
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372368,
+  "str_off": 6355316,
+  "len": 56,
+  "en": "Topple the 3 minicannons above\\ryour HQ to win this map!\\f",
+  "cz": "Sval 3 minidela nad tvym\\rHQ a vyhrajes tuto mapu!\\f",
+  "idx": 3019
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372372,
+  "str_off": 6355376,
+  "len": 102,
+  "en": "Capture the enemy lab or defeat all\\rthe enemy units within 18 days!\\fAre you ready for this challenge?\\f",
+  "cz": "Obsad neprijatelskou lab nebo znic\\rvsechny jednotky do 18 dni!\\fJsi na tuto vyzvu pripraven?\\f",
+  "idx": 3020
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372376,
+  "str_off": 6355480,
+  "len": 93,
+  "en": "It's been a long, hard road, but\\rvictory is within our grasp!\\fMove out, and crush that pipe!\\f",
+  "cz": "Byla to dlouha, tezka cesta, ale\\rvitezstvi je na dosah!\\fVpred a znic to potrubi!\\f",
+  "idx": 3021
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372380,
+  "str_off": 6355576,
+  "len": 70,
+  "en": "To win the field here, destroy the\\r8 minicannons around the enemy HQ.\\f",
+  "cz": "K obsazeni pole znic\\r8 minidel kolem neprijatelskeho HQ.\\f",
+  "idx": 3022
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372384,
+  "str_off": 6355648,
+  "len": 56,
+  "en": "The 2 Black Cannons must be\\rdestroyed to claim victory!\\f",
+  "cz": "K vitezstvi musis znicit\\r2 Black Cannony!\\f",
+  "idx": 3023
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372388,
+  "str_off": 6355708,
+  "len": 113,
+  "en": "Lash's repair skills are nothing to\\rsneeze at...\\fYou have 17 days to sink the\\rbattleships surrounded by bridges!\\f",
+  "cz": "Lashiny opravarske schopnosti nejsou\\rk zahozeni...\\fMas 17 dni potopit bitevni\\rlode obklopene mosty!\\f",
+  "idx": 3024
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372392,
+  "str_off": 6355824,
+  "len": 85,
+  "en": "To win here, destroy the 4 laser\\rcannons or capture the enemy HQ!\\fLend a hand, Sami!\\f",
+  "cz": "K vitezstvi znic 4 laserova\\rdela nebo obsad neprijatelske HQ!\\fPomoz, Sami!\\f",
+  "idx": 3025
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372396,
+  "str_off": 6355912,
+  "len": 76,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces for victory!\\fGood luck!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny nepratelske sily a vyhrajes!\\fHodne stesti!\\f",
+  "idx": 3026
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372400,
+  "str_off": 6355992,
+  "len": 74,
+  "en": "Capture the enemy HQ, or defeat all\\rthe enemy troops. Beware the volcano!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny oddily. Pozor na sopku!\\f",
+  "idx": 3027
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372404,
+  "str_off": 6356068,
+  "len": 79,
+  "en": "You have 9 days to capture the lab\\ror destroy all enemy troops.\\fYou can do it!\\f",
+  "cz": "Mas 9 dni obsadit lab nebo\\rznicit vsechny nepratelske oddily.\\fZvladnes to!\\f",
+  "idx": 3028
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372408,
+  "str_off": 6356148,
+  "len": 126,
+  "en": "Hawke's a formidable foe, but we can\\rbeat him if we work together!\\fThe key to victory is destroying\\rthat pipe to the factory!\\f",
+  "cz": "Hawke je obavany nepritel, ale\\rspolecne ho porazime!\\fKlicem k vitezstvi je znicit\\rto potrubi k tovarne!\\f",
+  "idx": 3029
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372412,
+  "str_off": 6356276,
+  "len": 52,
+  "en": "Take out the 3 Black Cannons to\\rclaim victory here!\\f",
+  "cz": "Znic 3 Black Cannony a\\rzvitezis zde!\\f",
+  "idx": 3030
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372416,
+  "str_off": 6356332,
+  "len": 126,
+  "en": "We're here at last! You've all\\rfought so hard for this day.\\fDestroy the Deathray within 30\\rdays to end this once and for all!\\f",
+  "cz": "Konecne jsme tu! Vsichni jste\\rtvrde bojovali pro tento den.\\fZnic Deathray do 30 dni a\\rukonci to jednou provzdy!\\f",
+  "idx": 3031
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372420,
+  "str_off": 6356460,
+  "len": 76,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces for victory!\\fGood luck!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny nepratelske sily a vyhrajes!\\fHodne stesti!\\f",
+  "idx": 3032
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372424,
+  "str_off": 6356540,
+  "len": 80,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces for victory!\\fMake us proud!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny nepratelske sily a vyhrajes!\\fUcin nam radost!\\f",
+  "idx": 3033
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372428,
+  "str_off": 6356624,
+  "len": 100,
+  "en": "Topple the Black Cannon to win here!\\rThere's no need to panic.\\fFocus on the objective and move out!\\f",
+  "cz": "Sval Black Cannon a zvitezis!\\rNeni treba panikarit.\\fSoustred se na cil a vpred!\\f",
+  "idx": 3034
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372432,
+  "str_off": 6356728,
+  "len": 76,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces for victory!\\fGood luck!\\f",
+  "cz": "Obsad neprijatelske HQ nebo poraz\\rvsechny nepratelske sily a vyhrajes!\\fHodne stesti!\\f",
+  "idx": 3035
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372436,
+  "str_off": 6356808,
+  "len": 73,
+  "en": "Victory's all yours if you defeat\\rall the enemy troops! Let 'em have it!\\f",
+  "cz": "Vitezstvi je tve, kdyz porazis\\rvsechny oddily! Dej jim na frak!\\f",
+  "idx": 3036
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372440,
+  "str_off": 6356884,
+  "len": 72,
+  "en": "To win here, defeat all the enemy\\rtroops. Pay attention to those woods!\\f",
+  "cz": "K vitezstvi poraz vsechny\\rnepratelske oddily. Pozor na ten les!\\f",
+  "idx": 3037
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372444,
+  "str_off": 6356960,
+  "len": 91,
+  "en": "Capture the enemy lab or defeat all\\rthe enemy units within 7 days!\\fThose are your options!\\f",
+  "cz": "Obsad neprijatelskou lab nebo znic\\rvsechny jednotky do 7 dni!\\fTo jsou tve moznosti!\\f",
+  "idx": 3038
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372448,
+  "str_off": 6357052,
+  "len": 62,
+  "en": "All you need to worry about here\\ris that factory! Destroy it!\\f",
+  "cz": "Stara se musis jen o tu\\rtovarnu! Znic ji!\\f",
+  "idx": 3039
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372452,
+  "str_off": 6357116,
+  "len": 13,
+  "en": "   Yes     No",
+  "cz": "  Ano     Ne",
+  "idx": 3040
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372456,
+  "str_off": 6357132,
+  "len": 22,
+  "en": "\\x0B\\x81Save current data?\\r\\x16",
+  "cz": "\\x0B\\x81Ulozit aktualni data?\\r\\x16",
+  "idx": 3041
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372460,
+  "str_off": 6357156,
+  "len": 42,
+  "en": "\\x0B\\x81Save current data\\e\\e\\rover existing data?\\x16",
+  "cz": "\\x0B\\x81Ulozit aktualni data\\e\\e\\rpres stavajici?\\x16",
+  "idx": 3042
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372464,
+  "str_off": 6357200,
+  "len": 31,
+  "en": "\\x0B\\x80Now saving. Do not turn OFF.\\e",
+  "cz": "\\x0B\\x80Ukladam. Nevypinej.\\e",
+  "idx": 3043
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372468,
+  "str_off": 6357232,
+  "len": 20,
+  "en": "\\x0C\\x0B\\x80Save complete!\\e\\e\\e",
+  "cz": "\\x0C\\x0B\\x80Ulozeno!\\e\\e\\e",
+  "idx": 3044
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372472,
+  "str_off": 6357256,
+  "len": 26,
+  "en": "\\x0B\\x81Delete all saved data?\\r\\x17",
+  "cz": "\\x0B\\x81Smazat vsechna ulozena data?\\r\\x17",
+  "idx": 3045
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372476,
+  "str_off": 6357284,
+  "len": 38,
+  "en": "\\x0B\\x80Now deleting data.\\rDo not turn OFF.\\e",
+  "cz": "\\x0B\\x80Mazu data.\\rNevypinej.\\e",
+  "idx": 3046
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372480,
+  "str_off": 6357324,
+  "len": 26,
+  "en": "\\x0C\\x0B\\x80Data has been deleted!\\f",
+  "cz": "\\x0C\\x0B\\x80Data byla smazana!\\f",
+  "idx": 3047
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372484,
+  "str_off": 6357352,
+  "len": 46,
+  "en": "If you yield, you lose.\\rDo you really yield?\\e\\x17",
+  "cz": "Kdyz se vzdas, prohrajes.\\rOpravdu se vzdavas?\\e\\x17",
+  "idx": 3048
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372488,
+  "str_off": 6357400,
+  "len": 29,
+  "en": "Return to Select Mode menu?\\r\\x17",
+  "cz": "Zpet do menu vyberu rezimu?\\r\\x17",
+  "idx": 3049
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372492,
+  "str_off": 6357432,
+  "len": 32,
+  "en": "The Orange Star Army has lost!\\e\\e",
+  "cz": "Armada Orange Star prohrala!\\e\\e",
+  "idx": 3050
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372496,
+  "str_off": 6357468,
+  "len": 30,
+  "en": "The Blue Moon Army has lost!\\e\\e",
+  "cz": "Armada Blue Moon prohrala!\\e\\e",
+  "idx": 3051
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372500,
+  "str_off": 6357500,
+  "len": 32,
+  "en": "The Green Earth Army has lost!\\e\\e",
+  "cz": "Armada Green Earth prohrala!\\e\\e",
+  "idx": 3052
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372504,
+  "str_off": 6357536,
+  "len": 33,
+  "en": "The Yellow Comet Army has lost!\\e\\e",
+  "cz": "Armada Yellow Comet prohrala!\\e\\e",
+  "idx": 3053
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372508,
+  "str_off": 6357572,
+  "len": 31,
+  "en": "The Black Hole Army has lost!\\e\\e",
+  "cz": "Armada Black Hole prohrala!\\e\\e",
+  "idx": 3054
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372512,
+  "str_off": 6357604,
+  "len": 34,
+  "en": "View battle and\\rcapture animation.",
+  "cz": "Zobrazit animaci boje\\ra obsazeni.",
+  "idx": 3055
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372516,
+  "str_off": 6357640,
+  "len": 28,
+  "en": "View battle\\ranimation only. ",
+  "cz": "Zobrazit jen animaci\\rboje. ",
+  "idx": 3056
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372520,
+  "str_off": 6357672,
+  "len": 34,
+  "en": "View player battle\\ranimation only.",
+  "cz": "Zobrazit jen animaci\\rboje hrace.",
+  "idx": 3057
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372524,
+  "str_off": 6357708,
+  "len": 13,
+  "en": "No animation.",
+  "cz": "Bez animace.",
+  "idx": 3058
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372528,
+  "str_off": 6357724,
+  "len": 63,
+  "en": "You have 50 units deployed.\\rYou cannot produce any more units.\\f",
+  "cz": "Mas nasazeno 50 jednotek.\\rDalsi jednotky uz vyrabet nemuzes.\\f",
+  "idx": 3059
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372532,
+  "str_off": 6357788,
+  "len": 27,
+  "en": "Select missile target now.\\f",
+  "cz": "Vyber ted cil strely.\\f",
+  "idx": 3060
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372536,
+  "str_off": 6357816,
+  "len": 64,
+  "en": "If you save a new game, your\\rprevious data will be overwritten.\\f",
+  "cz": "Kdyz ulozis novou hru, tva\\rpredchozi data se prepisi.\\f",
+  "idx": 3061
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372540,
+  "str_off": 6357884,
+  "len": 23,
+  "en": "Name your map, please.\\f",
+  "cz": "Pojmenuj svou mapu, prosim.\\f",
+  "idx": 3062
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372544,
+  "str_off": 6357908,
+  "len": 18,
+  "en": "Is this correct?\\r\\x16",
+  "cz": "Je to spravne?\\r\\x16",
+  "idx": 3063
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372548,
+  "str_off": 6357928,
+  "len": 31,
+  "en": "Are you really going to quit?\\r\\x16",
+  "cz": "Opravdu chces skoncit?\\r\\x16",
+  "idx": 3064
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372552,
+  "str_off": 6357960,
+  "len": 10,
+  "en": "Not Linked",
+  "cz": "Nepropojeno",
+  "idx": 3065
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372556,
+  "str_off": 6357972,
+  "len": 9,
+  "en": "Preparing",
+  "cz": "Pripravuji",
+  "idx": 3066
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372560,
+  "str_off": 6357984,
+  "len": 5,
+  "en": "Error",
+  "cz": "Chyba",
+  "idx": 3067
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372564,
+  "str_off": 6357992,
+  "len": 7,
+  "en": "Linking",
+  "cz": "Propojuji",
+  "idx": 3068
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372568,
+  "str_off": 6358000,
+  "len": 7,
+  "en": "Linking",
+  "cz": "Propojuji",
+  "idx": 3069
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372572,
+  "str_off": 6358008,
+  "len": 14,
+  "en": "No saved data.",
+  "cz": "Zadna ulozena data.",
+  "idx": 3070
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372576,
+  "str_off": 6358024,
+  "len": 18,
+  "en": "Preparing to link!",
+  "cz": "Priprava na propojeni!",
+  "idx": 3071
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372580,
+  "str_off": 6358044,
+  "len": 32,
+  "en": "Confirming entries. Please wait.",
+  "cz": "Overuji zaznamy. Cekej prosim.",
+  "idx": 3072
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372584,
+  "str_off": 6358080,
+  "len": 34,
+  "en": "Press START when everyone's ready!",
+  "cz": "Az budou vsichni, stiskni START!",
+  "idx": 3073
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372588,
+  "str_off": 6358116,
+  "len": 40,
+  "en": "Please wait until preparations are done.",
+  "cz": "Vyckej, nez budou pripravy hotovy.",
+  "idx": 3074
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372592,
+  "str_off": 6358160,
+  "len": 33,
+  "en": "Select a player to send map data.",
+  "cz": "Vyber hrace pro odeslani map dat.",
+  "idx": 3075
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372596,
+  "str_off": 6358196,
+  "len": 36,
+  "en": "There is no one to send map data to.",
+  "cz": "Nikdo, komu poslat data mapy.",
+  "idx": 3076
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372600,
+  "str_off": 6358236,
+  "len": 24,
+  "en": "Select map data to send.",
+  "cz": "Vyber data mapy k odeslani.",
+  "idx": 3077
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372604,
+  "str_off": 6358264,
+  "len": 24,
+  "en": "Select the area to save.",
+  "cz": "Vyber oblast k ulozeni.",
+  "idx": 3078
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372608,
+  "str_off": 6358292,
+  "len": 37,
+  "en": "Wait until all preparations are done!",
+  "cz": "Vyckej, nez budou vsechny pripravy!",
+  "idx": 3079
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372612,
+  "str_off": 6358332,
+  "len": 30,
+  "en": "Sending Map data. Please wait.",
+  "cz": "Odesilam data mapy. Cekej.",
+  "idx": 3080
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372616,
+  "str_off": 6358364,
+  "len": 32,
+  "en": "Receiving Map data. Please wait.",
+  "cz": "Prijimam data mapy. Cekej.",
+  "idx": 3081
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372620,
+  "str_off": 6358400,
+  "len": 22,
+  "en": "Finished! Let's begin!",
+  "cz": "Hotovo! Zacneme!",
+  "idx": 3082
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372624,
+  "str_off": 6358424,
+  "len": 35,
+  "en": "Finished! Let's return to the menu.",
+  "cz": "Hotovo! Vratme se do menu.",
+  "idx": 3083
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372628,
+  "str_off": 6358460,
+  "len": 33,
+  "en": "Saving map data. Do not turn OFF.",
+  "cz": "Ukladam data mapy. Nevypinej.",
+  "idx": 3084
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372632,
+  "str_off": 6358496,
+  "len": 36,
+  "en": "Preparing for download. Please wait.",
+  "cz": "Priprava na stahovani. Cekej.",
+  "idx": 3085
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372636,
+  "str_off": 6358536,
+  "len": 30,
+  "en": "Can't link! Returning to menu.",
+  "cz": "Nelze propojit! Vracim do menu.",
+  "idx": 3086
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372640,
+  "str_off": 6358568,
+  "len": 26,
+  "en": "Sending data. Please wait.",
+  "cz": "Odesilam data. Cekej.",
+  "idx": 3087
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372644,
+  "str_off": 6358596,
+  "len": 13,
+  "en": "Sending data.",
+  "cz": "Odesilam data.",
+  "idx": 3088
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372648,
+  "str_off": 6358612,
+  "len": 12,
+  "en": "Please wait.",
+  "cz": "Cekej prosim.",
+  "idx": 3089
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372652,
+  "str_off": 6358628,
+  "len": 56,
+  "en": "\\x0CSomething's wrong with the link.\\rPress START to reset.\\f",
+  "cz": "\\x0CNeco je s propojenim spatne.\\rStiskni START pro reset.\\f",
+  "idx": 3090
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372656,
+  "str_off": 6358688,
+  "len": 37,
+  "en": "Friends can battle with one Game Pak.",
+  "cz": "Prateli mohou bojovat s jednim Game Pakem.",
+  "idx": 3091
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372660,
+  "str_off": 6358728,
+  "len": 26,
+  "en": "Link up to battle friends.",
+  "cz": "Propoj se a bojuj s prateli.",
+  "idx": 3092
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372664,
+  "str_off": 6358756,
+  "len": 23,
+  "en": "Link up and trade maps.",
+  "cz": "Propoj se a vymen mapy.",
+  "idx": 3093
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372668,
+  "str_off": 6358780,
+  "len": 13,
+  "en": "Andy's Anthem",
+  "cz": "Andyho hymna",
+  "idx": 3094
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372672,
+  "str_off": 6358796,
+  "len": 12,
+  "en": "Sami's Theme",
+  "cz": "Sami - tema",
+  "idx": 3095
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372676,
+  "str_off": 6358812,
+  "len": 11,
+  "en": "Max's Theme",
+  "cz": "Max - tema",
+  "idx": 3096
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372680,
+  "str_off": 6358824,
+  "len": 12,
+  "en": "Nell's Theme",
+  "cz": "Nell - tema",
+  "idx": 3097
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372684,
+  "str_off": 6358840,
+  "len": 13,
+  "en": "Hachi's Theme",
+  "cz": "Hachi - tema",
+  "idx": 3098
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372688,
+  "str_off": 6358856,
+  "len": 13,
+  "en": "Colin's Theme",
+  "cz": "Colin - tema",
+  "idx": 3099
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372692,
+  "str_off": 6358872,
+  "len": 12,
+  "en": "Grit's Theme",
+  "cz": "Grit - tema",
+  "idx": 3100
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372696,
+  "str_off": 6358888,
+  "len": 12,
+  "en": "Olaf's Theme",
+  "cz": "Olaf - tema",
+  "idx": 3101
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372700,
+  "str_off": 6358904,
+  "len": 14,
+  "en": "Kanbei's Theme",
+  "cz": "Kanbei - tema",
+  "idx": 3102
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372704,
+  "str_off": 6358920,
+  "len": 13,
+  "en": "Sonja's Theme",
+  "cz": "Sonja - tema",
+  "idx": 3103
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372708,
+  "str_off": 6358936,
+  "len": 14,
+  "en": "Sensei's Theme",
+  "cz": "Sensei - tema",
+  "idx": 3104
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372712,
+  "str_off": 6358952,
+  "len": 13,
+  "en": "Eagle's Theme",
+  "cz": "Eagle - tema",
+  "idx": 3105
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372716,
+  "str_off": 6358968,
+  "len": 13,
+  "en": "Drake's Theme",
+  "cz": "Drake - tema",
+  "idx": 3106
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372720,
+  "str_off": 6358984,
+  "len": 12,
+  "en": "Jess's Theme",
+  "cz": "Jess - tema",
+  "idx": 3107
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372724,
+  "str_off": 6359000,
+  "len": 12,
+  "en": "Flak's Theme",
+  "cz": "Flak - tema",
+  "idx": 3108
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372728,
+  "str_off": 6359016,
+  "len": 12,
+  "en": "Lash's Theme",
+  "cz": "Lash - tema",
+  "idx": 3109
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372732,
+  "str_off": 6359032,
+  "len": 13,
+  "en": "Adder's Theme",
+  "cz": "Adder - tema",
+  "idx": 3110
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372736,
+  "str_off": 6359048,
+  "len": 13,
+  "en": "Hawke's Theme",
+  "cz": "Hawke - tema",
+  "idx": 3111
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372740,
+  "str_off": 6359064,
+  "len": 13,
+  "en": "Sturm's Theme",
+  "cz": "Sturm - tema",
+  "idx": 3112
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372744,
+  "str_off": 6359080,
+  "len": 6,
+  "en": "Power!",
+  "cz": "Sila!",
+  "idx": 3113
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372748,
+  "str_off": 6359088,
+  "len": 17,
+  "en": "Black Hole Power!",
+  "cz": "Black Hole Sila!",
+  "idx": 3114
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372752,
+  "str_off": 6359108,
+  "len": 12,
+  "en": "Super Power!",
+  "cz": "Super Sila!",
+  "idx": 3115
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372756,
+  "str_off": 6359124,
+  "len": 22,
+  "en": "Black Hole Super Power",
+  "cz": "Black Hole Super Sila",
+  "idx": 3116
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372760,
+  "str_off": 6359148,
+  "len": 11,
+  "en": "Orange Star",
+  "cz": "Orange Star",
+  "idx": 3117
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372764,
+  "str_off": 6359160,
+  "len": 9,
+  "en": "Blue Moon",
+  "cz": "Blue Moon",
+  "idx": 3118
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372768,
+  "str_off": 6359172,
+  "len": 12,
+  "en": "Yellow Comet",
+  "cz": "Yellow Comet",
+  "idx": 3119
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372772,
+  "str_off": 6359188,
+  "len": 11,
+  "en": "Green Earth",
+  "cz": "Green Earth",
+  "idx": 3120
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372776,
+  "str_off": 6359200,
+  "len": 10,
+  "en": "Black Hole",
+  "cz": "Black Hole",
+  "idx": 3121
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372780,
+  "str_off": 6359212,
+  "len": 17,
+  "en": "To the Last Stage",
+  "cz": "Do posledni etapy",
+  "idx": 3122
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372784,
+  "str_off": 6359232,
+  "len": 17,
+  "en": "Orange Star Theme",
+  "cz": "Orange Star tema",
+  "idx": 3123
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372788,
+  "str_off": 6359252,
+  "len": 15,
+  "en": "Blue Moon Theme",
+  "cz": "Blue Moon tema",
+  "idx": 3124
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372792,
+  "str_off": 6359268,
+  "len": 18,
+  "en": "Yellow Comet Theme",
+  "cz": "Yellow Comet tema",
+  "idx": 3125
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372796,
+  "str_off": 6359288,
+  "len": 17,
+  "en": "Green Earth Theme",
+  "cz": "Green Earth tema",
+  "idx": 3126
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372800,
+  "str_off": 6359308,
+  "len": 16,
+  "en": "Black Hole Theme",
+  "cz": "Black Hole tema",
+  "idx": 3127
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372804,
+  "str_off": 6359328,
+  "len": 16,
+  "en": "Last Stage Theme",
+  "cz": "Tema posledni etapy",
+  "idx": 3128
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372808,
+  "str_off": 6359348,
+  "len": 8,
+  "en": "Count Up",
+  "cz": "Scitani",
+  "idx": 3129
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372812,
+  "str_off": 6359360,
+  "len": 8,
+  "en": "Map Edit",
+  "cz": "Editor map",
+  "idx": 3130
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372816,
+  "str_off": 6359372,
+  "len": 14,
+  "en": "Battle Success",
+  "cz": "Uspech v boji",
+  "idx": 3131
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372820,
+  "str_off": 6359388,
+  "len": 18,
+  "en": "Factory Domination",
+  "cz": "Nadvlada v tovarne",
+  "idx": 3132
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372824,
+  "str_off": 6359408,
+  "len": 22,
+  "en": "Advance Wars 2 Opening",
+  "cz": "Advance Wars 2 Uvod",
+  "idx": 3133
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372828,
+  "str_off": 6359432,
+  "len": 14,
+  "en": "Battle Fanfare",
+  "cz": "Bojova fanfara",
+  "idx": 3134
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372832,
+  "str_off": 6359448,
+  "len": 15,
+  "en": "Wars World News",
+  "cz": "Wars World News",
+  "idx": 3135
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372836,
+  "str_off": 6359464,
+  "len": 23,
+  "en": "The World of Macro Land",
+  "cz": "Svet Macro Land",
+  "idx": 3136
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372840,
+  "str_off": 6359488,
+  "len": 14,
+  "en": "Macro Land Map",
+  "cz": "Mapa Macro Land",
+  "idx": 3137
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372844,
+  "str_off": 6359504,
+  "len": 21,
+  "en": "Advance Wars 2 Ending",
+  "cz": "Advance Wars 2 Zaver",
+  "idx": 3138
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372848,
+  "str_off": 6359528,
+  "len": 15,
+  "en": "Victory Fanfare",
+  "cz": "Vitezna fanfara",
+  "idx": 3139
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372852,
+  "str_off": 6359544,
+  "len": 11,
+  "en": "Orange Star",
+  "cz": "Orange Star",
+  "idx": 3140
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372856,
+  "str_off": 6359556,
+  "len": 9,
+  "en": "Blue Moon",
+  "cz": "Blue Moon",
+  "idx": 3141
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372860,
+  "str_off": 6359568,
+  "len": 12,
+  "en": "Yellow Comet",
+  "cz": "Yellow Comet",
+  "idx": 3142
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372864,
+  "str_off": 6359584,
+  "len": 11,
+  "en": "Green Earth",
+  "cz": "Green Earth",
+  "idx": 3143
+ },
+ {
+  "table": "0x613BBC",
+  "ptr_loc": 6372868,
+  "str_off": 6359596,
+  "len": 10,
+  "en": "Black Hole",
+  "cz": "Black Hole",
+  "idx": 3144
+ }
+]

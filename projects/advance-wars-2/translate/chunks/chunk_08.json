@@ -1,0 +1,2837 @@
+[
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369548,
+  "str_off": 6320432,
+  "len": 113,
+  "en": "Blue Moon's little rich\\rboy CO. Views Olaf\\rand Grit with awe\\rand admiration.\\rHit: Olaf and Grit\\rMiss: Black Hole ",
+  "cz": "Bohaty mlady CO frakce\\rBlue Moon. K Olafovi\\ra Gritovi vzhlizi\\rs uctou a obdivem.\\rOblibene: Olaf a Grit\\rNeoblibene: Black Hole ",
+  "idx": 2520
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369552,
+  "str_off": 6320548,
+  "len": 128,
+  "en": "The heir to a vast\\rfortune. Purchases\\rall units at a special\\rlow price. Troops' low\\rfirepower stems from\\rhis lack of experience.",
+  "cz": "Dedic obrovskeho\\rjmeni. Nakupuje\\rvsechny jednotky za\\rnizkou cenu. Slaba\\rpalba vojaku plyne z\\rjeho nedostatku zkusenosti.",
+  "idx": 2521
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369556,
+  "str_off": 6320680,
+  "len": 51,
+  "en": "Increases deployment\\rfunds by one and a\\rhalf times.",
+  "cz": "Zvysuje nasazovaci\\rfinance jeden a pul-\\rkrat.",
+  "idx": 2522
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369560,
+  "str_off": 6320732,
+  "len": 107,
+  "en": "Uses wealth to\\rincrease the strength\\rof weapons. The more\\rfunds available, the\\rstronger the weapons\\rbecome.",
+  "cz": "Pomoci bohatstvi\\rzvysuje silu zbrani.\\rCim vice financi mas,\\rtim silnejsi zbrane\\rmas.",
+  "idx": 2523
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369564,
+  "str_off": 6320840,
+  "len": 113,
+  "en": "A gallant tank-driving\\rCO who fought her\\rway to the top. Often\\rargues with Eagle.\\rHit: Dandelions\\rMiss: Unfit COs",
+  "cz": "Statecny CO za volantem\\rtanku, ktery se probil\\raz na vrchol. Casto se\\rhada s Eaglem.\\rOblibene: Pampelisky\\rNeoblibene: Slabi COs",
+  "idx": 2524
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369568,
+  "str_off": 6320956,
+  "len": 98,
+  "en": "Vehicular units have\\rsuperior attack power.\\rInfantry, air, and\\rnaval units are\\rcomparatively weak.",
+  "cz": "Vozidlove jednotky maji\\rvyssi silu utoku.\\rPechota, letecke a\\rnamorni jednotky jsou\\rpomerne slabe.",
+  "idx": 2525
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369572,
+  "str_off": 6321056,
+  "len": 118,
+  "en": "Movement range of\\rvehicles increases by\\r1 space. Firepower\\rincreases, and fuel\\rand ammo supplies\\rare also replenished.",
+  "cz": "Dosah pohybu vozidel\\rse zvysi o 1 pole.\\rPalba se zvysi a take\\rse doplni zasoby paliva\\ra munice.",
+  "idx": 2526
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369576,
+  "str_off": 6321176,
+  "len": 128,
+  "en": "Increase in the attack\\rstrength of vehicular\\runits and 2-space\\rincrease in movement\\rrange. Also restores\\rfuel and ammo supplies.",
+  "cz": "Zvyseni sily utoku\\rvozidlovych jednotek a\\rzvyseni dosahu pohybu\\ro 2 pole. Take doplni\\rzasoby paliva a\\rmunice.",
+  "idx": 2527
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369580,
+  "str_off": 6321308,
+  "len": 105,
+  "en": "A former paratrooper\\rrumored to have\\rbeen quite the CO\\rin his day.\\rHit: Lazy, rainy days\\rMiss: Busy malls",
+  "cz": "Byvaly vysadkar, o nemz\\rse rika, ze byval\\rpekny CO za svych\\rcasu.\\rObl.: Lenive, destive dny\\rNeobl.: Rusna obchodni centra",
+  "idx": 2528
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369584,
+  "str_off": 6321416,
+  "len": 122,
+  "en": "Powerful infantry &\\rhigh transport move-\\rment range. Superior\\rfirepower for copters,\\rbut weak vs. naval\\rand vehicle units.",
+  "cz": "Silna pechota a velky\\rdosah pohybu trans-\\rporteru. Vyssi palba\\rvrtulniku, ale slaby\\rproti namornim a\\rvozidlovym jednotkam.",
+  "idx": 2529
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369588,
+  "str_off": 6321540,
+  "len": 109,
+  "en": "Attack copter fire-\\rpower increases.\\rInfantry units with\\r9 HP appear in all\\rallied cities, ready\\rto be moved.",
+  "cz": "Palba bojovych vrtul-\\rniku se zvysi.\\rJednotky pechoty s\\r9 HP se objevi ve vsech\\rspojeneckych mestech,\\rpripraveny k pohybu.",
+  "idx": 2530
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369592,
+  "str_off": 6321652,
+  "len": 106,
+  "en": "Attack copter fire-\\rpower increases.\\rMech units with 9\\rHP appear in all\\rallied cities, ready \\rto be moved.",
+  "cz": "Palba bojovych vrtul-\\rniku se zvysi.\\rJednotky mechu s 9\\rHP se objevi ve vsech\\rspojeneckych mestech, \\rpripraveny k pohybu.",
+  "idx": 2531
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369596,
+  "str_off": 6321760,
+  "len": 33,
+  "en": "Fight your way through the story.",
+  "cz": "Probojuj se pribehem.",
+  "idx": 2532
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369600,
+  "str_off": 6321796,
+  "len": 32,
+  "en": "Continue a campaign in progress.",
+  "cz": "Pokracuj v rozehrane kampani.",
+  "idx": 2533
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369604,
+  "str_off": 6321832,
+  "len": 21,
+  "en": "Start a new campaign.",
+  "cz": "Zacni novou kampan.",
+  "idx": 2534
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369608,
+  "str_off": 6321856,
+  "len": 31,
+  "en": "Battle friends or the computer.",
+  "cz": "Bojuj s prateli nebo pocitacem.",
+  "idx": 2535
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369612,
+  "str_off": 6321888,
+  "len": 42,
+  "en": "Continue a Versus mode battle in progress.",
+  "cz": "Pokracuj v rozehrane bitve rezimu Versus.",
+  "idx": 2536
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369616,
+  "str_off": 6321932,
+  "len": 31,
+  "en": "Start a new Versus mode battle.",
+  "cz": "Zacni novou bitvu rezimu Versus.",
+  "idx": 2537
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369620,
+  "str_off": 6321964,
+  "len": 40,
+  "en": "Battle the computer and save your score.",
+  "cz": "Bojuj s pocitacem a uloz sve skore.",
+  "idx": 2538
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369624,
+  "str_off": 6322008,
+  "len": 40,
+  "en": "Continue an in-progress War Room battle.",
+  "cz": "Pokracuj v rozehrane bitve War Room.",
+  "idx": 2539
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369628,
+  "str_off": 6322052,
+  "len": 28,
+  "en": "Start a new War Room battle.",
+  "cz": "Zacni novou bitvu War Room.",
+  "idx": 2540
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369632,
+  "str_off": 6322084,
+  "len": 39,
+  "en": "Shop here with your hard-earned points.",
+  "cz": "Nakupuj zde za tezce vydelane body.",
+  "idx": 2541
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369636,
+  "str_off": 6322124,
+  "len": 35,
+  "en": "Create maps and edit the CO colors.",
+  "cz": "Tvor mapy a uprav barvy CO.",
+  "idx": 2542
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369640,
+  "str_off": 6322160,
+  "len": 40,
+  "en": "Create new single- and multiplayer maps.",
+  "cz": "Tvor nove mapy pro jednoho i vice hracu.",
+  "idx": 2543
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369644,
+  "str_off": 6322204,
+  "len": 30,
+  "en": "Change the colors of your COs.",
+  "cz": "Zmen barvy svych COs.",
+  "idx": 2544
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369648,
+  "str_off": 6322236,
+  "len": 41,
+  "en": "Link up to battle friends and trade maps.",
+  "cz": "Propoj se k bitvam s prateli a vymene map.",
+  "idx": 2545
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369652,
+  "str_off": 6322280,
+  "len": 31,
+  "en": "Press SELECT for Hard Campaign.",
+  "cz": "Stiskni SELECT pro Tezkou kampan.",
+  "idx": 2546
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369656,
+  "str_off": 6322312,
+  "len": 32,
+  "en": "Press SELECT for the Sound Room.",
+  "cz": "Stiskni SELECT pro Sound Room.",
+  "idx": 2547
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369660,
+  "str_off": 6322348,
+  "len": 42,
+  "en": "Select ON to limit vision with Fog of War.",
+  "cz": "Zvol ON pro omezeni vyhledu Mlhou valky.",
+  "idx": 2548
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369664,
+  "str_off": 6322392,
+  "len": 36,
+  "en": "RANDOM causes the climate to change.",
+  "cz": "RANDOM zpusobi zmenu pocasi.",
+  "idx": 2549
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369668,
+  "str_off": 6322432,
+  "len": 35,
+  "en": "Set funds received per allied base.",
+  "cz": "Nastav finance za spojeneckou zakladnu.",
+  "idx": 2550
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369672,
+  "str_off": 6322468,
+  "len": 29,
+  "en": "Set number of days to battle.",
+  "cz": "Nastav pocet dni bitvy.",
+  "idx": 2551
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369676,
+  "str_off": 6322500,
+  "len": 39,
+  "en": "Set number of properties needed to win.",
+  "cz": "Nastav pocet majetku nutnych k vitezstvi.",
+  "idx": 2552
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369680,
+  "str_off": 6322540,
+  "len": 30,
+  "en": "Select ON to enable CO powers.",
+  "cz": "Zvol ON pro zapnuti CO sil.",
+  "idx": 2553
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369684,
+  "str_off": 6322572,
+  "len": 13,
+  "en": "No animation.",
+  "cz": "Bez animace.",
+  "idx": 2554
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369688,
+  "str_off": 6322588,
+  "len": 29,
+  "en": "Battle and capture animation.",
+  "cz": "Animace bitvy a obsazeni.",
+  "idx": 2555
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369692,
+  "str_off": 6322620,
+  "len": 22,
+  "en": "Battle animation only.",
+  "cz": "Jen animace bitvy.",
+  "idx": 2556
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369696,
+  "str_off": 6322644,
+  "len": 34,
+  "en": "Battle animation for players only.",
+  "cz": "Animace bitvy jen pro hrace.",
+  "idx": 2557
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369700,
+  "str_off": 6322680,
+  "len": 41,
+  "en": "Set alliances by selecting the same team.",
+  "cz": "Nastav spojenectvi volbou stejneho tymu.",
+  "idx": 2558
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369704,
+  "str_off": 6322724,
+  "len": 12,
+  "en": "Choose a CO.",
+  "cz": "Vyber CO.",
+  "idx": 2559
+ },
+ {
+  "table": "0x612EE4",
+  "ptr_loc": 6369708,
+  "str_off": 6322740,
+  "len": 26,
+  "en": "Choose Player or Computer.",
+  "cz": "Vyber Hrace nebo Pocitac.",
+  "idx": 2560
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370020,
+  "str_off": 6324284,
+  "len": 14,
+  "en": "Field Training",
+  "cz": "Vycvik v poli",
+  "idx": 2561
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370024,
+  "str_off": 6324300,
+  "len": 8,
+  "en": "Campaign",
+  "cz": "Kampan",
+  "idx": 2562
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370028,
+  "str_off": 6324312,
+  "len": 7,
+  "en": "Classic",
+  "cz": "Klasik",
+  "idx": 2563
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370032,
+  "str_off": 6324320,
+  "len": 8,
+  "en": "Vs. Maps",
+  "cz": "Vs. mapy",
+  "idx": 2564
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370036,
+  "str_off": 6324332,
+  "len": 12,
+  "en": "Pre-Deployed",
+  "cz": "Predrozmistene",
+  "idx": 2565
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370040,
+  "str_off": 6324348,
+  "len": 7,
+  "en": "3P Maps",
+  "cz": "3P mapy",
+  "idx": 2566
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370044,
+  "str_off": 6324356,
+  "len": 7,
+  "en": "4P Maps",
+  "cz": "4P mapy",
+  "idx": 2567
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370048,
+  "str_off": 6324364,
+  "len": 8,
+  "en": "War Room",
+  "cz": "War Room",
+  "idx": 2568
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370052,
+  "str_off": 6324376,
+  "len": 11,
+  "en": "Design Maps",
+  "cz": "Navrh map",
+  "idx": 2569
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370056,
+  "str_off": 6324388,
+  "len": 11,
+  "en": "Bean Island",
+  "cz": "Bean Island",
+  "idx": 2570
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370060,
+  "str_off": 6324400,
+  "len": 11,
+  "en": "Crater Isle",
+  "cz": "Crater Isle",
+  "idx": 2571
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370064,
+  "str_off": 6324412,
+  "len": 9,
+  "en": "Triangles",
+  "cz": "Triangles",
+  "idx": 2572
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370068,
+  "str_off": 6324424,
+  "len": 12,
+  "en": "Ball Islands",
+  "cz": "Ball Islands",
+  "idx": 2573
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370072,
+  "str_off": 6324440,
+  "len": 12,
+  "en": "Coral Lagoon",
+  "cz": "Coral Lagoon",
+  "idx": 2574
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370076,
+  "str_off": 6324456,
+  "len": 11,
+  "en": "Puzzle Trio",
+  "cz": "Puzzle Trio",
+  "idx": 2575
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370080,
+  "str_off": 6324468,
+  "len": 14,
+  "en": "Fist Peninsula",
+  "cz": "Fist Peninsula",
+  "idx": 2576
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370084,
+  "str_off": 6324484,
+  "len": 11,
+  "en": "Deer Harbor",
+  "cz": "Deer Harbor",
+  "idx": 2577
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370088,
+  "str_off": 6324496,
+  "len": 11,
+  "en": "Alara Range",
+  "cz": "Alara Range",
+  "idx": 2578
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370092,
+  "str_off": 6324508,
+  "len": 10,
+  "en": "Lost River",
+  "cz": "Lost River",
+  "idx": 2579
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370096,
+  "str_off": 6324520,
+  "len": 12,
+  "en": "Volcano Isle",
+  "cz": "Volcano Isle",
+  "idx": 2580
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370100,
+  "str_off": 6324536,
+  "len": 12,
+  "en": "Turtle Atoll",
+  "cz": "Turtle Atoll",
+  "idx": 2581
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370104,
+  "str_off": 6324552,
+  "len": 13,
+  "en": "Squash Island",
+  "cz": "Squash Island",
+  "idx": 2582
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370108,
+  "str_off": 6324568,
+  "len": 9,
+  "en": "Cube Keys",
+  "cz": "Cube Keys",
+  "idx": 2583
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370112,
+  "str_off": 6324580,
+  "len": 14,
+  "en": "Mirror Islands",
+  "cz": "Mirror Islands",
+  "idx": 2584
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370116,
+  "str_off": 6324596,
+  "len": 12,
+  "en": "Shark Strait",
+  "cz": "Shark Strait",
+  "idx": 2585
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370120,
+  "str_off": 6324612,
+  "len": 13,
+  "en": "Royal Channel",
+  "cz": "Royal Channel",
+  "idx": 2586
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370124,
+  "str_off": 6324628,
+  "len": 13,
+  "en": "Little Island",
+  "cz": "Little Island",
+  "idx": 2587
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370128,
+  "str_off": 6324644,
+  "len": 9,
+  "en": "Sun Canal",
+  "cz": "Sun Canal",
+  "idx": 2588
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370132,
+  "str_off": 6324656,
+  "len": 12,
+  "en": "Beaker River",
+  "cz": "Beaker River",
+  "idx": 2589
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370136,
+  "str_off": 6324672,
+  "len": 12,
+  "en": "Star Islands",
+  "cz": "Star Islands",
+  "idx": 2590
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370140,
+  "str_off": 6324688,
+  "len": 11,
+  "en": "Eon Springs",
+  "cz": "Eon Springs",
+  "idx": 2591
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370144,
+  "str_off": 6324700,
+  "len": 13,
+  "en": "Portal Bridge",
+  "cz": "Portal Bridge",
+  "idx": 2592
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370148,
+  "str_off": 6324716,
+  "len": 11,
+  "en": "Sabre Range",
+  "cz": "Sabre Range",
+  "idx": 2593
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370152,
+  "str_off": 6324728,
+  "len": 12,
+  "en": "Asphalt Maze",
+  "cz": "Asphalt Maze",
+  "idx": 2594
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370156,
+  "str_off": 6324744,
+  "len": 8,
+  "en": "Cog Isle",
+  "cz": "Cog Isle",
+  "idx": 2595
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370160,
+  "str_off": 6324756,
+  "len": 9,
+  "en": "Zero Wood",
+  "cz": "Zero Wood",
+  "idx": 2596
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370164,
+  "str_off": 6324768,
+  "len": 10,
+  "en": "Switchback",
+  "cz": "Switchback",
+  "idx": 2597
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370168,
+  "str_off": 6324780,
+  "len": 9,
+  "en": "Ruby Keys",
+  "cz": "Ruby Keys",
+  "idx": 2598
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370172,
+  "str_off": 6324792,
+  "len": 11,
+  "en": "Rainy Haven",
+  "cz": "Rainy Haven",
+  "idx": 2599
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370176,
+  "str_off": 6324804,
+  "len": 11,
+  "en": "Rail Strait",
+  "cz": "Rail Strait",
+  "idx": 2600
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370180,
+  "str_off": 6324816,
+  "len": 13,
+  "en": "Tribe Islands",
+  "cz": "Tribe Islands",
+  "idx": 2601
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370184,
+  "str_off": 6324832,
+  "len": 13,
+  "en": "Vision Bridge",
+  "cz": "Vision Bridge",
+  "idx": 2602
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370188,
+  "str_off": 6324848,
+  "len": 10,
+  "en": "Piston Dam",
+  "cz": "Piston Dam",
+  "idx": 2603
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370192,
+  "str_off": 6324860,
+  "len": 10,
+  "en": "Hat Harbor",
+  "cz": "Hat Harbor",
+  "idx": 2604
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370196,
+  "str_off": 6324872,
+  "len": 9,
+  "en": "Swan Cove",
+  "cz": "Swan Cove",
+  "idx": 2605
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370200,
+  "str_off": 6324884,
+  "len": 10,
+  "en": "Go Islands",
+  "cz": "Go Islands",
+  "idx": 2606
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370204,
+  "str_off": 6324896,
+  "len": 11,
+  "en": "Brace Range",
+  "cz": "Brace Range",
+  "idx": 2607
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370208,
+  "str_off": 6324908,
+  "len": 11,
+  "en": "River Range",
+  "cz": "River Range",
+  "idx": 2608
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370212,
+  "str_off": 6324920,
+  "len": 9,
+  "en": "Moon Isle",
+  "cz": "Moon Isle",
+  "idx": 2609
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370216,
+  "str_off": 6324932,
+  "len": 12,
+  "en": "Mint Plateau",
+  "cz": "Mint Plateau",
+  "idx": 2610
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370220,
+  "str_off": 6324948,
+  "len": 11,
+  "en": "Jewel Canal",
+  "cz": "Jewel Canal",
+  "idx": 2611
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370224,
+  "str_off": 6324960,
+  "len": 13,
+  "en": "Wrench Island",
+  "cz": "Wrench Island",
+  "idx": 2612
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370228,
+  "str_off": 6324976,
+  "len": 11,
+  "en": "Rapid Ferry",
+  "cz": "Rapid Ferry",
+  "idx": 2613
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370232,
+  "str_off": 6324988,
+  "len": 11,
+  "en": "Bundle City",
+  "cz": "Bundle City",
+  "idx": 2614
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370236,
+  "str_off": 6325000,
+  "len": 11,
+  "en": "Scarab Road",
+  "cz": "Scarab Road",
+  "idx": 2615
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370240,
+  "str_off": 6325012,
+  "len": 14,
+  "en": "Pointing River",
+  "cz": "Pointing River",
+  "idx": 2616
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370244,
+  "str_off": 6325028,
+  "len": 12,
+  "en": "Liaison Wood",
+  "cz": "Liaison Wood",
+  "idx": 2617
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370248,
+  "str_off": 6325044,
+  "len": 13,
+  "en": "Delta Heights",
+  "cz": "Delta Heights",
+  "idx": 2618
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370252,
+  "str_off": 6325060,
+  "len": 9,
+  "en": "Poem Cape",
+  "cz": "Poem Cape",
+  "idx": 2619
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370256,
+  "str_off": 6325072,
+  "len": 9,
+  "en": "Blue Lake",
+  "cz": "Blue Lake",
+  "idx": 2620
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370260,
+  "str_off": 6325084,
+  "len": 10,
+  "en": "Coil Range",
+  "cz": "Coil Range",
+  "idx": 2621
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370264,
+  "str_off": 6325096,
+  "len": 10,
+  "en": "Leaf Haven",
+  "cz": "Leaf Haven",
+  "idx": 2622
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370268,
+  "str_off": 6325108,
+  "len": 11,
+  "en": "Battle Cube",
+  "cz": "Battle Cube",
+  "idx": 2623
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370272,
+  "str_off": 6325120,
+  "len": 12,
+  "en": "Pyramid Cape",
+  "cz": "Pyramid Cape",
+  "idx": 2624
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370276,
+  "str_off": 6325136,
+  "len": 12,
+  "en": "Bead Islands",
+  "cz": "Bead Islands",
+  "idx": 2625
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370280,
+  "str_off": 6325152,
+  "len": 11,
+  "en": "Clover Keys",
+  "cz": "Clover Keys",
+  "idx": 2626
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370284,
+  "str_off": 6325164,
+  "len": 12,
+  "en": "Keyhole Cove",
+  "cz": "Keyhole Cove",
+  "idx": 2627
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370288,
+  "str_off": 6325180,
+  "len": 10,
+  "en": "Fork River",
+  "cz": "Fork River",
+  "idx": 2628
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370292,
+  "str_off": 6325192,
+  "len": 12,
+  "en": "Mantis River",
+  "cz": "Mantis River",
+  "idx": 2629
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370296,
+  "str_off": 6325208,
+  "len": 12,
+  "en": "Channel City",
+  "cz": "Channel City",
+  "idx": 2630
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370300,
+  "str_off": 6325224,
+  "len": 9,
+  "en": "Ink Canal",
+  "cz": "Ink Canal",
+  "idx": 2631
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370304,
+  "str_off": 6325236,
+  "len": 12,
+  "en": "Shield Hills",
+  "cz": "Shield Hills",
+  "idx": 2632
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370308,
+  "str_off": 6325252,
+  "len": 10,
+  "en": "Peril Maze",
+  "cz": "Peril Maze",
+  "idx": 2633
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370312,
+  "str_off": 6325264,
+  "len": 9,
+  "en": "Gem Creek",
+  "cz": "Gem Creek",
+  "idx": 2634
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370316,
+  "str_off": 6325276,
+  "len": 13,
+  "en": "Glass Heights",
+  "cz": "Glass Heights",
+  "idx": 2635
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370320,
+  "str_off": 6325292,
+  "len": 13,
+  "en": "Devil's Inlet",
+  "cz": "Devil's Inlet",
+  "idx": 2636
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370324,
+  "str_off": 6325308,
+  "len": 10,
+  "en": "Shear Port",
+  "cz": "Shear Port",
+  "idx": 2637
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370328,
+  "str_off": 6325320,
+  "len": 11,
+  "en": "Liar's Cove",
+  "cz": "Liar's Cove",
+  "idx": 2638
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370332,
+  "str_off": 6325332,
+  "len": 10,
+  "en": "Nail Canal",
+  "cz": "Nail Canal",
+  "idx": 2639
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370336,
+  "str_off": 6325344,
+  "len": 11,
+  "en": "Atlas River",
+  "cz": "Atlas River",
+  "idx": 2640
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370340,
+  "str_off": 6325356,
+  "len": 12,
+  "en": "Eel Channels",
+  "cz": "Eel Channels",
+  "idx": 2641
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370344,
+  "str_off": 6325372,
+  "len": 13,
+  "en": "Jab Peninsula",
+  "cz": "Jab Peninsula",
+  "idx": 2642
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370348,
+  "str_off": 6325388,
+  "len": 13,
+  "en": "Thorn Islands",
+  "cz": "Thorn Islands",
+  "idx": 2643
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370352,
+  "str_off": 6325404,
+  "len": 12,
+  "en": "Four Corners",
+  "cz": "Four Corners",
+  "idx": 2644
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370356,
+  "str_off": 6325420,
+  "len": 11,
+  "en": "Rocket Cape",
+  "cz": "Rocket Cape",
+  "idx": 2645
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370360,
+  "str_off": 6325432,
+  "len": 10,
+  "en": "Crop River",
+  "cz": "Crop River",
+  "idx": 2646
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370364,
+  "str_off": 6325444,
+  "len": 10,
+  "en": "Tween Isle",
+  "cz": "Tween Isle",
+  "idx": 2647
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370368,
+  "str_off": 6325456,
+  "len": 13,
+  "en": "Rival Islands",
+  "cz": "Rival Islands",
+  "idx": 2648
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370372,
+  "str_off": 6325472,
+  "len": 9,
+  "en": "Loop Road",
+  "cz": "Loop Road",
+  "idx": 2649
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370376,
+  "str_off": 6325484,
+  "len": 10,
+  "en": "Plus Canal",
+  "cz": "Plus Canal",
+  "idx": 2650
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370380,
+  "str_off": 6325496,
+  "len": 10,
+  "en": "Islas Five",
+  "cz": "Islas Five",
+  "idx": 2651
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370384,
+  "str_off": 6325508,
+  "len": 12,
+  "en": "Patriot Cove",
+  "cz": "Patriot Cove",
+  "idx": 2652
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370388,
+  "str_off": 6325524,
+  "len": 9,
+  "en": "Web River",
+  "cz": "Web River",
+  "idx": 2653
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370392,
+  "str_off": 6325536,
+  "len": 11,
+  "en": "Cap Narrows",
+  "cz": "Cap Narrows",
+  "idx": 2654
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370396,
+  "str_off": 6325548,
+  "len": 11,
+  "en": "Jay Islands",
+  "cz": "Jay Islands",
+  "idx": 2655
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370400,
+  "str_off": 6325560,
+  "len": 11,
+  "en": "Chain Canal",
+  "cz": "Chain Canal",
+  "idx": 2656
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370404,
+  "str_off": 6325572,
+  "len": 12,
+  "en": "Spring Lakes",
+  "cz": "Spring Lakes",
+  "idx": 2657
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370408,
+  "str_off": 6325588,
+  "len": 12,
+  "en": "Tatter River",
+  "cz": "Tatter River",
+  "idx": 2658
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370412,
+  "str_off": 6325604,
+  "len": 8,
+  "en": "Island X",
+  "cz": "Island X",
+  "idx": 2659
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370416,
+  "str_off": 6325616,
+  "len": 7,
+  "en": "Alakule",
+  "cz": "Alakule",
+  "idx": 2660
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370420,
+  "str_off": 6325624,
+  "len": 13,
+  "en": "Traitor River",
+  "cz": "Traitor River",
+  "idx": 2661
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370424,
+  "str_off": 6325640,
+  "len": 11,
+  "en": "Fable Hills",
+  "cz": "Fable Hills",
+  "idx": 2662
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370428,
+  "str_off": 6325652,
+  "len": 10,
+  "en": "South Cape",
+  "cz": "South Cape",
+  "idx": 2663
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370432,
+  "str_off": 6325664,
+  "len": 13,
+  "en": "Glory Islands",
+  "cz": "Glory Islands",
+  "idx": 2664
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370436,
+  "str_off": 6325680,
+  "len": 12,
+  "en": "Spann Island",
+  "cz": "Spann Island",
+  "idx": 2665
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370440,
+  "str_off": 6325696,
+  "len": 11,
+  "en": "Moji Island",
+  "cz": "Moji Island",
+  "idx": 2666
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370444,
+  "str_off": 6325708,
+  "len": 9,
+  "en": "Duo Falls",
+  "cz": "Duo Falls",
+  "idx": 2667
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370448,
+  "str_off": 6325720,
+  "len": 11,
+  "en": "Sole Harbor",
+  "cz": "Sole Harbor",
+  "idx": 2668
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370452,
+  "str_off": 6325732,
+  "len": 10,
+  "en": "Pivot Isle",
+  "cz": "Pivot Isle",
+  "idx": 2669
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370456,
+  "str_off": 6325744,
+  "len": 10,
+  "en": "Land's End",
+  "cz": "Land's End",
+  "idx": 2670
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370460,
+  "str_off": 6325756,
+  "len": 13,
+  "en": "Kita Straight",
+  "cz": "Kita Straight",
+  "idx": 2671
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370464,
+  "str_off": 6325772,
+  "len": 12,
+  "en": "Point Stormy",
+  "cz": "Point Stormy",
+  "idx": 2672
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370468,
+  "str_off": 6325788,
+  "len": 12,
+  "en": "Ridge Island",
+  "cz": "Ridge Island",
+  "idx": 2673
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370472,
+  "str_off": 6325804,
+  "len": 11,
+  "en": "Mial's Hope",
+  "cz": "Mial's Hope",
+  "idx": 2674
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370476,
+  "str_off": 6325816,
+  "len": 12,
+  "en": "Bounty River",
+  "cz": "Bounty River",
+  "idx": 2675
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370480,
+  "str_off": 6325832,
+  "len": 10,
+  "en": "Toil Ferry",
+  "cz": "Toil Ferry",
+  "idx": 2676
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370484,
+  "str_off": 6325844,
+  "len": 9,
+  "en": "Twin Isle",
+  "cz": "Twin Isle",
+  "idx": 2677
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370488,
+  "str_off": 6325856,
+  "len": 10,
+  "en": "Dire Range",
+  "cz": "Dire Range",
+  "idx": 2678
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370492,
+  "str_off": 6325868,
+  "len": 11,
+  "en": "Egg Islands",
+  "cz": "Egg Islands",
+  "idx": 2679
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370496,
+  "str_off": 6325880,
+  "len": 9,
+  "en": "Terra Maw",
+  "cz": "Terra Maw",
+  "idx": 2680
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370500,
+  "str_off": 6325892,
+  "len": 13,
+  "en": "Stamp Islands",
+  "cz": "Stamp Islands",
+  "idx": 2681
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370504,
+  "str_off": 6325908,
+  "len": 11,
+  "en": "Rivers Four",
+  "cz": "Rivers Four",
+  "idx": 2682
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370508,
+  "str_off": 6325920,
+  "len": 12,
+  "en": "Ring Islands",
+  "cz": "Ring Islands",
+  "idx": 2683
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370512,
+  "str_off": 6325936,
+  "len": 12,
+  "en": "Last Mission",
+  "cz": "Last Mission",
+  "idx": 2684
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370516,
+  "str_off": 6325952,
+  "len": 8,
+  "en": "Pay Dirt",
+  "cz": "Pay Dirt",
+  "idx": 2685
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370520,
+  "str_off": 6325964,
+  "len": 9,
+  "en": "Long Road",
+  "cz": "Long Road",
+  "idx": 2686
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370524,
+  "str_off": 6325976,
+  "len": 8,
+  "en": "Nest Egg",
+  "cz": "Nest Egg",
+  "idx": 2687
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370528,
+  "str_off": 6325988,
+  "len": 11,
+  "en": "The Trident",
+  "cz": "The Trident",
+  "idx": 2688
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370532,
+  "str_off": 6326000,
+  "len": 12,
+  "en": "Banker Hills",
+  "cz": "Banker Hills",
+  "idx": 2689
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370536,
+  "str_off": 6326016,
+  "len": 14,
+  "en": "Missile Plains",
+  "cz": "Missile Plains",
+  "idx": 2690
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370540,
+  "str_off": 6326032,
+  "len": 10,
+  "en": "Lost Basin",
+  "cz": "Lost Basin",
+  "idx": 2691
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370544,
+  "str_off": 6326044,
+  "len": 10,
+  "en": "Risky Vale",
+  "cz": "Risky Vale",
+  "idx": 2692
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370548,
+  "str_off": 6326056,
+  "len": 8,
+  "en": "The Ring",
+  "cz": "The Ring",
+  "idx": 2693
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370552,
+  "str_off": 6326068,
+  "len": 11,
+  "en": "Strong Land",
+  "cz": "Strong Land",
+  "idx": 2694
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370556,
+  "str_off": 6326080,
+  "len": 14,
+  "en": "Hourglass Isle",
+  "cz": "Hourglass Isle",
+  "idx": 2695
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370560,
+  "str_off": 6326096,
+  "len": 9,
+  "en": "Pipe Maze",
+  "cz": "Pipe Maze",
+  "idx": 2696
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370564,
+  "str_off": 6326108,
+  "len": 12,
+  "en": "Archipelagos",
+  "cz": "Archipelagos",
+  "idx": 2697
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370568,
+  "str_off": 6326124,
+  "len": 9,
+  "en": "Big Daddy",
+  "cz": "Big Daddy",
+  "idx": 2698
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370572,
+  "str_off": 6326136,
+  "len": 9,
+  "en": "Crossroad",
+  "cz": "Crossroad",
+  "idx": 2699
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370576,
+  "str_off": 6326148,
+  "len": 8,
+  "en": "Badlands",
+  "cz": "Badlands",
+  "idx": 2700
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370580,
+  "str_off": 6326160,
+  "len": 12,
+  "en": "Grid Assault",
+  "cz": "Grid Assault",
+  "idx": 2701
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370584,
+  "str_off": 6326176,
+  "len": 10,
+  "en": "Portsmouth",
+  "cz": "Portsmouth",
+  "idx": 2702
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370588,
+  "str_off": 6326188,
+  "len": 12,
+  "en": "Knotted Keys",
+  "cz": "Knotted Keys",
+  "idx": 2703
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370592,
+  "str_off": 6326204,
+  "len": 10,
+  "en": "Wyrm's Eye",
+  "cz": "Wyrm's Eye",
+  "idx": 2704
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370596,
+  "str_off": 6326216,
+  "len": 10,
+  "en": "Lock Ridge",
+  "cz": "Lock Ridge",
+  "idx": 2705
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370600,
+  "str_off": 6326228,
+  "len": 9,
+  "en": "Heartland",
+  "cz": "Heartland",
+  "idx": 2706
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370604,
+  "str_off": 6326240,
+  "len": 7,
+  "en": "Cleanup",
+  "cz": "Cleanup",
+  "idx": 2707
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370608,
+  "str_off": 6326248,
+  "len": 15,
+  "en": "Border Skirmish",
+  "cz": "Border Skirmish",
+  "idx": 2708
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370612,
+  "str_off": 6326264,
+  "len": 11,
+  "en": "Orange Dawn",
+  "cz": "Orange Dawn",
+  "idx": 2709
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370616,
+  "str_off": 6326276,
+  "len": 11,
+  "en": "Flak Attack",
+  "cz": "Flak Attack",
+  "idx": 2710
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370620,
+  "str_off": 6326288,
+  "len": 8,
+  "en": "Lash Out",
+  "cz": "Lash Out",
+  "idx": 2711
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370624,
+  "str_off": 6326300,
+  "len": 11,
+  "en": "Andy's Time",
+  "cz": "Andy's Time",
+  "idx": 2712
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370628,
+  "str_off": 6326312,
+  "len": 12,
+  "en": "Test of Time",
+  "cz": "Test of Time",
+  "idx": 2713
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370632,
+  "str_off": 6326328,
+  "len": 10,
+  "en": "Liberation",
+  "cz": "Liberation",
+  "idx": 2714
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370636,
+  "str_off": 6326340,
+  "len": 15,
+  "en": "Border Skirmish",
+  "cz": "Border Skirmish",
+  "idx": 2715
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370640,
+  "str_off": 6326356,
+  "len": 11,
+  "en": "Orange Dawn",
+  "cz": "Orange Dawn",
+  "idx": 2716
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370644,
+  "str_off": 6326368,
+  "len": 11,
+  "en": "Andy's Time",
+  "cz": "Andy's Time",
+  "idx": 2717
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370648,
+  "str_off": 6326380,
+  "len": 12,
+  "en": "Mountain Ops",
+  "cz": "Mountain Ops",
+  "idx": 2718
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370652,
+  "str_off": 6326396,
+  "len": 11,
+  "en": "Sea for All",
+  "cz": "Sea for All",
+  "idx": 2719
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370656,
+  "str_off": 6326408,
+  "len": 11,
+  "en": "POW Rescue ",
+  "cz": "POW Rescue ",
+  "idx": 2720
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370660,
+  "str_off": 6326420,
+  "len": 12,
+  "en": "Test of Time",
+  "cz": "Test of Time",
+  "idx": 2721
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370664,
+  "str_off": 6326436,
+  "len": 10,
+  "en": "Liberation",
+  "cz": "Liberation",
+  "idx": 2722
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370668,
+  "str_off": 6326448,
+  "len": 7,
+  "en": "Toy Box",
+  "cz": "Toy Box",
+  "idx": 2723
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370672,
+  "str_off": 6326456,
+  "len": 8,
+  "en": "Tanks!!!",
+  "cz": "Tanks!!!",
+  "idx": 2724
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370676,
+  "str_off": 6326468,
+  "len": 11,
+  "en": "Reclamation",
+  "cz": "Reclamation",
+  "idx": 2725
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370680,
+  "str_off": 6326480,
+  "len": 10,
+  "en": "T Minus 15",
+  "cz": "T Minus 15",
+  "idx": 2726
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370684,
+  "str_off": 6326492,
+  "len": 13,
+  "en": "Two-Week Test",
+  "cz": "Two-Week Test",
+  "idx": 2727
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370688,
+  "str_off": 6326508,
+  "len": 11,
+  "en": "Nature Walk",
+  "cz": "Nature Walk",
+  "idx": 2728
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370692,
+  "str_off": 6326520,
+  "len": 10,
+  "en": "Neotanks!?",
+  "cz": "Neotanks!?",
+  "idx": 2729
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370696,
+  "str_off": 6326532,
+  "len": 13,
+  "en": "Factory Blues",
+  "cz": "Factory Blues",
+  "idx": 2730
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370700,
+  "str_off": 6326548,
+  "len": 13,
+  "en": "Silo Scramble",
+  "cz": "Silo Scramble",
+  "idx": 2731
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370704,
+  "str_off": 6326564,
+  "len": 12,
+  "en": "Show Stopper",
+  "cz": "Show Stopper",
+  "idx": 2732
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370708,
+  "str_off": 6326580,
+  "len": 15,
+  "en": "Sensei's Return",
+  "cz": "Sensei's Return",
+  "idx": 2733
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370712,
+  "str_off": 6326596,
+  "len": 12,
+  "en": "Duty & Honor",
+  "cz": "Duty & Honor",
+  "idx": 2734
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370716,
+  "str_off": 6326612,
+  "len": 15,
+  "en": "A Mirror Darkly",
+  "cz": "A Mirror Darkly",
+  "idx": 2735
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370720,
+  "str_off": 6326628,
+  "len": 9,
+  "en": "Foul Play",
+  "cz": "Foul Play",
+  "idx": 2736
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370724,
+  "str_off": 6326640,
+  "len": 11,
+  "en": "Sea of Hope",
+  "cz": "Sea of Hope",
+  "idx": 2737
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370728,
+  "str_off": 6326652,
+  "len": 14,
+  "en": "The Hunt's End",
+  "cz": "The Hunt's End",
+  "idx": 2738
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370732,
+  "str_off": 6326668,
+  "len": 12,
+  "en": "Sea Fortress",
+  "cz": "Sea Fortress",
+  "idx": 2739
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370736,
+  "str_off": 6326684,
+  "len": 15,
+  "en": "Drake's Dilemma",
+  "cz": "Drake's Dilemma",
+  "idx": 2740
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370740,
+  "str_off": 6326700,
+  "len": 15,
+  "en": "Sinking Feeling",
+  "cz": "Sinking Feeling",
+  "idx": 2741
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370744,
+  "str_off": 6326716,
+  "len": 13,
+  "en": "To the Rescue",
+  "cz": "To the Rescue",
+  "idx": 2742
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370748,
+  "str_off": 6326732,
+  "len": 12,
+  "en": "Navy Vs. Air",
+  "cz": "Navy Vs. Air",
+  "idx": 2743
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370752,
+  "str_off": 6326748,
+  "len": 12,
+  "en": "Rain of Fire",
+  "cz": "Rain of Fire",
+  "idx": 2744
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370756,
+  "str_off": 6326764,
+  "len": 10,
+  "en": "Danger x 9",
+  "cz": "Danger x 9",
+  "idx": 2745
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370760,
+  "str_off": 6326776,
+  "len": 16,
+  "en": "Great Sea Battle",
+  "cz": "Great Sea Battle",
+  "idx": 2746
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370764,
+  "str_off": 6326796,
+  "len": 11,
+  "en": "Hot Pursuit",
+  "cz": "Hot Pursuit",
+  "idx": 2747
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370768,
+  "str_off": 6326808,
+  "len": 11,
+  "en": "Final Front",
+  "cz": "Final Front",
+  "idx": 2748
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370772,
+  "str_off": 6326820,
+  "len": 6,
+  "en": "Edit 1",
+  "cz": "Edit 1",
+  "idx": 2749
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370776,
+  "str_off": 6326828,
+  "len": 6,
+  "en": "Edit 2",
+  "cz": "Edit 2",
+  "idx": 2750
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370780,
+  "str_off": 6326836,
+  "len": 6,
+  "en": "Edit 3",
+  "cz": "Edit 3",
+  "idx": 2751
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370784,
+  "str_off": 6326844,
+  "len": 11,
+  "en": "Special Map",
+  "cz": "Specialni mapa",
+  "idx": 2752
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370788,
+  "str_off": 6326856,
+  "len": 7,
+  "en": "Vs. Map",
+  "cz": "Vs. mapa",
+  "idx": 2753
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370792,
+  "str_off": 6326864,
+  "len": 12,
+  "en": "War Room Map",
+  "cz": "Mapa War Room",
+  "idx": 2754
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370796,
+  "str_off": 6326880,
+  "len": 12,
+  "en": "3-Player Map",
+  "cz": "Mapa pro 3 hrace",
+  "idx": 2755
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370800,
+  "str_off": 6326896,
+  "len": 13,
+  "en": "Hard Campaign",
+  "cz": "Tezka kampan",
+  "idx": 2756
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370804,
+  "str_off": 6326912,
+  "len": 10,
+  "en": "Sound Room",
+  "cz": "Sound Room",
+  "idx": 2757
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370808,
+  "str_off": 6326924,
+  "len": 281,
+  "en": "C'mon in!\\fWelcome to Battle Maps! My name's\\rHachi. Pleased to meet you!\\fThis is where you use points earned\\rin Campaign mode or the War Room.\\fI've got maps and COs you can use\\rin Free Battle or the War Room, and...\\fWell, I've got all kinds of stuff! \\rGo ahead, take a look around!\\f",
+  "cz": "Pojd dal!\\fVitej v Battle Maps! Jmenuji se\\rHachi. Tesi me!\\fTady utratis body ziskane\\rv rezimu Kampan nebo War Room.\\fMam mapy a COs do Free Battle\\rnebo War Room, a...\\fInu, mam ruzne veci! \\rJen do toho, porozhledni se!\\f",
+  "idx": 2758
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370812,
+  "str_off": 6327208,
+  "len": 35,
+  "en": "Back again?\\fWhat can I do for you?\\f",
+  "cz": "Zase zpatky?\\fCo pro tebe mohu udelat?\\f",
+  "idx": 2759
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370816,
+  "str_off": 6327244,
+  "len": 86,
+  "en": "I'm outta everything.\\rMy shelves are bare.\\fIt's a sign of my consummate\\rsalesmanship.\\f",
+  "cz": "Vsechno je vyprodano.\\rPolice mam prazdne.\\fJe to znamka meho dokonaleho\\rprodejniho umeni.\\f",
+  "idx": 2760
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370820,
+  "str_off": 6327332,
+  "len": 51,
+  "en": "Came back, eh? Well, I've\\rgot everything you need.\\f",
+  "cz": "Tak ses vratil, co? Mam\\rvsechno, co potrebujes.\\f",
+  "idx": 2761
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370824,
+  "str_off": 6327384,
+  "len": 115,
+  "en": "Well, now! You're back again!\\fMust mean you made some money\\rin Campaign mode or the War Room.\\fWhat'll it be today?\\f",
+  "cz": "No teda! Zase jsi tady!\\fTo znamena, ze jsi vydelal penize\\rv rezimu Kampan nebo War Room.\\fCo to dnes bude?\\f",
+  "idx": 2762
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370828,
+  "str_off": 6327500,
+  "len": 123,
+  "en": "Hey there, soldier!\\fDon't like what you see? Finish more\\rof the campaign, and try again.\\fWell, do you need anything today?\\f",
+  "cz": "Zdravim, vojaku!\\fNelibi se ti, co vidis? Dokonci vic\\rz kampane a zkus to znovu.\\fTak co, potrebujes dnes neco?\\f",
+  "idx": 2763
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370832,
+  "str_off": 6327624,
+  "len": 174,
+  "en": "Look who's here!\\fHey, listen. Even if you buy all the\\rmaps I have in stock, come back again.\\fI'm always getting new supplies.\\fGo ahead and take a look at\\rwhat came in today.\\f",
+  "cz": "Podivejme, kdo je tu!\\fHele, poslouchej. I kdyz koupis\\rvsechny mapy na sklade, vrat se.\\fPorad dostavam nove zasoby.\\fJen do toho a koukni se na to,\\rco dnes prislo.\\f",
+  "idx": 2764
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370836,
+  "str_off": 6327800,
+  "len": 227,
+  "en": "Come on in!\\fHey, have you cleared\\rCampaign mode?\\fThere's more to it than\\rjust clearing it once, you know.\\fRumor has it that there's\\ranother, harder campaign...\\fAh, but I'm talking too much!\\rAre you going to buy anything today?\\f",
+  "cz": "Pojd dal!\\fHele, dokoncil jsi uz\\rrezim Kampan?\\fJe v tom vic nez jen\\rdokoncit to jednou, vis.\\fPovida se, ze existuje\\rjeste jedna, tezsi kampan...\\fAch, ale moc mluvim!\\rKoupis dnes neco?\\f",
+  "idx": 2765
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370840,
+  "str_off": 6328028,
+  "len": 252,
+  "en": "Hey! If you're coming in,\\rcome in! And shut the door!\\fBy the way, which CO have you\\rbeen using?\\fUsing the same CO over and\\rover isn't very impressive.\\fIf you want to earn a higher score,\\ryou should try someone new.\\fEnough of that; what'll\\rit be today?\\f",
+  "cz": "Hej! Kdyz uz jdes dovnitr,\\rpojd dal! A zavri dvere!\\fMimochodem, ktereho CO\\rjsi pouzival?\\fPouzivat porad stejneho CO\\rdokola neni moc psobive.\\fKdyz chces vyssi skore,\\rmel bys zkusit nekoho noveho.\\fA dost; co to dnes\\rbude?\\f",
+  "idx": 2766
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370844,
+  "str_off": 6328284,
+  "len": 370,
+  "en": "Well, back again, are you?\\fSay, have you tried\\rthe Hard Campaign?\\fAll you need to do is\\rpress SELECT before\\fyou start the Campaign Mode.\\fThe Hard Campaign is just\\rthe challenge you need, soldier!\\fIt'll toughen you up, and the\\rpayoff is bigger, too!\\fIf you're ever short of funds,\\rgive the Hard Campaign a shot.\\fSo, go make some cash, and\\rspend it all here! Heh heh heh!\\f",
+  "cz": "Tak zase zpatky, co?\\fRekni, zkusil jsi uz\\rTezkou kampan?\\fStaci jen stisknout\\rSELECT predtim, nez\\fspustis rezim Kampan.\\fTezka kampan je presne ta\\rvyzva, kterou potrebujes, vojaku!\\fOtuzi te a odmena je\\rtaky vetsi!\\fKdyz ti dojdou finance,\\rzkus Tezkou kampan.\\fTak jdi vydelat prachy a\\rutrat je vsechny tady! He he he!\\f",
+  "idx": 2767
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370848,
+  "str_off": 6328656,
+  "len": 542,
+  "en": "Hey, it's my favorite soldier!\\fSay, are you making the best use\\rof your CO Powers?\\fYou're not ignoring normal powers\\rin favor of super powers, are you?\\fIn some situations, normal powers\\rare better than super ones!\\fAny energy left after you use a\\rnormal power doesn't just disappear.\\fDidn't you notice that?\\fOh yeah, but you don't build up any\\renergy when you're using CO Powers.\\fLife ain't that easy, soldier!\\fOops! You know, my mouth's gonna get\\rme in hot water one of these days!\\fEnough of this chitchat. Are you\\rbuying something, or what?\\f",
+  "cz": "Hej, to je muj oblibeny vojak!\\fRekni, vyuzivas naplno\\rsve CO sily?\\fNeignorujes normalni sily\\rkvuli super silam, ze ne?\\fV nekterych situacich jsou normalni\\rsily lepsi nez ty super!\\fEnergie, ktera zbyde po pouziti\\rnormalni sily, jen tak nezmizi.\\fNevsiml sis toho?\\fAch jo, ale kdyz pouzivas CO sily,\\rzadnou energii nenabiras.\\fZivot neni tak snadny, vojaku!\\fJejda! Vis, ta moje pusa me jednou\\rdostane do horke vody!\\fA dost klabosen. Koupis si\\rneco, nebo co?\\f",
+  "idx": 2768
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370852,
+  "str_off": 6329200,
+  "len": 612,
+  "en": "C'mon in!\\fTell me, have you ever been in\\ra battle with Jess?\\fShe and Eagle are always squabbling,\\rbut that shows how close they are!\\fLet me tell you, that gal's the real\\rdeal. Gives me goose bumps!\\fShe's a bit like Max in ability, but\\rthere's nothing second-rate about\\fher long-range units. And her air\\rand naval units?\\fWell, they might not be the best, but\\rshe doesn't make many mistakes.\\fHer CO Power is a little plain. After\\rall, supplying units isn't that glamorous.\\fBut it resupplies air and naval units,\\rtoo! She is amazing, isn't she?\\fThere I go, rattling on like an old fool!\\rLet's get down to business!\\f",
+  "cz": "Pojd dal!\\fRekni, byl jsi nekdy\\rv bitve s Jess?\\fOna a Eagle se porad hadaji,\\rale to ukazuje, jak jsou blizci!\\fRikam ti, ta holka je opravdovy\\rpoklad. Az me z ni mrazi!\\fSchopnostmi je trochu jako Max, ale\\rjeji jednotky s dlouhym dosahem\\fnejsou vubec druhoradne. A jeji letecke\\ra namorni jednotky?\\fInu, nemusi byt nejlepsi, ale\\rona moc chyb nedela.\\fJeji CO sila je trochu obycejna. Vzdyt\\rzasobovat jednotky neni nic okazaleho.\\fAle doplnuje i letecke a namorni\\rjednotky! Je uzasna, ze?\\fA zase melu jako stary blazen!\\rPojdme k veci!\\f",
+  "idx": 2769
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370856,
+  "str_off": 6329816,
+  "len": 546,
+  "en": "Well now, look what the\\rcat dragged in !\\fAre you familiar with Sensei?\\fHe's a bit long in the tooth now,\\rbut in his day, he was something else!\\fHe sure taught me a thing or two...\\rAh, now I'm getting all misty!\\fAnyway, Kanbei and I owe most of\\rour success to that old man.\\fYou're not impressed with his CO\\rPower, right? If you think increasing\\fthe number of mech and infantry units\\ris something to sneeze at,\\fthen you're still wet behind the ears!\\fYou've got to consider WHY he makes\\rthose 9 HP units land!\\fThat's enough chitchat!\\rGet to buying!\\f",
+  "cz": "No teda, koukni, co to\\rkocka pritahla !\\fZnas Senseie?\\fUz je trochu starsi,\\rale za svych casu byl neco extra!\\fUrcite me lecemus naucil...\\rAch, uz me to dojima!\\fKazdopadne Kanbei a ja vdecime\\rza vetsinu sveho uspechu tomu starci.\\fJeho CO sila te neohromuje,\\rze? Pokud si myslis, ze zvyseni\\fpoctu mechu a jednotek pechoty\\rneni nic moc,\\fpak jsi jeste zelenac!\\fMusis zvazit, PROC ty\\rjednotky s 9 HP vysazuje!\\fA dost klabosen!\\rJdi nakupovat!\\f",
+  "idx": 2770
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370860,
+  "str_off": 6330364,
+  "len": 263,
+  "en": "Mopping 'em up out there?\\fI'm happy to see Nell in such\\rfine spirits lately.\\fAnd the youngsters! Sami and\\rAndy are both growing so fast!.\\fI think our country's safe with\\rthis new generation on guard...\\fOh, listen to this old fool prattle on!\\rLet's talk business!\\f",
+  "cz": "Likvidujes je tam venku?\\fJsem rad, ze Nell ma posledni\\rdobou tak dobrou naladu.\\fA ti mladi! Sami a\\rAndy oba tak rychle rostou!\\fMyslim, ze nase zeme je v bezpeci\\rs touhle novou generaci ve strehu...\\fAch, poslouchej toho stareho blazna!\\rPojdme k veci!\\f",
+  "idx": 2771
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370864,
+  "str_off": 6330628,
+  "len": 470,
+  "en": "Oh, it's you, again!\\fHave you met the new kid,\\rColin?\\fHe's Blue Moon's little rich boy,\\rbut his talent is undeniable.\\fHis special power? Whew...\\fIf you use the Power of Money right,\\rit'll give you the strength to topple\\feven Sturm with ease.\\rDid you know that?\\fHis normal firepower is low, so it's\\ra question of overwhelming opponents\\fwith sheer numbers or saving cash for\\rCO Powers. Tough strategic choice!\\fEnough with the small talk!\\rWhy don't you have a look around?\\f",
+  "cz": "Ach, to jsi zase ty!\\fPotkal jsi uz toho novacka,\\rColina?\\fJe to bohaty klucina z Blue Moon,\\rale jeho talent je nepopiratelny.\\fJeho zvlastni sila? Pche...\\fKdyz Silu penez pouzijes spravne,\\rda ti silu porazit\\fhrave i Sturma.\\rVedel jsi to?\\fNormalni palbu ma slabou, takze jde\\ro to zahltit protivniky\\fpouhym poctem nebo setrit prachy na\\rCO sily. Tezka strategicka volba!\\fA dost reci!\\rProc se nerozhlednes?\\f",
+  "idx": 2772
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370868,
+  "str_off": 6331100,
+  "len": 283,
+  "en": "Good to see you again!\\fHave you ever faced Flak, that\\rbig ape with the Black Hole Army?\\fHis attacks are so haphazard. Power\\rmeans zip if you can't hit the target!\\fI bet he'd be a difficult CO to use\\rin the War Room.\\fSo, are you ready to talk business?\\rI'm all out of gossip for now!\\f",
+  "cz": "Rad te zase vidim!\\fCelil jsi uz nekdy Flakovi, te\\rvelke opici z armady Black Hole?\\fJeho utoky jsou tak nahodile. Sila\\rneni nic, kdyz netrefis cil!\\fVsadim se, ze by byl tezky CO\\rk pouziti ve War Room.\\fTak co, pripraven k veci?\\rDrby uz mi pro tedka dosly!\\f",
+  "idx": 2773
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370872,
+  "str_off": 6331384,
+  "len": 355,
+  "en": "Hey! Quite the military posture\\ryou're getting there!\\fHave you met Lash yet? Yep, she's\\rthat girl with the hair out to there!\\fI hear she's the one who designed\\rBlack Hole's new cannon and laser!\\fWhat a waste of talent!\\fIf she's gotta make stuff, why can't\\rshe make a pool for my house!?\\fWhat's that got to do with me, right?\\rLet's get some business done!\\f",
+  "cz": "Hej! Pekny vojensky postoj\\rsis tam osvojil!\\fPotkal jsi uz Lash? Jo, to je\\rta holka s tim vlasovym uceshem!\\fSlysel jsem, ze ona navrhla\\rnovy kanon a laser Black Hole!\\fJaka skoda talentu!\\fKdyz uz neco musi delat, proc nemuze\\rudelat bazen pro muj dum!?\\fCo to ma spolecneho se mnou, ze?\\rPojdme k veci!\\f",
+  "idx": 2774
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370876,
+  "str_off": 6331740,
+  "len": 397,
+  "en": "You've heard of Adder, right?\\fHe's not much for offense, and he\\rdoesn't have any specialty troops.\\fThe thing is, he's got no weak points,\\reither! That's the trouble right there!\\fPlus, he stores up energy for his CO\\rPower like there's no tomorrow!\\fBut if he uses it over and over\\ragain, it takes longer to build up.\\fHow's that for some juicy intel?\\fShow me some gratitude and\\rwhip out your wallet!\\f",
+  "cz": "Slysel jsi o Adderovi, ze?\\fNa utok neni moc dobry a nema\\rzadne specialni jednotky.\\fJde o to, ze nema ani zadne\\rslabiny! V tom je ten problem!\\fNavic nabira energii pro svou CO\\rsilu, jako by zitra nebylo!\\fAle kdyz ji pouziva porad\\rdokola, nabira se dele.\\fJak se ti libi tahle starva intel?\\fProkaz mi vdecnost a\\rvytahni penezenku!\\f",
+  "idx": 2775
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370880,
+  "str_off": 6332140,
+  "len": 337,
+  "en": "Tell me, have you ever seen Hawke?\\rHe's a CO in the Black Hole Army.\\fHe's one bad hombre, and no fooling.\\rHe's leagues above most other COs.\\fAren't many who've gone head-to-\\rhead with him and walked away\\fa winner, you know? Of course,\\rI'd teach him some manners, but...\\fAh, why don't I just shut my yap\\rand let you do some shopping, eh?\\f",
+  "cz": "Rekni, videl jsi uz Hawka?\\rJe to CO v armade Black Hole.\\fJe to fakt drsnak, bez legrace.\\rJe o tridu nad vetsinou ostatnich COs.\\fNeni mnoho tech, kdo se s nim\\rstretli tvari v tvar a odesli\\fjako vitez, vis? Samozrejme,\\rja bych ho naucil manery, ale...\\fAch, proc radsi nezavru klapacku\\ra nenecham te nakupovat, co?\\f",
+  "idx": 2776
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370884,
+  "str_off": 6332480,
+  "len": 28,
+  "en": "Is that what you're after?\\r\\x16",
+  "cz": "Tohle hledas?\\r\\x16",
+  "idx": 2777
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370888,
+  "str_off": 6332512,
+  "len": 53,
+  "en": "This will let you use Olaf outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Olafa\\rmimo rezim Kampan!\\f",
+  "idx": 2778
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370892,
+  "str_off": 6332568,
+  "len": 53,
+  "en": "This will let you use Grit outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Grita\\rmimo rezim Kampan!\\f",
+  "idx": 2779
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370896,
+  "str_off": 6332624,
+  "len": 54,
+  "en": "This will let you use Colin outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Colina\\rmimo rezim Kampan!\\f",
+  "idx": 2780
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370900,
+  "str_off": 6332680,
+  "len": 55,
+  "en": "This will let you use Kanbei outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Kanbeie\\rmimo rezim Kampan!\\f",
+  "idx": 2781
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370904,
+  "str_off": 6332736,
+  "len": 54,
+  "en": "This will let you use Sonja outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Sonju\\rmimo rezim Kampan!\\f",
+  "idx": 2782
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370908,
+  "str_off": 6332792,
+  "len": 55,
+  "en": "This will let you use Sensei outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Senseie\\rmimo rezim Kampan!\\f",
+  "idx": 2783
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370912,
+  "str_off": 6332848,
+  "len": 54,
+  "en": "This will let you use Eagle outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Eagla\\rmimo rezim Kampan!\\f",
+  "idx": 2784
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370916,
+  "str_off": 6332904,
+  "len": 54,
+  "en": "This will let you use Drake outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Draka\\rmimo rezim Kampan!\\f",
+  "idx": 2785
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370920,
+  "str_off": 6332960,
+  "len": 53,
+  "en": "This will let you use Jess outside\\rof Campaign mode!\\f",
+  "cz": "Diky tomu muzes pouzit Jess\\rmimo rezim Kampan!\\f",
+  "idx": 2786
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370924,
+  "str_off": 6333016,
+  "len": 42,
+  "en": "This will let you use Black Hole\\rCO Lash!\\f",
+  "cz": "Diky tomu muzes pouzit Black Hole\\rCO Lash!\\f",
+  "idx": 2787
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370928,
+  "str_off": 6333060,
+  "len": 43,
+  "en": "This will let you use Black Hole\\rCO Adder!\\f",
+  "cz": "Diky tomu muzes pouzit Black Hole\\rCO Adder!\\f",
+  "idx": 2788
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370932,
+  "str_off": 6333104,
+  "len": 43,
+  "en": "This will let you use Black Hole\\rCO Hawke!\\f",
+  "cz": "Diky tomu muzes pouzit Black Hole\\rCO Hawke!\\f",
+  "idx": 2789
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370936,
+  "str_off": 6333148,
+  "len": 43,
+  "en": "This will let you use Black Hole\\rCO Sturm!\\f",
+  "cz": "Diky tomu muzes pouzit Black Hole\\rCO Sturm!\\f",
+  "idx": 2790
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370940,
+  "str_off": 6333192,
+  "len": 43,
+  "en": "This will let you use Orange Star\\rCO Nell!\\f",
+  "cz": "Diky tomu muzes pouzit Orange Star\\rCO Nell!\\f",
+  "idx": 2791
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370944,
+  "str_off": 6333236,
+  "len": 66,
+  "en": "It looks like it's my turn! Now, you\\rcan choose me to be your CO!\\f",
+  "cz": "Vypada to, ze jsem na rade! Ted si\\rmuzes vybrat me za sveho CO!\\f",
+  "idx": 2792
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370948,
+  "str_off": 6333304,
+  "len": 35,
+  "en": "This'll let you edit Max's colors!\\f",
+  "cz": "Diky tomu upravis barvy Maxe!\\f",
+  "idx": 2793
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370952,
+  "str_off": 6333340,
+  "len": 36,
+  "en": "This'll let you edit Sami's colors!\\f",
+  "cz": "Diky tomu upravis barvy Sami!\\f",
+  "idx": 2794
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370956,
+  "str_off": 6333380,
+  "len": 36,
+  "en": "This'll let you edit Olaf's colors!\\f",
+  "cz": "Diky tomu upravis barvy Olafa!\\f",
+  "idx": 2795
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370960,
+  "str_off": 6333420,
+  "len": 36,
+  "en": "This'll let you edit Grit's colors!\\f",
+  "cz": "Diky tomu upravis barvy Grita!\\f",
+  "idx": 2796
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370964,
+  "str_off": 6333460,
+  "len": 37,
+  "en": "This'll let you edit Colin's colors!\\f",
+  "cz": "Diky tomu upravis barvy Colina!\\f",
+  "idx": 2797
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370968,
+  "str_off": 6333500,
+  "len": 38,
+  "en": "This'll let you edit Kanbei's colors!\\f",
+  "cz": "Diky tomu upravis barvy Kanbeie!\\f",
+  "idx": 2798
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370972,
+  "str_off": 6333540,
+  "len": 37,
+  "en": "This'll let you edit Sonja's colors!\\f",
+  "cz": "Diky tomu upravis barvy Sonji!\\f",
+  "idx": 2799
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370976,
+  "str_off": 6333580,
+  "len": 38,
+  "en": "This'll let you edit Sensei's colors!\\f",
+  "cz": "Diky tomu upravis barvy Senseie!\\f",
+  "idx": 2800
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370980,
+  "str_off": 6333620,
+  "len": 37,
+  "en": "This'll let you edit Eagle's colors!\\f",
+  "cz": "Diky tomu upravis barvy Eagla!\\f",
+  "idx": 2801
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370984,
+  "str_off": 6333660,
+  "len": 37,
+  "en": "This'll let you edit Drake's colors!\\f",
+  "cz": "Diky tomu upravis barvy Draka!\\f",
+  "idx": 2802
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370988,
+  "str_off": 6333700,
+  "len": 36,
+  "en": "This'll let you edit Jess's colors!\\f",
+  "cz": "Diky tomu upravis barvy Jess!\\f",
+  "idx": 2803
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370992,
+  "str_off": 6333740,
+  "len": 36,
+  "en": "This'll let you edit Flak's colors!\\f",
+  "cz": "Diky tomu upravis barvy Flaka!\\f",
+  "idx": 2804
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6370996,
+  "str_off": 6333780,
+  "len": 36,
+  "en": "This'll let you edit Lash's colors!\\f",
+  "cz": "Diky tomu upravis barvy Lash!\\f",
+  "idx": 2805
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371000,
+  "str_off": 6333820,
+  "len": 37,
+  "en": "This'll let you edit Adder's colors!\\f",
+  "cz": "Diky tomu upravis barvy Addera!\\f",
+  "idx": 2806
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371004,
+  "str_off": 6333860,
+  "len": 37,
+  "en": "This'll let you edit Hawke's colors!\\f",
+  "cz": "Diky tomu upravis barvy Hawka!\\f",
+  "idx": 2807
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371008,
+  "str_off": 6333900,
+  "len": 37,
+  "en": "This'll let you edit Sturm's colors!\\f",
+  "cz": "Diky tomu upravis barvy Sturma!\\f",
+  "idx": 2808
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371012,
+  "str_off": 6333940,
+  "len": 36,
+  "en": "This'll let you edit Nell's colors!\\f",
+  "cz": "Diky tomu upravis barvy Nell!\\f",
+  "idx": 2809
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371016,
+  "str_off": 6333980,
+  "len": 32,
+  "en": "This'll let you edit my colors!\\f",
+  "cz": "Diky tomu upravis me barvy!\\f",
+  "idx": 2810
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371020,
+  "str_off": 6334016,
+  "len": 174,
+  "en": "Buy this to access the Sound Room!\\fChoose Battle Maps from the Select\\rMode screen, and press SELECT\\fto switch to the Sound Room.\\fMy personal favorite is Sensei's\\rtheme song!\\f",
+  "cz": "Kup tohle pro pristup do Sound Room!\\fZvol Battle Maps na obrazovce\\rVyber rezimu a stiskni SELECT\\fpro prepnuti do Sound Room.\\fMuj osobni oblibenec je Senseiova\\rznelka!\\f",
+  "idx": 2811
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371024,
+  "str_off": 6334192,
+  "len": 167,
+  "en": "Buy this, then press SELECT\\rbefore choosing Campaign.\\fThis will allow you to access the\\rHard Campaign mode.\\fYou can earn a lot of points here\\rif you've got the skill!\\f",
+  "cz": "Kup tohle a pak stiskni SELECT\\rpred volbou Kampan.\\fDiky tomu ziskas pristup k\\rrezimu Tezka kampan.\\fMuzes tu vydelat hodne bodu,\\rkdyz na to mas!\\f",
+  "idx": 2812
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371028,
+  "str_off": 6334360,
+  "len": 49,
+  "en": "You can now choose a new\\rWar Room map: Pay Dirt!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: Pay Dirt!\\f",
+  "idx": 2813
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371032,
+  "str_off": 6334412,
+  "len": 50,
+  "en": "You can now choose a new\\rWar Room map: Long Road!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: Long Road!\\f",
+  "idx": 2814
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371036,
+  "str_off": 6334464,
+  "len": 49,
+  "en": "You can now choose a new\\rWar Room map: Nest Egg!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: Nest Egg!\\f",
+  "idx": 2815
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371040,
+  "str_off": 6334516,
+  "len": 52,
+  "en": "You can now choose a new\\rWar Room map: The Trident!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: The Trident!\\f",
+  "idx": 2816
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371044,
+  "str_off": 6334572,
+  "len": 53,
+  "en": "You can now choose a new\\rWar Room map: Banker Hills!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: Banker Hills!\\f",
+  "idx": 2817
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371048,
+  "str_off": 6334628,
+  "len": 55,
+  "en": "You can now choose a new\\rWar Room map: Missile Plains!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: Missile Plains!\\f",
+  "idx": 2818
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371052,
+  "str_off": 6334684,
+  "len": 51,
+  "en": "You can now choose a new\\rWar Room map: Lost Basin!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: Lost Basin!\\f",
+  "idx": 2819
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371056,
+  "str_off": 6334736,
+  "len": 51,
+  "en": "You can now choose a new\\rWar Room map: Risky Vale!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: Risky Vale!\\f",
+  "idx": 2820
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371060,
+  "str_off": 6334788,
+  "len": 49,
+  "en": "You can now choose a new\\rWar Room map: The Ring!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: The Ring!\\f",
+  "idx": 2821
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371064,
+  "str_off": 6334840,
+  "len": 52,
+  "en": "You can now choose a new\\rWar Room map: Strong Land!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu War Room: Strong Land!\\f",
+  "idx": 2822
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371068,
+  "str_off": 6334896,
+  "len": 53,
+  "en": "You can now choose a new\\rVersus map: Hourglass Isle!\\f",
+  "cz": "Ted si muzes vybrat novou\\rmapu Versus: Hourglass Isle!\\f",
+  "idx": 2823
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371072,
+  "str_off": 6334952,
+  "len": 54,
+  "en": "You can now choose a new\\rPre-Deployed map: Big Daddy!\\f",
+  "cz": "Ted si muzes vybrat novou predro-\\rzmistenou mapu: Big Daddy!\\f",
+  "idx": 2824
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371076,
+  "str_off": 6335008,
+  "len": 54,
+  "en": "You can now choose a new\\rPre-Deployed map: Crossroad!\\f",
+  "cz": "Ted si muzes vybrat novou predro-\\rzmistenou mapu: Crossroad!\\f",
+  "idx": 2825
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371080,
+  "str_off": 6335064,
+  "len": 54,
+  "en": "You can now choose a new 3P\\rVersus map: Archipelagos!\\f",
+  "cz": "Ted si muzes vybrat novou 3P\\rmapu Versus: Archipelagos!\\f",
+  "idx": 2826
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371084,
+  "str_off": 6335120,
+  "len": 51,
+  "en": "You can now choose a new 4P\\rVersus map: Pipe Maze!\\f",
+  "cz": "Ted si muzes vybrat novou 4P\\rmapu Versus: Pipe Maze!\\f",
+  "idx": 2827
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371088,
+  "str_off": 6335172,
+  "len": 50,
+  "en": "You can now choose a new 4P\\rVersus map: Badlands!\\f",
+  "cz": "Ted si muzes vybrat novou 4P\\rmapu Versus: Badlands!\\f",
+  "idx": 2828
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371092,
+  "str_off": 6335224,
+  "len": 57,
+  "en": "You can now choose a new\\rPre-Deployed map: Grid Assault!\\f",
+  "cz": "Ted si muzes vybrat novou predro-\\rzmistenou mapu: Grid Assault!\\f",
+  "idx": 2829
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371096,
+  "str_off": 6335284,
+  "len": 52,
+  "en": "You can now choose a new 3P\\rVersus map: Portsmouth!\\f",
+  "cz": "Ted si muzes vybrat novou 3P\\rmapu Versus: Portsmouth!\\f",
+  "idx": 2830
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371100,
+  "str_off": 6335340,
+  "len": 54,
+  "en": "You can now choose a new 3P\\rVersus map: Knotted Keys!\\f",
+  "cz": "Ted si muzes vybrat novou 3P\\rmapu Versus: Knotted Keys!\\f",
+  "idx": 2831
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371104,
+  "str_off": 6335396,
+  "len": 52,
+  "en": "You can now choose a new 3P\\rVersus map: Wyrm's Eye!\\f",
+  "cz": "Ted si muzes vybrat novou 3P\\rmapu Versus: Wyrm's Eye!\\f",
+  "idx": 2832
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371108,
+  "str_off": 6335452,
+  "len": 52,
+  "en": "You can now choose a new 4P\\rVersus map: Lock Ridge!\\f",
+  "cz": "Ted si muzes vybrat novou 4P\\rmapu Versus: Lock Ridge!\\f",
+  "idx": 2833
+ },
+ {
+  "table": "0x6132E4",
+  "ptr_loc": 6371112,
+  "str_off": 6335508,
+  "len": 51,
+  "en": "You can now choose a new 4P\\rVersus map: Heartland!\\f",
+  "cz": "Ted si muzes vybrat novou 4P\\rmapu Versus: Heartland!\\f",
+  "idx": 2834
+ }
+]
