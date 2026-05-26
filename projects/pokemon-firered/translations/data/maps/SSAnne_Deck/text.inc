@@ -1,35 +1,34 @@
 SSAnne_Deck_Text_ShipDepartingSoon::
-    .string "The party's over.\n"
-    .string "The ship will be departing soon.$"
+    .string "Veciríek skoncil.\n"
+    .string "Lod brzy odplouvá.$"
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
-    .string "Whew!\n"
-    .string "Scrubbing decks is hard work!$"
+    .string "Uf!\n"
+    .string "Drhnutí paluby je drina!$"
 
 SSAnne_Deck_Text_FeelSeasick::
-    .string "Urf… I feel ill…\p"
-    .string "I got seasick, so I stepped out to\n"
-    .string "get some air…$"
+    .string "Brr… Je mi spatne…\p"
+    .string "Mám morskou nemoc, tak jsem\n"
+    .string "vysel ven na vzduch…$"
 
 SSAnne_Deck_Text_EdmondIntro::
-    .string "Hey, matey!\p"
-    .string "Let's do a little jig!$"
+    .string "Hej, kámo!\p"
+    .string "Pojdme si zatancit!$"
 
 SSAnne_Deck_Text_EdmondDefeat::
-    .string "You're impressive!$"
+    .string "Jsi úzasny!$"
 
 SSAnne_Deck_Text_EdmondPostBattle::
-    .string "How many kinds of POKéMON do you\n"
-    .string "think there are in this big world?$"
+    .string "Kolik druhu POKéMONu myslís,\n"
+    .string "ze v tomto svete je?$"
 
 SSAnne_Deck_Text_TrevorIntro::
-    .string "Ahoy, there!\n"
-    .string "Are you seasick?$"
+    .string "Ahoj!\n"
+    .string "Mas morskou nemoc?$"
 
 SSAnne_Deck_Text_TrevorDefeat::
-    .string "I was just careless!$"
+    .string "Byl jsem neopatrny!$"
 
 SSAnne_Deck_Text_TrevorPostBattle::
-    .string "My pa said there are 100 kinds of\n"
-    .string "POKéMON. I think there are more.$"
-
+    .string "Táta ríkal, ze je 100 druhu\n"
+    .string "POKéMONu. Myslím, ze víc.$"

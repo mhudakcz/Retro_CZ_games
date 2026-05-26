@@ -1,12 +1,12 @@
 SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
-    .string "Play with POKéMON lots and live\n"
-    .string "a long life!\p"
-    .string "Take AGATHA, for example.\p"
-    .string "She set a record for being the\n"
-    .string "oldest-ever ELITE FOUR member.\p"
-    .string "She spurs me to do bigger things.$"
+    .string "Hraj s POKéMONy hodne a zij\n"
+    .string "dlouhy zivot!\p"
+    .string "Vezmi si napríklad AGATHU.\p"
+    .string "Vytvorila rekord jako nejstarsí\n"
+    .string "clenka ELITNÍ CTYRKY v historii.\p"
+    .string "Inspiruje me k vetsím vecem.$"
 
 SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter::
-    .string "I should buy some MAIL and write\n"
-    .string "him a letter…$"
+    .string "Mel bych si koupit nejakou\n"
+    .string "POSTU a napsat mu dopis…$"
 

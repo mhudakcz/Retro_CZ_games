@@ -1,34 +1,33 @@
 SilphCo_3F_Text_WhatAmIToDo::
-    .string "I work for SILPH CO.\n"
-    .string "What am I to do?$"
+    .string "Pracuji pro SILPH CO.\n"
+    .string "Co mám delat?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
     .string "{PLAYER}!\n"
-    .string "You and your POKéMON saved us!$"
+    .string "Ty a tví POKéMONi jste nás\nzachránili!$"
 
 SilphCo_3F_Text_GruntIntro::
-    .string "Quit messing with us, kid!$"
+    .string "Prestan nás otravovat, decko!$"
 
 SilphCo_3F_Text_GruntDefeat::
-    .string "I give up!$"
+    .string "Vzdávám to!$"
 
 SilphCo_3F_Text_GruntPostBattle::
-    .string "A hint? You can open doors with\n"
-    .string "a CARD KEY!$"
+    .string "Tip? Dvere otevres pomocí\n"
+    .string "CARD KEY!$"
 
 SilphCo_3F_Text_JoseIntro::
-    .string "I support TEAM ROCKET more than\n"
-    .string "I support SILPH CO.!$"
+    .string "Podporuji TEAM ROCKET víc\n"
+    .string "nez SILPH CO.!$"
 
 SilphCo_3F_Text_JoseDefeat::
-    .string "You really got me!$"
+    .string "Vsadil jsi na me!$"
 
 SilphCo_3F_Text_JosePostBattle::
-    .string "Humph…\p"
-    .string "TEAM ROCKET said that if I helped\n"
-    .string "them, they'd let me study POKéMON.$"
+    .string "Hmf…\p"
+    .string "TEAM ROCKET ríkal, ze kdyz jim\n"
+    .string "pomuzu, nechají me studovat.$"
 
 SilphCo_3F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "SILPH CO. HLAVNÍ KANCELÁR\n"
     .string "3F$"
-

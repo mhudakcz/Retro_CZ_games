@@ -1,87 +1,88 @@
 Route21_South_Text_JackIntro::
-	.string "I caught my POKéMON at sea.$"
+	.string "Své POKéMONy jsem chytil v mori.$"
 
 Route21_South_Text_JackDefeat::
-	.string "Diver!!\n"
-	.string "Down!!$"
+	.string "Potápec!!\n"
+	.string "Dolu!!$"
 
 Route21_South_Text_JackPostBattle::
-	.string "Where'd you catch your POKéMON?$"
+	.string "Kde jsi chytil své POKéMONy?$"
 
 Route21_South_Text_JeromeIntro::
-	.string "Right now, I'm in a triathlon meet.$"
+	.string "Práve ted jsem na triatlonu.$"
 
 Route21_South_Text_JeromeDefeat::
-	.string "Pant…\n"
-	.string "Pant… Pant…$"
+	.string "Funím…\n"
+	.string "Funím… Funím…$"
 
 Route21_South_Text_JeromePostBattle::
-	.string "I'm beat! But, I still have the\n"
-	.string "bike race and marathon left!$"
+	.string "Jsem hotovy! Ale jeste me\n"
+	.string "ceká cyklistika a maraton!$"
 
 Route21_South_Text_RolandIntro::
-	.string "Ahh!\n"
-	.string "Feel the sun and the wind!$"
+	.string "Ách!\n"
+	.string "Slunce a vítr, to je ono!$"
 
 Route21_South_Text_RolandDefeat::
-	.string "Yow!\n"
-	.string "I lost!$"
+	.string "Au!\n"
+	.string "Prohrál jsem!$"
 
 Route21_South_Text_RolandPostBattle::
-	.string "I'm sunburnt to a crisp!$"
+	.string "Jsem na skvarek spáleny\n"
+	.string "od slunce!$"
 
 Route21_South_Text_ClaudeIntro::
-	.string "Hey, don't scare away the fish!$"
+	.string "Hej, neplas mi ryby!$"
 
 Route21_South_Text_ClaudeDefeat::
-	.string "Sorry! I'm just so frustrated from\n"
-	.string "not catching anything.$"
+	.string "Promin! Jsem jen frustrovany\n"
+	.string "z toho, ze nic nechytám.$"
 
 Route21_South_Text_ClaudePostBattle::
-	.string "Sheesh, I haven't caught a thing.\n"
-	.string "Could this place actually be a\l"
-	.string "giant pool or something?$"
+	.string "Pche, nic jsem nechytil.\n"
+	.string "Nemuze to tu byt náhodou\l"
+	.string "obrí bazén nebo tak neco?$"
 
 Route21_South_Text_NolanIntro::
-	.string "Keep me company till I get a hit.$"
+	.string "Dej mi spolecnost, nez neco\n"
+	.string "chytím.$"
 
 Route21_South_Text_NolanDefeat::
-	.string "That burned some time.$"
+	.string "To zabilo trochu casu.$"
 
 Route21_South_Text_NolanPostBattle::
-	.string "Oh wait!\n"
-	.string "I got a bite! Yeah!$"
+	.string "Ó pockej!\n"
+	.string "Neco mi zabralo! Jo!$"
 
 Route21_North_Text_LilIntro::
-	.string "LIL: Huh? A battle?\n"
-	.string "IAN, can't you do it alone?$"
+	.string "LIL: He? Souboj?\n"
+	.string "IANe, nezvládnes to sám?$"
 
 Route21_North_Text_LilDefeat::
-	.string "LIL: Oh, see?\n"
-	.string "We lost. Happy now?$"
+	.string "LIL: Ó, vidís?\n"
+	.string "Prohráli jsme. Spokojeny?$"
 
 Route21_North_Text_LilPostBattle::
-	.string "LIL: I'm tired.\n"
-	.string "Can't we go home already?$"
+	.string "LIL: Jsem unavená.\n"
+	.string "Nemuzeme uz jít domu?$"
 
 Route21_North_Text_LilNotEnoughMons::
-	.string "LIL: Huh? A battle?\n"
-	.string "I can't be bothered to do it alone.\l"
-	.string "Bring two POKéMON, won't you?$"
+	.string "LIL: He? Souboj?\n"
+	.string "Nechce se mi do toho samotné.\l"
+	.string "Prines dva POKéMONy, ano?$"
 
 Route21_North_Text_IanIntro::
-	.string "IAN: My sis doesn't get enough\n"
-	.string "exercise, so I made her come.$"
+	.string "IAN: Moje ségra se málo\n"
+	.string "hybe, tak jsem ji prived.$"
 
 Route21_North_Text_IanDefeat::
-	.string "IAN: Awww, Sis!\n"
-	.string "Get it together!$"
+	.string "IAN: Och, séga!\n"
+	.string "Seber se!$"
 
 Route21_North_Text_IanPostBattle::
-	.string "IAN: Come on, Sis!\p"
-	.string "You're not going to lose weight\n"
-	.string "like this!$"
+	.string "IAN: No tak, séga!\p"
+	.string "Takhle nezhubnes!$"
 
 Route21_North_Text_IanNotEnoughMons::
-	.string "IAN: We want a two-on-two battle.\n"
-	.string "So can you bring two POKéMON?$"
+	.string "IAN: Chceme souboj dva na dva.\n"
+	.string "Tak prineses dva POKéMONy?$"

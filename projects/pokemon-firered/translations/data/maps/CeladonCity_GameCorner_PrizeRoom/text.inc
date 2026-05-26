@@ -1,37 +1,36 @@
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
-    .string "I sure do fancy that PORYGON!\n"
-    .string "But, it's hard to win at slots!$"
+    .string "Líbí se mi tamten PORYGON!\n"
+    .string "Ale tezko se ve slotech vyhrává!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
-    .string "Gahaha! I raked it in today!\n"
-    .string "If only every day were like this…$"
+    .string "Hahaha! Dnes jsem to nahrnul!\n"
+    .string "Kdyby tak kazdy den byl takovy…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired::
-    .string "A COIN CASE is required…$"
+    .string "Je potreba MINCOVNÍK…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes::
-    .string "We exchange your COINS for prizes.$"
+    .string "MINCE vymeníme za ceny.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
-    .string "Which prize would you like?$"
+    .string "Kterou cenu bys chtel?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo::
     .string "はい どうぞ$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize::
-    .string "So, you want the {STR_VAR_1}?$"
+    .string "Takze chces {STR_VAR_1}?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM::
-    .string "Okay, a TM of {STR_VAR_2}\n"
-    .string "is what you want?$"
+    .string "Dobre, TM s {STR_VAR_2}\n"
+    .string "je to, co chces?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
-    .string "Sorry, you'll need more COINS\n"
-    .string "than that.$"
+    .string "Promin, bude potreba víc\n"
+    .string "MINCÍ nez tohle.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom::
     .string "おきゃくさん もう もてないよ$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen::
     .string "あっ そう$"
-

@@ -1,43 +1,43 @@
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
-    .string "LOSTELLE: Whimper… Sniff…\n"
-    .string "Oh! Please, help!\p"
-    .string "A scary POKéMON appeared there\n"
-    .string "a little while ago.\p"
-    .string "It kept scaring.\n"
-    .string "It made LOSTELLE scared.\p"
-    .string "I'm too scared to move!\n"
-    .string "But I want to go home…$"
+    .string "LOSTELLE: Mnauu… Smrk…\n"
+    .string "Ach! Prosím, pomoc!\p"
+    .string "Strasidelny POKéMON se tu pred\n"
+    .string "chvílí objevil.\p"
+    .string "Strásil mne porád.\n"
+    .string "Vystrasil LOSTELLE.\p"
+    .string "Bojím se hnout!\n"
+    .string "Ale chci jít domu…$"
 
 ThreeIsland_BerryForest_Text_HereItComesAgain::
-    .string "Oh! Here it comes again!\n"
-    .string "No! Go away! It's scaring me!\p"
+    .string "Ach! Uz prichází zase!\n"
+    .string "Ne! Jdi pryc! Vystrasujes me!\p"
     .string "Waaaaaaah!\n"
-    .string "I want my daddy!$"
+    .string "Chci tatínka!$"
 
 ThreeIsland_BerryForest_Text_ThankYouHaveThis::
-    .string "Ohh! That was so scary!\n"
-    .string "Thank you!\p"
-    .string "LOSTELLE came to pick some\n"
-    .string "BERRIES.\p"
-    .string "You can have this!$"
+    .string "Och! To bylo tak strasidelné!\n"
+    .string "Dekuji ti!\p"
+    .string "LOSTELLE prisla nasbírat\n"
+    .string "BOBULE.\p"
+    .string "Tohle si muzes vzít!$"
 
 ThreeIsland_BerryForest_Text_LetsGoHome::
-    .string "What's your name?\p"
-    .string "LOSTELLE's scared, so can I go\n"
-    .string "with you to my daddy's house?\p"
-    .string "Okay!\n"
-    .string "Let's go home!$"
+    .string "Jak se jmenujes?\p"
+    .string "LOSTELLE se bojí, muzu jít\n"
+    .string "s tebou k tátovu domu?\p"
+    .string "Dobre!\n"
+    .string "Pojdme domu!$"
 
 ThreeIsland_BerryForest_Text_BerryPouchIsFull::
-    .string "Your BERRY POUCH is full.\n"
-    .string "I guess you don't want this.$"
+    .string "Tvoje BERRY POUCH je plná.\n"
+    .string "Asi tohle nechces.$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
-    .string "Welcome to the BERRY FOREST\p"
-    .string "Be friendly and share BERRIES with\n"
-    .string "others and POKéMON.$"
+    .string "Vítej v BERRY FOREST\p"
+    .string "Bud prátelsky a podel se o\n"
+    .string "BOBULE s ostatními i POKéMONy.$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
-    .string "Beware of wild, BERRY-loving\n"
-    .string "POKéMON!$"
+    .string "Pozor na divoké POKéMONy,\n"
+    .string "kterí milují BOBULE!$"
 

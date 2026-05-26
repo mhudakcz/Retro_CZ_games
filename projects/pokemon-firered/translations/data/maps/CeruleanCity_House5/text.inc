@@ -1,70 +1,69 @@
 CeruleanCity_House1_Text_AnyInterestInBerries::
-    .string "I concoct a variety of medicine\n"
-    .string "from BERRY POWDER.\p"
-    .string "Using good BERRY POWDER, I can\n"
-    .string "make any kind of medicine.\p"
-    .string "Now tell me, have you any interest\n"
-    .string "in BERRIES?$"
+    .string "Z BERRY POWDER michám\n"
+    .string "rozmanité léky.\p"
+    .string "S dobrym BERRY POWDER dokázu\n"
+    .string "vyrobit jakykoli lék.\p"
+    .string "Tak rekni, zajímají te\n"
+    .string "vubec BERRIES?$"
 
 CeruleanCity_House1_Text_HaveJustTheThing::
-    .string "Ah, good! For you, then, I have\n"
-    .string "just the thing.$"
+    .string "Ah, dobre! Pak pro tebe\n"
+    .string "mám presne to pravé.$"
 
 CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
-    .string "There's something new on the second\n"
-    .string "floor of POKéMON CENTERS, at the\l"
+    .string "Ve druhém patre POKéMON CENTER\n"
+    .string "je neco nového, v\l"
     .string "DIRECT CORNER.\p"
-    .string "They installed a Wireless Adapter\n"
-    .string "machine for crushing BERRIES.\p"
-    .string "This is where you come in.\p"
-    .string "I have a favor to ask, one that\n"
-    .string "I can entrust only to you.\p"
-    .string "Could you make BERRY POWDER for\n"
-    .string "me using that machine?\p"
-    .string "Don't forget, the machine is at the\n"
-    .string "DIRECT CORNER of POKéMON CENTERS.\p"
-    .string "I'll concoct medicine for you if\n"
-    .string "you bring me some BERRY POWDER.\p"
-    .string "Don't forget, crush BERRIES into\n"
-    .string "BERRY POWDER and bring it to me.$"
+    .string "Nainstalovali tam Wireless\n"
+    .string "Adapter na drcení BERRIES.\p"
+    .string "A tady prijdes na radu ty.\p"
+    .string "Mám prosbu, kterou mohu\n"
+    .string "sverit jen tobe.\p"
+    .string "Mohl bys mi na tom stroji\n"
+    .string "vyrobit BERRY POWDER?\p"
+    .string "Nezapomen, ten stroj je v\n"
+    .string "DIRECT CORNER v POKéMON CENTER.\p"
+    .string "Pripravím ti lék, kdyz mi\n"
+    .string "prineses nejaky BERRY POWDER.\p"
+    .string "Nezapomen, rozdrt BERRIES na\n"
+    .string "BERRY POWDER a prines mi ho.$"
 
 CeruleanCity_House1_Text_WhyMustYouLieNoBerries::
-    .string "Why must you lie to me?\p"
-    .string "How many BERRIES do you have?\n"
-    .string "Not a one!$"
+    .string "Proc mi musís lhát?\p"
+    .string "Kolik más BERRIES?\n"
+    .string "Ani jednu!$"
 
 CeruleanCity_House1_Text_TakeInterestInAllSortsOfThings::
-    .string "You have no interest in BERRIES?\p"
-    .string "Young one, it's important to take an\n"
-    .string "interest in all sorts of things.$"
+    .string "Tebe BERRIES nezajímají?\p"
+    .string "Mlady príteli, je dulezité\n"
+    .string "zajímat se o ruzné veci.$"
 
 CeruleanCity_House1_Text_HaveYouBroughtBerryPowder::
-    .string "Er-hem! Have you brought me some\n"
-    .string "BERRY POWDER?$"
+    .string "Ehm! Prinesl jsi mi\n"
+    .string "nejaky BERRY POWDER?$"
 
 CeruleanCity_House5_Text_ExchangeWithWhat::
-    .string "With what would you like to \n"
-    .string "exchange it?$"
+    .string "Za co bys to chtel\n"
+    .string "vymenit?$"
 
 CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem::
-    .string "Fine, you'll exchange your BERRY\n"
-    .string "POWDER for one {STR_VAR_1}?$"
+    .string "Dobre, vymenís svuj BERRY\n"
+    .string "POWDER za jeden {STR_VAR_1}?$"
 
 CeruleanCity_House1_Text_DontHaveEnoughBerryPowder::
-    .string "Hm? You don't have enough\n"
+    .string "Hm? Nemás dost\n"
     .string "BERRY POWDER.$"
 
 CeruleanCity_House1_Text_TradeMoreBerryPowder::
-    .string "This is fine BERRY POWDER indeed.\n"
-    .string "It will make excellent medicine.\p"
-    .string "Would you like to trade more BERRY\n"
-    .string "POWDER for something else?$"
+    .string "To je vskutku skvely BERRY\n"
+    .string "POWDER. Bude z nej vyborny lék.\p"
+    .string "Chtel bys vymenit víc BERRY\n"
+    .string "POWDER za neco jiného?$"
 
 CeruleanCity_House1_Text_HopeToSeeYouAgain::
-    .string "That's fine, then.\n"
-    .string "I'll hope to see you back again.$"
+    .string "Tak to je v porádku.\n"
+    .string "Doufám, ze se zase uvidíme.$"
 
 CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder::
-    .string "Come see me if you'd like to trade\n"
-    .string "your BERRY POWDER.$"
-
+    .string "Prijd za mnou, kdybys chtel\n"
+    .string "vymenit svuj BERRY POWDER.$"

@@ -1,166 +1,165 @@
 ThreeIsland_Text_IslandSign::
     .string "THREE ISLAND\n"
-    .string "Kin Island of Family Bonding$"
+    .string "Kin Island rodinného pouta$"
 
 ThreeIsland_Text_IslandBelongsToUs::
     .string "Hyahoo!\p"
-    .string "From this day on, this island\n"
-    .string "belongs to us!$"
+    .string "Od dnesního dne tento ostrov\n"
+    .string "patrí nám!$"
 
 ThreeIsland_Text_GoBackToKanto::
-    .string "We don't need you people bringing\n"
-    .string "your noise and trouble here!\p"
-    .string "We're asking you to go back to\n"
-    .string "KANTO!$"
+    .string "Nepotrebujeme tu lidi, kterí\n"
+    .string "delají hluk a potíze!\p"
+    .string "Zádáme vás, abyste se vrátili\n"
+    .string "do KANTA!$"
 
 ThreeIsland_Text_BossIsOnHisWay::
-    .string "Hey, go cry somewhere else.\n"
-    .string "Our boss is on his way.\p"
-    .string "When he gets here, we'll give you\n"
-    .string "a k-rad motorbike show you won't\l"
-    .string "soon forget!$"
+    .string "Hej, jdi recnit jinam.\n"
+    .string "Nás séf je na ceste.\p"
+    .string "Az dorazí, ukázeme vám\n"
+    .string "skvelou motorkárskou show, na\l"
+    .string "kterou nezapomenete!$"
 
 ThreeIsland_Text_GetOffIslandNow::
-    .string "W-what!? Not on your life!\n"
-    .string "Get off the island now!$"
+    .string "C-coze!? Ani náhodou!\n"
+    .string "Vypadnete z ostrova!$"
 
 ThreeIsland_Text_WhosGonnaMakeMe::
-    .string "Who's gonna make me?$"
+    .string "Kdo me k tomu donutí?$"
 
 ThreeIsland_Text_AreYouBossGoBackToKanto::
-    .string "Are you the boss?\n"
-    .string "Go back to KANTO right now!$"
+    .string "Ty jsi ten sefík?\n"
+    .string "Vrat se do KANTA hned ted!$"
 
 ThreeIsland_Text_JustGotHerePal::
     .string "Hah?\p"
-    .string "I just got here, pal.\p"
-    .string "What's with the hostile attitude?\n"
-    .string "It's mighty cold of you!$"
+    .string "Práve jsem dorazil, kámo.\p"
+    .string "Co je s tím neprátelskym postojem?\n"
+    .string "Je to od tebe chladné!$"
 
 ThreeIsland_Text_FollowersRaisingHavoc::
-    .string "Your gang of followers have been\n"
-    .string "raising havoc on their bikes.\p"
-    .string "Do you have any idea how much\n"
-    .string "trouble they've caused us on the\l"
-    .string "island?$"
+    .string "Tvá banda následovníku decimuje\n"
+    .string "ostrov svymi motorkami.\p"
+    .string "Más predstavu, kolik problému\n"
+    .string "nám na ostrove zpusobili?$"
 
 ThreeIsland_Text_OughtToBeThankingUs::
-    .string "No, man, I don't get it at all.\p"
-    .string "Look at this place.\n"
-    .string "What do you do for entertainment?\p"
-    .string "You ought to be thanking us for\n"
-    .string "livening up this sleepy village.\p"
-    .string "But hey, if you insist, you can try\n"
-    .string "making us leave.$"
+    .string "Ne, kámo, vubec to nechápu.\p"
+    .string "Podívej se na tohle místo.\n"
+    .string "Co tu deláte pro zábavu?\p"
+    .string "Meli byste nám podekovat za\n"
+    .string "ozivení této ospalé vesnice.\p"
+    .string "Ale hej, jestli trvás, muzes\n"
+    .string "zkusit nás vyhnat.$"
 
 ThreeIsland_Text_YouCowardsToughInPack::
-    .string "Grr… You cowards…\n"
-    .string "So tough in a pack…$"
+    .string "Grr… Vy zbabelci…\n"
+    .string "Ve smecce tak tvrdí…$"
 
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
-    .string "You, what are you staring at?\n"
-    .string "Don't you know it's not polite?\p"
-    .string "You wanna make something of it\n"
-    .string "or what?$"
+    .string "Ty, na co civís?\n"
+    .string "Vís, ze to není slusné?\p"
+    .string "Chces s tím neco delat,\n"
+    .string "nebo co?$"
 
 ThreeIsland_Text_ThatsSmart::
-    .string "That's smart.\n"
-    .string "Keep your nose out of this.$"
+    .string "Tohle je chytré.\n"
+    .string "Nestrkej do toho nos.$"
 
 ThreeIsland_Text_Biker1Intro::
-    .string "Heh, I like your guts.\n"
-    .string "You'll be losing money to me, but…$"
+    .string "He, líbí se mi tvá kuráz.\n"
+    .string "Prijdes o peníze, ale…$"
 
 ThreeIsland_Text_Biker1Defeat::
-    .string "Wha…\n"
-    .string "What is this kid?!$"
+    .string "Co…\n"
+    .string "Co je to za fakana?!$"
 
 ThreeIsland_Text_Biker1PostBattle::
-    .string "Aww, man…\n"
-    .string "Don't you dare laugh!$"
+    .string "Áááá, kámo…\n"
+    .string "Neopovaz se smát!$"
 
 ThreeIsland_Text_Biker2Intro::
-    .string "Aren't you from KANTO?\n"
-    .string "You should be on our side!$"
+    .string "Ty nejsi z KANTA?\n"
+    .string "Mel bys byt na nasí strane!$"
 
 ThreeIsland_Text_Biker2Defeat::
-    .string "Stop fooling around!$"
+    .string "Prestan blbnout!$"
 
 ThreeIsland_Text_Biker2PostBattle::
-    .string "What's the matter with you,\n"
-    .string "getting all hot like that?\p"
-    .string "Totally uncool, man!$"
+    .string "Co je s tebou, ze se tak\n"
+    .string "rozcilujes?\p"
+    .string "Naprosto necool, kámo!$"
 
 ThreeIsland_Text_Biker3Intro::
-    .string "We invited the boss out here,\n"
-    .string "but you had to mess it up!\p"
-    .string "You embarrassed us, man!$"
+    .string "Pozvali jsme sem séfa,\n"
+    .string "a tys to musel zkazit!\p"
+    .string "Ztrapnils nás, kámo!$"
 
 ThreeIsland_Text_Biker3Defeat::
     .string "… … …   … … …$"
 
 ThreeIsland_Text_Biker3PostBattle::
-    .string "Boss, I'm telling you, you've gotta\n"
-    .string "do something about this kid!$"
+    .string "Séfe, ríkám ti, musís s tím\n"
+    .string "fakanem neco udelat!$"
 
 ThreeIsland_Text_PaxtonIntro::
-    .string "I've been watching you, and I'd say\n"
-    .string "you've done enough.\p"
-    .string "What are you, their friend or\n"
-    .string "something?\p"
-    .string "Then I guess you'll be battling me\n"
-    .string "in their place.$"
+    .string "Sleduji te a rekl bych,\n"
+    .string "ze jsi udelal dost.\p"
+    .string "Co jsi ty, jejich kámos\n"
+    .string "nebo co?\p"
+    .string "Tak budes bojovat se mnou\n"
+    .string "místo nich.$"
 
 ThreeIsland_Text_PaxtonDefeat::
-    .string "All right, enough!\n"
-    .string "We'll leave like you wanted!\p"
-    .string "We'll be happy to see the last of\n"
-    .string "this boring island!$"
+    .string "Dobre, stací!\n"
+    .string "Odejdeme, jak jste chteli!\p"
+    .string "Budeme rádi, ze zmizíme\n"
+    .string "z tohohle nudného ostrova!$"
 
 ThreeIsland_Text_PaxtonPostBattle::
-    .string "Humph! Yeah, go right on hanging\n"
-    .string "around with these hayseeds!$"
+    .string "Hmf! Jasne, povaluj se klidne\n"
+    .string "s temihle vidláky!$"
 
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
-    .string "Thank you! Those goons were\n"
-    .string "nothing but bad trouble.\p"
-    .string "Oh, look, your POKéMON got hurt\n"
-    .string "on my account.$"
+    .string "Dekuji ti! Ti grázlové delali\n"
+    .string "jen problémy.\p"
+    .string "Ach, podívej, tvuj POKéMON\n"
+    .string "se kvuli mne zranil.$"
 
 ThreeIsland_Text_GivenFullRestore::
-    .string "{PLAYER} was given\n"
-    .string "a FULL RESTORE.$"
+    .string "{PLAYER} dostal\n"
+    .string "FULL RESTORE.$"
 
 ThreeIsland_Text_OhYourBagIsFull::
-    .string "Oh?\n"
-    .string "Your BAG is full.$"
+    .string "Ach?\n"
+    .string "Tvuj BATOH je plny.$"
 
 ThreeIsland_Text_YouveGotImpressiveMons::
-    .string "You've got seriously impressive\n"
-    .string "POKéMON with you.$"
+    .string "Más vskutku úzasné\n"
+    .string "POKéMONy.$"
 
 ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
-    .string "It'd be fantastic if someone as\n"
-    .string "strong as you lived here.\p"
-    .string "I hope you'll at least stay here\n"
-    .string "a while.\p"
-    .string "…I beg your pardon?\n"
-    .string "You're looking for LOSTELLE?\p"
-    .string "LOSTELLE went off towards BOND\n"
-    .string "BRIDGE a while ago.$"
+    .string "Bylo by skvelé, kdyby tu zil\n"
+    .string "nekdo tak silny jako ty.\p"
+    .string "Doufám, ze tu aspon chvíli\n"
+    .string "zustanes.\p"
+    .string "…Prominte?\n"
+    .string "Hledáte LOSTELLE?\p"
+    .string "LOSTELLE odesla smerem k BOND\n"
+    .string "BRIDGE pred chvílí.$"
 
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
-    .string "THREE ISLAND is actually the most\n"
-    .string "populous of the islands here.\p"
-    .string "Still, it could be less sleepy.\p"
-    .string "But I wouldn't want to see goons\n"
-    .string "like those BIKERS here again.$"
+    .string "THREE ISLAND je vlastne\n"
+    .string "nejlidnatejsí z ostrovu.\p"
+    .string "Presto by mohl byt mín ospaly.\p"
+    .string "Ale nechtela bych uz nikdy videt\n"
+    .string "zase ty grázly z BIKERS.$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
-    .string "I'm going to train my DODUO in the\n"
-    .string "BERRY FOREST.\p"
-    .string "When it evolves, I'm going to play\n"
-    .string "a game on TWO ISLAND.$"
+    .string "Budu trénovat své DODUO\n"
+    .string "v BERRY FOREST.\p"
+    .string "Az se vyvine, pujdu si zahrát\n"
+    .string "hru na TWO ISLAND.$"
 
 ThreeIsland_Text_Doduo::
     .string "DODUO: Gigiih!$"

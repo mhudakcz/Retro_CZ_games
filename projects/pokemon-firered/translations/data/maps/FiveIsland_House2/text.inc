@@ -1,8 +1,8 @@
 FiveIsland_House2_Text_MeadowBelongedToFamily::
-    .string "That MEADOW has belonged to our\n"
-    .string "family for generations.\p"
-    .string "I should have had a giant mansion\n"
-    .string "built on it.\p"
-    .string "It would be preferable to having\n"
-    .string "those thugs run wild on it!$"
+    .string "Ta LOUKA patrila nasí rodine\n"
+    .string "uz po generace.\p"
+    .string "Mela jsem si na ní nechat\n"
+    .string "postavit obrovské sídlo.\p"
+    .string "Bylo by to lepsí, nez aby na ní\n"
+    .string "rádili tihle gauneri!$"
 

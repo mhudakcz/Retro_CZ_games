@@ -4,56 +4,56 @@ FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
     .string "パスワードが　2つ　いるようだ$"
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
-    .string "{PLAYER} entered a password.\p"
+    .string "{PLAYER} zadal heslo.\p"
     .string "“GOLDEEN need log.”\p"
     .string "… …  … …  … …\p"
-    .string "Another password is needed to\n"
-    .string "open the door…$"
+    .string "K otevrení dverí je potreba\n"
+    .string "jeste dalsí heslo…$"
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
-    .string "{PLAYER} entered two passwords.\p"
+    .string "{PLAYER} zadal dve hesla.\p"
     .string "“GOLDEEN need log.”\n"
     .string "“Yes, nah, CHANSEY.”\p"
     .string "… …  … …  … …\p"
-    .string "The WAREHOUSE's door opened!$"
+    .string "Dvere SKLADU se otevrely!$"
 
 FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
-    .string "The WAREHOUSE's door is already\n"
-    .string "open.$"
+    .string "Dvere SKLADU jsou jiz\n"
+    .string "otevrené.$"
 
 FiveIsland_Meadow_Text_Rocket1Intro::
-    .string "This area's strictly off-limits!\n"
-    .string "Out, out!$"
+    .string "Sem nikdo nesmí!\n"
+    .string "Ven, ven!$"
 
 FiveIsland_Meadow_Text_Rocket1Defeat::
-    .string "Is this for real?$"
+    .string "To má byt vázne?$"
 
 FiveIsland_Meadow_Text_Rocket1PostBattle::
-    .string "You don't have any business here!\n"
-    .string "Go home!$"
+    .string "Tady nemás co delat!\n"
+    .string "Jdi domu!$"
 
 FiveIsland_Meadow_Text_Rocket2Intro::
-    .string "There's nothing past here except\n"
-    .string "our WAREHOUSE.\p"
-    .string "So what brings you here?$"
+    .string "Za tímhle místem uz není nic,\n"
+    .string "krome naseho SKLADU.\p"
+    .string "Tak co te sem vede?$"
 
 FiveIsland_Meadow_Text_Rocket2Defeat::
-    .string "That wasn't supposed to happen…$"
+    .string "To se nemelo stát…$"
 
 FiveIsland_Meadow_Text_Rocket2PostBattle::
-    .string "You're wanting to know what's inside\n"
-    .string "this WAREHOUSE?\p"
-    .string "It's better you didn't know.\n"
-    .string "For your own sake, I mean.$"
+    .string "Chces vedet, co je uvnitr\n"
+    .string "tohohle SKLADU?\p"
+    .string "Bude lepsí, kdyz to nebudes\n"
+    .string "vedet. Pro tvé dobro.$"
 
 FiveIsland_Meadow_Text_Rocket3Intro::
-    .string "You'd be wasting time even if you\n"
-    .string "were to get by me.$"
+    .string "Ztrácel bys cas, i kdyby ses\n"
+    .string "kolem me dostal.$"
 
 FiveIsland_Meadow_Text_Rocket3Defeat::
-    .string "Oh, that makes me furious!$"
+    .string "Ach, to me strasne stve!$"
 
 FiveIsland_Meadow_Text_Rocket3PostBattle::
-    .string "You won't be able to get in without\n"
-    .string "the passwords anyway.$"
+    .string "Bez hesel se stejne dovnitr\n"
+    .string "nedostanes.$"
 

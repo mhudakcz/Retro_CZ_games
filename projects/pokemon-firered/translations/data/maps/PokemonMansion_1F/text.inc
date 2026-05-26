@@ -1,24 +1,22 @@
 PokemonMansion_1F_Text_TedIntro::
-    .string "Who are you?\n"
-    .string "There shouldn't be anyone here.$"
+    .string "Kdo jsi?\n"
+    .string "Tady nemá nikdo byt.$"
 
 PokemonMansion_1F_Text_TedDefeat::
-    .string "Ouch!$"
+    .string "Au!$"
 
 PokemonMansion_1F_Text_TedPostBattle::
-    .string "A key? I don't know what you're\n"
-    .string "talking about.$"
+    .string "Klíc? Nevím, o cem mluvís.$"
 
 PokemonMansion_1F_Text_JohnsonIntro::
-    .string "W-w-waah! You startled me!\n"
-    .string "I thought you were a ghost.$"
+    .string "U-u-uaaah! Vydesils me!\n"
+    .string "Myslel jsem, ze jsi duch.$"
 
 PokemonMansion_1F_Text_JohnsonDefeat::
-    .string "Tch!\n"
-    .string "I can't get any wins.$"
+    .string "Pche!\n"
+    .string "Nemuzu nic vyhrát.$"
 
 PokemonMansion_1F_Text_JohnsonPostBattle::
-    .string "I was exploring here by myself,\n"
-    .string "but I feel spooked.\p"
-    .string "I ought to go soon.$"
-
+    .string "Zkoumal jsem to tu sám,\n"
+    .string "ale je to tu nahánející.\p"
+    .string "Asi uz pujdu.$"

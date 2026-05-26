@@ -1,12 +1,11 @@
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
-    .string "Ah, yes, I have seen some POKéMON\n"
-    .string "ferry people across the water!$"
+    .string "Ach ano, videl jsem POKéMONy,\n"
+    .string "co prevázejí lidi pres vodu!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
-    .string "Small trees can be chopped down\n"
-    .string "using the move CUT.\p"
-    .string "But remember this!\n"
-    .string "CUT is an HM technique.\p"
-    .string "Once learned, it is not so easily\n"
-    .string "discarded.$"
-
+    .string "Malé stromy lze pokácet\n"
+    .string "pomocí útoku CUT.\p"
+    .string "Ale pamatuj!\n"
+    .string "CUT je HM technika.\p"
+    .string "Jakmile se naucí, nedá se\n"
+    .string "snadno odhodit.$"

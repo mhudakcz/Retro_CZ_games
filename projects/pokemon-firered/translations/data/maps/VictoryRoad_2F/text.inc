@@ -1,58 +1,57 @@
 VictoryRoad_2F_Text_DawsonIntro::
-    .string "If you can get through here,\n"
-    .string "you can go meet the ELITE FOUR.$"
+    .string "Jestli se sem dostanes,\n"
+    .string "muzes potkat ELITE FOUR.$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
-    .string "No!\n"
-    .string "Unbelievable!$"
+    .string "Ne!\n"
+    .string "Neuveritelné!$"
 
 VictoryRoad_2F_Text_DawsonPostBattle::
-    .string "I can beat you when it comes to\n"
-    .string "knowledge about POKéMON!$"
+    .string "Co se znalostí o POKéMONech\n"
+    .string "tyce, tam te porazím!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-    .string "This here is VICTORY ROAD.\n"
-    .string "It's the final test for TRAINERS!$"
+    .string "Tohle je VICTORY ROAD.\n"
+    .string "Poslední test pro TRENÉRY!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
-    .string "Atcho!$"
+    .string "Acho!$"
 
 VictoryRoad_2F_Text_DaisukePostBattle::
-    .string "If you get stuck, try moving some\n"
-    .string "boulders around.$"
+    .string "Kdyz se zaseknes, zkus\n"
+    .string "posunout nejaké balvany.$"
 
 VictoryRoad_2F_Text_NelsonIntro::
-    .string "Ah, so you wish to challenge the\n"
+    .string "Ah, tak ty chces vyzvat\n"
     .string "ELITE FOUR?$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
-    .string "You got me!$"
+    .string "Dostal jsi me!$"
 
 VictoryRoad_2F_Text_NelsonPostBattle::
-    .string "{RIVAL} also came through here.$"
+    .string "{RIVAL} tudy taky prosel.$"
 
 VictoryRoad_2F_Text_VincentIntro::
-    .string "Come on!\n"
-    .string "I'll whip you!$"
+    .string "Pojd na to!\n"
+    .string "Zmáknu te!$"
 
 VictoryRoad_2F_Text_VincentDefeat::
-    .string "I got whipped!$"
+    .string "Dostal jsem na frak!$"
 
 VictoryRoad_2F_Text_VincentPostBattle::
-    .string "You earned the right to be on\n"
+    .string "Vyslouzil sis právo byt na\n"
     .string "VICTORY ROAD…$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-    .string "Is VICTORY ROAD too tough?$"
+    .string "Je VICTORY ROAD moc tezká?$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
-    .string "Well done!$"
+    .string "Dobrá práce!$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-    .string "Many TRAINERS give up their\n"
-    .string "challenge here and go home.$"
+    .string "Spousta TRENÉRU tady vzdá svou\n"
+    .string "vyzvu a jde domu.$"
 
 @ Unused, old text for Moltres
 VictoryRoad_2F_Text_Gyaoo::
     .string "ギヤーオ！$"
-

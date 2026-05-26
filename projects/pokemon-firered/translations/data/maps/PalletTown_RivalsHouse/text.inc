@@ -1,126 +1,125 @@
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
-    .string "DAISY: Hi, {PLAYER}!\p"
-    .string "My brother, {RIVAL}, is out at\n"
-    .string "Grandpa's LAB.$"
+    .string "DAISY: Ahoj, {PLAYER}!\p"
+    .string "Muj bratr {RIVAL} je venku\n"
+    .string "u dedovy LAB.$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
-    .string "DAISY: {PLAYER}, I heard you had\n"
-    .string "a battle against {RIVAL}.\p"
-    .string "I wish I'd seen that!$"
+    .string "DAISY: {PLAYER}, slysela jsem,\n"
+    .string "zes mel souboj s {RIVAL}.\p"
+    .string "To bych chtela videt!$"
 
 PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
-    .string "Grandpa asked you to run an\n"
-    .string "errand?\p"
-    .string "Gee, that's lazy of him.\n"
-    .string "Here, this will help you.$"
+    .string "Deda te poslal\n"
+    .string "vyrídit pochuzku?\p"
+    .string "Pche, to je od nej lenivé.\n"
+    .string "Tu más, tohle ti pomuze.$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
-    .string "{PLAYER} received a TOWN MAP\n"
-    .string "from DAISY.$"
+    .string "{PLAYER} dostal TOWN MAP\n"
+    .string "od DAISY.$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
-    .string "You don't have space for this in\n"
-    .string "your BAG.$"
+    .string "Nemás na tohle místo ve\n"
+    .string "svém BAG.$"
 
 PalletTown_RivalsHouse_Text_ExplainTownMap::
-    .string "You can use the TOWN MAP to find\n"
-    .string "out where you are, or check the\l"
-    .string "names of places.$"
+    .string "TOWN MAP ti pomuze zjistit,\n"
+    .string "kde jsi, nebo overit\l"
+    .string "názvy míst.$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
-    .string "DAISY: Just like people, POKéMON\n"
-    .string "are living things.\p"
-    .string "When they get tired, please give\n"
-    .string "them a rest.$"
+    .string "DAISY: Stejne jako lidé jsou\n"
+    .string "i POKéMON zivé bytosti.\p"
+    .string "Kdyz se unaví, dej jim\n"
+    .string "prosím odpocinout.$"
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
-    .string "It's a big map of the KANTO region.\n"
-    .string "Now this would be useful!$"
+    .string "Je to velká mapa regionu KANTO.\n"
+    .string "To by se mi hodilo!$"
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
-    .string "The shelves are crammed full of\n"
-    .string "books on POKéMON.$"
+    .string "Police jsou narvané\n"
+    .string "knihami o POKéMONech.$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
-    .string "DAISY: Hi, {PLAYER}!\n"
-    .string "Good timing.\p"
-    .string "I'm about to have some tea.\n"
-    .string "Would you like to join me?\p"
-    .string "Oh, but look.\n"
-    .string "Your POKéMON are a little dirty.\p"
-    .string "Would you like me to groom one?$"
+    .string "DAISY: Ahoj, {PLAYER}!\n"
+    .string "Skvelé nacasování.\p"
+    .string "Chystám se na caj.\n"
+    .string "Nedás si se mnou?\p"
+    .string "Ale podívej.\n"
+    .string "Tví POKéMON jsou trochu spinaví.\p"
+    .string "Chces, abych jednoho ucesala?$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
-    .string "You don't need any grooming done?\n"
-    .string "Okay, we'll just have tea.$"
+    .string "Nepotrebujes zádné cesání?\n"
+    .string "Dobre, dáme si jen caj.$"
 
 PalletTown_RivalsHouse_Text_GroomWhichOne::
-    .string "Which one should I groom?$"
+    .string "Kterého mám ucesat?$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-    .string "DAISY: Okay, I'll get it looking\n"
-    .string "nice in no time.$"
+    .string "DAISY: Dobre, hned ho dám\n"
+    .string "do pekného stavu.$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
-    .string "{COLOR DARK_GRAY}{STR_VAR_1} looks dreamily content…\p"
-    .string "{COLOR RED}DAISY: There you go! All done.\n"
+    .string "{COLOR DARK_GRAY}{STR_VAR_1} vypadá zasnene spokojene…\p"
+    .string "{COLOR RED}DAISY: A je to! Hotovo.\n"
 #else @ In the JP games, gender-based text used a different font instead of different colors.
-    .string "{FONT_NORMAL}{STR_VAR_1} looks dreamily content…\p"
-    .string "{FONT_FEMALE}DAISY: There you go! All done.\n"
+    .string "{FONT_NORMAL}{STR_VAR_1} vypadá zasnene spokojene…\p"
+    .string "{FONT_FEMALE}DAISY: A je to! Hotovo.\n"
 #endif
-    .string "See? Doesn't it look nice?\p"
-    .string "Giggle…\n"
-    .string "It's such a cute POKéMON.$"
+    .string "Vidís? Nevypadá to pekne?\p"
+    .string "Chichi…\n"
+    .string "To je roztomily POKéMON.$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
-    .string "Oh, sorry. I honestly can't\n"
-    .string "groom an EGG.$"
+    .string "Ó, promin. Vajícko opravdu\n"
+    .string "ucesat neumím.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-    .string "DAISY: Your POKéMON grow to love\n"
-    .string "you if you raise them with love.\p"
-    .string "For example, {PLAYER}, may I see\n"
-    .string "your first POKéMON?$"
+    .string "DAISY: Tví POKéMON si te\n"
+    .string "zamilují, kdyz je chovás s láskou.\p"
+    .string "Treba, {PLAYER}, mohu videt\n"
+    .string "tvého prvního POKéMONa?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
-    .string "It couldn't possibly love you\n"
-    .string "any more than it does now.\p"
-    .string "Your POKéMON is happy beyond\n"
-    .string "words.$"
+    .string "Víc te uz milovat ani\n"
+    .string "nemuze, nez te miluje ted.\p"
+    .string "Tvuj POKéMON je sasten\n"
+    .string "bez sebe.$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
-    .string "It looks very happy.\p"
-    .string "I wish {RIVAL} could see this and\n"
-    .string "learn something from it.$"
+    .string "Vypadá moc sastne.\p"
+    .string "Kéz by to {RIVAL} videl a\n"
+    .string "neco se z toho naucil.$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
-    .string "It's quite friendly with you.\n"
-    .string "Keep being good to it!$"
+    .string "Je k tobe dost prátelsky.\n"
+    .string "Bud k nemu dál hodny!$"
 
 PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
-    .string "It's warming up to you.\n"
-    .string "Trust must be growing between you.$"
+    .string "Zacíná si te oblibovat.\n"
+    .string "Asi mezi vámi roste duvera.$"
 
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
-    .string "It's not quite familiar with you\n"
-    .string "yet.\p"
-    .string "POKéMON are all quite wary when\n"
-    .string "you first get them.$"
+    .string "Jeste si na tebe úplne\n"
+    .string "nezvyknul.\p"
+    .string "POKéMON jsou ze zacátku\n"
+    .string "dost ostrazití.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
-    .string "{PLAYER}, I don't like the way it\n"
-    .string "glares at you.\p"
-    .string "Could you try being a little nicer\n"
-    .string "to it?$"
+    .string "{PLAYER}, nelíbí se mi,\n"
+    .string "jak na tebe zírá.\p"
+    .string "Mohl bys na nej byt\n"
+    .string "trochu hodnejsí?$"
 
 PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
-    .string "…Um, it's not easy for me to say\n"
-    .string "this, but…\p"
-    .string "Is there some reason why your\n"
-    .string "POKéMON would hate you so much?$"
+    .string "…Hm, nerada to ríkám,\n"
+    .string "ale…\p"
+    .string "Existuje nejaky duvod, proc te\n"
+    .string "tvuj POKéMON tolik nenávidí?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
-    .string "“The lovely and sweet\n"
+    .string "“Rozkosná a sladká\n"
     .string "CLEFAIRY”$"
-

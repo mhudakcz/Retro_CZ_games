@@ -1,23 +1,22 @@
 SSAnne_B1F_Room4_Text_LeonardIntro::
-    .string "You know what they say about\n"
-    .string "sailors and battling!$"
+    .string "Vís, co se ríká o námornících\n"
+    .string "a souboji!$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
-    .string "Right!\n"
-    .string "Good battle, mate!$"
+    .string "Tak jo!\n"
+    .string "Dobry souboj, kámo!$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
     .string "Hahaha!\n"
-    .string "Want to be a sailor, mate?$"
+    .string "Chces byt námorník, kámo?$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
-    .string "Come on, then!\n"
-    .string "My sailor's pride is at stake!$"
+    .string "Tak pojd!\n"
+    .string "Má námornická pycha je v sázce!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-    .string "Your spirit sank me!$"
+    .string "Tvuj duch me potopil!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
-    .string "Did you see the FISHING GURU in\n"
+    .string "Videls GURU RYBÁRENÍ ve\n"
     .string "VERMILION CITY?$"
-

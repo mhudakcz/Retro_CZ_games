@@ -1,47 +1,46 @@
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-    .string "You look tired.\n"
-    .string "You should take a quick nap.$"
+    .string "Vypadás unavene.\n"
+    .string "Mel bys si rychle zdrímnout.$"
 
 SilphCo_9F_Text_DontGiveUp::
-    .string "Don't give up!$"
+    .string "Nevzdávej to!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-    .string "Thank you so much.$"
+    .string "Mnohokrát díky.$"
 
 SilphCo_9F_Text_Grunt1Intro::
-    .string "Your POKéMON seem to adore you,\n"
-    .string "kid!$"
+    .string "Tví POKéMONi te zbozují,\n"
+    .string "decko!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
-    .string "Ghaaah!$"
+    .string "Aááá!$"
 
 SilphCo_9F_Text_Grunt1PostBattle::
-    .string "If I had started as a TRAINER at\n"
-    .string "your age…$"
+    .string "Kdybych zacal jako TRENÉR\n"
+    .string "v tvém veku…$"
 
 SilphCo_9F_Text_EdIntro::
-    .string "Your POKéMON have weak points!\n"
-    .string "I can nail them!$"
+    .string "Tví POKéMONi mají slabiny!\n"
+    .string "Já je trefím!$"
 
 SilphCo_9F_Text_EdDefeat::
-    .string "You hammered me!$"
+    .string "Pretrefil jsi me!$"
 
 SilphCo_9F_Text_EdPostBattle::
-    .string "Exploiting weak spots does work.\n"
-    .string "Think about type advantages.$"
+    .string "Vyuzívání slabin funguje.\n"
+    .string "Mysli na typové vyhody.$"
 
 SilphCo_9F_Text_Grunt2Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+    .string "Já jsem jeden ze ctyr\n"
+    .string "BRATRU ROCKETU!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
     .string "Warg!\n"
-    .string "Brothers, I lost!$"
+    .string "Bratri, prohrál jsem!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-    .string "My brothers will avenge me!$"
+    .string "Mí bratri me pomstí!$"
 
 SilphCo_9F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "SILPH CO. HLAVNÍ KANCELÁR\n"
     .string "9F$"
-

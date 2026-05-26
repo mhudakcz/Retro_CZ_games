@@ -1,7 +1,6 @@
 SSAnne_2F_Room6_Text_CaptainIsAwfullySick::
-    .string "The CAPTAIN said he's awfully sick.\n"
-    .string "He was all pale.$"
+    .string "KAPITÁN ríkal, ze je hrozne\n"
+    .string "nemocny. Byl cely bledy.$"
 
 SSAnne_2F_Room6_Text_ManyPeopleGetSeasick::
-    .string "I hear many people get seasick.$"
-
+    .string "Slysel jsem, ze mnoho lidem je zle.$"

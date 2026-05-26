@@ -6,7 +6,7 @@ Text_MonsHealedShouldBuyPotions::
 	.string "Tví POKéMONi byli vyléceni\n"
 	.string "do plného zdraví.\p"
 	.string "Pokud bude POKéMONova energie,\n"
-	.string "HP, nízká, prijï k nám.\p"
+	.string "HP, nízká, prijd k nám.\p"
 	.string "Pokud plánujes jít daleko,\n"
 	.string "kup si pár LEKTVARu v\l"
 	.string "POKéMON MARTu.\p"

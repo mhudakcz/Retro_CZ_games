@@ -1,43 +1,42 @@
 PokemonTower_6F_Text_AngelicaIntro::
-    .string "Give…me…\n"
-    .string "blood…$"
+    .string "Dej…mi…\n"
+    .string "krev…$"
 
 PokemonTower_6F_Text_AngelicaDefeat::
-    .string "Groan!$"
+    .string "Ach!$"
 
 PokemonTower_6F_Text_AngelicaPostBattle::
-    .string "I feel anemic and weak…$"
+    .string "Cítím se slabá a bez krve…$"
 
 PokemonTower_6F_Text_EmiliaIntro::
-    .string "Urff…\n"
-    .string "Kwaah!$"
+    .string "Urf…\n"
+    .string "Kwáá!$"
 
 PokemonTower_6F_Text_EmiliaDefeat::
-    .string "Something fell out!$"
+    .string "Neco vypadlo!$"
 
 PokemonTower_6F_Text_EmiliaPostBattle::
-    .string "My hair didn't fall out!\n"
-    .string "It was a malevolent spirit!$"
+    .string "Vlasy mi nevypadaly!\n"
+    .string "Byl to zlovolny duch!$"
 
 PokemonTower_6F_Text_JenniferIntro::
     .string "Ke…ke…ke…\n"
     .string "ke…ke…ke!$"
 
 PokemonTower_6F_Text_JenniferDefeat::
-    .string "Keee!$"
+    .string "Kíí!$"
 
 PokemonTower_6F_Text_JenniferPostBattle::
-    .string "What's going on here?$"
+    .string "Co se to tady deje?$"
 
 PokemonTower_6F_Text_BeGoneIntruders::
-    .string "Be gone…\n"
-    .string "Intruders…$"
+    .string "Zmizte…\n"
+    .string "Vetrelci…$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
-    .string "The ghost was the restless spirit\n"
-    .string "of CUBONE's mother!$"
+    .string "Ten duch byl neklidnou dusí\n"
+    .string "CUBONEovy matky!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
-    .string "The mother's spirit was calmed.\p"
-    .string "It departed to the afterlife…$"
-
+    .string "Matcina duse se uklidnila.\p"
+    .string "Odesla na onen svet…$"

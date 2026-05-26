@@ -1,31 +1,30 @@
 SSAnne_1F_Room2_Text_TylerIntro::
-    .string "I love POKéMON!\n"
-    .string "Do you?$"
+    .string "Miluji POKéMONy!\n"
+    .string "A ty?$"
 
 SSAnne_1F_Room2_Text_TylerDefeat::
-    .string "Wow! \n"
-    .string "You're great!$"
+    .string "Páni! \n"
+    .string "Jsi skvely!$"
 
 SSAnne_1F_Room2_Text_TylerPostBattle::
-    .string "Listen, listen!\n"
-    .string "Let me be your friend, okay?\p"
-    .string "Then we can trade POKéMON and\n"
-    .string "do stuff.$"
+    .string "Hele, hele!\n"
+    .string "Bud muj kámos, jo?\p"
+    .string "Pak si muzeme menit POKéMONy\n"
+    .string "a delat veci.$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
-    .string "I collected these POKéMON\n"
-    .string "from all around the world!$"
+    .string "Tyhle POKéMONy jsem nasbírala\n"
+    .string "z celého sveta!$"
 
 SSAnne_1F_Room2_Text_AnnDefeat::
-    .string "Oh, no!\n"
-    .string "I went around the world for these!$"
+    .string "Ach ne!\n"
+    .string "Pro ne jsem objela svet!$"
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
-    .string "You hurt my poor POKéMON!\p"
-    .string "I demand that you heal them at a\n"
-    .string "POKéMON CENTER!$"
+    .string "Zranils mé ubohé POKéMONy!\p"
+    .string "Pozaduji, abys je vylécil\n"
+    .string "v POKéMON CENTRU!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
-    .string "We are cruising around the world,\n"
-    .string "my children and I.$"
-
+    .string "Plujeme kolem sveta,\n"
+    .string "deti a já.$"

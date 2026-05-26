@@ -1,19 +1,17 @@
 SevenIsland_PokemonCenter_1F_Text_EventsDependingOnConnections::
-    .string "On this island, different events\n"
-    .string "occur depending on connections.\p"
-    .string "What are those connections?\p"
-    .string "They are for you to discover on\n"
-    .string "your own.$"
+    .string "Na tomto ostrove se dejí\n"
+    .string "ruzné veci v závislosti na\l"
+    .string "spojeních.\p"
+    .string "Co jsou ta spojení?\p"
+    .string "To uz si musís zjistit sám.$"
 
 SevenIsland_PokemonCenter_1F_Text_DidYouRideSeagallopHere::
-    .string "Did you ride a SEAGALLOP ferry\n"
-    .string "to get here?\p"
-    .string "There are at least ten of those\n"
-    .string "high-speed ships.\p"
-    .string "I don't know where they all go,\n"
-    .string "though.$"
+    .string "Prijel jsi sem SEAGALLOPem?\p"
+    .string "Je tu nejméne deset techto\n"
+    .string "rychlolodí.\p"
+    .string "Nevím vsak, kam vsude jezdí.$"
 
 SevenIsland_PokemonCenter_1F_Text_CheckOutTrainerTower::
-    .string "If you're confident, you should\n"
-    .string "check out TRAINER TOWER.$"
+    .string "Kdyz si verís, mel by ses\n"
+    .string "podívat na TRAINER TOWER.$"
 

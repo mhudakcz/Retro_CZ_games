@@ -1,16 +1,16 @@
 FiveIsland_Text_IslandSign::
     .string "FIVE ISLAND\n"
-    .string "Chrono Island: Where Time Goes$"
+    .string "Chrono Island: Kde plyne cas$"
 
 FiveIsland_Text_WeirdBuildingInMeadow::
-    .string "Oh, this stinks. I wanted to play in\n"
-    .string "the MEADOW.\p"
-    .string "But they put up a weird building\n"
-    .string "on it, so I can't play there.$"
+    .string "Ach, to je smula. Chtel jsem si\n"
+    .string "hrát na LOUCE.\p"
+    .string "Ale postavili tam divnou budovu,\n"
+    .string "takze si tam hrát nemuzu.$"
 
 FiveIsland_Text_BeenGettingBusierAroundHere::
-    .string "It's been getting busier around\n"
-    .string "these parts lately.\p"
-    .string "I haven't been catching many good\n"
-    .string "fish lately, either.$"
+    .string "V poslední dobe je tady cím dál\n"
+    .string "rusneji.\p"
+    .string "A taky uz moc nelovím dobré\n"
+    .string "ryby.$"
 

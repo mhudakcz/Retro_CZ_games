@@ -1,10 +1,10 @@
 FiveIsland_PokemonCenter_1F_Text_OnMyWayToPrepareMeal::
-    .string "I'm on my way to prepare a meal\n"
-    .string "for a certain high-society person.$"
+    .string "Jdu pripravit jídlo\n"
+    .string "pro jednu vznesenou dámu.$"
 
 FiveIsland_PokemonCenter_1F_Text_YoureOnQuestToCatchEveryMon::
-    .string "You're on a quest to catch every\n"
-    .string "single kind of POKéMON?\p"
-    .string "…How incredible. Please tell me if\n"
-    .string "you catch a strong one!$"
+    .string "Vydal ses na cestu chytit\n"
+    .string "kazdy druh POKéMONa?\p"
+    .string "…To je úzasné. Reknes mi,\n"
+    .string "kdyz chytís nejakého silného?$"
 

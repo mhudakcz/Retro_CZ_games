@@ -1,28 +1,27 @@
 PokemonMansion_B1F_Text_LewisIntro::
-    .string "Uh-oh…\n"
-    .string "Where am I now?$"
+    .string "Ouha…\n"
+    .string "Kde to ted jsem?$"
 
 PokemonMansion_B1F_Text_LewisDefeat::
-    .string "Awooh!$"
+    .string "Auvajs!$"
 
 PokemonMansion_B1F_Text_LewisPostBattle::
-    .string "You can find stuff lying around.\n"
-    .string "The residents must've left them.$"
+    .string "Najdes tu veci povalující se.\n"
+    .string "Nájemníci je museli nechat.$"
 
 PokemonMansion_B1F_Text_IvanIntro::
-    .string "This place is ideal for a lab.\n"
-    .string "Look at all this space.$"
+    .string "Tohle je ideální místo pro lab.\n"
+    .string "Koukni na ten prostor.$"
 
 PokemonMansion_B1F_Text_IvanDefeat::
-    .string "What was that for?$"
+    .string "Za co to bylo?$"
 
 PokemonMansion_B1F_Text_IvanPostBattle::
-    .string "I like it here.\n"
-    .string "It's conducive to my studies.$"
+    .string "Tady se mi líbí.\n"
+    .string "Vede ke studiu.$"
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
-    .string "Diary: Sept. 1\n"
-    .string "MEWTWO is far too powerful.\p"
-    .string "We have failed to curb its vicious\n"
-    .string "tendencies…$"
-
+    .string "Deník: 1. zárí\n"
+    .string "MEWTWO je prílis silny.\p"
+    .string "Nepodarilo se nám zkrotit jeho\n"
+    .string "krutost…$"

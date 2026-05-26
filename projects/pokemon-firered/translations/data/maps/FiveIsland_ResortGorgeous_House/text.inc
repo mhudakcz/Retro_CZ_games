@@ -1,68 +1,69 @@
 FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
-    .string "SELPHY: Oh?\n"
-    .string "Do I know you from somewhere?\p"
-    .string "Oh, but that doesn't matter.\p"
-    .string "I am exquisitely bored.\n"
-    .string "Please, hear my wish.$"
+    .string "SELPHY: Ach?\n"
+    .string "Znám te odnekud?\p"
+    .string "Ach, ale na tom nezálezí.\p"
+    .string "Jsem nesmírne znudená.\n"
+    .string "Prosím, vyslys mé prání.$"
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
-    .string "I wish to see a POKéMON.\n"
-    .string "A darling {STR_VAR_1}.\p"
-    .string "I want to see one right away.\n"
-    .string "Please, make my wish come true.$"
+    .string "Prejí si videt POKéMONa.\n"
+    .string "Roztomilého {STR_VAR_1}.\p"
+    .string "Chci ho videt hned.\n"
+    .string "Prosím, splnte mi mé prání.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
-    .string "SELPHY: Oh, I'm tired of this.\n"
-    .string "I'm tired of waiting for you.\p"
-    .string "I'll forgive you this time, but\n"
-    .string "please don't fail me next time.$"
+    .string "SELPHY: Ach, uz mám dost.\n"
+    .string "Unavuje me cekat na tebe.\p"
+    .string "Tentokrát ti odpustím, ale\n"
+    .string "príste me prosím nezklam.$"
 
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
-    .string "SELPHY: Oh, hello, there.\p"
-    .string "Oh, my gracious. That must be the\n"
-    .string "{STR_VAR_1} you caught for me.\p"
-    .string "Giggle…\n"
-    .string "I see a resemblance to you.\p"
-    .string "Thank you so kindly.\p"
+    .string "SELPHY: Ach, ahoj.\p"
+    .string "Propána, to musí byt ten\n"
+    .string "{STR_VAR_1}, kterého jsi mi chytil.\p"
+    .string "Hihi…\n"
+    .string "Vidím u nej podobnost s tebou.\p"
+    .string "Mockrát ti dekuji.\p"
     .string "… …  … …  … …\n"
-    .string "Is something the matter?\p"
-    .string "You may leave.\p"
+    .string "Stalo se neco?\p"
+    .string "Muzes odejít.\p"
     .string "… …  … …  … …\n"
-    .string "Oh, fine. I understand now.\p"
-    .string "SEBASTIAN!\n"
-    .string "I need you here this instant!$"
+    .string "Ach, dobre. Uz chápu.\p"
+    .string "SEBASTIANE!\n"
+    .string "Potrebuji te tady okamzite!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
-    .string "Butler: Yes, my lady.$"
+    .string "Komorník: Ano, paní.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
-    .string "SELPHY: See to it that this person\n"
-    .string "is given a token of appreciation.$"
+    .string "SELPHY: Postarej se o to, aby\n"
+    .string "tato osoba dostala dárek.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
-    .string "Butler: I shall do as you bid,\n"
-    .string "my lady.$"
+    .string "Komorník: Ucinám, jak\n"
+    .string "poroucíte, paní.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
-    .string "Butler: I sincerely thank you for\n"
-    .string "pleasing Lady SELPHY.\p"
-    .string "Please accept this as her thanks…$"
+    .string "Komorník: Upremne vám dekuji,\n"
+    .string "ze jste potesil lady SELPHY.\p"
+    .string "Prijmete prosím toto jako její\n"
+    .string "podekování…$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
-    .string "Butler: Your BAG appears to be\n"
-    .string "unfortunately full.$"
+    .string "Komorník: Vás VAK se zdá\n"
+    .string "bohuzel plny.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
-    .string "Oh…\n"
-    .string "How disappointing.$"
+    .string "Ach…\n"
+    .string "Jak zklamávající.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::
-    .string "SELPHY: I wish you the best of\n"
-    .string "luck.$"
+    .string "SELPHY: Preji ti hodne\n"
+    .string "stestí.$"
 
 FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun::
-    .string "Butler: The smile of Lady SELPHY\n"
-    .string "has the brilliance of the sun.\p"
-    .string "Please, I beg you to bring joy\n"
-    .string "to Lady SELPHY.$"
+    .string "Komorník: Úsmev lady SELPHY\n"
+    .string "má jas slunce.\p"
+    .string "Prosím, prosím, prineste\n"
+    .string "lady SELPHY radost.$"
 

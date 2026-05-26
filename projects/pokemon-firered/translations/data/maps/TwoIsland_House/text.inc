@@ -1,47 +1,48 @@
 TwoIsland_House_Text_TeachMonMoveForMushroom::
-    .string "I'm the POKéMON MOVE MANIAC.\p"
-    .string "I know every single move that\n"
-    .string "POKéMON learn growing up.\p"
-    .string "I'm also a mushroom maniac.\p"
-    .string "Bring me two TINYMUSHROOMS,\n"
-    .string "or one BIG MUSHROOM.\p"
-    .string "If you do that for me, I'll teach\n"
-    .string "a move to one POKéMON.$"
+    .string "Jsem POKéMON MOVE MANIAK.\p"
+    .string "Znám kazdy útok, ktery se\n"
+    .string "POKéMONi naucí pri rustu.\p"
+    .string "Také jsem hribkovy maniak.\p"
+    .string "Prines mi dva TINYMUSHROOMy\n"
+    .string "nebo jeden BIG MUSHROOM.\p"
+    .string "Pokud to udelás, naucím útok\n"
+    .string "jednomu POKéMONovi.$"
 
 TwoIsland_House_Text_WantMeToTeachMove::
-    .string "Sniff, sniff…\n"
-    .string "Hm! You smell of MUSHROOMS!\p"
-    .string "Do you want me to teach a move\n"
-    .string "to a POKéMON of yours?$"
+    .string "Cuc, cuc…\n"
+    .string "Hm! Voní ti to HRIBY!\p"
+    .string "Chces, abych naucil útok\n"
+    .string "nekterého z tvych POKéMONu?$"
 
 TwoIsland_House_Text_TutorWhichMon::
-    .string "Which POKéMON needs tutoring?$"
+    .string "Ktery POKéMON potrebuje tutora?$"
 
 TwoIsland_House_Text_TeachWhichMove::
-    .string "Which move should I teach?$"
+    .string "Ktery útok mám naucit?$"
 
 TwoIsland_House_Text_NoMoveICanTeachThatMon::
-    .string "Sorry…\p"
-    .string "It doesn't appear as if I have a\n"
-    .string "move I can teach that POKéMON.$"
+    .string "Promin…\p"
+    .string "Vypadá to, ze nemám útok,\n"
+    .string "ktery bych mohl naucit\l"
+    .string "tomu POKéMONovi.$"
 
 TwoIsland_House_Text_IllNeedMushroomOrTwo::
-    .string "Then, I'll need a MUSHROOM or two.\n"
-    .string "What are you going to give me?$"
+    .string "Pak budu potrebovat HRIB nebo dva.\n"
+    .string "Co mi dás?$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
-    .string "{PLAYER} handed over two\n"
-    .string "TINYMUSHROOMS in exchange.$"
+    .string "{PLAYER} predal dva\n"
+    .string "TINYMUSHROOMy vymenou.$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
-    .string "{PLAYER} handed over one\n"
-    .string "BIG MUSHROOM in exchange.$"
+    .string "{PLAYER} predal jeden\n"
+    .string "BIG MUSHROOM vymenou.$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
-    .string "If your POKéMON need to learn a\n"
-    .string "move, I need a MUSHROOM or two.$"
+    .string "Pokud se tvuj POKéMON má naucit\n"
+    .string "útok, potrebuji HRIB nebo dva.$"
 
 TwoIsland_House_Text_CantTeachAnEgg::
-    .string "Hunh? There isn't a single move\n"
-    .string "that I can teach an EGG.$"
+    .string "Coze? Není ani jediny útok,\n"
+    .string "ktery bych mohl naucit VEJCE.$"
 

@@ -1,24 +1,24 @@
 SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
-    .string "This ship, she is a luxury liner for\n"
-    .string "TRAINERS of the world!\p"
-    .string "At every port, we hold parties with\n"
-    .string "invited TRAINERS.$"
+    .string "Tahle lod, to je luxusní parník\n"
+    .string "pro TRENÉRY ze sveta!\p"
+    .string "V kazdém prístavu poradáme\n"
+    .string "veciry pro pozvané TRENÉRY.$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
     .string "{RIVAL}: Bonjour!\n"
     .string "{PLAYER}!\p"
-    .string "Imagine seeing you here!\n"
-    .string "{PLAYER}, were you really invited?\p"
-    .string "So how's your POKéDEX coming?\p"
-    .string "I already caught 40 kinds, pal.\n"
-    .string "Different kinds are everywhere.\p"
-    .string "Crawl around in grassy areas, and\n"
-    .string "look hard for them.$"
+    .string "Co ty tu prosím tebe delás!\n"
+    .string "{PLAYER}, byl jsi opravdu pozván?\p"
+    .string "Tak co tvuj POKéDEX?\p"
+    .string "Já uz chytil 40 druhu, kámo.\n"
+    .string "Ruzné druhy jsou vsude.\p"
+    .string "Plaz se v travnatych místech\n"
+    .string "a hledej je dukladne.$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
-    .string "Humph!\p"
-    .string "At least you're raising your\n"
-    .string "POKéMON!$"
+    .string "Hmf!\p"
+    .string "Alespon trénujes své\n"
+    .string "POKéMONy!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
     .string "{PLAYER}‥！\n"
@@ -27,11 +27,10 @@ SSAnne_2F_Corridor_Text_RivalVictory::
     .string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
-    .string "{RIVAL}: I heard there was a CUT\n"
-    .string "master on board.\p"
-    .string "But he was just a seasick old man!\p"
-    .string "CUT itself is really useful.\n"
-    .string "Yup, it'll be handy.\p"
-    .string "You should go see him, too.\n"
-    .string "Smell ya!$"
-
+    .string "{RIVAL}: Slysel jsem, ze na palube\n"
+    .string "je mistr CUT.\p"
+    .string "Ale je to jen stary morsky vlk!\p"
+    .string "Sám CUT je opravdu uzitecny.\n"
+    .string "Jo, hodí se.\p"
+    .string "Mel bys ho také navstívit.\n"
+    .string "Cau!$"

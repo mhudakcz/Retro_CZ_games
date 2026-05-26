@@ -1,99 +1,99 @@
 FiveIsland_MemorialPillar_Text_MiloIntro::
-    .string "I'm the eldest of the BIRD\n"
-    .string "BROTHERS.\p"
-    .string "The best thing about birds…\n"
-    .string "It has to be the beak.$"
+    .string "Jsem nejstarsí z BRATRU\n"
+    .string "PTÁKU.\p"
+    .string "Nejlepsí vec na ptácích…\n"
+    .string "Musí to byt zobák.$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
-    .string "Oh, so sharp!$"
+    .string "Ach, jak ostré!$"
 
 FiveIsland_MemorialPillar_Text_MiloPostBattle::
-    .string "You can fly to FOUR ISLAND from\n"
-    .string "here.$"
+    .string "Odsud muzes letet na\n"
+    .string "FOUR ISLAND.$"
 
 FiveIsland_MemorialPillar_Text_ChazIntro::
-    .string "I'm the middle kid of the BIRD\n"
-    .string "BROTHERS.\p"
-    .string "The best thing about birds…\n"
-    .string "It has to be the wings.$"
+    .string "Jsem prostrední z BRATRU\n"
+    .string "PTÁKU.\p"
+    .string "Nejlepsí vec na ptácích…\n"
+    .string "Musí to byt krídla.$"
 
 FiveIsland_MemorialPillar_Text_ChazDefeat::
-    .string "Flap, flap!$"
+    .string "Mávat, mávat!$"
 
 FiveIsland_MemorialPillar_Text_ChazPostBattle::
-    .string "There was a really somber guy\n"
-    .string "over that way.$"
+    .string "Tamhle byl jeden hodne\n"
+    .string "smutny chlapík.$"
 
 FiveIsland_MemorialPillar_Text_HaroldIntro::
-    .string "I'm the youngest of the BIRD\n"
-    .string "BROTHERS.\p"
-    .string "The best thing about birds…\n"
-    .string "It has to be the down.$"
+    .string "Jsem nejmladsí z BRATRU\n"
+    .string "PTÁKU.\p"
+    .string "Nejlepsí vec na ptácích…\n"
+    .string "Musí to byt prachové perí.$"
 
 FiveIsland_MemorialPillar_Text_HaroldDefeat::
-    .string "Down is so comfy…\n"
-    .string "It makes me drowsy…$"
+    .string "Prachové perí je tak prijemné…\n"
+    .string "Az se mi chce spát…$"
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
-    .string "It fills me with happiness when\n"
-    .string "bird POKéMON beg playfully…$"
+    .string "Naplnuje me stestím, kdyz ptací\n"
+    .string "POKéMON hrave skemrají…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
-    .string "Scrub, scrub…$"
+    .string "Drhnu, drhnu…$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
-    .string "Hello…\n"
-    .string "Your POKéMON look healthy…$"
+    .string "Zdravím…\n"
+    .string "Tví POKéMON vypadají zdrave…$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
-    .string "This is where I buried my ONIX…\n"
-    .string "It was named TECTONIX…$"
+    .string "Tady jsem pochoval svého ONIXe…\n"
+    .string "Jmenoval se TECTONIX…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
-    .string "“Here lies TECTONIX” is engraved\n"
-    .string "on a boulder.\p"
-    .string "There is a LEMONADE placed as an\n"
-    .string "offering in front of the grave.$"
+    .string "“Zde lezí TECTONIX” je\n"
+    .string "vyryto na balvanu.\p"
+    .string "Pred hrobem je polozena\n"
+    .string "LEMONADE jako obet.$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
-    .string "Would you like to leave another\n"
-    .string "LEMONADE as an offering?$"
+    .string "Chces nechat dalsí LEMONADE\n"
+    .string "jako obet?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
-    .string "{PLAYER} placed a can of LEMONADE\n"
-    .string "in front of the grave.$"
+    .string "{PLAYER} polozil plechovku\n"
+    .string "LEMONADE pred hrob.$"
 
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
-    .string "Th-thank you…\p"
-    .string "That was my TECTONIX's favorite\n"
-    .string "drink…\p"
-    .string "I don't even know you, but your\n"
-    .string "act of kindness…\p"
-    .string "It's uplifted me a little.\p"
-    .string "Can you please take this as my\n"
-    .string "thanks?$"
+    .string "D-dekuji ti…\p"
+    .string "To byl oblíbeny nápoj mého\n"
+    .string "TECTONIXe…\p"
+    .string "Ani te neznám, ale tvuj\n"
+    .string "laskavy cin…\p"
+    .string "Trochu me to potesilo.\p"
+    .string "Vezmes si tohle jako mé\n"
+    .string "podekování?$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-    .string "Please be good to your POKéMON,\n"
-    .string "too.$"
+    .string "Bud taky hodny na své\n"
+    .string "POKéMONy.$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
-    .string "If you don't have room for it,\n"
-    .string "I'll hold it for you till next time.$"
+    .string "Kdyz pro to nemás místo,\n"
+    .string "podrzím ti to do prístí.$"
 
 FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
-    .string "Oh, it's you from that time…\p"
-    .string "I still have that thing I wanted\n"
-    .string "you to have as my thanks.$"
+    .string "Ach, to jsi ty z té doby…\p"
+    .string "Porád mám tu vec, kterou jsem\n"
+    .string "ti chtel dát jako podekování.$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrubTectonix::
-    .string "Scrub, scrub…\p"
+    .string "Drhnu, drhnu…\p"
     .string "… … …\n"
-    .string "TECTONIX…$"
+    .string "TECTONIXi…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonix::
-    .string "Boulders and rocks are neatly piled\n"
-    .string "up as a cairn.\p"
-    .string "“Here lies TECTONIX” is engraved\n"
-    .string "on a boulder.$"
+    .string "Balvany a kameny jsou\n"
+    .string "úhledne narovnány do mohyly.\p"
+    .string "“Zde lezí TECTONIX” je\n"
+    .string "vyryto na balvanu.$"
 

@@ -1,156 +1,154 @@
 SixIsland_PatternBush_Text_BethanyIntro::
-    .string "I'm curious, how do you raise your\n"
-    .string "POKéMON?$"
+    .string "Zajímá me, jak chovás své\n"
+    .string "POKéMONy?$"
 
 SixIsland_PatternBush_Text_BethanyDefeat::
-    .string "You raise your POKéMON with a\n"
-    .string "whole lot of love!$"
+    .string "Chovás své POKéMONy s\n"
+    .string "obrovskou láskou!$"
 
 SixIsland_PatternBush_Text_BethanyPostBattle::
-    .string "In the same way your mother raised\n"
-    .string "you full of love, you should raise\l"
-    .string "your POKéMON.$"
+    .string "Stejne jako te tvá máma\n"
+    .string "vychovávala plná lásky, bys\l"
+    .string "mel chovat své POKéMONy.$"
 
 SixIsland_PatternBush_Text_AllisonIntro::
-    .string "I'm working to preserve the natural\n"
-    .string "ecology of POKéMON here.$"
+    .string "Pracuji na zachování prírodní\n"
+    .string "ekologie POKéMONu zde.$"
 
 SixIsland_PatternBush_Text_AllisonDefeat::
-    .string "Oh, for someone so young, you are\n"
-    .string "tremendous!$"
+    .string "Ach, na nekoho tak mladého\n"
+    .string "jsi neuveritelny!$"
 
 SixIsland_PatternBush_Text_AllisonPostBattle::
-    .string "I'm not saying that you shouldn't\n"
-    .string "catch POKéMON.\p"
-    .string "I just want people to raise their\n"
-    .string "POKéMON responsibly.$"
+    .string "Neríkám, ze by ses nemel\n"
+    .string "chytat POKéMONy.\p"
+    .string "Jen chci, aby lidé chovali\n"
+    .string "POKéMONy zodpovedne.$"
 
 SixIsland_PatternBush_Text_GarretIntro::
-    .string "I caught a BUG POKéMON that lives\n"
-    .string "only around here!$"
+    .string "Chytil jsem BUG POKéMONa,\n"
+    .string "ktery zije jen tady!$"
 
 SixIsland_PatternBush_Text_GarretDefeat::
-    .string "Heheh…\n"
-    .string "Isn't my POKéMON awesome?$"
+    .string "Hehe…\n"
+    .string "Není muj POKéMON úzasny?$"
 
 SixIsland_PatternBush_Text_GarretPostBattle::
-    .string "There's a girl near the BUSH who\n"
-    .string "measures HERACROSS for TRAINERS.$"
+    .string "U BUSHe je holcicka, co\n"
+    .string "merí HERACROSSe TRÉNÉRum.$"
 
 SixIsland_PatternBush_Text_JonahIntro::
-    .string "You know, it just doesn't feel right\n"
-    .string "if I don't use BUG POKéMON.$"
+    .string "Vís, prijde mi divné, kdyz\n"
+    .string "nepouzívám BUG POKéMONy.$"
 
 SixIsland_PatternBush_Text_JonahDefeat::
-    .string "It's okay, losing is a fun part of\n"
-    .string "POKéMON's appeal, too.$"
+    .string "To nic, prohrávání je zábavná\n"
+    .string "soucást POKéMON kouzla.$"
 
 SixIsland_PatternBush_Text_JonahPostBattle::
-    .string "By the way, “appeal” is a weird\n"
-    .string "word, if you think about it.\p"
-    .string "Like, is it like an orange peel?\n"
-    .string "Or like a ringing bell?$"
+    .string "Mimochodem, “kouzlo” je divné\n"
+    .string "slovo, kdyz se nad ním zamyslís.$"
 
 SixIsland_PatternBush_Text_VanceIntro::
-    .string "Yeah, yeah, yeah!\n"
-    .string "Look at all the BUG POKéMON!$"
+    .string "Jo, jo, jo!\n"
+    .string "Podívej na vsechny BUG POKéMONy!$"
 
 SixIsland_PatternBush_Text_VanceDefeat::
-    .string "I got beat while I was still busy\n"
-    .string "celebrating!$"
+    .string "Dostal jsem to, kdyz jsem se\n"
+    .string "porád radoval!$"
 
 SixIsland_PatternBush_Text_VancePostBattle::
-    .string "I'm going to bring my little brother\n"
-    .string "here next time.$"
+    .string "Príste sem privedu mladsího\n"
+    .string "bratra.$"
 
 SixIsland_PatternBush_Text_NashIntro::
-    .string "Look, look! There are funny\n"
-    .string "patterns on the ground.$"
+    .string "Podívej, podívej! Na zemi jsou\n"
+    .string "smesné vzory.$"
 
 SixIsland_PatternBush_Text_NashDefeat::
-    .string "Super awesome!$"
+    .string "Super úzasné!$"
 
 SixIsland_PatternBush_Text_NashPostBattle::
-    .string "The funny patterns on the ground…\p"
-    .string "They look like the patterns on my\n"
-    .string "grandpa's clothes.$"
+    .string "Ty smesné vzory na zemi…\p"
+    .string "Vypadají jako vzory na satech\n"
+    .string "mého dedy.$"
 
 SixIsland_PatternBush_Text_CordellIntro::
-    .string "I bet you think I'm just some guy,\n"
-    .string "don't you, eh?$"
+    .string "Vsadím se, ze si myslís, ze\n"
+    .string "jsem jen obycejny chlapík, hm?$"
 
 SixIsland_PatternBush_Text_CordellDefeat::
-    .string "I bet you think I'm weak,\n"
-    .string "don't you, eh?$"
+    .string "Vsadím se, ze si myslís, ze\n"
+    .string "jsem slaby, hm?$"
 
 SixIsland_PatternBush_Text_CordellPostBattle::
-    .string "Ayup, you townies come around all\n"
-    .string "so dandy with a hat that flashy…\p"
-    .string "How about giving me that?$"
+    .string "Jasné, vy mestská cháska sem\n"
+    .string "chodíte vsichni nóbl s parádním\l"
+    .string "kloboukem…\p"
+    .string "Co kdybys mi ho dal?$"
 
 SixIsland_PatternBush_Text_DaliaIntro::
-    .string "Take a deep breath.\n"
-    .string "Isn't the air delicious?$"
+    .string "Zhluboka se nadechni.\n"
+    .string "Není vzduch lahodny?$"
 
 SixIsland_PatternBush_Text_DaliaDefeat::
-    .string "If you'd like, I can teach you how\n"
-    .string "to breathe properly.$"
+    .string "Kdyz chces, naucím te správne\n"
+    .string "dychat.$"
 
 SixIsland_PatternBush_Text_DaliaPostBattle::
-    .string "First, exhale.\n"
-    .string "Blow everything out.\p"
-    .string "When you can't exhale anymore,\n"
-    .string "inhale the clean air!\p"
-    .string "Isn't it refreshing?$"
+    .string "Nejdrív vydechni.\n"
+    .string "Vyfoukni vsechno ven.\p"
+    .string "Az uz nemuzes vydechovat,\n"
+    .string "nadechni cisty vzduch!\p"
+    .string "Není to osvezující?$"
 
 SixIsland_PatternBush_Text_JoanaIntro::
-    .string "I love BUG POKéMON.\n"
-    .string "That's why I'm here all the time.\p"
-    .string "Am I the only girl like that?$"
+    .string "Miluji BUG POKéMONy.\n"
+    .string "Proto jsem tu porád.\p"
+    .string "Jsem jediná holka taková?$"
 
 SixIsland_PatternBush_Text_JoanaDefeat::
-    .string "I lost, but I'm still laughing.\n"
-    .string "Am I the only girl like that?$"
+    .string "Prohrála jsem, ale porád se\n"
+    .string "smeji. Jsem jediná taková?$"
 
 SixIsland_PatternBush_Text_JoanaPostBattle::
-    .string "I'm going to keep on collecting\n"
-    .string "BUG POKéMON.\p"
-    .string "Am I the only girl like that?$"
+    .string "Budu dál sbírat BUG POKéMONy.\p"
+    .string "Jsem jediná holka taková?$"
 
 SixIsland_PatternBush_Text_RileyIntro::
-    .string "This is a good spot.\n"
-    .string "I'll pitch my tent here.$"
+    .string "Tohle je dobré místo.\n"
+    .string "Tady si postavím stan.$"
 
 SixIsland_PatternBush_Text_RileyDefeat::
-    .string "Wimped out…$"
+    .string "Vykasal jsem se na to…$"
 
 SixIsland_PatternBush_Text_RileyPostBattle::
-    .string "I'm going to observe the night sky\n"
-    .string "here.$"
+    .string "Budu tu pozorovat nocní\n"
+    .string "oblohu.$"
 
 SixIsland_PatternBush_Text_MarcyIntro::
-    .string "Oh, yuck!\n"
-    .string "I think a bug stung me!$"
+    .string "Fuj!\n"
+    .string "Myslím, ze me stípl brouk!$"
 
 SixIsland_PatternBush_Text_MarcyDefeat::
-    .string "It wasn't a bug.\n"
-    .string "I cut my shin on some grass.$"
+    .string "Nebyl to brouk.\n"
+    .string "Porezala jsem si holen o trávu.$"
 
 SixIsland_PatternBush_Text_MarcyPostBattle::
-    .string "A little cut like that…\n"
-    .string "A little spit's enough to cure it!$"
+    .string "Takovy maly porez…\n"
+    .string "Trochu sliny stací k uzdravení!$"
 
 SixIsland_PatternBush_Text_LaytonIntro::
-    .string "Have you noticed something odd\n"
-    .string "about these parts?$"
+    .string "Vsiml sis neceho zvlástního\n"
+    .string "v techto místech?$"
 
 SixIsland_PatternBush_Text_LaytonDefeat::
-    .string "Have you taken a good look around\n"
-    .string "your feet?$"
+    .string "Podíval ses dobre kolem\n"
+    .string "svych nohou?$"
 
 SixIsland_PatternBush_Text_LaytonPostBattle::
-    .string "There are places here in PATTERN\n"
-    .string "BUSH where grass won't grow.\p"
-    .string "What could be the cause of such\n"
-    .string "a phenomenon?$"
+    .string "V PATTERN BUSH jsou místa,\n"
+    .string "kde tráva neroste.\p"
+    .string "Co by mohlo zpusobit\n"
+    .string "takovy jev?$"
 

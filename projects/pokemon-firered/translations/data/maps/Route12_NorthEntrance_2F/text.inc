@@ -1,36 +1,35 @@
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "Popel mého POKéMONa je ulozen\n"
+    .string "v POKéMON TOWER.\p"
+    .string "Tohle TM si muzes nechat.\n"
+    .string "Uz ho nepotrebuju…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "Popel mého POKéMONa je ulozen\n"
+    .string "v POKéMON TOWER.\p"
+    .string "Tohle TM si muzes nechat.\n"
+    .string "Uz ho nepotrebuju…$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-    .string "{PLAYER} received TM27\n"
-    .string "from the little girl.$"
+    .string "{PLAYER} dostal TM27\n"
+    .string "od malé holcicky.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .string "TM27 is a move called RETURN…\p"
-    .string "If you treat your POKéMON good,\n"
-    .string "it will return your love by working\l"
-    .string "its hardest in battle.$"
+    .string "TM27 je útok zvany RETURN…\p"
+    .string "Kdyz se k POKéMONovi chovás\n"
+    .string "dobre, oplatí ti lásku tím, ze\l"
+    .string "v boji vydá ze sebe vse.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-    .string "You don't have room for this.$"
+    .string "Na tohle nemás místo.$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There's a man fishing!$"
+    .string "Mrkneme se, co ukázou\n"
+    .string "dalekohledy…\p"
+    .string "Tamhle nekdo rybarí!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "It's POKéMON TOWER!$"
-
+    .string "Mrkneme se, co ukázou\n"
+    .string "dalekohledy…\p"
+    .string "To je POKéMON TOWER!$"

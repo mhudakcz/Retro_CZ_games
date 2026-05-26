@@ -1,22 +1,21 @@
 VictoryRoad_1F_Text_NaomiIntro::
-    .string "I wonder if you are good enough\n"
-    .string "for me?$"
+    .string "Jestlipak jsi dost dobry\n"
+    .string "na me?$"
 
 VictoryRoad_1F_Text_NaomiDefeat::
-    .string "I lost out…$"
+    .string "Prohrála jsem…$"
 
 VictoryRoad_1F_Text_NaomiPostBattle::
-    .string "I never wanted to lose to anybody,\n"
-    .string "especially to a younger kid…$"
+    .string "Nikdy jsem nechtela nikomu\n"
+    .string "prohrát, hlavne mladsímu klukovi…$"
 
 VictoryRoad_1F_Text_RolandoIntro::
-    .string "I can see you're good.\n"
-    .string "Let me see exactly how good!$"
+    .string "Vidím, ze jsi dobry.\n"
+    .string "Ukaz mi presne, jak moc!$"
 
 VictoryRoad_1F_Text_RolandoDefeat::
-    .string "I had a chance…$"
+    .string "Mel jsem sanci…$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
-    .string "Tch!\n"
-    .string "I concede, you are better than I!$"
-
+    .string "Tja!\n"
+    .string "Uznávám, jsi lepsí nez já!$"

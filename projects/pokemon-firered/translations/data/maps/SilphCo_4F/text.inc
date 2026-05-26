@@ -1,45 +1,43 @@
 SilphCo_4F_Text_CantYouSeeImHiding::
-    .string "Sssh!\n"
-    .string "Can't you see I'm hiding?$"
+    .string "Pst!\n"
+    .string "Nevidís, ze se schovávám?$"
 
 SilphCo_4F_Text_TeamRocketIsGone::
-    .string "Huh?\n"
-    .string "TEAM ROCKET is gone?$"
+    .string "He?\n"
+    .string "TEAM ROCKET je pryc?$"
 
 SilphCo_4F_Text_Grunt1Intro::
-    .string "TEAM ROCKET has taken control\n"
-    .string "of SILPH CO.!$"
+    .string "TEAM ROCKET prevzal kontrolu\n"
+    .string "nad SILPH CO.!$"
 
 SilphCo_4F_Text_Grunt1Defeat::
-    .string "Arrgh!$"
+    .string "Argh!$"
 
 SilphCo_4F_Text_Grunt1PostBattle::
-    .string "Fwahahaha!\n"
-    .string "My BOSS has been after this place!$"
+    .string "Hahaha!\n"
+    .string "Muj BOSS po tomhle prahnul!$"
 
 SilphCo_4F_Text_RodneyIntro::
-    .string "My POKéMON is my loyal servant.$"
+    .string "Muj POKéMON je muj verny sluha.$"
 
 SilphCo_4F_Text_RodneyDefeat::
-    .string "Darn!\n"
-    .string "You weak POKéMON!$"
+    .string "Sakra!\n"
+    .string "Ty slaby POKéMONe!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
-    .string "The doors are electronically\n"
-    .string "locked.\p"
-    .string "It takes a CARD KEY to open the\n"
-    .string "doors here.$"
+    .string "Dvere jsou elektronicky\n"
+    .string "uzamcené.\p"
+    .string "Otevrení vyzaduje CARD KEY.$"
 
 SilphCo_4F_Text_Grunt2Intro::
-    .string "Intruder spotted!$"
+    .string "Vetrelec spatren!$"
 
 SilphCo_4F_Text_Grunt2Defeat::
-    .string "Who are you?$"
+    .string "Kdo jsi?$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-    .string "I better tell the BOSS on 11F!$"
+    .string "Musím to ríct BOSSOVI v 11F!$"
 
 SilphCo_4F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "SILPH CO. HLAVNÍ KANCELÁR\n"
     .string "4F$"
-

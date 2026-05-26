@@ -1,38 +1,39 @@
 Text_SwordsDanceTeach::
-    .string "Not many people come out here.\p"
-    .string "If I train here, I'm convinced that\n"
-    .string "I'll get stronger and stronger.\p"
-    .string "Yep, stronger and stronger…\p"
-    .string "How would you like to learn a move\n"
-    .string "like that? It's SWORDS DANCE.$"
+    .string "Sem nechodí moc lidí.\p"
+    .string "Kdyz tady trénuji, jsem\n"
+    .string "presvedcen, ze budu silnejsí.\p"
+    .string "Jo, silnejsí a silnejsí…\p"
+    .string "Co kdyby ses naucil ten\n"
+    .string "útok? Je to SWORDS DANCE.$"
 
 Text_SwordsDanceDeclined::
-    .string "Well, that's fine, too.$"
+    .string "No, to je taky v poradku.$"
 
 Text_SwordsDanceWhichMon::
-    .string "All right, pick which POKéMON\n"
-    .string "I should teach it to.$"
+    .string "Tak fajn, vyber, kterého\n"
+    .string "POKéMONa ho mám naucit.$"
 
 Text_SwordsDanceTaught::
-    .string "If only we could keep getting\n"
-    .string "stronger and stronger, eh?$"
+    .string "Kdybychom mohli porád\n"
+    .string "sílit a sílit, vid?$"
 
 SevenIsland_Text_IslandSign::
     .string "SEVEN ISLAND\n"
     .string "Quest Island of Infinity$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-    .string "These islands are called the SEVII\n"
-    .string "ISLANDS because there are seven.\p"
-    .string "…Or at least that's what the young\n"
-    .string "people believe.\p"
-    .string "The truth is, these islands are so\n"
-    .string "named because they are said to\l"
-    .string "have been made in seven days.$"
+    .string "Tyto ostrovy se jmenují SEVII\n"
+    .string "ISLANDS, protoze jich je sedm.\p"
+    .string "…Nebo si to alespon\n"
+    .string "myslí mladí lidé.\p"
+    .string "Pravda je, ze tyto ostrovy se\n"
+    .string "tak jmenují, protoze pry byly\l"
+    .string "stvoreny za sedm dní.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-    .string "This island has been left virtually\n"
-    .string "untouched in its natural state.\p"
-    .string "It could be a little difficult to\n"
-    .string "hike around because of that.$"
+    .string "Tento ostrov zustal témer\n"
+    .string "nedotcen ve svém prírodním\l"
+    .string "stavu.\p"
+    .string "Proto se po nem muze hure\n"
+    .string "putovat.$"
 

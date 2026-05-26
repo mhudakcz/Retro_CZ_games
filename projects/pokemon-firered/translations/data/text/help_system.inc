@@ -1,56 +1,56 @@
 Help_Text_WhatShouldIDo::
-	.string "What should I do in this situation?$"
+	.string "Co mám delat v této situaci?$"
 
 Help_Text_HowDoIDoThis::
-	.string "How do I do this?$"
+	.string "Jak to mám udelat?$"
 
 Help_Text_WhatDoesThisTermMean::
-	.string "What does this term mean?$"
+	.string "Co znamená tento pojem?$"
 
 Help_Text_AboutThisGame::
-	.string "About this game$"
+	.string "O této hre$"
 
 Help_Text_TypeMatchupList::
-	.string "Type Matchup List$"
+	.string "Tabulka typovych vztahu$"
 
 Help_Text_Exit::
-	.string "EXIT$"
+	.string "ODCHOD$"
 
 Help_Text_Cancel::
-	.string "CANCEL$"
+	.string "ZRUSIT$"
 
 Help_Text_TryDoingItOnYourOwn::
 	.string "じぶんの ちからで やってみよう！$"
 
 Help_Text_DescWhatShouldIDo::
-	.string "Select to obtain hints for getting\n"
-	.string "over challenging situations.$"
+	.string "Vyber pro získání tipu k\n"
+	.string "prekonávání tezkych situací.$"
 
 Help_Text_DescHowDoIDoThis::
-	.string "Detailed instructions are given for\n"
-	.string "various operations.$"
+	.string "Podrobné pokyny pro ruzné\n"
+	.string "operace.$"
 
 Help_Text_DescWhatDoesThisTermMean::
-	.string "Detailed descriptions are given for\n"
-	.string "terms that appear in the game.$"
+	.string "Podrobné popisy pojmu, které\n"
+	.string "se objevují ve hre.$"
 
 Help_Text_DescAboutThisGame::
-	.string "Detailed descriptions are given\n"
-	.string "about this game.$"
+	.string "Podrobné popisy o této\n"
+	.string "hre.$"
 
 Help_Text_DescTypeMatchupList::
-	.string "The matchups of  POKéMON types\n"
-	.string "and moves are listed.$"
+	.string "Tabulka typovych vztahu POKéMONu\n"
+	.string "a útoku.$"
 
 Help_Text_DescExit::
-	.string "Select to exit the HELP System.$"
+	.string "Vyber pro odchod ze SYSTÉMU NÁPOVEDY.$"
 
 Help_Text_Greetings::
-	.string "Greetings! This is the HELP System.\n"
-	.string "Call me up whenever and wherever you\l"
-	.string "need by pressing the L or R Button.\l"
-	.string "The help messages change to suit the\l"
-	.string "situation, so check them often, please.$"
+	.string "Zdravícko! Toto je SYSTÉM NÁPOVEDY.\n"
+	.string "Zavolej me kdykoliv a kdekoliv\l"
+	.string "stiskem L nebo R tlacítka.\l"
+	.string "Zprávy nápovedy se mení podle\l"
+	.string "situace, casto je kontroluj.$"
 
 Help_Text_PlayingForFirstTime::
 	.string "I'm playing for the first time. Help!$"

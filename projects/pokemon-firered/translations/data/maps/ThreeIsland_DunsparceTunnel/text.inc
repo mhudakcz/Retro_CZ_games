@@ -1,27 +1,27 @@
 ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
-    .string "Hey, there!\n"
-    .string "How's it going?\p"
-    .string "What am I doing here, you ask?\n"
-    .string "Why, I'm prospecting for gold!\p"
-    .string "When I strike it rich, I'm buying\n"
-    .string "a house in KANTO.$"
+    .string "Ahoj, ty tam!\n"
+    .string "Jak se vede?\p"
+    .string "Co tu delám, ptás se?\n"
+    .string "Inu, hledám zlato!\p"
+    .string "Az zbohatnu, koupím si dum\n"
+    .string "v KANTU.$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
-    .string "Hey, there! How's it going?\n"
-    .string "Did you hear? I've struck gold!\p"
-    .string "You remembered that I was\n"
-    .string "prospecting, didn't you?\p"
-    .string "You can't begin to imagine just\n"
-    .string "how happy I am.\p"
-    .string "So, I'll show you!\n"
-    .string "This is for you!$"
+    .string "Ahoj! Jak se vede?\n"
+    .string "Slysels? Nasel jsem zlato!\p"
+    .string "Pamatujes, ze jsem byl\n"
+    .string "hledac, vid?\p"
+    .string "Nedokázes si predstavit, jak\n"
+    .string "jsem stastny.\p"
+    .string "Tak ti to ukázu!\n"
+    .string "Toto je pro tebe!$"
 
 ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
-    .string "That's a NUGGET!\p"
-    .string "I can't give you any nuggets of\n"
-    .string "wisdom, so that'll have to do!$"
+    .string "To je NUGGET!\p"
+    .string "Nemuzu ti dát nuggety moudrosti,\n"
+    .string "takze to bude muset stacit!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
-    .string "Whoops, your BAG is crammed full!\n"
-    .string "I'll give this to you later.$"
+    .string "Hopla, tvuj BATOH je narván!\n"
+    .string "Dám ti to pozdeji.$"
 

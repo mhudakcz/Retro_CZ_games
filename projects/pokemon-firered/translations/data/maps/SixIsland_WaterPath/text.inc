@@ -1,102 +1,102 @@
 SixIsland_WaterPath_Text_RoseIntro::
-    .string "I let a pleasant breeze lead me\n"
-    .string "all the way here.$"
+    .string "Nechala jsem se vést prijemnym\n"
+    .string "vetríkem az sem.$"
 
 SixIsland_WaterPath_Text_RoseDefeat::
-    .string "Giggle… You're so cute when you're\n"
-    .string "determined.$"
+    .string "Hihi… Jsi tak roztomily, kdyz\n"
+    .string "jsi odhodlany.$"
 
 SixIsland_WaterPath_Text_RosePostBattle::
-    .string "I want to go to the woods over\n"
-    .string "there, but…\p"
-    .string "There are lots of BUG POKéMON.\n"
-    .string "They scare me a little.$"
+    .string "Chci jít do lesa támhle, ale…\p"
+    .string "Je tam spousta BUG POKéMONu.\n"
+    .string "Trochu me desí.$"
 
 SixIsland_WaterPath_Text_EdwardIntro::
-    .string "I'm practicing in secret so no one\n"
-    .string "can see me.$"
+    .string "Trénuji potají, aby me\n"
+    .string "nikdo nevidel.$"
 
 SixIsland_WaterPath_Text_EdwardDefeat::
-    .string "Nobody saw me losing, right?$"
+    .string "Nikdo nevidel, jak prohrávám,\n"
+    .string "ze ne?$"
 
 SixIsland_WaterPath_Text_EdwardPostBattle::
-    .string "As a performer, I don't want people\n"
-    .string "to know about the effort I put in.$"
+    .string "Jako umelec nechci, aby lidé\n"
+    .string "vedeli o úsilí, které vkládám.$"
 
 SixIsland_WaterPath_Text_SamirIntro::
-    .string "What, you're suggesting that you're\n"
-    .string "sick of seeing SWIMMERS like me?\p"
-    .string "Aww, don't be hatin'!$"
+    .string "Co, naznacujes, ze más\n"
+    .string "dost PLAVCU jako jsem já?\p"
+    .string "Au, nezlob se na mne!$"
 
 SixIsland_WaterPath_Text_SamirDefeat::
-    .string "Oh, no, no, no.$"
+    .string "Ach, ne, ne, ne.$"
 
 SixIsland_WaterPath_Text_SamirPostBattle::
-    .string "I couldn't lift the stigma of being\n"
-    .string "a SWIMMER…$"
+    .string "Nemohl jsem zbavit stigmatu\n"
+    .string "byt PLAVCEM…$"
 
 SixIsland_WaterPath_Text_DeniseIntro::
-    .string "My boyfriend's always busy, so I\n"
-    .string "come swimming by myself.$"
+    .string "Muj klucina je porád zaneprázdneny,\n"
+    .string "tak chodím plavat sama.$"
 
 SixIsland_WaterPath_Text_DeniseDefeat::
-    .string "Awww, I knew this would happen!$"
+    .string "Aha, vedela jsem, ze se to\n"
+    .string "stane!$"
 
 SixIsland_WaterPath_Text_DenisePostBattle::
-    .string "When I can't be with my boyfriend,\n"
-    .string "I spend time with the POKéMON he\l"
-    .string "gave me.$"
+    .string "Kdyz nemuzu byt s mym klucem,\n"
+    .string "trávím cas s POKéMONy, které\l"
+    .string "mi dal.$"
 
 SixIsland_WaterPath_Text_EarlIntro::
-    .string "Tell me, where are the mountains\n"
-    .string "around these parts?$"
+    .string "Rekni mi, kde jsou hory\n"
+    .string "kolem techto míst?$"
 
 SixIsland_WaterPath_Text_EarlDefeat::
-    .string "I lost my way while I was busy\n"
-    .string "battling!$"
+    .string "Ztratil jsem cestu, kdyz\n"
+    .string "jsem byl zabrany do boje!$"
 
 SixIsland_WaterPath_Text_EarlPostBattle::
-    .string "Aren't there any mountains around\n"
-    .string "these parts?$"
+    .string "Nejsou tu kolem zádné hory?$"
 
 SixIsland_WaterPath_Text_MiuIntro::
-    .string "MIU: Hello, POKéMON!\n"
-    .string "It's time to play!$"
+    .string "MIU: Ahoj, POKéMONe!\n"
+    .string "Je cas si hrát!$"
 
 SixIsland_WaterPath_Text_MiuDefeat::
-    .string "MIU: Oh, no!\n"
-    .string "Mommy!$"
+    .string "MIU: Ach, ne!\n"
+    .string "Mamí!$"
 
 SixIsland_WaterPath_Text_MiuPostBattle::
-    .string "MIU: It makes me all sad inside\n"
-    .string "when we lose…$"
+    .string "MIU: Cítím se vsechna smutná,\n"
+    .string "kdyz prohráváme…$"
 
 SixIsland_WaterPath_Text_MiuNotEnoughMons::
-    .string "MIU: MIA and I are TWINS.\n"
-    .string "We want to battle together.$"
+    .string "MIU: MIA a já jsme DVOJCATA.\n"
+    .string "Chceme bojovat spolu.$"
 
 SixIsland_WaterPath_Text_MiaIntro::
-    .string "MIA: Hello, POKéMON!\n"
-    .string "It's time to battle!$"
+    .string "MIA: Ahoj, POKéMONe!\n"
+    .string "Je cas bojovat!$"
 
 SixIsland_WaterPath_Text_MiaDefeat::
-    .string "MIA: You're mean!\n"
-    .string "You're bad for winning!$"
+    .string "MIA: Jsi sprosty!\n"
+    .string "Jsi zly, ze vyhrávás!$"
 
 SixIsland_WaterPath_Text_MiaPostBattle::
-    .string "MIA: Ohh…\n"
-    .string "I'm sorry, my POKéMON…$"
+    .string "MIA: Ach…\n"
+    .string "Promin, muj POKéMONe…$"
 
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
-    .string "MIA: Oh, you only have one\n"
-    .string "POKéMON?\p"
-    .string "Don't you feel lonesome?$"
+    .string "MIA: Ach, mas jen jednoho\n"
+    .string "POKéMONa?\p"
+    .string "Necítís se osamele?$"
 
 SixIsland_WaterPath_Text_WantedUltimateHorn::
-    .string "Wanted!\n"
-    .string "The Ultimate Horn!$"
+    .string "Hledá se!\n"
+    .string "Nejlepsí Roh!$"
 
 SixIsland_WaterPath_Text_RouteSign::
     .string "WATER PATH\n"
-    .string "Leads to RUIN VALLEY$"
+    .string "Vede do RUIN VALLEY$"
 

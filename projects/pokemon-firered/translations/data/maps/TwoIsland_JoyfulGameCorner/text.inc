@@ -1,113 +1,112 @@
 TwoIsland_JoyfulGameCorner_Text_WhereHasLostelleGottenTo::
-    .string "Now, where's LOSTELLE gotten to\n"
-    .string "today?\p"
-    .string "She always brings me lunch every\n"
-    .string "day right about now…$"
+    .string "Kde se LOSTELLE dnes\n"
+    .string "potuluje?\p"
+    .string "Vzdy mi nosí obed kazdy den\n"
+    .string "presne v tuto dobu…$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
-    .string "Hm? You, there!\n"
-    .string "Are you a friend of LOSTELLE's?\p"
-    .string "Have you seen LOSTELLE around?\n"
-    .string "I don't know where she might be.\l"
-    .string "She should've been here long ago.\p"
-    .string "LOSTELLE's a cutie - she got my\n"
-    .string "looks - so what if someone…\p"
-    .string "What if something's happened to\n"
-    .string "my LOSTELLE?!\p"
-    .string "Please, help me find her!\n"
-    .string "Please go search THREE ISLAND!$"
+    .string "Hm? Ty tam!\n"
+    .string "Jsi prítel LOSTELLE?\p"
+    .string "Videls LOSTELLE nekde?\n"
+    .string "Nevím, kde by mohla byt.\l"
+    .string "Mela tu byt uz dávno.\p"
+    .string "LOSTELLE je krasavice - má muj\n"
+    .string "vzhled - co kdyby nekdo…\p"
+    .string "Co kdyby se neco stalo\n"
+    .string "mé LOSTELLE?!\p"
+    .string "Prosím, pomoz mi ji najít!\n"
+    .string "Prosím, projdi THREE ISLAND!$"
 
 TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
-    .string "Hah? What is this GAME CORNER?\n"
-    .string "How much sadder can this get?\p"
-    .string "Those clowns…\p"
-    .string "They said they'd be waiting on the\n"
-    .string "island, so where are they?\p"
-    .string "Hey, you! Is this the only THREE\n"
-    .string "ISLAND around here?$"
+    .string "Ha? Co je to za GAME CORNER?\n"
+    .string "Jak smutnejsí to muze byt?\p"
+    .string "Ti hlupáci…\p"
+    .string "Ríkali, ze cekají na ostrove,\n"
+    .string "tak kde jsou?\p"
+    .string "Hej, ty! Je tohle jediny THREE\n"
+    .string "ISLAND v okolí?$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
-    .string "Try waking up before you crawl out\n"
-    .string "of bed, you punk.\p"
-    .string "This is TWO ISLAND!\p"
-    .string "Move it! Get your filthy motorbike\n"
-    .string "out of my place!$"
+    .string "Zkus se probudit, nez vylezes\n"
+    .string "z postele, ty grázle.\p"
+    .string "Tohle je TWO ISLAND!\p"
+    .string "Hni se! Sundej tu spinavou\n"
+    .string "motorku z mého místa!$"
 
 TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
-    .string "Huh…\n"
-    .string "Oh, oh, gotcha.\p"
+    .string "Hm…\n"
+    .string "Ach, jasne.\p"
     .string "Tch…\n"
-    .string "These islands are confusing…$"
+    .string "Tyhle ostrovy matou…$"
 
 TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
-    .string "Would you look at that?\n"
-    .string "That punk scuffed up my floor.$"
+    .string "Podívej se na to!\n"
+    .string "Ten grázl mi poskrábal podlahu.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
-    .string "Hey, but listen! I'm begging you,\n"
-    .string "you have to go to THREE ISLAND.\p"
-    .string "If anything were to happen to my\n"
-    .string "LOSTELLE…\p"
-    .string "My place is the house with the red\n"
-    .string "roof on THREE ISLAND.\p"
-    .string "She may just show up late here,\n"
-    .string "so I can't run off anywhere.\p"
-    .string "That's why I have to get you to do\n"
-    .string "me this big favor.$"
+    .string "Hej, ale poslouchej! Prosím te,\n"
+    .string "musís jít na THREE ISLAND.\p"
+    .string "Kdyby se mé LOSTELLE neco\n"
+    .string "stalo…\p"
+    .string "Muj dum je ten s cervenou\n"
+    .string "strechou na THREE ISLAND.\p"
+    .string "Mozná se tu jen objeví pozde,\n"
+    .string "takze nemuzu nikam odejít.\p"
+    .string "Proto te musím poprosit\n"
+    .string "o tuhle velkou laskavost.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
-    .string "I'm sorry.\n"
-    .string "We're not running any games today.$"
+    .string "Omlouvám se.\n"
+    .string "Dnes hry neprovozujeme.$"
 
 TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
-    .string "We'll get the games going soon\n"
-    .string "for you!$"
+    .string "Brzy hry pro tebe\n"
+    .string "spustíme!$"
 
 TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
-    .string "So you rescued LOSTELLE?\n"
-    .string "How can I thank you?\p"
-    .string "LOSTELLE, darling, forgive me!\p"
-    .string "Daddy didn't know you were scared\n"
-    .string "and in trouble!$"
+    .string "Tak jsi zachránil LOSTELLE?\n"
+    .string "Jak ti mám podekovat?\p"
+    .string "LOSTELLE, miláci, odpust mi!\p"
+    .string "Tatínek nevedel, ze se bojís\n"
+    .string "a más potíze!$"
 
 TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
-    .string "LOSTELLE: It's okay, Daddy.\n"
-    .string "I got to be friends with {PLAYER}!$"
+    .string "LOSTELLE: To je v pohode, tati.\n"
+    .string "Skamarádila jsem se s {PLAYER}!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
-    .string "Oh, what's that?\n"
-    .string "You're saying that this is for me?\p"
-    .string "How did you know that I love rare\n"
-    .string "rocks and gems?\p"
-    .string "You sure know how to make a guy\n"
-    .string "happy.$"
+    .string "Ach, co je to?\n"
+    .string "Ríkás, ze tohle je pro me?\p"
+    .string "Jak jsi vedel, ze mám rád\n"
+    .string "vzácné kameny a drahokamy?\p"
+    .string "Vís, jak udelat chlapa\n"
+    .string "stastnym.$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
-    .string "{PLAYER} handed the METEORITE\n"
-    .string "to LOSTELLE's daddy.$"
+    .string "{PLAYER} predal METEORIT\n"
+    .string "tatínkovi LOSTELLE.$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
-    .string "Oh, I see, this is from BILL!\n"
-    .string "You have to thank him for me!\p"
-    .string "You know, you've been fantastic.\n"
-    .string "I want you to have this.$"
+    .string "Aha, vidím, je to od BILLA!\n"
+    .string "Musís mu za to podekovat!\p"
+    .string "Vís, byl jsi fantasticky.\n"
+    .string "Chci, abys mel tohle.$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
-    .string "{PLAYER} received a MOON STONE\n"
-    .string "from LOSTELLE's daddy.$"
+    .string "{PLAYER} obdrzel MOON STONE\n"
+    .string "od tatínka LOSTELLE.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
-    .string "Your BAG's not going to fit another\n"
-    .string "thing…$"
+    .string "Do tvého BATOHU se uz nic\n"
+    .string "nevejde…$"
 
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
-    .string "All right, I'll get the GAME CORNER\n"
-    .string "running right away.\p"
-    .string "You have to come visit with a\n"
-    .string "friend.$"
+    .string "Dobre, hned uvedu GAME CORNER\n"
+    .string "do provozu.\p"
+    .string "Musís prijít s kámosem na návstevu.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
-    .string "Listen, listen!\p"
-    .string "Please show me you being cool\n"
-    .string "again!$"
+    .string "Poslouchej, poslouchej!\p"
+    .string "Prosím, ukaz mi zase,\n"
+    .string "jak jsi cool!$"
 

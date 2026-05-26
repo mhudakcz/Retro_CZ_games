@@ -1,100 +1,100 @@
 Route24_Text_JustEarnedFabulousPrize::
-    .string "Congratulations! You beat our\n"
-    .string "five contest TRAINERS!\p"
-    .string "You just earned a fabulous prize!$"
+    .string "Gratuluji! Porazil jsi nasich\n"
+    .string "pet souteznich TRENÉRU!\p"
+    .string "Práve sis vyslouzil bájecnou cenu!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-    .string "{PLAYER} received a NUGGET\n"
-    .string "from the mystery TRAINER!$"
+    .string "{PLAYER} dostal NUGGET\n"
+    .string "od záhadného TRENÉRA!$"
 
 Route24_Text_YouDontHaveAnyRoom::
-    .string "You don't have any room!$"
+    .string "Nemás zádné místo!$"
 
 Route24_Text_JoinTeamRocket::
-    .string "By the way, how would you like to\n"
-    .string "join TEAM ROCKET?\p"
-    .string "We're a group of professional\n"
-    .string "criminals specializing in POKéMON!\p"
-    .string "Want to join?\p"
-    .string "Are you sure?\p"
-    .string "Come on, join us!\p"
-    .string "I'm telling you to join!\p"
-    .string "…Okay, you need convincing!\p"
-    .string "I'll make you an offer you can't\n"
-    .string "refuse!$"
+    .string "Mimochodem, co bys rekl na to\n"
+    .string "pridat se k TEAM ROCKET?\p"
+    .string "Jsme skupina profesionálních\n"
+    .string "zlocincu se zamerením na POKéMONy!\p"
+    .string "Chces se pridat?\p"
+    .string "Jsi si jisty?\p"
+    .string "No tak, pridej se!\p"
+    .string "Ríkám ti, at se pridás!\p"
+    .string "…Dobre, potrebujes presvedcit!\p"
+    .string "Dám ti nabídku, kterou\n"
+    .string "nemuzes odmítnout!$"
 
 Route24_Text_RocketDefeat::
-    .string "Arrgh!\n"
-    .string "You are good!$"
+    .string "Arghr!\n"
+    .string "Ty jsi dobry!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-    .string "With your ability, you'd become\n"
-    .string "a top leader in TEAM ROCKET.\p"
-    .string "Come on, think of the opportunity!\n"
-    .string "Don't let this chance go to waste.$"
+    .string "S tvymi schopnostmi by ses stal\n"
+    .string "spickovym vudcem v TEAM ROCKET.\p"
+    .string "No tak, mysli na tu prílezitost!\n"
+    .string "Nenech tu sanci propadnout.$"
 
 Route24_Text_ShaneIntro::
-    .string "I saw your feat from the grass!$"
+    .string "Videl jsem tvuj vykon z trávy!$"
 
 Route24_Text_ShaneDefeat::
-    .string "I thought not!$"
+    .string "To jsem si myslel!$"
 
 Route24_Text_ShanePostBattle::
-    .string "I hid because the people on the\n"
-    .string "bridge frightened me.$"
+    .string "Schoval jsem se, protoze me ti\n"
+    .string "lidé na moste vydesili.$"
 
 Route24_Text_EthanIntro::
-    .string "Okay! I'm No. 5!\n"
-    .string "I'll stomp you!$"
+    .string "Dobre! Jsem c. 5!\n"
+    .string "Zaslápnu te!$"
 
 Route24_Text_EthanDefeat::
     .string "Whoa!\n"
-    .string "Too much!$"
+    .string "Prílis silné!$"
 
 Route24_Text_EthanPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Dal jsem do toho vse. Nic nelituji!$"
 
 Route24_Text_ReliIntro::
-    .string "I'm No. 4!\n"
-    .string "Getting tired?$"
+    .string "Jsem c. 4!\n"
+    .string "Uz jsi unaveny?$"
 
 Route24_Text_ReliDefeat::
-    .string "I lost, too!$"
+    .string "Taky jsem prohrál!$"
 
 Route24_Text_ReliPostBattle::
-    .string "I did my best, so I've no regrets!$"
+    .string "Dal jsem do toho vse, nic nelituji!$"
 
 Route24_Text_TimmyIntro::
-    .string "Here's No. 3!\n"
-    .string "I won't be easy!$"
+    .string "Tady je c. 3!\n"
+    .string "Nebudu lehky!$"
 
 Route24_Text_TimmyDefeat::
-    .string "Ow!\n"
-    .string "Stomped flat!$"
+    .string "Au!\n"
+    .string "Zaslápnut!$"
 
 Route24_Text_TimmyPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Dal jsem do toho vse. Nic nelituji!$"
 
 Route24_Text_AliIntro::
-    .string "I'm second!\n"
-    .string "Now it's serious!$"
+    .string "Jsem druhy!\n"
+    .string "Ted to bude vázné!$"
 
 Route24_Text_AliDefeat::
-    .string "How could I lose?$"
+    .string "Jak jsem mohl prohrát?$"
 
 Route24_Text_AliPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Dal jsem do toho vse. Nic nelituji!$"
 
 Route24_Text_CaleIntro::
-    .string "People call this the NUGGET\n"
+    .string "Lidé tomuhle ríkají NUGGET\n"
     .string "BRIDGE!\p"
-    .string "Beat us five TRAINERS and win\n"
-    .string "a fabulous prize!\p"
-    .string "Think you got what it takes?$"
+    .string "Porazit nás pet TRENÉRU a\n"
+    .string "vyhrát bájecnou cenu!\p"
+    .string "Myslís, ze na to más?$"
 
 Route24_Text_CaleDefeat::
     .string "Whoo!\n"
-    .string "Good stuff!$"
+    .string "Dobrá práce!$"
 
 Route24_Text_CalePostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Dal jsem do toho vse. Nic nelituji!$"

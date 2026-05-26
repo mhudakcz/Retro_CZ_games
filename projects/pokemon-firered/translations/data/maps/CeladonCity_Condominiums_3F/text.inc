@@ -1,42 +1,41 @@
 CeladonCity_Condominiums_3F_Text_ImTheProgrammer::
-    .string "Me?\n"
-    .string "I'm the programmer!$"
+    .string "Já?\n"
+    .string "Já jsem programátor!$"
 
 CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
-    .string "I'm the graphic artist!\n"
-    .string "I drew you!$"
+    .string "Jsem grafik!\n"
+    .string "Já jsem te nakreslil!$"
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
-    .string "I wrote the story!\n"
-    .string "Isn't ERIKA cute?\p"
-    .string "I like MISTY a lot, too!\n"
-    .string "Oh, and SABRINA, I like her!$"
+    .string "Napsal jsem príbeh!\n"
+    .string "Není ERIKA roztomilá?\p"
+    .string "Mám taky moc rád MISTY!\n"
+    .string "A SABRINU, tu mám taky rád!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
-    .string "Is that right?\p"
-    .string "I'm the game designer!\p"
-    .string "Filling up your POKéDEX is tough,\n"
-    .string "but don't quit!\p"
-    .string "When you finish, come tell me!$"
+    .string "Vázne?\p"
+    .string "Já jsem návrhár hry!\p"
+    .string "Zaplnit POKéDEX není snadné,\n"
+    .string "ale nevzdávej to!\p"
+    .string "Az to dokoncís, prijd mi to ríct!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
-    .string "Wow! Excellent!\n"
-    .string "You completed your POKéDEX!\l"
-    .string "Congratulations!\l"
+    .string "Páni! Skvele!\n"
+    .string "Dokoncils svuj POKéDEX!\l"
+    .string "Gratuluji!\l"
     .string "…$"
 
 CeladonCity_Condominiums_3F_Text_ItsTheGameProgram::
-    .string "It's the game program! Messing with\n"
-    .string "it could bug out the game!$"
+    .string "Tohle je herní program! Zmena by\n"
+    .string "mohla hru rozhodit!$"
 
 CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame::
-    .string "Someone's playing a game instead of\n"
-    .string "working!$"
+    .string "Nekdo si misto práce hraje\n"
+    .string "hru!$"
 
 CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
-    .string "It's the script!\n"
-    .string "Better not look at the ending!$"
+    .string "Tohle je scénár!\n"
+    .string "Radsi nekoukej na konec!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
-    .string "GAME FREAK Development Room$"
-
+    .string "GAME FREAK vyvojárna$"

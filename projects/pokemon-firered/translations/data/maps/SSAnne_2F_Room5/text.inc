@@ -1,11 +1,10 @@
 SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
-    .string "Have you gone to the SAFARI ZONE\n"
-    .string "in FUCHSIA CITY?\p"
-    .string "There are many kinds of rare\n"
-    .string "POKéMON.$"
+    .string "Byl jsi uz v SAFARI ZONE\n"
+    .string "ve FUCHSIA CITY?\p"
+    .string "Je tam mnoho druhu vzácnych\n"
+    .string "POKéMONu.$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
-    .string "Me and my daddy think the SAFARI\n"
-    .string "ZONE is awesome!\l"
-    .string "I wish we could go there again.$"
-
+    .string "S tatou si myslíme, ze\n"
+    .string "SAFARI ZONE je úzasná!\l"
+    .string "Kéz tam muzeme zase jít.$"

@@ -1,119 +1,119 @@
 Route25_Text_JoeyIntro::
-    .string "Local TRAINERS come here to\n"
-    .string "practice.$"
+    .string "Místní TRENÉRI sem chodí\n"
+    .string "trénovat.$"
 
 Route25_Text_JoeyDefeat::
-    .string "You're decent.$"
+    .string "Jsi slusny.$"
 
 Route25_Text_JoeyPostBattle::
-    .string "All POKéMON have weaknesses.\n"
-    .string "Even the strongest ones.\p"
-    .string "That's why it's best to raise\n"
-    .string "POKéMON of different types.$"
+    .string "Vsichni POKéMON mají slabiny.\n"
+    .string "I ti nejsilnejsí.\p"
+    .string "Proto je nejlepsí chovat\n"
+    .string "POKéMONy ruznych typu.$"
 
 Route25_Text_DanIntro::
-    .string "Dad took me to a great party on\n"
-    .string "the S.S. ANNE at VERMILION CITY.$"
+    .string "Táta me vzal na skvelou párty\n"
+    .string "na S.S. ANNE ve VERMILION CITY.$"
 
 Route25_Text_DanDefeat::
-    .string "I'm not mad!$"
+    .string "Nezlobím se!$"
 
 Route25_Text_DanPostBattle::
-    .string "On the S.S. ANNE, I saw TRAINERS\n"
-    .string "from around the world.$"
+    .string "Na S.S. ANNE jsem videl TRENÉRY\n"
+    .string "z celého sveta.$"
 
 Route25_Text_FlintIntro::
-    .string "I'm a cool guy.\n"
-    .string "I've got a girlfriend!$"
+    .string "Jsem frajer.\n"
+    .string "Mám pritelkyni!$"
 
 Route25_Text_FlintDefeat::
-    .string "Aww, darn…$"
+    .string "Och, sakra…$"
 
 Route25_Text_FlintPostBattle::
-    .string "Oh, well.\n"
-    .string "My girlfriend will cheer me up.$"
+    .string "No co.\n"
+    .string "Pritelkyne me utesí.$"
 
 Route25_Text_KelseyIntro::
-    .string "Hi!\n"
-    .string "My boyfriend is cool!$"
+    .string "Ahoj!\n"
+    .string "Muj prítel je frajer!$"
 
 Route25_Text_KelseyDefeat::
-    .string "My conditioning isn't the best…$"
+    .string "Nemám nejlepsí kondici…$"
 
 Route25_Text_KelseyPostBattle::
-    .string "I wish my boyfriend was as good\n"
-    .string "as you.$"
+    .string "Kéz by byl muj prítel\n"
+    .string "tak dobry jako ty.$"
 
 Route25_Text_ChadIntro::
-    .string "I had this feeling…\n"
-    .string "I knew I had to battle you!$"
+    .string "Mel jsem ten pocit…\n"
+    .string "Vedel jsem, ze musím bojovat!$"
 
 Route25_Text_ChadDefeat::
-    .string "I knew I'd lose, too!$"
+    .string "Vedel jsem, ze i prohraju!$"
 
 Route25_Text_ChadPostBattle::
-    .string "If your POKéMON gets confused,\n"
-    .string "switch it out.\p"
-    .string "That's a good tactic.$"
+    .string "Kdyz se tvuj POKéMON zmate,\n"
+    .string "vymen ho.\p"
+    .string "To je dobrá taktika.$"
 
 Route25_Text_HaleyIntro::
-    .string "My friend has many cute POKéMON.\n"
-    .string "I'm so jealous!$"
+    .string "Kámoska má spoustu roztomilych\n"
+    .string "POKéMONu. Tak jí závidím!$"
 
 Route25_Text_HaleyDefeat::
-    .string "I'm not so jealous!$"
+    .string "Uz tak nezávidím!$"
 
 Route25_Text_HaleyPostBattle::
-    .string "You came from MT. MOON?\n"
-    .string "May I have a CLEFAIRY?$"
+    .string "Ty jsi prisel z MT. MOON?\n"
+    .string "Muzu dostat CLEFAIRY?$"
 
 Route25_Text_FranklinIntro::
-    .string "I just got down from MT. MOON,\n"
-    .string "but I've still got gas in the tank!$"
+    .string "Práve jsem sesel z MT. MOON,\n"
+    .string "ale jeste mám sílu v nádrzi!$"
 
 Route25_Text_FranklinDefeat::
-    .string "You worked hard!$"
+    .string "Drel jsi se!$"
 
 Route25_Text_FranklinPostBattle::
-    .string "Drat!\n"
-    .string "A ZUBAT bit me back in that cave.$"
+    .string "Sakra!\n"
+    .string "V té jeskyni me kousnul ZUBAT.$"
 
 Route25_Text_NobIntro::
-    .string "I'm off to see a POKéMANIAC's\n"
-    .string "collection at the cape.$"
+    .string "Jdu si prohlédnout sbírku jednoho\n"
+    .string "POKéMANIAKa na mysu.$"
 
 Route25_Text_NobDefeat::
-    .string "You done got me, and real good,\n"
-    .string "too!$"
+    .string "Tys me dostal, a pekne\n"
+    .string "porádne!$"
 
 Route25_Text_NobPostBattle::
-    .string "The POKéMANIAC sure lives up to\n"
-    .string "his name.\p"
-    .string "His collection includes many rare\n"
-    .string "species of POKéMON.$"
+    .string "Ten POKéMANIAK to svym jménem\n"
+    .string "nepreháni.\p"
+    .string "V jeho sbírce je mnoho vzácnych\n"
+    .string "druhu POKéMONu.$"
 
 Route25_Text_WayneIntro::
-    .string "You're going to see BILL?\n"
-    .string "First, we battle!$"
+    .string "Ty jdes za BILLEM?\n"
+    .string "Nejdrív souboj!$"
 
 Route25_Text_WayneDefeat::
-    .string "You're something.$"
+    .string "Ty jsi neco.$"
 
 Route25_Text_WaynePostBattle::
-    .string "The trail below is a shortcut to\n"
+    .string "Stezka dole je zkratka do\n"
     .string "CERULEAN CITY.$"
 
 Route25_Text_SeaCottageSign::
     .string "SEA COTTAGE\n"
-    .string "BILL lives here!$"
+    .string "Tady bydlí BILL!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
-    .string "This cape is a famous date spot.\p"
-    .string "MISTY, the GYM LEADER, has high\n"
-    .string "hopes about this place.$"
+    .string "Tenhle mys je slavné místo\n"
+    .string "na rande.\p"
+    .string "MISTY, GYM LEADER, do tohohle\n"
+    .string "místa vkládá velké nadeje.$"
 
 Route25_Text_AreYouHereAlone::
-    .string "Hello, are you here alone?\p"
-    .string "If you're out at CERULEAN's cape…\n"
-    .string "Well, it should be as a couple.$"
-
+    .string "Ahoj, jsi tu sám?\p"
+    .string "Kdyz uz jsi na CERULEAN mysu…\n"
+    .string "No, melo by to byt v páru.$"

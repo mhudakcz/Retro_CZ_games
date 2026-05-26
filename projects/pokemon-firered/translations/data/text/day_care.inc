@@ -71,7 +71,7 @@ DayCare_Text_HusbandWasLookingForYou::
 
 DayCare_Text_FineThenComeAgain::
 	.string "Dobre, tak.\n"
-	.string "Prijï zas.$"
+	.string "Prijd zas.$"
 
 DayCare_Text_NotEnoughMoney::
 	.string "Nemás dost penez…$"
@@ -82,7 +82,7 @@ DayCare_Text_TakeOtherOneBackToo::
 
 DayCare_Text_ComeAgain::
 	.string "Dobre.\n"
-	.string "Prijï zas.$"
+	.string "Prijd zas.$"
 
 DayCare_Text_GoodToSeeYou::
 	.string "Ach, to jsi ty!\n"
@@ -96,7 +96,7 @@ DayCare_Text_YourMonHasGrownXLevels::
 
 DayCare_Text_YourPartyIsFull::
 	.string "Tvuj POKéMON tym je plny.\n"
-	.string "Udelej místo a prijï.$"
+	.string "Udelej místo a prijd.$"
 
 DayCare_Text_TakeBackWhichMon::
 	.string "どっちの　ポケモンを　ひきとるかい？$"
@@ -116,7 +116,7 @@ DayCare_Text_TookBackMon::
 DayCare_Text_YouHaveJustOneMon::
 	.string "Ach? Ale ty mas jen\n"
 	.string "jednoho POKéMONa.\p"
-	.string "Prijï jindy.$"
+	.string "Prijd jindy.$"
 
 DayCare_Text_TakeYourMonBack::
 	.string "Vezmes si POKéMONa zpet?$"
@@ -124,7 +124,7 @@ DayCare_Text_TakeYourMonBack::
 DayCare_Text_WhatWillYouBattleWith::
 	.string "Kdyz mi nechás toho POKéMONa,\n"
 	.string "s cím budes bojovat?\p"
-	.string "Prijï jindy.$"
+	.string "Prijd jindy.$"
 
 DayCare_Text_Huh::
 	.string "Co?$"

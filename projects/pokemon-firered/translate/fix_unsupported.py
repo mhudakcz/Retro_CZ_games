@@ -46,11 +46,12 @@ if __name__ == '__main__':
     base = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else 'data')
     total_changes = 0
     files_changed = 0
-    for ext in ('*.inc', '*.s', '*.asm'):
-        for f in base.rglob(ext):
-            n = fix_file(f)
-            if n:
-                files_changed += 1
-                total_changes += n
-                print(f'  fixed {n:3d} chars in {f}')
+    # ONLY .inc files (text fragments). NEVER touch .s/.asm — they're original
+    # source files that may contain unrelated UTF-8 characters in comments.
+    for f in base.rglob('*.inc'):
+        n = fix_file(f)
+        if n:
+            files_changed += 1
+            total_changes += n
+            print(f'  fixed {n:3d} chars in {f}')
     print(f'\nTotal: {files_changed} files, {total_changes} character replacements')

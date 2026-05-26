@@ -1,16 +1,16 @@
 FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
-    .string "We've had a great and powerful\n"
-    .string "TRAINER grow up on this island.\p"
-    .string "I bet even you'd know her.\n"
-    .string "It's LORELEI of the ELITE FOUR!\p"
-    .string "When LORELEI was just a tyke,\n"
-    .string "I taught her about POKéMON.$"
+    .string "Na tomto ostrove vyrostla\n"
+    .string "skvelá a mocná TRÉNÉRKA.\p"
+    .string "Vsadím se, ze ji znás.\n"
+    .string "Je to LORELEI z ELITNÍ CTYRKY!\p"
+    .string "Kdyz byla LORELEI mensí,\n"
+    .string "ucila jsem ji o POKéMONech.$"
 
 FourIsland_Mart_Text_IcefallCaveIsFrigid::
-    .string "The SEVII ISLANDS are in a warm\n"
-    .string "region overall.\p"
-    .string "But there is one exception you\n"
-    .string "need to know about.\p"
-    .string "The ICEFALL CAVE is frigid because\n"
-    .string "of the POKéMON that live in it.$"
+    .string "Ostrovy SEVII jsou v celku\n"
+    .string "v teplé oblasti.\p"
+    .string "Ale je tu jedna vyjimka, kterou\n"
+    .string "bys mel znát.\p"
+    .string "ICEFALL CAVE je ledová kvuli\n"
+    .string "POKéMONum, kterí v ní zijí.$"
 

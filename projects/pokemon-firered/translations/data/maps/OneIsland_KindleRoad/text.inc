@@ -1,164 +1,164 @@
 OneIsland_KindleRoad_Text_MariaIntro::
-    .string "The weather's gorgeous!\n"
-    .string "Perfect for a battle!$"
+    .string "Pocasí je nádherné!\n"
+    .string "Perfektní na souboj!$"
 
 OneIsland_KindleRoad_Text_MariaDefeat::
     .string "Aiyeeeeh!$"
 
 OneIsland_KindleRoad_Text_MariaPostBattle::
-    .string "Please don't splash my face!\n"
-    .string "You'll ruin the makeup.$"
+    .string "Prosím necákej mi do obliceje!\n"
+    .string "Znicís mi make-up.$"
 
 OneIsland_KindleRoad_Text_AbigailIntro::
-    .string "I'm beginning to get a sunburn…$"
+    .string "Zacínám se spálit od slunce…$"
 
 OneIsland_KindleRoad_Text_AbigailDefeat::
-    .string "Oh, you're so awful.$"
+    .string "Ach, jsi tak hrozny.$"
 
 OneIsland_KindleRoad_Text_AbigailPostBattle::
-    .string "I like that cap you have.\n"
-    .string "Maybe I should wear one, too…$"
+    .string "Líbí se mi tvá cepice.\n"
+    .string "Mozná bych si taky mela poridit…$"
 
 OneIsland_KindleRoad_Text_FinnIntro::
-    .string "Seen from here, MT. EMBER towers\n"
-    .string "into the sky.$"
+    .string "Odtud se MT. EMBER tycí\n"
+    .string "vysoko k nebi.$"
 
 OneIsland_KindleRoad_Text_FinnDefeat::
-    .string "Well, aren't you tough?$"
+    .string "No, ty jsi ale tvrdy?$"
 
 OneIsland_KindleRoad_Text_FinnPostBattle::
-    .string "The sky is immense around these\n"
-    .string "parts.$"
+    .string "Obloha je v techto místech\n"
+    .string "obrovská.$"
 
 OneIsland_KindleRoad_Text_GarrettIntro::
-    .string "I took a break from swimming,\n"
-    .string "only to have you challenge me?$"
+    .string "Dal jsem si pauzu od plavání\n"
+    .string "a hned me vyzyvás?$"
 
 OneIsland_KindleRoad_Text_GarrettDefeat::
-    .string "Hey, what the…\n"
-    .string "You're good, you!$"
+    .string "Hej, co to…\n"
+    .string "Ty jsi dobry, ty!$"
 
 OneIsland_KindleRoad_Text_GarrettPostBattle::
-    .string "Instead of using SURF all the time,\n"
-    .string "you should swim some.$"
+    .string "Místo neustálého pouzívání SURFu\n"
+    .string "by sis mel zaplavat.$"
 
 OneIsland_KindleRoad_Text_TommyIntro::
-    .string "Wait! Wait a second!\n"
-    .string "I think I've hooked a big one!$"
+    .string "Pockej! Pockej chvilku!\n"
+    .string "Myslím, ze jsem chytil velkou!$"
 
 OneIsland_KindleRoad_Text_TommyDefeat::
-    .string "I've lost it all again…$"
+    .string "Zase jsem o vse prisel…$"
 
 OneIsland_KindleRoad_Text_TommyPostBattle::
-    .string "Not only did I lose, the big one\n"
-    .string "got away from me, too!$"
+    .string "Nejen ze jsem prohrál, ale taky\n"
+    .string "mi ta velká utekla!$"
 
 OneIsland_KindleRoad_Text_SharonIntro::
-    .string "Could you help me out with my\n"
-    .string "training?$"
+    .string "Mohl bys mi pomoci\n"
+    .string "s tréninkem?$"
 
 OneIsland_KindleRoad_Text_SharonDefeat::
-    .string "You were a cut above me.$"
+    .string "Byl jsi o trídu lepsí.$"
 
 OneIsland_KindleRoad_Text_SharonPostBattle::
-    .string "It's clear that you're skilled.\n"
-    .string "I like you!$"
+    .string "Je jasné, ze jsi sikovny.\n"
+    .string "Líbís se mi!$"
 
 OneIsland_KindleRoad_Text_TanyaIntro::
-    .string "There isn't a day in which we don't\n"
-    .string "train!$"
+    .string "Není den, ve kterém bychom\n"
+    .string "netrénovali!$"
 
 OneIsland_KindleRoad_Text_TanyaDefeat::
-    .string "I'm such a fool!$"
+    .string "Jsem takovy hlupák!$"
 
 OneIsland_KindleRoad_Text_TanyaPostBattle::
-    .string "I'll train even harder from now on!$"
+    .string "Od ted budu trénovat jeste víc!$"
 
 OneIsland_KindleRoad_Text_SheaIntro::
-    .string "Every morning, before breakfast,\n"
-    .string "I swim around this island.$"
+    .string "Kazdé ráno pred snídaní\n"
+    .string "plavu kolem tohoto ostrova.$"
 
 OneIsland_KindleRoad_Text_SheaDefeat::
-    .string "Gasp…\n"
-    .string "Gasp…$"
+    .string "Lapám…\n"
+    .string "Lapám po dechu…$"
 
 OneIsland_KindleRoad_Text_SheaPostBattle::
-    .string "I lost because I'm pooped from all\n"
-    .string "the running I did…$"
+    .string "Prohrál jsem, protoze jsem vycerpany\n"
+    .string "ze vseho behání…$"
 
 OneIsland_KindleRoad_Text_HughIntro::
-    .string "Dress appropriately for battle!\n"
-    .string "Lose that frivolous outfit!$"
+    .string "Obléc se vhodne na souboj!\n"
+    .string "Sundej ten lehkovázny oblecek!$"
 
 OneIsland_KindleRoad_Text_HughDefeat::
-    .string "Why me?!$"
+    .string "Proc zrovna já?!$"
 
 OneIsland_KindleRoad_Text_HughPostBattle::
-    .string "Even martial artists are becoming\n"
-    .string "fashion conscious these days…$"
+    .string "I bojoví umelci se v dnesní dobe\n"
+    .string "stávají módními…$"
 
 OneIsland_KindleRoad_Text_BryceIntro::
-    .string "You know, everything tastes great\n"
-    .string "when you're out in the wild.$"
+    .string "Vís, vse chutná skvele,\n"
+    .string "kdyz jsi v prírode.$"
 
 OneIsland_KindleRoad_Text_BryceDefeat::
-    .string "Awww, blown!$"
+    .string "Áááh, smetlo me to!$"
 
 OneIsland_KindleRoad_Text_BrycePostBattle::
-    .string "The water in volcanic regions is\n"
-    .string "delicious.$"
+    .string "Voda ve vulkanickych oblastech\n"
+    .string "je vyborná.$"
 
 OneIsland_KindleRoad_Text_ClaireIntro::
-    .string "My lunch filled us up, so will you\n"
-    .string "battle us for some exercise?$"
+    .string "Po obede jsme plné, takze pojd\n"
+    .string "do souboje na rozhybání?$"
 
 OneIsland_KindleRoad_Text_ClaireDefeat::
-    .string "That made me all sweaty.$"
+    .string "To me celé zpotilo.$"
 
 OneIsland_KindleRoad_Text_ClairePostBattle::
-    .string "What should I do?\n"
-    .string "I feel famished again.$"
+    .string "Co mám delat?\n"
+    .string "Zase mám hlad.$"
 
 OneIsland_KindleRoad_Text_KiaIntro::
-    .string "KIA: My big brother and I make\n"
-    .string "an awesome combination!$"
+    .string "KIA: Já a muj velky brácha\n"
+    .string "tvoríme úzasnou kombinaci!$"
 
 OneIsland_KindleRoad_Text_KiaDefeat::
-    .string "KIA: Huh?!\n"
-    .string "I can't believe it!$"
+    .string "KIA: Coze?!\n"
+    .string "Nemuzu tomu uverit!$"
 
 OneIsland_KindleRoad_Text_KiaPostBattle::
-    .string "KIA: How could there be anyone\n"
-    .string "better than my big brother?$"
+    .string "KIA: Jak muze existovat nekdo\n"
+    .string "lepsí nez muj velky brácha?$"
 
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
-    .string "KIA: If you want to battle with\n"
-    .string "us, you have to bring at least two\l"
-    .string "POKéMON with you.$"
+    .string "KIA: Pokud chces bojovat\n"
+    .string "s námi, musís mít aspon dva\l"
+    .string "POKéMONy s sebou.$"
 
 OneIsland_KindleRoad_Text_MikIntro::
-    .string "MIK: Together with KIA, I'm afraid\n"
-    .string "of nothing!$"
+    .string "MIK: Spolu s KIOU se nebojím\n"
+    .string "niceho!$"
 
 OneIsland_KindleRoad_Text_MikDefeat::
-    .string "MIK: Whoa!\n"
-    .string "That's too much!$"
+    .string "MIK: Páni!\n"
+    .string "To je prílis!$"
 
 OneIsland_KindleRoad_Text_MikPostBattle::
-    .string "MIK: How could my combination\n"
-    .string "with KIA fail?$"
+    .string "MIK: Jak by má kombinace\n"
+    .string "s KIOU mohla selhat?$"
 
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
-    .string "MIK: Hey, do you want to battle\n"
-    .string "with us two?\p"
-    .string "Bring two or more POKéMON with\n"
-    .string "you, then.$"
+    .string "MIK: Hej, chces s námi dvema\n"
+    .string "bojovat?\p"
+    .string "Vezmi si dva nebo více POKéMONu,\n"
+    .string "pak ano.$"
 
 OneIsland_KindleRoad_Text_RouteSign::
-    .string "This is KINDLE ROAD.\p"
-    .string "Go straight for MT. EMBER.$"
+    .string "Toto je KINDLE ROAD.\p"
+    .string "Jdi rovne k MT. EMBER.$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
-    .string "Light the Fire in Your Heart!\n"
+    .string "Zapal ohen ve svém srdci!\n"
     .string "EMBER SPA$"
 

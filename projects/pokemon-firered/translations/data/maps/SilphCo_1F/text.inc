@@ -1,7 +1,7 @@
 SilphCo_1F_Text_WelcomePresidentInBoardroom::
-    .string "Welcome.\p"
-    .string "The PRESIDENT is in the boardroom\n"
-    .string "on 11F.$"
+    .string "Vítej.\p"
+    .string "REDITEL je v zasedacce\n"
+    .string "v 11F.$"
 
 @ Tentative translation. Unknown origin
 SilphCo_1F_Text_DestroyedWontBeFixedForWhile::
@@ -9,6 +9,5 @@ SilphCo_1F_Text_DestroyedWontBeFixedForWhile::
     .string "とうぶん　なおりそうに　ない‥$"
 
 SilphCo_1F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "SILPH CO. HLAVNÍ KANCELÁR\n"
     .string "1F$"
-

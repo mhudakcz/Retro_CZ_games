@@ -1,11 +1,10 @@
 SSAnne_B1F_Room3_Text_DylanIntro::
-    .string "I like feisty kids like you!$"
+    .string "Mám rád drzá decka jako jsi ty!$"
 
 SSAnne_B1F_Room3_Text_DylanDefeat::
     .string "Argh!\n"
-    .string "Lost it!$"
+    .string "Prohrál jsem!$"
 
 SSAnne_B1F_Room3_Text_DylanPostBattle::
-    .string "Sea POKéMON live in deep water.\n"
-    .string "You'll need a ROD to fish them up!$"
-
+    .string "Morsky POKéMONi zijí v hloubce.\n"
+    .string "Potrebujes PRUT, abys je chytil!$"

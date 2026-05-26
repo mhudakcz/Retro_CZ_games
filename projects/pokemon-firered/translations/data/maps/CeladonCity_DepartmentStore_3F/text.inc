@@ -1,70 +1,70 @@
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-    .string "Captured POKéMON are registered\n"
-    .string "with an ID No. and the OT.\p"
-    .string "OT stands for “Original TRAINER” -\n"
-    .string "the TRAINER that caught it first.$"
+    .string "Chycení POKéMONi se evidují\n"
+    .string "s císlem ID a OT.\p"
+    .string "OT znamená “Puvodní TRENÉR” -\n"
+    .string "TRENÉR, ktery ho chytil první.$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
-    .string "All right!\p"
-    .string "My buddy's going to trade me his\n"
-    .string "KANGASKHAN for my HAUNTER!$"
+    .string "Skvelé!\p"
+    .string "Kámos mi vymení svého KANGASKHANa\n"
+    .string "za mého HAUNTERa!$"
 
 CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
-    .string "Come on, HAUNTER!\p"
-    .string "I love HAUNTER!\n"
-    .string "I collect them!\p"
-    .string "Huh?\p"
-    .string "HAUNTER turned into a different\n"
-    .string "POKéMON while being traded!$"
+    .string "No tak, HAUNTERe!\p"
+    .string "Miluji HAUNTERa!\n"
+    .string "Sbírám je!\p"
+    .string "He?\p"
+    .string "HAUNTER se behem vymeny zmenil\n"
+    .string "v jiného POKéMONa!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-    .string "You can identify POKéMON you get\n"
-    .string "in trades by their ID Numbers.$"
+    .string "POKéMONy získané vymenou\n"
+    .string "rozeznás podle ID císel.$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
-    .string "It's a Super NES.$"
+    .string "Je to Super NES.$"
 
 CeladonCity_DepartmentStore_3F_Text_AnRPG::
-    .string "An RPG!\n"
-    .string "There's no time for that!$"
+    .string "RPG!\n"
+    .string "Na to ted není cas!$"
 
 CeladonCity_DepartmentStore_3F_Text_SportsGame::
-    .string "A sports game!\n"
-    .string "Dad'll like that!$"
+    .string "Sportovní hra!\n"
+    .string "Tu si táta oblíbí!$"
 
 CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
-    .string "A puzzle game!\n"
-    .string "Looks addictive!$"
+    .string "Logická hra!\n"
+    .string "Vypadá návykove!$"
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
-    .string "A fighting game!\n"
-    .string "Looks tough!$"
+    .string "Bojová hra!\n"
+    .string "Vypadá drsne!$"
 
 CeladonCity_DepartmentStore_3F_Text_TVGameShop::
-    .string "3F: TV GAME SHOP$"
+    .string "3F: TV HERNÍ OBCHOD$"
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
-    .string "Red and Green!\n"
-    .string "Both are POKéMON!$"
+    .string "Red a Green!\n"
+    .string "Oba jsou POKéMON!$"
 
 Text_CounterTeach::
-    .string "Oh, hi!\n"
-    .string "I finally finished POKéMON.\p"
-    .string "Not done yet? How about I teach\n"
-    .string "you a good move?\p"
-    .string "The move I have in mind is\n"
+    .string "Ach, ahoj!\n"
+    .string "Konecne jsem dohrál POKéMONa.\p"
+    .string "Ty jeste ne? Co kdybych te naucil\n"
+    .string "jeden dobry útok?\p"
+    .string "Mám na mysli útok\n"
     .string "COUNTER.\p"
-    .string "Not like the one I'm leaning on,\n"
-    .string "mind you!$"
+    .string "Ne jako ten, o ktery se opírám,\n"
+    .string "to si nemysli!$"
 
 Text_CounterDeclined::
-    .string "You're not interested? Come see\n"
-    .string "me if you change your mind.$"
+    .string "Nezajímá te? Prijd za mnou,\n"
+    .string "az si to rozmyslís.$"
 
 Text_CounterWhichMon::
-    .string "Which POKéMON should I teach\n"
-    .string "COUNTER to?$"
+    .string "Kterého POKéMONa mám naucit\n"
+    .string "COUNTER?$"
 
 Text_CounterTaught::
-    .string "Are you using that COUNTER move\n"
-    .string "I taught your POKéMON?$"
+    .string "Pouzívás ten útok COUNTER, co\n"
+    .string "jsem naucil tvého POKéMONa?$"

@@ -1,29 +1,28 @@
 Text_RockSlideTeach::
-    .string "When you're up on a rocky mountain\n"
-    .string "like this, rockslides are a threat.\p"
-    .string "Can you imagine?\n"
-    .string "Boulders tumbling down on you?\p"
-    .string "That'd be, like, waaaaaaaaaaah!\n"
-    .string "Total terror!\p"
-    .string "You don't seem to be scared.\n"
-    .string "Want to try using ROCK SLIDE?$"
+    .string "Kdyz jsi nahore na skalnaté\n"
+    .string "hore jako tady, hrozí sesuvy.\p"
+    .string "Predstavís si to?\n"
+    .string "Balvany se na tebe valí?\p"
+    .string "To by bylo jako, ááááááá!\n"
+    .string "Naprostá hruza!\p"
+    .string "Nezdá se, ze bys mel strach.\n"
+    .string "Chces zkusit pouzít ROCK SLIDE?$"
 
 Text_RockSlideDeclined::
-    .string "Oh, so you are scared after all.$"
+    .string "Ó, tak ty se prece jen bojís.$"
 
 Text_RockSlideWhichMon::
-    .string "Which POKéMON should I teach\n"
+    .string "Kterého POKéMONa mám naucit\n"
     .string "ROCK SLIDE?$"
 
 Text_RockSlideTaught::
-    .string "It might be scary to use it in this\n"
-    .string "tunnel…$"
+    .string "V tomhle tunelu by mohlo byt\n"
+    .string "strasidelné to pouzít…$"
 
 SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
-    .string "Hint: Boulders might change the\n"
-    .string "flow of water.$"
+    .string "Tip: Balvany mohou zmenit\n"
+    .string "proud vody.$"
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
-    .string "DANGER\n"
-    .string "Fast current!$"
-
+    .string "NEBEZPECÍ\n"
+    .string "Rychly proud!$"

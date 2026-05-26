@@ -1,18 +1,18 @@
 CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
-    .string "I'm getting a present for my\n"
-    .string "girlfriend.\p"
-    .string "I guess a POKé DOLL will be it.\n"
-    .string "It's the popular thing.$"
+    .string "Beru dárek pro svou\n"
+    .string "prítelkyni.\p"
+    .string "Asi to bude POKé PANENKA.\n"
+    .string "Ted je to populární.$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
-    .string "I heard something useful.\p"
-    .string "If a wild POKéMON appears, you can\n"
-    .string "distract it with a POKé DOLL.\p"
-    .string "You can run away while the wild\n"
-    .string "POKéMON is distracted.$"
+    .string "Slysel jsem neco uzitecného.\p"
+    .string "Kdyz se objeví divoky POKéMON,\n"
+    .string "rozptylís ho POKé PANENKOU.\p"
+    .string "Behem rozptylení muzes utéct\n"
+    .string "od divokého POKéMONa.$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-    .string "Express yourself with gifts!\n"
-    .string "4F: WISE MAN GIFTS\p"
-    .string "Evolution Special!\n"
-    .string "Element STONES on sale now!$"
+    .string "Vyjádri se dárky!\n"
+    .string "4F: DÁRKY OD MUDRCE\p"
+    .string "Evolucní akce!\n"
+    .string "KAMENY ted ve sleve!$"

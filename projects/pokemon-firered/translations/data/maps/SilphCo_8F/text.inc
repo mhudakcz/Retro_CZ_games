@@ -1,49 +1,49 @@
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-    .string "I wonder if SILPH is finished…$"
+    .string "Coz SILPH skoncí…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-    .string "Thanks for saving us!$"
+    .string "Díky, ze jsi nás zachránil!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-    .string "That's as far as you'll go!$"
+    .string "Dál uz se nedostanes!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-    .string "Not enough grit!$"
+    .string "Málo síly!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
-    .string "If you don't turn back…\n"
-    .string "I'll call for backup!$"
+    .string "Kdyz se neotocís…\n"
+    .string "Zavolám posily!$"
 
 SilphCo_8F_Text_ParkerIntro::
-    .string "You're causing us problems!$"
+    .string "Delás nám problémy!$"
 
 SilphCo_8F_Text_ParkerDefeat::
-    .string "Huh?\n"
-    .string "I lost?$"
+    .string "He?\n"
+    .string "Prohrál jsem?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-    .string "So, what do you think of SILPH\n"
-    .string "BUILDING's maze?$"
+    .string "Tak co ríkás bludisti\n"
+    .string "v BUDOVE SILPH?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+    .string "Já jsem jeden ze ctyr\n"
+    .string "BRATRU ROCKETU!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
-    .string "Whoo!\n"
-    .string "Oh, Brothers!$"
+    .string "Páni!\n"
+    .string "Ach, Bratri!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-    .string "I'll leave you up to my brothers.$"
+    .string "Nechávám te svym bratrum.$"
 
 SilphCo_8F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "SILPH CO. HLAVNÍ KANCELÁR\n"
     .string "8F$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-    .string "TEAM ROCKET's BOSS is terribly\n"
-    .string "cruel!\p"
-    .string "To him, POKéMON are just tools to\n"
-    .string "be used.\p"
-    .string "What will happen if that tyrant\n"
-    .string "takes over our company…$"
+    .string "BOSS TEAM ROCKETu je strasne\n"
+    .string "kruty!\p"
+    .string "Pro nej jsou POKéMONi jen\n"
+    .string "nástroje k pouzití.\p"
+    .string "Co se stane, kdyz ten tyran\n"
+    .string "prevezme nasi firmu…$"

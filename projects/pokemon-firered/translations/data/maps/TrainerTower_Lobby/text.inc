@@ -1,120 +1,120 @@
 @ All Trainer Tower text (Lobby and Roof) is interleaved here
 
 TrainerTower_Lobby_Text_WelcomeToTrainerTower::
-    .string "Hello!\p"
-    .string "Welcome to TRAINER TOWER where\n"
-    .string "TRAINERS gather from all over!$"
+    .string "Ahoj!\p"
+    .string "Vítej v TRAINER TOWER, kde se\n"
+    .string "scházejí TRENÉRI z celého sveta!$"
 
 TrainerTower_Lobby_Text_TrainersUpToFloorNum::
-    .string "TRAINERS from all over the world\n"
-    .string "gather here to battle.\p"
-    .string "Let me see…\p"
-    .string "Right now, there are TRAINERS only\n"
-    .string "up to Floor {STR_VAR_1}.$"
+    .string "TRENÉRI z celého sveta se sem\n"
+    .string "scházejí, aby bojovali.\p"
+    .string "Pockej…\p"
+    .string "Práve ted jsou tu TRENÉRI jen\n"
+    .string "do patra {STR_VAR_1}.$"
 
 TrainerTower_Lobby_Text_TrainersUpEighthFloor::
-    .string "TRAINERS are awaiting your\n"
-    .string "challenge up to the eighth floor.$"
+    .string "TRENÉRI cekají na tvou\n"
+    .string "vyzvu az do osmého patra.$"
 
 TrainerTower_Lobby_Text_LikeToChallengeTrainers::
-    .string "Would you like to challenge the\n"
-    .string "waiting TRAINERS?$"
+    .string "Chtel by ses utkat s\n"
+    .string "cekajícími TRENÉRY?$"
 
 TrainerTower_Lobby_Text_StartClockGetSetGo::
-    .string "Okay, I'll get the clock started,\n"
-    .string "so give it everything you have.\p"
-    .string "On your marks…\p"
-    .string "Get set…\p"
-    .string "Go!$"
+    .string "Dobre, spustím hodiny,\n"
+    .string "tak do toho dej vse.\p"
+    .string "Pripravit…\p"
+    .string "Pozor…\p"
+    .string "Ted!$"
 
 TrainerTower_Lobby_Text_PleaseVisitUsAgain::
-    .string "Please do visit us again!$"
+    .string "Navstiv nás zase!$"
 
 TrainerTower_Lobby_Text_TooBadComeBackTryAgain::
-    .string "That was too bad.\p"
-    .string "I think you put in a tremendous\n"
-    .string "effort in your battling.\p"
-    .string "Please come back and try again!$"
+    .string "To je skoda.\p"
+    .string "Myslím, ze jsi do svého boje\n"
+    .string "vlozil obrovské úsilí.\p"
+    .string "Prijd zase a zkus to znovu!$"
 
 TrainerTower_Lobby_Text_GiveItYourBest::
-    .string "I hope you give it your best.$"
+    .string "Doufám, ze do toho dás vse.$"
 
 TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
-    .string "When the TRAINERS switch places,\n"
-    .string "the movement can be hectic.\p"
-    .string "To avoid the stampede, we moved\n"
-    .string "the reception counter here.\p"
-    .string "I'm sorry for the inconvenience.$"
+    .string "Kdyz si TRENÉRI menili místa,\n"
+    .string "byval pohyb dost hekticky.\p"
+    .string "Abychom predesli tlacenici,\n"
+    .string "presunuli jsme recepci sem.\p"
+    .string "Omlouvám se za nepríjemnosti.$"
 
 TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
-    .string "Hello…\p"
-    .string "I am the owner of this TOWER…\p"
-    .string "How the sky soars above this\n"
-    .string "rooftop…\p"
-    .string "The caress of the winds up here…\p"
-    .string "It's all so perfect…\p"
-    .string "The way you battled…\n"
-    .string "It, too, was perfection…$"
+    .string "Ahoj…\p"
+    .string "Jsem majitel téhle TOWER…\p"
+    .string "Jak se obloha klene nad\n"
+    .string "touhle strechou…\p"
+    .string "Pohlazení vetru tady nahore…\p"
+    .string "Vse je tak dokonalé…\p"
+    .string "Zpusob, jak jsi bojoval…\n"
+    .string "I ten byl dokonalostí…$"
 
 TrainerTower_Roof_Text_ThisIsForYou::
-    .string "This is for you…$"
+    .string "Tohle je pro tebe…$"
 
 TrainerTower_Roof_Text_DoneItInRecordTime::
-    .string "Oh!\n"
-    .string "Stupendous!\p"
-    .string "It's marvelous how you've come up\n"
-    .string "here so quickly.\p"
-    .string "The fact is, you've done it in\n"
-    .string "record time…\p"
-    .string "I'll have your record posted at\n"
-    .string "the reception counter.$"
+    .string "Ó!\n"
+    .string "Úzasné!\p"
+    .string "Je úchvatné, jak rychle\n"
+    .string "ses dostal az sem.\p"
+    .string "Pravdou je, ze jsi to dokázal\n"
+    .string "v rekordním case…\p"
+    .string "Tvuj rekord nechám vyvesit\n"
+    .string "na recepci.$"
 
 TrainerTower_Roof_Text_TookSweetTimeGettingHere::
-    .string "You seem to have taken your sweet\n"
-    .string "time getting here…$"
+    .string "Zdá se, ze sis dal na cas,\n"
+    .string "nez ses sem dostal…$"
 
 TrainerTower_Roof_Text_IdLikeToSeeBetterTime::
-    .string "What I would like to see is a\n"
-    .string "better time out of you…\p"
-    .string "I'm counting on you.\p"
-    .string "Until then, farewell…$"
+    .string "Co bych rád videl, je\n"
+    .string "lepsí cas z tvé strany…\p"
+    .string "Spoléhám na tebe.\p"
+    .string "Do té doby sbohem…$"
 
 TrainerTower_Text_XMinYZSec::
-    .string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
+    .string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sek.$"
 
 TrainerTower_Lobby_Text_HereAreTheResults::
     .string "せいせきひょうです$"
 
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
-    .string "This is a two-on-two battle.\p"
-    .string "You may not battle unless you have\n"
-    .string "at least two POKéMON.$"
+    .string "Tohle je souboj dva na dva.\p"
+    .string "Nemuzes bojovat, dokud nemás\n"
+    .string "alespon dva POKéMONy.$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
-    .string "Here at TRAINER TOWER, there is an\n"
-    .string "event called TIME ATTACK.\p"
-    .string "You will be timed on how quickly\n"
-    .string "you can get from the reception\l"
-    .string "counter to the OWNER on the roof.\p"
-    .string "The best times will be recorded on\n"
-    .string "the Time Board.\p"
-    .string "Try competing with friends to see\n"
-    .string "who can beat it the fastest.\p"
-    .string "You will not earn any EXP. Points\n"
-    .string "or money by beating TRAINERS here.$"
+    .string "Tady v TRAINER TOWER je\n"
+    .string "událost zvaná TIME ATTACK.\p"
+    .string "Bude se merit, jak rychle\n"
+    .string "se dostanes od recepce\l"
+    .string "k MAJITELI na strese.\p"
+    .string "Nejlepsí casy se zapísí na\n"
+    .string "Time Board.\p"
+    .string "Zkus soutezit s kamarády,\n"
+    .string "kdo to zvládne nejrychleji.\p"
+    .string "Za porázení TRENÉRU tady\n"
+    .string "nezískás zádné EXP body ani peníze.$"
 
 TrainerTower_Lobby_Text_ThanksForCompeting::
-    .string "Thank you for competing!$"
+    .string "Díky za úcast v souteze!$"
 
 TrainerTower_Lobby_Text_WonderWhatKindsOfTrainers::
-    .string "I'm here to see how good I am.\p"
-    .string "I wonder what kinds of TRAINERS\n"
-    .string "are waiting for me?\p"
-    .string "It's nerve-racking!$"
+    .string "Jsem tu, abych zjistil, jak\n"
+    .string "jsem dobry.\p"
+    .string "Jakí TRENÉRI na me asi\n"
+    .string "cekají?\p"
+    .string "Je to nervy drásající!$"
 
 TrainerTower_Lobby_Text_StairsTougherThanAnyBattle::
-    .string "Gasp, gasp…\n"
-    .string "Gasp…\p"
-    .string "Never mind battling! These stairs…\n"
-    .string "They're tougher than any battle…$"
-
+    .string "Lapám, lapám…\n"
+    .string "Lapám…\p"
+    .string "Co boj! Tyhle schody…\n"
+    .string "Jsou tezsí nez jakykoli souboj…$"

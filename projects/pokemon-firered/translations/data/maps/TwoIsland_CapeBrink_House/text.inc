@@ -1,53 +1,53 @@
 Text_UltimateMoveThatMon::
-    .string "I perfected the ultimate move of\n"
-    .string "its type…\p"
-    .string "But will no one take it for\n"
-    .string "future use?\p"
+    .string "Zdokonalil jsem konecny útok\n"
+    .string "svého typu…\p"
+    .string "Ale nikdo si ho nevezme\n"
+    .string "pro budoucí pouzití?\p"
     .string "…Hm? Hmmm!\p"
-    .string "Y-you…\n"
-    .string "Th-that {STR_VAR_1}…$"
+    .string "T-ty…\n"
+    .string "T-tento {STR_VAR_1}…$"
 
 Text_JustMistaken::
-    .string "…No…\n"
-    .string "I was just mistaken.$"
+    .string "…Ne…\n"
+    .string "Jen jsem se zmylil.$"
 
 Text_AllowMeToTeachMonUltimateMove::
-    .string "Oh! This is the one!\n"
-    .string "This is the POKéMON!\p"
-    .string "This {STR_VAR_1} is worthy of\n"
-    .string "learning my ultimate move!\p"
-    .string "Will you allow it?\p"
-    .string "Will you allow your {STR_VAR_1} to\n"
-    .string "learn my {STR_VAR_2}?$"
+    .string "Ach! Tohle je on!\n"
+    .string "Toto je ten POKéMON!\p"
+    .string "Tento {STR_VAR_1} si zaslouzí\n"
+    .string "naucit muj konecny útok!\p"
+    .string "Dovolís to?\p"
+    .string "Dovolís svému {STR_VAR_1}\n"
+    .string "naucit se muj {STR_VAR_2}?$"
 
 Text_YouRejectIt::
-    .string "Gaah! You reject it?\n"
-    .string "No, I won't be dissuaded!$"
+    .string "Gaah! Odmítás to?\n"
+    .string "Ne, nedám se odradit!$"
 
 Text_LetMeConferUltimateMove::
-    .string "You will allow it?\p"
-    .string "Then, let me confer my ultimate\n"
-    .string "{STR_VAR_2} on your {STR_VAR_1}.\p"
+    .string "Dovolís to?\p"
+    .string "Pak dovol, abych predal svuj\n"
+    .string "konecny {STR_VAR_2} tvému {STR_VAR_1}.\p"
     .string "Ggggrah-awooo!$"
 
 Text_TaughtMove::
-    .string "Gasp, gasp, gasp…\p"
-    .string "I didn't think I could teach that\n"
-    .string "move while I still lived…$"
+    .string "Lapám, lapám, lapám…\p"
+    .string "Nemyslel jsem, ze ten útok\n"
+    .string "naucím, dokud jsem zivy…$"
 
 Text_MakeBestUseOfMove::
-    .string "I implore you to make the best\n"
-    .string "use of that move and gain power!$"
+    .string "Naléhám na tebe, abys vyuzil\n"
+    .string "ten útok a získal sílu!$"
 
 Text_PassedOnEverythingIKnow::
-    .string "Gasp, gasp, gasp…\p"
-    .string "I have no regrets now.\n"
-    .string "I've passed on everything I know.\p"
-    .string "Now I can live out my life knowing\n"
-    .string "my work is done.$"
+    .string "Lapám, lapám, lapám…\p"
+    .string "Uz nemám lítost.\n"
+    .string "Predal jsem vse, co znám.\p"
+    .string "Ted muzu prozít svuj zivot\n"
+    .string "s vedomím, ze má práce skoncila.$"
 
 Text_FeelRejuvenated::
-    .string "After I passed on my knowledge to\n"
-    .string "you, I felt so much relief.\p"
-    .string "In fact, I feel rejuvenated,\n"
-    .string "as if I were younger again!$"
+    .string "Po tom, co jsem ti predal\n"
+    .string "své znalosti, cítím takovou úlevu.\p"
+    .string "Cítím se omlazen,\n"
+    .string "jako bych byl mladsí!$"

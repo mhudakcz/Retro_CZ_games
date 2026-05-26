@@ -1,48 +1,47 @@
 SSAnne_Kitchen_Text_BusyOutOfTheWay::
-    .string "You, mon petit!\n"
-    .string "We're busy here!\l"
-    .string "Out of the way!$"
+    .string "Ty, mon petit!\n"
+    .string "Tady máme práci!\l"
+    .string "Z cesty!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-    .string "I saw an odd BERRY in the trash.\n"
-    .string "I wonder what that was?$"
+    .string "Videl jsem v kosi divnou BERRY.\n"
+    .string "Co to asi bylo?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
-    .string "I'm so busy I'm getting dizzy!\n"
-    .string "You have to give me room here!$"
+    .string "Mám tolik práce, ze se mi tocí\n"
+    .string "hlava! Musís me pustit!$"
 
 SSAnne_Kitchen_Text_PeelSpudsEveryDay::
-    .string "Hum-de-hum-de-ho…\p"
-    .string "I peel spuds every day!\n"
-    .string "Hum-hum…$"
+    .string "Trá-lá-lá-lá…\p"
+    .string "Loupu brambory kazdy den!\n"
+    .string "Trá-lá…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-    .string "Did you hear about SNORLAX?\n"
-    .string "It's a glutton.\p"
-    .string "No other POKéMON eats and sleeps\n"
-    .string "the way SNORLAX can and does!$"
+    .string "Slysel jsi o SNORLAXovi?\n"
+    .string "Je to zravec.\p"
+    .string "Zádny jiny POKéMON nejí a\n"
+    .string "nespí jako SNORLAX!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
-    .string "Snivel… Sniff…\p"
-    .string "I only get to peel onions…\n"
-    .string "Snivel…$"
+    .string "Bre… Hek…\p"
+    .string "Muzu loupat jen cibuli…\n"
+    .string "Bre…$"
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
-    .string "Er-hem!\n"
-    .string "Indeed I am le CHEF!\p"
-    .string "Le main course is$"
+    .string "Khm!\n"
+    .string "Já jsem le KUCHAR!\p"
+    .string "Le hlavní chod je$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
-    .string "Salmon du Salad!\p"
-    .string "Les guests may gripe it's fish\n"
-    .string "again, however!$"
+    .string "Losos du Salát!\p"
+    .string "Les hosté budou reptat, ze je\n"
+    .string "zase ryba!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
-    .string "Eels au Barbecue!\p"
-    .string "Les guests will mutiny, I fear.$"
+    .string "Úhori au Barbecue!\p"
+    .string "Les hosté se obávám vzbourí.$"
 
 SSAnne_Kitchen_Text_PrimeBeefsteak::
-    .string "Prime Beefsteak!\p"
-    .string "But, have I enough fillets du\n"
-    .string "beef?$"
-
+    .string "Prvotrídní biftek!\p"
+    .string "Ale mám dost filé du\n"
+    .string "hovezí?$"

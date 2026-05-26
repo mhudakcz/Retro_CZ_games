@@ -1,5 +1,5 @@
 gOtherText_NewName::
-    .string "NEW NAME$"
+    .string "NOVÉ JMÉNO$"
 
 gNameChoice_Green::
     .string "GREEN$"
@@ -125,119 +125,119 @@ gNameChoice_Suzi::
     .string "SUZI$"
 
 gControlsGuide_Text_Intro::
-    .string "The various buttons will be explained in\n"
-    .string "the order of their importance.$"
+    .string "Jednotlivá tlacítka budou vysvetlena\n"
+    .string "v poradí jejich dulezitosti.$"
 
 gControlsGuide_Text_DPad::
-    .string "Moves the main character.\n"
-    .string "Also used to choose various data\n"
-    .string "headings.$"
+    .string "Pohybuje hlavní postavou.\n"
+    .string "Také slouzí k volbe ruznych\n"
+    .string "polozek.$"
 
 gControlsGuide_Text_AButton::
-    .string "Used to confirm a choice, check\n"
-    .string "things, chat, and scroll text.$"
+    .string "Slouzí k potvrzení volby, zkoumání\n"
+    .string "vecí, hovoru a posouvání textu.$"
 
 gControlsGuide_Text_BButton::
-    .string "Used to exit, cancel a choice,\n"
-    .string "and cancel a mode.$"
+    .string "Slouzí k odchodu, zrusení volby\n"
+    .string "a zrusení rezimu.$"
 
 gControlsGuide_Text_StartButton::
-    .string "Press this button to open the\n"
+    .string "Stiskni toto tlacítko pro otevrení\n"
     .string "MENU.$"
 
 gControlsGuide_Text_SelectButton::
-    .string "Used to shift items and to use\n"
-    .string "a registered item.$"
+    .string "Slouzí k presunu predmetu a\n"
+    .string "pouzití registrovaného predmetu.$"
 
 gControlsGuide_Text_LRButtons::
-    .string "If you need help playing the\n"
-    .string "game, or on how to do things,\n"
-    .string "press the L or R Button.$"
+    .string "Pokud potrebujes pomoc se hrou\n"
+    .string "nebo jak neco udelat,\n"
+    .string "stiskni L nebo R tlacítko.$"
 
 gOakSpeech_Text_AskPlayerGender::
-    .string "Now tell me. Are you a boy?\n"
-    .string "Or are you a girl?$"
+    .string "Tak mi rekni. Jsi kluk?\n"
+    .string "Nebo holka?$"
 
 gPikachuIntro_Text_Page1::
-    .string "In the world which you are about to\n"
-    .string "enter, you will embark on a grand\n"
-    .string "adventure with you as the hero.\n"
+    .string "Ve svete, do kterého se chystás\n"
+    .string "vstoupit, te ceká velké\n"
+    .string "dobrodruzství, kde budes hrdinou.\n"
     .string "\n"
-    .string "Speak to people and check things\n"
-    .string "wherever you go, be it towns, roads,\n"
-    .string "or caves. Gather information and\n"
-    .string "hints from every source.$"
+    .string "Mluv s lidmi a zkoumej veci\n"
+    .string "vsude, kam jdes - ve mestech,\n"
+    .string "na cestách ci v jeskyních.\n"
+    .string "Sbírej informace a tipy.$"
 
 gPikachuIntro_Text_Page2::
-    .string "New paths will open to you by helping\n"
-    .string "people in need, overcoming challenges,\n"
-    .string "and solving mysteries.\n"
+    .string "Nové cesty se ti otevrou, kdyz\n"
+    .string "budes pomáhat lidem v nouzi,\n"
+    .string "zdolávat vyzvy a resit záhady.\n"
     .string "\n"
-    .string "At times, you will be challenged by\n"
-    .string "others and attacked by wild creatures.\n"
-    .string "Be brave and keep pushing on.$"
+    .string "Obcas te vyzvou jiní a\n"
+    .string "napadnou divoké stvury.\n"
+    .string "Bud odvázny a nepolevuj.$"
 
 gPikachuIntro_Text_Page3::
-    .string "Through your adventure, we hope\n"
-    .string "that you will interact with all sorts\n"
-    .string "of people and achieve personal growth.\n"
-    .string "That is our biggest objective.\n"
+    .string "Behem svého dobrodruzství doufáme,\n"
+    .string "ze poznás vsechny druhy lidí\n"
+    .string "a dosáhnes osobního rustu.\n"
+    .string "To je nás hlavní cíl.\n"
     .string "\n"
-    .string "Press the A Button, and let your\n"
-    .string "adventure begin!$"
+    .string "Stiskni tlacítko A a\n"
+    .string "zacni své dobrodruzství!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-    .string "Hello, there!\n"
-    .string "Glad to meet you!\p"
-    .string "Welcome to the world of POKéMON!\p"
-    .string "My name is OAK.\p"
-    .string "People affectionately refer to me\n"
-    .string "as the POKéMON PROFESSOR.\p$"
+    .string "Zdravícko!\n"
+    .string "Rád te poznávám!\p"
+    .string "Vítej ve svete POKéMONu!\p"
+    .string "Jmenuji se OAK.\p"
+    .string "Lidé mi laskave ríkají\n"
+    .string "POKéMON PROFESOR.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "Tento svet…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…is inhabited far and wide by\n"
-    .string "creatures called POKéMON.\p$"
+    .string "…je obydlen siroko daleko\n"
+    .string "tvory zvanymi POKéMON.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For some people, POKéMON are pets.\n"
-    .string "Others use them for battling.\p"
-    .string "As for myself…\p"
-    .string "I study POKéMON as a profession.\p$"
+    .string "Pro nekoho jsou POKéMONi mazlícci.\n"
+    .string "Jiní je pouzívají k souboji.\p"
+    .string "Pokud jde o me…\p"
+    .string "Studuji POKéMONy jako profesi.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-    .string "But first, tell me a little about\n"
-    .string "yourself.\p$"
+    .string "Ale nejprve mi povez\n"
+    .string "neco o sobe.\p$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
-    .string "Let's begin with your name.\n"
-    .string "What is it?\p$"
+    .string "Zacneme tvym jménem.\n"
+    .string "Jak se jmenujes?\p$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-    .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "Aha…\n"
+    .string "Tvé jméno je tedy {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
-    .string "This is my grandson.\p"
-    .string "He's been your rival since you both\n"
-    .string "were babies.\p"
-    .string "…Erm, what was his name now?$"
+    .string "Tohle je muj vnuk.\p"
+    .string "Je tvuj rival, co jste oba\n"
+    .string "byli mimina.\p"
+    .string "…Hmm, jak se to jmenoval?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-    .string "Your rival's name, what was it now?$"
+    .string "Jméno tvého rivala, jak to bylo?$"
 
 gOakSpeech_Text_ConfirmRivalName::
-    .string "…Er, was it {RIVAL}?$"
+    .string "…Ehm, bylo to {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
-    .string "That's right! I remember now!\n"
-    .string "His name is {RIVAL}!\p$"
+    .string "Presne tak! Uz si vzpomínám!\n"
+    .string "Jeho jméno je {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
-    .string "Your very own POKéMON legend is\n"
-    .string "about to unfold!\p"
-    .string "A world of dreams and adventures\n"
-    .string "with POKéMON awaits! Let's go!$"
+    .string "Tvá vlastní POKéMON legenda\n"
+    .string "se chystá zacít!\p"
+    .string "Svet snu a dobrodruzství s\n"
+    .string "POKéMONy ceká! Jdeme na to!$"
