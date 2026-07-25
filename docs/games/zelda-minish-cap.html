@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Zelda: The Minish Cap CZ — Retro hry česky</title>
-<meta name="description" content="Český překlad hry Zelda: The Minish Cap pro GBA.">
+<meta name="description" content="Český překlad hry The Legend of Zelda: The Minish Cap pro Game Boy Advance.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
@@ -16,30 +16,79 @@
   <nav><a href="../index.html">← zpět na katalog</a></nav>
   <div class="platform-tag">GBA · 2004 · Action/Adventure</div>
   <h1 class="crt">Zelda: The Minish Cap<br><span class="accent">česky</span></h1>
-  <p class="tagline">Capcomovo Zelda na GBA. Roztomilá grafika, miniaturní svět, klobouk Ezlo.</p>
-  <span class="badge status-planned">PLANNED</span>
+  <p class="tagline">Capcomovo Zelda na GBA. Miniaturní svět Piccoru, klobouk Ezlo, Vaati jako padouch. Link se zmenšuje na velikost myši a prochází svět z perspektivy hmyzu.</p>
+  <span class="badge status-wip">v0.1 — experimental beta</span>
 </header>
 
 <main>
 
 <section>
   <h2>O hře</h2>
-  <p>The Minish Cap je 2D Zelda hra od Capcomu (2004). Link se může zmenšovat na velikost lidí Minish a procházet svět z perspektivy myši. Hra má víc dialogů než LTTP a roztomilou prezentaci.</p>
+  <p><strong>The Legend of Zelda: The Minish Cap</strong> (Capcom/Nintendo, 2004) je posledním 2D Zelda příběhem před přechodem série na 3D. Link dostane od klobouku Ezlo schopnost zmenšovat se a procházet svět z hmyzí perspektivy. Objevuje kmen Piccoru, sbírá Kámen osudu (Kinstones), a čelí černokněžníkovi Vaatimu.</p>
 </section>
 
 <section>
   <h2>Jak na překlad</h2>
-  <p>Komunita má nástroje pro úpravu textu (TMC editory). Není to čisté <em>disassembly</em>, ale ROM-hackerská cesta s extrakcí a injekcí textu je proveditelná.</p>
+  <p>Tady byla cesta nejčistší ze všech. Repo <a href="https://github.com/zeldaret/tmc">zeldaret/tmc</a> už má překlady v <strong>JSON formátu</strong> (`translations/USA.json`) — pole 80 skupin stringů se `\n`, `{Var:N}`, `{Color:X}` markery. Stačí přepsat anglické stringy na české, spustit `tmc_strings` (kompilátor textu) a získat novou ROM.</p>
+  <p>Náš workflow:</p>
+  <ol>
+    <li><code>split_usa.py</code> — rozdělí 2909 překladatelných stringů do 8 chunků</li>
+    <li>8 paralelních agentů překládá — každý svůj chunk</li>
+    <li><code>merge_usa.py</code> — sjednotí zpět do USA.json</li>
+    <li>Auto-transliterace pro znaky mimo font (Turkish `ı`, české diakritiky)</li>
+    <li><code>tmc_strings</code> → <code>USA.bin</code> → linkuje se do ROM</li>
+  </ol>
 </section>
 
 <section>
-  <h2>Stav</h2>
-  <p>Zatím nezačato. Sleduj <a href="../index.html">katalog</a> nebo pilotní projekt <a href="https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/">Pokémon Yellow CZ</a>, který běží jako referenční implementace celého workflow.</p>
+  <h2>Tvrdá omezení</h2>
+  <ul>
+    <li><strong>Toolchain pinning</strong> — tmc decomp byte-matchuje jen s přesně pinnutou verzí devkitARM, kterou nemáme. Náš build s devkitARM r66 je 25 % byte-divergentní od originálu. Postavená ROM je označená <em>experimental</em>, protože její chování jsme nemohli plně otestovat.</li>
+    <li><strong>Bez diakritiky</strong> (v0.1) — háčky a čárky převedeny na ASCII (á→a, č→c, atd.). Font by některé podporoval, ale zatím jistota.</li>
+    <li><strong>API session limit</strong> zastavil 2 z 8 agentů → 74 % pokrytí. Zbylé texty zůstanou anglicky (silent fallback).</li>
+  </ul>
 </section>
 
 <section>
-  <h2>Repo a kontakt</h2>
-  <p>Stránka dostane repo, jakmile rozjedeme práci.</p>
+  <h2>Stav (v0.1 experimental)</h2>
+  <div class="grid-2">
+    <div class="card">
+      <h3>HOTOVO</h3>
+      <ul>
+        <li><span class="check">✓</span> RE tmc build toolchain (patche pro gcc-16, LF/CRLF, adr, path)</li>
+        <li><span class="check">✓</span> devkitARM r66 + agbcc + našich patchi</li>
+        <li><span class="check">✓</span> Text pipeline (split/merge/inject)</li>
+        <li><span class="check">✓</span> 2146 z 2909 stringů přeloženo (74%)</li>
+        <li><span class="check">✓</span> ROM se buduje (16 MB)</li>
+        <li><span class="check">✓</span> Ověřená česká slova v built ROM ("Chytlo te", "Aktivovat", "Ulozit"…)</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>ZBÝVÁ</h3>
+      <ul>
+        <li><span class="pending">…</span> Chunks 02 + 04 (~728 stringů)</li>
+        <li><span class="pending">…</span> Test v emulátoru — naběhne divergentní build?</li>
+        <li><span class="pending">…</span> Pinnutý tmc toolchain pro byte-perfekt build</li>
+        <li><span class="pending">…</span> Diakritika (font check)</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Stáhnout</h2>
+  <p><strong>⚠️ EXPERIMENTAL</strong> — build není byte-perfekt s originálem (25 % odchylka v kódové sekci kvůli toolchain pinu). Nemusí naběhnout nebo se chovat správně. Otestuj v emulátoru, ohlas výsledek.</p>
+  <p style="margin-top:20px;">
+    <a class="cta" href="https://github.com/mhudakcz/Retro_CZ_games/raw/master/projects/zelda-minish-cap/roms/Zelda_Minish_Cap_CZ_v0.1_experimental.gba">⬇ Zelda_Minish_Cap_CZ_v0.1_experimental.gba (16 MB)</a>
+  </p>
+  <p style="font-size:18px; color:var(--ink-soft); margin-top:14px;"><strong>SHA1:</strong> <code>35ef2edc7dc4d8e9f1a9e98c6ce5495c569c98e7</code> · <strong>velikost:</strong> 16 MB · postaveno z <a href="https://github.com/zeldaret/tmc">zeldaret/tmc</a> disassembly</p>
+</section>
+
+<section>
+  <h2>Repo</h2>
+  <p>Pipeline + překlad: <a href="https://github.com/mhudakcz/Retro_CZ_games/tree/master/projects/zelda-minish-cap">Retro_CZ_games/projects/zelda-minish-cap/</a></p>
+  <p>Disassembly (originál): <a href="https://github.com/zeldaret/tmc">zeldaret/tmc</a></p>
+  <p>Naše patche na tmc pro gcc-16 kompatibilitu: <a href="https://github.com/mhudakcz/Retro_CZ_games/blob/master/projects/zelda-minish-cap/patches/tmc_toolchain_compat.patch">tmc_toolchain_compat.patch</a></p>
 </section>
 
 </main>
