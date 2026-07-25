@@ -1,0 +1,2186 @@
+[
+ {
+  "gi": 13,
+  "si": 13,
+  "en": "{Sound:01:FF}Hey, they fit!\n...I wonder what that means.",
+  "cz": "{Sound:01:FF}Hele, sedi to!\n...Co to asi znamena?"
+ },
+ {
+  "gi": 13,
+  "si": 14,
+  "en": "{Sound:01:FC}Did you ever check out that watery\nspot? Was I right? It was weird, huh?",
+  "cz": "{Sound:01:FC}Koukal jsi na to vodnate misto?\nMel jsem pravdu? Divny, co?"
+ },
+ {
+  "gi": 13,
+  "si": 15,
+  "en": "{Sound:00:B0}What is it? What do you want from me?!\n\nYou're after my {Color:Blue}bean{Color:White}, aren't you!?\n\nWell, I'll NEVER tell you where it is!\nIt's mine! Mine, do you hear me! Mine!\nBut...I suppose if you can {Color:Blue}fuse a\nKinstone {Color:White}with me, I might tell you.\n...\n\n{Sound:01:F9}How was I? Did I sound like an elder?\nI've been practicing my elder-ese!",
+  "cz": "{Sound:00:B0}Co je? Co ode me chces?!\n\nJdes po mem {Color:Blue}fazoli{Color:White}, co?!\n\nNIKDY ti nereknu, kde je!\nJe muj! Muj, slysis! Muj!\nAle...kdyz se mnou {Color:Blue}spojis\nKamen osudu{Color:White}, mozna ti to reknu.\n...\n\n{Sound:01:F9}Jaky jsem byl? Znel jsem jako starsi?\nTrenuju mluvit jako oni!"
+ },
+ {
+  "gi": 13,
+  "si": 16,
+  "en": "{Sound:01:FA}Huh? You want to {Color:Blue}fuse Kinstones{Color:White}?\nYeah, all right!",
+  "cz": "{Sound:01:FA}He? Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJo, jasne!"
+ },
+ {
+  "gi": 13,
+  "si": 17,
+  "en": "{Sound:01:F8}You changed your mind?\nThat's so selfish!",
+  "cz": "{Sound:01:F8}Rozmyslel sis to?\nTo je sobecky!"
+ },
+ {
+  "gi": 13,
+  "si": 18,
+  "en": "{Sound:01:F8}Hey! A perfect fuse!\nMaybe we'll get lucky now!",
+  "cz": "{Sound:01:F8}Hele! Dokonale spojeni!\nMozna budeme mit stesti!"
+ },
+ {
+  "gi": 13,
+  "si": 19,
+  "en": "{Sound:00:B0}You're here to steal my {Color:Blue}bean{Color:White},\naren'tcha?\nWell, you're out of luck! It's\ngrown way too big now!! Ha ha!\n{Sound:01:F9}So how was my elder impersonation?\nHe talks JUST like that! Doesn't he?",
+  "cz": "{Sound:00:B0}Prisel jsi mi ukrast {Color:Blue}fazoli{Color:White},\nco?\nSmula! Uz vyrostl moc velky!!\nCha cha!\n{Sound:01:F9}Tak jak ta imitace starsiho?\nMluvi PRESNE takhle! Ze jo?"
+ },
+ {
+  "gi": 13,
+  "si": 20,
+  "en": "{Sound:01:F9}I planted a bean {Color:Blue}back {Color:White}there,\nbut it just won't sprout...",
+  "cz": "{Sound:01:F9}Zasadil jsem fazoli {Color:Blue}tamhle{Color:White},\nale nechce vyklicit..."
+ },
+ {
+  "gi": 13,
+  "si": 21,
+  "en": "{Sound:02:03}You want to {Color:Blue}fuse Kinstones{Color:White}?\nSure, why not! Let's do it!",
+  "cz": "{Sound:02:03}Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJasne, proc ne! Jdem na to!"
+ },
+ {
+  "gi": 13,
+  "si": 22,
+  "en": "{Sound:01:FA}You changed your mind? Well, I'll be\nhere if you change your mind again.",
+  "cz": "{Sound:01:FA}Rozmyslel sis to? Budu tady,\nkdyz si to zase rozmyslis."
+ },
+ {
+  "gi": 13,
+  "si": 23,
+  "en": "{Sound:01:FA}We did it! We're in for a run\nof good luck now!",
+  "cz": "{Sound:01:FA}Dokazali jsme to! Ceka nas\nporadne stesti!"
+ },
+ {
+  "gi": 13,
+  "si": 24,
+  "en": "{Sound:01:F8}My {Color:Blue}bean {Color:White}grew! ...Kind of a lot!\nA little too much, actually!",
+  "cz": "{Sound:01:F8}Muj {Color:Blue}fazol {Color:White}vyrostl! ...Docela hodne!\nVlastne az moc!"
+ },
+ {
+  "gi": 13,
+  "si": 25,
+  "en": "{Sound:02:0C}I planted a {Color:Blue}bean {Color:White}on that {Color:Green}mountain to\nthe left{Color:White}... But it won't sprout.\nI guess a metalworker like me just\nisn't cut out to be a gardener...",
+  "cz": "{Sound:02:0C}Zasadil jsem {Color:Blue}fazoli {Color:White}na te {Color:Green}hore\nvlevo{Color:White}... Ale nechce vyklicit.\nKovar jako ja zkratka asi\nneni stvoren k zahradniceni..."
+ },
+ {
+  "gi": 13,
+  "si": 26,
+  "en": "{Sound:02:0C}So you want to {Color:Blue}fuse Kinstones{Color:White}?\nLet's do it!",
+  "cz": "{Sound:02:0C}Takze chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJdem na to!"
+ },
+ {
+  "gi": 13,
+  "si": 27,
+  "en": "{Sound:02:0C}Oh, not interested anymore, eh?\nWell, that's a shame.",
+  "cz": "{Sound:02:0C}Ach, uz te to nezajima?\nTo je skoda."
+ },
+ {
+  "gi": 13,
+  "si": 28,
+  "en": "{Sound:02:0C}What a perfect fit! You can't even\nsee the seam! Impeccable work!",
+  "cz": "{Sound:02:0C}Dokonale to sedi! Ani neni videt\nspara! Bezvadna prace!"
+ },
+ {
+  "gi": 13,
+  "si": 29,
+  "en": "{Sound:02:0C}Whoa!\nThat {Color:Blue}bean {Color:White}I planted got HUGE!\nI guess I've got a green thumb\nas well as an, er...iron one!",
+  "cz": "{Sound:02:0C}Pani!\nTen {Color:Blue}fazol {Color:White}vyrostl OBROVSKY!\nAsi mam zelene prsty stejne\njako, ehm...zelezne!"
+ },
+ {
+  "gi": 13,
+  "si": 30,
+  "en": "{Sound:02:04}I just planted a big ol' {Color:Blue}bean{Color:White}...\n\nIt hasn't sprouted yet, but when it\ndoes, it's gonna be a big sucker!!",
+  "cz": "{Sound:02:04}Prave jsem zasadil pekny {Color:Blue}fazol{Color:White}...\n\nJeste nevyklicil, ale az to\nudela, bude to obr!!"
+ },
+ {
+  "gi": 13,
+  "si": 31,
+  "en": "{Sound:02:00}Huh? Oh, you want to {Color:Blue}fuse\nKinstones{Color:White}? Why, sure! You got it!",
+  "cz": "{Sound:02:00}He? Aha, chces {Color:Blue}spojit\nKameny osudu{Color:White}? Jasne! Mas to mit!"
+ },
+ {
+  "gi": 13,
+  "si": 32,
+  "en": "{Sound:02:01}Whaaat, you're gonna quit? Well,\ncome on back sometime, y'hear?",
+  "cz": "{Sound:02:01}Cooo, ty toho nechas? Vrat se\nzas nekdy, jo?"
+ },
+ {
+  "gi": 13,
+  "si": 33,
+  "en": "{Sound:02:02}Wow! Seein' how well that fit, I'd guess\nwe're in for a spell of good luck!",
+  "cz": "{Sound:02:02}Ty bryle! Jak to perfektne sedlo,\ntak ceka nas kus stesti!"
+ },
+ {
+  "gi": 13,
+  "si": 34,
+  "en": "{Sound:02:04}Hey, listen to this! You remember that\nbig {Color:Blue}bean {Color:White}I planted?\nWell, would you believe it finally\nsprouted! I wonder where it leads!",
+  "cz": "{Sound:02:04}Hele, poslouchej! Vzpominas na ten\nvelky {Color:Blue}fazol{Color:White}, co jsem zasadil?\nKonecne vyklicil! Kampak asi\nvede!"
+ },
+ {
+  "gi": 13,
+  "si": 35,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nSure! Let's see how well they fit!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJasne! Uvidime, jak to sedne!"
+ },
+ {
+  "gi": 13,
+  "si": 36,
+  "en": "Oh, you had a change of heart?\nWell, I'll be here...",
+  "cz": "Ach, rozmyslel sis to?\nBudu tady..."
+ },
+ {
+  "gi": 13,
+  "si": 37,
+  "en": "What a fit! Look at that! And you know\nwhat that means? Good luck for us!",
+  "cz": "Jak to sedi! Koukni! A vis, co\nto znamena? Stesti pro nas!"
+ },
+ {
+  "gi": 13,
+  "si": 38,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}, don't you?\nWell, OK! Let's give it a try.",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}, ze jo?\nDobre! Zkusime to."
+ },
+ {
+  "gi": 13,
+  "si": 39,
+  "en": "Oh, you don't want to?\nWell, we can try again later.",
+  "cz": "Ach, nechces?\nMuzeme to zkusit pozdeji."
+ },
+ {
+  "gi": 13,
+  "si": 40,
+  "en": "They fit perfectly! I wonder\nwhat's going to happen!",
+  "cz": "Sedi to dokonale! Co se ted\nasi stane!"
+ },
+ {
+  "gi": 13,
+  "si": 41,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nLet's do it!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJdem na to!"
+ },
+ {
+  "gi": 13,
+  "si": 42,
+  "en": "Oh, you want to quit? Well, we can\nalways try again later!",
+  "cz": "Ach, chces toho nechat? Muzeme\nto vzdy zkusit pozdeji!"
+ },
+ {
+  "gi": 13,
+  "si": 43,
+  "en": "They fit perfectly! Things are\nstarting to look up!",
+  "cz": "Sedi to dokonale! Veci se\nzacinaji obracet k lepsimu!"
+ },
+ {
+  "gi": 13,
+  "si": 44,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nOK, but let's be careful about it!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nDobre, ale opatrne!"
+ },
+ {
+  "gi": 13,
+  "si": 45,
+  "en": "You want to quit? I hope you come\nback, so we can try again later.",
+  "cz": "Chces toho nechat? Doufam, ze se\nvratis a zkusime to zas pozdeji."
+ },
+ {
+  "gi": 13,
+  "si": 46,
+  "en": "Oh, they fit! Perfectly, in fact!\nThey say that means good luck for us!",
+  "cz": "Ach, sedi to! A dokonale!\nPry to znamena stesti pro nas!"
+ },
+ {
+  "gi": 13,
+  "si": 47,
+  "en": "{Sound:02:05}You want to {Color:Blue}fuse Kinstones{Color:White}?\nLet's give it a try!",
+  "cz": "{Sound:02:05}Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nZkusime to!"
+ },
+ {
+  "gi": 13,
+  "si": 48,
+  "en": "{Sound:01:FD}Oh, you want to quit?\nWe can always try later, I guess.",
+  "cz": "{Sound:01:FD}Ach, chces toho nechat?\nMuzeme to zkusit pozdeji."
+ },
+ {
+  "gi": 13,
+  "si": 49,
+  "en": "{Sound:01:FE}They fit perfectly! I wonder, does\nthat mean we're in for good luck?",
+  "cz": "{Sound:01:FE}Sedi to dokonale! Znamena to,\nze nas ceka stesti?"
+ },
+ {
+  "gi": 13,
+  "si": 50,
+  "en": "{Sound:02:07}You want to {Color:Blue}fuse Kinstones{Color:White}?\nYeah, sure. Why not?",
+  "cz": "{Sound:02:07}Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJo, jasne. Proc ne?"
+ },
+ {
+  "gi": 13,
+  "si": 51,
+  "en": "{Sound:02:08}Oh, you want to quit?\nThat's too bad.",
+  "cz": "{Sound:02:08}Ach, chces toho nechat?\nTo je skoda."
+ },
+ {
+  "gi": 13,
+  "si": 52,
+  "en": "{Sound:02:08}They fit perfectly! We're looking at\na whole heap of good luck now!",
+  "cz": "{Sound:02:08}Sedi to dokonale! Ceka nas\nporadna kupa stesti!"
+ },
+ {
+  "gi": 13,
+  "si": 53,
+  "en": "{Sound:01:F0}You want to fuse Kinstones?\nOK! Let's do this!",
+  "cz": "{Sound:01:F0}Chces spojit Kameny osudu?\nDobre! Jdem na to!"
+ },
+ {
+  "gi": 13,
+  "si": 54,
+  "en": "{Sound:01:EF}Oh, you want to quit?\nWell, come back anytime.",
+  "cz": "{Sound:01:EF}Ach, chces toho nechat?\nVrat se kdykoli."
+ },
+ {
+  "gi": 13,
+  "si": 55,
+  "en": "{Sound:01:EE}Finally! A perfect match means we're\nin for some spectacular good luck!",
+  "cz": "{Sound:01:EE}Konecne! Dokonala shoda znamena,\nze nas ceka neuveritelne stesti!"
+ },
+ {
+  "gi": 13,
+  "si": 56,
+  "en": "{Sound:01:EC}You want to fuse Kinstones in this dire\ntime? ...Well, I can see no harm in it.",
+  "cz": "{Sound:01:EC}Chces spojit Kameny i v techto\nkrutych casech? ...Proc ne."
+ },
+ {
+  "gi": 13,
+  "si": 57,
+  "en": "{Sound:01:EB}Ah, and now you've changed your mind.\nI suppose it is for the best.",
+  "cz": "{Sound:01:EB}Ach, ted sis to rozmyslel.\nTreba je to tak nejlepsi."
+ },
+ {
+  "gi": 13,
+  "si": 58,
+  "en": "{Sound:01:EA}Ah, a perfect fit. My, but that's\nnice. Good luck to you.",
+  "cz": "{Sound:01:EA}Ach, dokonale to sedi. To je\npekne. Hodne stesti."
+ },
+ {
+  "gi": 13,
+  "si": 59,
+  "en": "{Sound:01:F1}You want to {Color:Blue}fuse Kinstones{Color:White}?\nSure, why not?",
+  "cz": "{Sound:01:F1}Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJasne, proc ne?"
+ },
+ {
+  "gi": 13,
+  "si": 60,
+  "en": "{Sound:01:F2}Oh, you want to quit?\nWell, come again.",
+  "cz": "{Sound:01:F2}Ach, chces toho nechat?\nPrijd zase."
+ },
+ {
+  "gi": 13,
+  "si": 61,
+  "en": "{Sound:01:F1}They fit perfectly! I didn't expect that!\nMaybe something good will happen now.",
+  "cz": "{Sound:01:F1}Sedi to dokonale! To jsem necekal!\nMozna se stane neco dobreho."
+ },
+ {
+  "gi": 13,
+  "si": 62,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nLet's give it a shot!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nZkusme to!"
+ },
+ {
+  "gi": 13,
+  "si": 63,
+  "en": "Oh, you want to quit? Well, I look\nforward to trying again later!",
+  "cz": "Chces toho nechat? Tesim se,\nze to zkusime znovu pozdeji!"
+ },
+ {
+  "gi": 13,
+  "si": 64,
+  "en": "They fit perfectly! You know what this\nmeans? Good luck for both of us!",
+  "cz": "Sedi to dokonale! Vis, co to\nznamena? Stesti pro oba!"
+ },
+ {
+  "gi": 13,
+  "si": 65,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nOh, please, please, yes!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nProsim, prosim, ano!"
+ },
+ {
+  "gi": 13,
+  "si": 66,
+  "en": "Oh, you want to quit? But...I was\nlooking forward to it so much...",
+  "cz": "Ach, chces toho nechat? Ale\n...tak moc jsem se tesil..."
+ },
+ {
+  "gi": 13,
+  "si": 67,
+  "en": "Oh, that's so pretty! A perfect\nfit! Now, I know we'll get lucky!",
+  "cz": "Ach, jak je to krasne! Dokonale\nto sedi! Ted urcite budem mit stesti!"
+ },
+ {
+  "gi": 13,
+  "si": 68,
+  "en": "{Sound:00:D0}You want to {Color:Blue}fuse Kinstones{Color:White}?\nI would love to!",
+  "cz": "{Sound:00:D0}Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nMoc rad!"
+ },
+ {
+  "gi": 13,
+  "si": 69,
+  "en": "Oh, you want to quit? Well, I'll be\nhere, so come on back!",
+  "cz": "Ach, chces toho nechat? Budu tady,\ntakze se vrat!"
+ },
+ {
+  "gi": 13,
+  "si": 70,
+  "en": "They fit perfectly!\nI feel a strange power within!",
+  "cz": "Sedi to dokonale!\nCitim v sobe podivnou silu!"
+ },
+ {
+  "gi": 13,
+  "si": 71,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nLet's give it a go!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nZkusme to!"
+ },
+ {
+  "gi": 13,
+  "si": 72,
+  "en": "Oh, you want to quit?\nLame, kid. Real lame.",
+  "cz": "Ach, chces toho nechat?\nTrapne, kluku. Vazne trapne."
+ },
+ {
+  "gi": 13,
+  "si": 73,
+  "en": "They fit perfectly!\nTime to celebrate!",
+  "cz": "Sedi to dokonale!\nCas oslavovat!"
+ },
+ {
+  "gi": 13,
+  "si": 74,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nOh, Tingle is so happy!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nTingle ma takovou radost!"
+ },
+ {
+  "gi": 13,
+  "si": 75,
+  "en": "Oh, you want to quit? You're making\nTingle oh-so-very sad!",
+  "cz": "Chces toho nechat? Tingle je\nz tebe strasne smutny!"
+ },
+ {
+  "gi": 13,
+  "si": 76,
+  "en": "They fit perfectly! At last, Tingle\ncan finally turn into a fairy, too!",
+  "cz": "Sedi to dokonale! Konecne se\ni Tingle muze stat vilou!"
+ },
+ {
+  "gi": 13,
+  "si": 77,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nOf course!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nSamozrejme!"
+ },
+ {
+  "gi": 13,
+  "si": 78,
+  "en": "Oh, you want to quit?\nWell, whatever.",
+  "cz": "Ach, chces toho nechat?\nNo, jak chces."
+ },
+ {
+  "gi": 13,
+  "si": 79,
+  "en": "They fit perfectly! We're looking\nat a heap of good luck now!",
+  "cz": "Sedi to dokonale! Ceka nas\nporadna kupa stesti!"
+ },
+ {
+  "gi": 13,
+  "si": 80,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nVery well.",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nDobre tedy."
+ },
+ {
+  "gi": 13,
+  "si": 81,
+  "en": "Oh, you want to quit?\nPshaw!",
+  "cz": "Ach, chces toho nechat?\nPche!"
+ },
+ {
+  "gi": 13,
+  "si": 82,
+  "en": "Excellent. A perfect fit!\nNow, where's my good fortune?",
+  "cz": "Vyborne. Dokonale to sedi!\nTak kde je mé stesti?"
+ },
+ {
+  "gi": 13,
+  "si": 83,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nSure, kid.",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJasne, kluku."
+ },
+ {
+  "gi": 13,
+  "si": 84,
+  "en": "Oh, you want to quit?\nToo bad...",
+  "cz": "Ach, chces toho nechat?\nSkoda..."
+ },
+ {
+  "gi": 13,
+  "si": 85,
+  "en": "They fit perfectly.\nDoes that mean I'm lucky now?",
+  "cz": "Sedi to dokonale.\nZnamena to, ze mam stesti?"
+ },
+ {
+  "gi": 13,
+  "si": 86,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nI'd be glad to! Thank you!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nMoc rad! Dekuju!"
+ },
+ {
+  "gi": 13,
+  "si": 87,
+  "en": "Oh, you want to quit?\nCome again! Hey, hey!",
+  "cz": "Ach, chces toho nechat?\nPrijd zase! Hej, hej!"
+ },
+ {
+  "gi": 13,
+  "si": 88,
+  "en": "They fit perfectly! Oh, I expect my\nsales will triple because of this!",
+  "cz": "Sedi to dokonale! Cekam, ze se\nmi diky tomu ztroji prodeje!"
+ },
+ {
+  "gi": 13,
+  "si": 89,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\n",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\n"
+ },
+ {
+  "gi": 13,
+  "si": 90,
+  "en": "Oh, you want to quit?\nCome again!",
+  "cz": "Ach, chces toho nechat?\nPrijd zase!"
+ },
+ {
+  "gi": 13,
+  "si": 91,
+  "en": "They fit perfectly! This will\nbe good for business!",
+  "cz": "Sedi to dokonale! To prospeje\nobchodu!"
+ },
+ {
+  "gi": 13,
+  "si": 92,
+  "en": "Must deliver the mail...\nHey, that's a Kinstone piece!",
+  "cz": "Musim dorucit postu...\nHele, to je kousek Kamene osudu!"
+ },
+ {
+  "gi": 13,
+  "si": 93,
+  "en": "Well, I've got work to do,\nso if you don't mind...",
+  "cz": "Mam praci, takze jestli ti\nto nevadi..."
+ },
+ {
+  "gi": 13,
+  "si": 94,
+  "en": "Perfect! I can feel the super delivery\npower coursing through my veins!\nNow, I return to my route refreshed!",
+  "cz": "Perfektni! Citim, jak mi v zilach\nproudi super donaskova sila!\nVracim se k trase obcerstveny!"
+ },
+ {
+  "gi": 13,
+  "si": 95,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nI hope they fit!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nDoufam, ze to sedne!"
+ },
+ {
+  "gi": 13,
+  "si": 96,
+  "en": "Oh, you want to quit?\nWell, let's try again later!",
+  "cz": "Ach, chces toho nechat?\nZkusime to pozdeji!"
+ },
+ {
+  "gi": 13,
+  "si": 97,
+  "en": "A perfect fit! I can't wait\nto see what happens now!",
+  "cz": "Dokonale to sedi! Nemuzu se\ndockat, co se ted stane!"
+ },
+ {
+  "gi": 13,
+  "si": 98,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nI hope they fit!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nDoufam, ze to sedne!"
+ },
+ {
+  "gi": 13,
+  "si": 99,
+  "en": "Oh, you want to quit?\nToo bad! Your loss!",
+  "cz": "Ach, chces toho nechat?\nSkoda! Tvoje ztrata!"
+ },
+ {
+  "gi": 13,
+  "si": 100,
+  "en": "They fit perfectly!\nBut...nothing's happening!",
+  "cz": "Sedi to dokonale!\nAle...nic se nedeje!"
+ },
+ {
+  "gi": 13,
+  "si": 101,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nCertainly!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJiste!"
+ },
+ {
+  "gi": 13,
+  "si": 102,
+  "en": "You're quitting?",
+  "cz": "Ty toho nechavas?"
+ },
+ {
+  "gi": 13,
+  "si": 103,
+  "en": "They fit perfectly.\nI guess we'll get lucky.",
+  "cz": "Sedi to dokonale.\nTreba budem mit stesti."
+ },
+ {
+  "gi": 13,
+  "si": 104,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nYou got it!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nMas to mit!"
+ },
+ {
+  "gi": 13,
+  "si": 105,
+  "en": "Oh, you want to quit?\nToo bad!",
+  "cz": "Ach, chces toho nechat?\nSkoda!"
+ },
+ {
+  "gi": 13,
+  "si": 106,
+  "en": "Hey, look at that! Nice work!\nI wonder what will happen...",
+  "cz": "Hele, koukni! Dobra prace!\nCo se asi stane..."
+ },
+ {
+  "gi": 13,
+  "si": 107,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nSure!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJasne!"
+ },
+ {
+  "gi": 13,
+  "si": 108,
+  "en": "Oh, you want to quit?\nWell, let's try again later!",
+  "cz": "Ach, chces toho nechat?\nZkusime to pozdeji!"
+ },
+ {
+  "gi": 13,
+  "si": 109,
+  "en": "Oh, wonderful! They fit!\nI'm so happy!",
+  "cz": "Ach, uzasne! Sedi to!\nMam takovou radost!"
+ },
+ {
+  "gi": 13,
+  "si": 110,
+  "en": "{Sound:00:D3}You want to {Color:Blue}fuse Kinstones{Color:White}?\nOK-hay-hay!!!",
+  "cz": "{Sound:00:D3}Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nOK-iha-haha!!!"
+ },
+ {
+  "gi": 13,
+  "si": 111,
+  "en": "{Sound:00:D3}Aw... You're quitting?",
+  "cz": "{Sound:00:D3}Ach... Ty toho nechavas?"
+ },
+ {
+  "gi": 13,
+  "si": 112,
+  "en": "{Sound:00:D3}Neiiiighhhh!!! They fit!\nThey fit! It's wonderful!",
+  "cz": "{Sound:00:D3}Iiiihahaaaa!!! Sedi to!\nSedi to! Je to uzasne!"
+ },
+ {
+  "gi": 13,
+  "si": 113,
+  "en": "{Sound:00:AE}What, you want to {Color:Blue}fuse Kinstones{Color:White}?",
+  "cz": "{Sound:00:AE}Co, chces {Color:Blue}spojit Kameny osudu{Color:White}?"
+ },
+ {
+  "gi": 13,
+  "si": 114,
+  "en": "Oh, so you changed your mind?\nAll right...",
+  "cz": "Ach, rozmyslel sis to?\nDobre..."
+ },
+ {
+  "gi": 13,
+  "si": 115,
+  "en": "Huh... They fit.",
+  "cz": "He... Sedi to."
+ },
+ {
+  "gi": 13,
+  "si": 116,
+  "en": "So you want to {Color:Blue}fuse Kinstones{Color:White}?\nI hope they fit again this time...",
+  "cz": "Takze chces {Color:Blue}spojit Kameny osudu{Color:White}?\nDoufam, ze to zas sedne..."
+ },
+ {
+  "gi": 13,
+  "si": 117,
+  "en": "Oh, you want to quit? I'm disappointed,\n{Player}. Very disappointed!",
+  "cz": "Ach, chces toho nechat? Jsem\nzklamany, {Player}. Velmi zklamany!"
+ },
+ {
+  "gi": 13,
+  "si": 118,
+  "en": "A perfect fit!\nI feel a poem coming on!\n... ... ...\n... ... ...\n... ... ...\n... ... ...\nEr, yes.\nIndeed, indeed.",
+  "cz": "Dokonale to sedi!\nCitim, ze prijde basen!\n... ... ...\n... ... ...\n... ... ...\n... ... ...\nEhm, ano.\nVskutku, vskutku."
+ },
+ {
+  "gi": 13,
+  "si": 119,
+  "en": "You would like to {Color:Blue}fuse Kinstones{Color:White}?\nGladly!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nS radosti!"
+ },
+ {
+  "gi": 13,
+  "si": 120,
+  "en": "You've decided to quit? Return\nanytime, and we will try again.",
+  "cz": "Rozhodl ses prestat? Vrat se\nkdykoli a zkusime to znovu."
+ },
+ {
+  "gi": 13,
+  "si": 121,
+  "en": "A perfect match. We are all in\nfor some good luck.",
+  "cz": "Dokonala shoda. Vsechny nas\nceka stesti."
+ },
+ {
+  "gi": 13,
+  "si": 122,
+  "en": "Would you like to {Color:Blue}fuse Kinstones{Color:White}?",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?"
+ },
+ {
+  "gi": 13,
+  "si": 123,
+  "en": "You've changed your mind?\nAh, well...",
+  "cz": "Rozmyslel sis to?\nNo dobre..."
+ },
+ {
+  "gi": 13,
+  "si": 124,
+  "en": "We've made a perfect match! Maybe I'll\nget lucky enough to find a home!",
+  "cz": "Dokonala shoda! Mozna budu mit\ndost stesti, abych nasel domov!"
+ },
+ {
+  "gi": 13,
+  "si": 125,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nYeah, sure!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJo, jasne!"
+ },
+ {
+  "gi": 13,
+  "si": 126,
+  "en": "Oh, you want to quit?\nWell, let's try again later!",
+  "cz": "Ach, chces toho nechat?\nZkusime to pozdeji!"
+ },
+ {
+  "gi": 13,
+  "si": 127,
+  "en": "They fit perfectly!\nI wonder if we'll get lucky...",
+  "cz": "Sedi to dokonale!\nJestli budem mit stesti..."
+ },
+ {
+  "gi": 13,
+  "si": 128,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nI'm on it!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJdem na to!"
+ },
+ {
+  "gi": 13,
+  "si": 129,
+  "en": "Oh, you want to quit?\nWhere's your spirit, man?",
+  "cz": "Ach, chces toho nechat?\nKam se podel tvuj duch, kamo?"
+ },
+ {
+  "gi": 13,
+  "si": 130,
+  "en": "They fit perfectly! I have...\na good feeling about this!",
+  "cz": "Sedi to dokonale! Mam z toho\n...dobry pocit!"
+ },
+ {
+  "gi": 13,
+  "si": 131,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nYeah, OK.",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJo, OK."
+ },
+ {
+  "gi": 13,
+  "si": 132,
+  "en": "Oh, you want to quit?\nWell, maybe later!",
+  "cz": "Ach, chces toho nechat?\nMozna pozdeji!"
+ },
+ {
+  "gi": 13,
+  "si": 133,
+  "en": "They fit perfectly! Hm... I hope\nsome good luck comes our way.",
+  "cz": "Sedi to dokonale! Hm... Doufam,\nze nas potka stesti."
+ },
+ {
+  "gi": 13,
+  "si": 134,
+  "en": "{Sound:01:B7}Hn... You want to {Color:Blue}fuse Kinstones{Color:White}?\nOK, that sounds good.",
+  "cz": "{Sound:01:B7}Hn... Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nOK, to zni dobre."
+ },
+ {
+  "gi": 13,
+  "si": 135,
+  "en": "{Sound:01:B8}Oh, you want to quit?\nOK, that sounds good.",
+  "cz": "{Sound:01:B8}Ach, chces toho nechat?\nOK, to zni dobre."
+ },
+ {
+  "gi": 13,
+  "si": 136,
+  "en": "{Sound:01:B9}Hn. They fit perfectly...\nSo that's good.",
+  "cz": "{Sound:01:B9}Hn. Sedi to dokonale...\nTo je dobre."
+ },
+ {
+  "gi": 13,
+  "si": 137,
+  "en": "{Sound:00:D1}Rarf! Arf arf! You want to {Color:Blue}fuse\nKinstones{Color:White}? Rarf arf!",
+  "cz": "{Sound:00:D1}Haf! Haf haf! Chces {Color:Blue}spojit\nKameny osudu{Color:White}? Haf haf!"
+ },
+ {
+  "gi": 13,
+  "si": 138,
+  "en": "{Sound:00:D1}Arf arf! You're quiting?\nRrrrrrrr ARF ARF ARF!!!",
+  "cz": "{Sound:00:D1}Haf haf! Ty toho nechavas?\nRrrrrrr HAF HAF HAF!!!"
+ },
+ {
+  "gi": 13,
+  "si": 139,
+  "en": "{Sound:00:D1}Rarf! A perfect fit! Arf!",
+  "cz": "{Sound:00:D1}Haf! Dokonale to sedi! Haf!"
+ },
+ {
+  "gi": 13,
+  "si": 140,
+  "en": "{Sound:00:D2}Rowr! Would you like to {Color:Blue}fuse\nKinstones{Color:White}? Mrow...",
+  "cz": "{Sound:00:D2}Mnau! Chces {Color:Blue}spojit\nKameny osudu{Color:White}? Mnau..."
+ },
+ {
+  "gi": 13,
+  "si": 141,
+  "en": "{Sound:00:D2}You're stopping so soon?\nMeow... That's too bad.",
+  "cz": "{Sound:00:D2}Uz koncis? Mnau...\nTo je skoda."
+ },
+ {
+  "gi": 13,
+  "si": 142,
+  "en": "{Sound:00:D2}They fit! Perfectly!\nPurrrrrrrr...",
+  "cz": "{Sound:00:D2}Sedi to! Dokonale!\nPrrrrrrr..."
+ },
+ {
+  "gi": 13,
+  "si": 143,
+  "en": "{Sound:00:D4}Mooooooo... You want to\n{Color:Blue}fyoooooose Kinstones{Color:White}?",
+  "cz": "{Sound:00:D4}Buuuuuu... Chces\n{Color:Blue}spoooojit Kameny osudu{Color:White}?"
+ },
+ {
+  "gi": 13,
+  "si": 144,
+  "en": "{Sound:00:D4}You want to quit? We'll try again later.\nIt's not like I'm going anywhere! Moo...",
+  "cz": "{Sound:00:D4}Chces toho nechat? Zkusime to pozdej.\nStejne nikam nejdu! Buuu..."
+ },
+ {
+  "gi": 13,
+  "si": 145,
+  "en": "{Sound:00:D4}Mooo! A perfect fit!\nI feel so...content...",
+  "cz": "{Sound:00:D4}Buuu! Dokonale to sedi!\nCitim se tak...spokojene..."
+ },
+ {
+  "gi": 13,
+  "si": 146,
+  "en": "Hey, do you want to fuse\nKinstones with me? Well?",
+  "cz": "Hele, chces se mnou spojit\nKameny osudu? Tak co?"
+ },
+ {
+  "gi": 13,
+  "si": 147,
+  "en": "What, you want to quit? Whatever!\nJust make sure you come back!",
+  "cz": "Co, chces toho nechat? Jak chces!\nJen se vrat!"
+ },
+ {
+  "gi": 13,
+  "si": 148,
+  "en": "Look at that! A perfect fit!\nThat means good luck for us.",
+  "cz": "Koukej! Dokonale to sedi!\nZnamena to stesti pro nas."
+ },
+ {
+  "gi": 13,
+  "si": 149,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nI hope you've got one that fits!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nDoufam, ze nejaky sedne!"
+ },
+ {
+  "gi": 13,
+  "si": 150,
+  "en": "You want to quit? What do you hope\nto gain by doing that?",
+  "cz": "Chces toho nechat? Co tim\nchces ziskat?"
+ },
+ {
+  "gi": 13,
+  "si": 151,
+  "en": "They fit perfectly. Why...I can\nsee my brother's smiling face...",
+  "cz": "Sedi to dokonale. Pani...\nvidim usmev sveho bratra..."
+ },
+ {
+  "gi": 13,
+  "si": 152,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nYeah, let's see if they fit!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJo, uvidime, jestli sednou!"
+ },
+ {
+  "gi": 13,
+  "si": 153,
+  "en": "Oh, you want to quit?\nIs it me...?",
+  "cz": "Ach, chces toho nechat?\nJsem to ja...?"
+ },
+ {
+  "gi": 13,
+  "si": 154,
+  "en": "They fit perfectly! Tingle would\nbe so proud of me!",
+  "cz": "Sedi to dokonale! Tingle by\nna mne byl tak pysny!"
+ },
+ {
+  "gi": 13,
+  "si": 155,
+  "en": "Let's {Color:Blue}fuse Kinstones{Color:White}!\nI hope they fit...",
+  "cz": "Pojdme {Color:Blue}spojit Kameny osudu{Color:White}!\nDoufam, ze sednou..."
+ },
+ {
+  "gi": 13,
+  "si": 156,
+  "en": "Oh, you want to quit?\nI see how it is...",
+  "cz": "Ach, chces toho nechat?\nUz chapu..."
+ },
+ {
+  "gi": 13,
+  "si": 157,
+  "en": "Wow. I didn't actually think\nthat would work...",
+  "cz": "Pani. Vazne jsem necekal,\nze to vyjde..."
+ },
+ {
+  "gi": 13,
+  "si": 158,
+  "en": "{Sound:00:B0}You want to {Color:Blue}fuse Kinstones{Color:White}?\nYes, please!",
+  "cz": "{Sound:00:B0}Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nAno, prosim!"
+ },
+ {
+  "gi": 13,
+  "si": 159,
+  "en": "Oh, you want to quit?\nWhat a shame...",
+  "cz": "Ach, chces toho nechat?\nJaka skoda..."
+ },
+ {
+  "gi": 13,
+  "si": 160,
+  "en": "They fit beautifully! This is a sign\nof good things to come!",
+  "cz": "Sedi to krasne! To je znameni\nveci pristich!"
+ },
+ {
+  "gi": 13,
+  "si": 161,
+  "en": "{Sound:01:F7}You want to {Color:Blue}fuse Kinstones{Color:White}?\nSure, bring it on!",
+  "cz": "{Sound:01:F7}Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJasne, do toho!"
+ },
+ {
+  "gi": 13,
+  "si": 162,
+  "en": "Oh, what a shame...\nYou want to quit...",
+  "cz": "Ach, jaka skoda...\nTy toho chces nechat..."
+ },
+ {
+  "gi": 13,
+  "si": 163,
+  "en": "Look at that! They fit perfectly! Well,\nwe're sure to get some good luck now!",
+  "cz": "Koukej! Sedi to dokonale!\nUrcite nas ted ceka stesti!"
+ },
+ {
+  "gi": 13,
+  "si": 164,
+  "en": "{Sound:00:D5}You want to--BRRKAWK--{Color:Blue}fuse\nKinstones{Color:White}? Buckawk!!",
+  "cz": "{Sound:00:D5}Chces--KOKODAK--{Color:Blue}spojit\nKameny osudu{Color:White}? Kokodak!!"
+ },
+ {
+  "gi": 13,
+  "si": 165,
+  "en": "{Sound:00:D5}You want to quit?\nBRRKAWK!",
+  "cz": "{Sound:00:D5}Chces toho nechat?\nKOKODAK!"
+ },
+ {
+  "gi": 13,
+  "si": 166,
+  "en": "{Sound:00:D5}Perfect! BRRKAWK!",
+  "cz": "{Sound:00:D5}Dokonale! KOKODAK!"
+ },
+ {
+  "gi": 13,
+  "si": 167,
+  "en": "{Sound:00:D6}You want to--cheep cheep!--{Color:Blue}fuse\nKinstones{Color:White}? PEEP!",
+  "cz": "{Sound:00:D6}Chces--pip pip!--{Color:Blue}spojit\nKameny osudu{Color:White}? PIP!"
+ },
+ {
+  "gi": 13,
+  "si": 168,
+  "en": "{Sound:00:D6}You want to quit... You think\nI'm too young? Peep-peep!",
+  "cz": "{Sound:00:D6}Chces toho nechat... Myslis,\nze jsem moc maly? Pip-pip!"
+ },
+ {
+  "gi": 13,
+  "si": 169,
+  "en": "{Sound:00:D6}Perfect! PEEP!",
+  "cz": "{Sound:00:D6}Dokonale! PIP!"
+ },
+ {
+  "gi": 13,
+  "si": 170,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White}?\nSure, I bet we can do this!",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?\nJasne, vsadim se, ze to dame!"
+ },
+ {
+  "gi": 13,
+  "si": 171,
+  "en": "You want to quit?\nWell, I'll be right here, waiting...",
+  "cz": "Chces toho nechat?\nBudu tu cekat..."
+ },
+ {
+  "gi": 13,
+  "si": 172,
+  "en": "OK!! Now we get happy!\nSee you later!",
+  "cz": "OK!! Ted se zaradujem!\nNashle!"
+ },
+ {
+  "gi": 13,
+  "si": 173,
+  "en": "{Sound:02:0D}Hey! How'd you find me, kid?\nYou're a real humdinger!\nSo, since you found me, I'm going to\ngive you {Color:Red}my number-one treasure{Color:White}!\nAnd keep up the good work!",
+  "cz": "{Sound:02:0D}Hej! Jak jsi me nasel, kluku?\nJsi ale frajer!\nKdyz jsi me nasel, dam ti\n{Color:Red}svuj nejcennejsi poklad{Color:White}!\nA jen tak dal!"
+ },
+ {
+  "gi": 13,
+  "si": 174,
+  "en": "{Sound:02:0D}You came back!\nI'm so happy! I was just getting lonely!\nExcept...I don't have anything else\nto give you. Sorry!",
+  "cz": "{Sound:02:0D}Ty ses vratil!\nMam radost! Zacinal jsem byt sam!\nAle...nemam ti uz co dat.\nPromin!"
+ },
+ {
+  "gi": 13,
+  "si": 175,
+  "en": "{Sound:02:0D}So, have you met the {Color:Green}Great Fairy {Color:White}of\n{Color:Green}Minish Woods{Color:White}?\nShe lives right off that little side path!",
+  "cz": "{Sound:02:0D}Potkal jsi {Color:Green}Velkou vilu {Color:White}z\n{Color:Green}Minish Woods{Color:White}?\nZije hned u te postranni stezky!"
+ },
+ {
+  "gi": 13,
+  "si": 176,
+  "en": "{Sound:02:0D}And have you met the {Color:Green}Great Fairy {Color:White}of\n{Color:Green}Mount Crenel{Color:White}?\nShe lives behind a wall that you have\nto break open with a bomb.",
+  "cz": "{Sound:02:0D}A potkal jsi {Color:Green}Velkou vilu {Color:White}z\n{Color:Green}Mt. Crenel{Color:White}?\nZije za zdi, kterou musis\nrozbit bombou."
+ },
+ {
+  "gi": 13,
+  "si": 177,
+  "en": "{Sound:02:0D}What about the {Color:Green}Great Fairy {Color:White}near\nthe {Color:Green}Royal Crypt{Color:White}? Have you met her?\nShe lives behind a wall that you have\nto break open with a bomb.",
+  "cz": "{Sound:02:0D}A co {Color:Green}Velka vila {Color:White}u\n{Color:Green}Kralovske krypty{Color:White}? Potkal jsi ji?\nZije za zdi, kterou musis\nrozbit bombou."
+ },
+ {
+  "gi": 13,
+  "si": 178,
+  "en": "{Sound:00:D4}I found a--moo!--{Color:Red}Kinstone piece{Color:White} in\nthis delicious grass.\nDo you want to try {Color:Blue}fusing it\nwith one of mine{Color:White}? Moo...\nI--moo--licked it until it was really\nclean and shiny.",
+  "cz": "{Sound:00:D4}Nasel jsem--buu!--{Color:Red}kousek Kamene{Color:White}\nv te chutne trave.\nChces ho zkusit {Color:Blue}spojit s\nmym{Color:White}? Buuu...\nOlizal jsem ho--buu--dokud nebyl\ncisty a lesknouci."
+ },
+ {
+  "gi": 13,
+  "si": 179,
+  "en": "{Sound:00:D4}This grass is delicious!\nMoo... Want a nibble?",
+  "cz": "{Sound:00:D4}Tahle trava je vyborna!\nBuuu... Chces kousnout?"
+ },
+ {
+  "gi": 13,
+  "si": 180,
+  "en": "{Sound:00:D5}Well done of you to get here, BRRKAWK!\n\nI have secretly taken possession of\n{Color:Green}Anju{Color:White}'s {Color:Red}Kinstone piece{Color:White}!\nHm? No, I didn't steal it, you rude boy!\nI just borrowed it...secretly.",
+  "cz": "{Sound:00:D5}Hezky, ze jsi sem prisel, KOKODAK!\n\nTajne jsem se zmocnil\n{Color:Green}Anju{Color:White}ina {Color:Red}kousku Kamene{Color:White}!\nHm? Ne, neukradl jsem ho, hrubiane!\nJen si ho pujcil...tajne."
+ },
+ {
+  "gi": 13,
+  "si": 181,
+  "en": "{Sound:00:D5}Wha--? The {Color:Red}Kinstone piece {Color:White}fused and\ndisappeared, BRRKAWK!\nNow, I can't give it back to {Color:Green}Anju{Color:White}!\nBut I'm still happy, BRRKAWK!",
+  "cz": "{Sound:00:D5}Co--? {Color:Red}Kousek Kamene {Color:White}se spojil a\nzmizel, KOKODAK!\nTed ho nemuzu vratit {Color:Green}Anju{Color:White}!\nAle stejne mam radost, KOKODAK!"
+ },
+ {
+  "gi": 13,
+  "si": 182,
+  "en": "{Sound:00:D6}Eep! One of the Minish! PEEP!\n\nI'm not like my brothers! I won't chase\nyou around and peck at you! Peepeep!\nNot only that! I also have some good\ninfo for you!\nSomewhere in Hyrule, there's a {Color:Green}Great\nFairy{Color:White} who helps honest adventurers.\nIf you see her, answer her every\nquestion truthfully! PEEP!",
+  "cz": "{Sound:00:D6}Pip! Jeden z Minish! PIP!\n\nNejsem jako bratri! Nebudu te honit\na klovat! Pippip!\nA navic! Mam pro tebe i dobrou\nzpravu!\nNekde v Hyrule je {Color:Green}Velka\nvila{Color:White}, ktera pomaha poctivym dobrodruhum.\nKdyz ji uvidis, odpovez na vsechny\notazky pravdive! PIP!"
+ },
+ {
+  "gi": 14,
+  "si": 0,
+  "en": "Wow... I just had the best idea! I can\nrent out my house for some extra cash!",
+  "cz": "Pani... Mam skvely napad! Muzu\npronajimat dum a vydelat si!"
+ },
+ {
+  "gi": 14,
+  "si": 1,
+  "en": "I'm feeling really motivated now!\n\nI could probably build a good-sized\nhouse in a matter of minutes!",
+  "cz": "Citim se ted vazne motivovany!\n\nPostavil bych slusny dum\nbehem nekolika minut!"
+ },
+ {
+  "gi": 14,
+  "si": 2,
+  "en": "My special {Color:Red}red potion {Color:White}is almost finished!\nOh, and it's so very special!\nHeeheehee!",
+  "cz": "Muj specialni {Color:Red}cerveny lektvar {Color:White}je\ntemer hotov! A je tak vyjimecny!\nHihihi!"
+ },
+ {
+  "gi": 14,
+  "si": 3,
+  "en": "Hey! I've just hit on a great idea!\nThis will add a little more risk!\nHeh heh heh! I'm so excited!\nI can't wait to get started!",
+  "cz": "Hej! Mam skvely napad!\nPrida to trochu rizika!\nChe che che! Tesim se!\nNemuzu se dockat!"
+ },
+ {
+  "gi": 14,
+  "si": 4,
+  "en": "I really wish I could do more to help\npeople...\nWait! I've got it! I'll ask {Color:Green}Swiftblade {Color:White}to\nstart up a newsletter for adventurers!\nThat'll be a great way to provide\na useful service for everyone...\nHm. It's going to be a lot of work,\nthough. I should get {Color:Green}Marcy {Color:White}to help me.",
+  "cz": "Tak rad bych pomahal lidem vic...\n\nPockat! Uz to mam! Reknu {Color:Green}Swiftbladovi{Color:White},\naby zacal novinky pro dobrodruhy!\nBude to skvely zpusob, jak\nposkytnout uzitecnou sluzbu...\nHm. Bude to ale spousta prace.\nPotrebuju, aby mi {Color:Green}Marcy {Color:White}pomohla."
+ },
+ {
+  "gi": 14,
+  "si": 5,
+  "en": "You know what would be great? A bomb\nthat went off only when you wanted...\nHm... Actually, I think I could probably\nmake one with just a few minor tweaks!",
+  "cz": "Vis, co by bylo super? Bomba,\nktera vybuchne, jen kdyz chces...\nHm... Myslim, ze bych jednu\nzvladl s par upravami!"
+ },
+ {
+  "gi": 14,
+  "si": 6,
+  "en": "It's been a long time since the last time\nI visited {Color:Green}Hyrule{Color:White}...\nI think I'll set up a little place\nwhere I can sell my Kinstones.",
+  "cz": "Je to dlouho, co jsem byl\nnaposled v {Color:Green}Hyrule{Color:White}...\nMyslim, ze si tu zrizu maly stanek,\nkde budu prodavat Kameny osudu."
+ },
+ {
+  "gi": 14,
+  "si": 7,
+  "en": "{Sound:01:BE}I don't know why I've been such a\nnasty little prankster all the time...\nAll of a sudden, I feel like a weight's\nbeen lifted off my shoulders!\nI feel like I've made up for all my\nawful deeds! Haha!\nHey, {Color:Green}Spookter{Color:White}! See you in paradise!",
+  "cz": "{Sound:01:BE}Nevim, proc jsem byl porad takovy\nsprostny vylomec...\nNajednou citim, jako by ze me\nspadl kamen!\nMam pocit, ze jsem odcinil sve\nspatne skutky! Haha!\nHej, {Color:Green}Spookter{Color:White}! Uvidime se v raji!"
+ },
+ {
+  "gi": 14,
+  "si": 8,
+  "en": "{Sound:01:B7}I feel so much stronger now!\nHere we go!!!",
+  "cz": "{Sound:01:B7}Citim se ted o tolik silnejsi!\nJdem na to!!!"
+ },
+ {
+  "gi": 14,
+  "si": 9,
+  "en": "{Sound:01:BA}Whew! It's about time... Looking good,\nthough! I'm going in!",
+  "cz": "{Sound:01:BA}Uf! Nejvyssi cas... Ale vypada\nto dobre! Jdu dovnitr!"
+ },
+ {
+  "gi": 14,
+  "si": 10,
+  "en": "{Sound:01:B9}Hn... No, it's no good...\nI can't break it by myself.",
+  "cz": "{Sound:01:B9}Hn... Ne, nejde to...\nSam to neprorazim."
+ },
+ {
+  "gi": 14,
+  "si": 11,
+  "en": "{Sound:01:B8}I had a strange feeling, like a fellow\nGoron was in need... Hello? Goro?\nHn? That wall! You can't get through\nthat alone! I'm coming to help you!!!",
+  "cz": "{Sound:01:B8}Mel jsem pocit, ze nejaky Goron\npotrebuje pomoc... Halo? Goro?\nHn? Ta zed! Sam ji neprorazis!\nJdu ti pomoct!!!"
+ },
+ {
+  "gi": 14,
+  "si": 12,
+  "en": "{Sound:01:B7}Don't worry! I'm here to help you! Let's\nbreak through that wall together! Goro!",
+  "cz": "{Sound:01:B7}Neboj! Jsem tu, abych pomohl!\nProrazime tu zed spolu! Goro!"
+ },
+ {
+  "gi": 14,
+  "si": 13,
+  "en": "{Sound:01:B7}Hn... This wall is pretty tough. I don't\nthink just the two of us can break it.\nBut that doesn't mean we're going\nto stop trying! Goro!!!",
+  "cz": "{Sound:01:B7}Hn... Ta zed je dost tvrda.\nMyslim, ze ji dva nezvladnem.\nAle to neznamena, ze prestaneme\nzkouset! Goro!!!"
+ },
+ {
+  "gi": 14,
+  "si": 14,
+  "en": "{Sound:01:B8}I thought I smelled some Gorons around\nhere! What are you guys up to?",
+  "cz": "{Sound:01:B8}Myslel jsem, ze tu citim Gorony!\nCo tady delate?"
+ },
+ {
+  "gi": 14,
+  "si": 15,
+  "en": "{Sound:01:BA}Hey! Give us a hand breaking\nthrough this wall! Goro!",
+  "cz": "{Sound:01:BA}Hej! Pomoz nam prorazit\ntuhle zed! Goro!"
+ },
+ {
+  "gi": 14,
+  "si": 16,
+  "en": "{Sound:01:B9}That's a tough wall! The three of us\ntogether couldn't even break it...",
+  "cz": "{Sound:01:B9}To je tvrda zed! Ani my tri\ndohromady jsme ji nezlomili..."
+ },
+ {
+  "gi": 14,
+  "si": 17,
+  "en": "{Sound:01:B8}I smell delicious stones... They're right\non the other side of this wall.",
+  "cz": "{Sound:01:B8}Citim vyborne kameny... Jsou hned\nza touhle zdi."
+ },
+ {
+  "gi": 14,
+  "si": 18,
+  "en": "{Sound:01:B7}Can you give me a hand? Gorogoro?",
+  "cz": "{Sound:01:B7}Pomuzes mi? Gorogoro?"
+ },
+ {
+  "gi": 14,
+  "si": 19,
+  "en": "{Sound:01:B7}That's one solid wall... No doubt about\nit. We're going to need some more help.",
+  "cz": "{Sound:01:B7}To je porad zed... Bez pochyb.\nBudem potrebovat dalsi pomoc."
+ },
+ {
+  "gi": 14,
+  "si": 20,
+  "en": "{Sound:01:B9}Oooo... I can smell deliciousness just\non the other side of that wall.",
+  "cz": "{Sound:01:B9}Oooo... Citim vybornou vec hned\nza tou zdi."
+ },
+ {
+  "gi": 14,
+  "si": 21,
+  "en": "{Sound:01:B7}Oh, thank goodness! Help has arrived!",
+  "cz": "{Sound:01:B7}Ach, diky bohu! Pomoc dorazila!"
+ },
+ {
+  "gi": 14,
+  "si": 22,
+  "en": "{Sound:01:BA}Almost there... Goro! But it's\nstill just not breaking!",
+  "cz": "{Sound:01:BA}Skoro tam... Goro! Ale porad\nse to nelama!"
+ },
+ {
+  "gi": 14,
+  "si": 23,
+  "en": "{Sound:01:B7}I had a feeling there were some Gorons\nin need of a little extra muscle.\nWell, I'm here to help!",
+  "cz": "{Sound:01:B7}Mel jsem pocit, ze nejake Gorony\npotrebuje trochu svalu navic.\nJsem tu pomoct!"
+ },
+ {
+  "gi": 14,
+  "si": 24,
+  "en": "{Sound:01:BA}Hey, perfect timing! All right, everyone!\nTogether now! Gooooroooo!!!",
+  "cz": "{Sound:01:BA}Hej, perfektni nacasovani! Dobre,\nvsichni! Spolecne! Gooooroooo!!!"
+ },
+ {
+  "gi": 15,
+  "si": 1,
+  "en": "A long, long time ago...",
+  "cz": "Pred davnymi, davnymi casy..."
+ },
+ {
+  "gi": 15,
+  "si": 2,
+  "en": "when the world was on the verge of\nbeing swallowed by shadow...",
+  "cz": "kdyz byl svet na pokraji toho,\naby ho pohltil stin..."
+ },
+ {
+  "gi": 15,
+  "si": 3,
+  "en": "The tiny Picori\nappeared from the\nsky, bringing the\nhero of men a sword\nand a golden light.",
+  "cz": "Malicti Picori\nse zjevili z nebes\na prinesli hrdinovi\nlidi mec a zlate\nsvetlo."
+ },
+ {
+  "gi": 15,
+  "si": 4,
+  "en": "With wisdom and\ncourage, the hero\ndrove out the\ndarkness.",
+  "cz": "S moudrosti a\nodvahou hrdina\nzahnal temnotu\npryc."
+ },
+ {
+  "gi": 15,
+  "si": 5,
+  "en": "When peace had been restored, the\npeople enshrined that blade with care.",
+  "cz": "Kdyz byl mir obnoven, lide ten\nmec pecive ulozili."
+ },
+ {
+  "gi": 15,
+  "si": 6,
+  "en": "And the force of the golden light,\nembodied in Hyrule's princess,\nshone forth upon the lands.",
+  "cz": "A sila zlateho svetla,\nvtelena do princezny Hyrule,\nzarila nad zememi."
+ },
+ {
+  "gi": 15,
+  "si": 7,
+  "en": "{Sound:01:E8}Heh heh heh...\nSo that's what it means...",
+  "cz": "{Sound:01:E8}Che che che...\nTakze to to znamena..."
+ },
+ {
+  "gi": 16,
+  "si": 1,
+  "en": "{Sound:00:95}Good morning, {Color:Green}Master Smith{Color:White}.",
+  "cz": "{Sound:00:95}Dobre rano, {Color:Green}mistr Smith{Color:White}."
+ },
+ {
+  "gi": 16,
+  "si": 2,
+  "en": "{Sound:00:C2}Goodness me! {Color:Green}Princess Zelda{Color:White}!\n\nDid you sneak out of the castle\nand come all this way alone?\nThe minister is sure to be worried\nabout you! You know how he gets!",
+  "cz": "{Sound:00:C2}Pro pana krale! {Color:Green}Princezno Zeldo{Color:White}!\n\nVyplizila ses z hradu a\nprisla az sem sama?\nMinistr si bude jiste delat\nstarosti! Vis, jaky je!"
+ },
+ {
+  "gi": 16,
+  "si": 3,
+  "en": "Oh, don't worry about him! He'll be fine.\nWhere's {Player}?\nThe whole town is bustling for the\nannual {Color:Blue}Picori Festival{Color:White}!\nI thought he and I might go together.\nWould you mind terribly?",
+  "cz": "Ach, neboj se o nej! Zvladne to.\nKde je {Player}?\nCele mesto je v ruchu kvuli\nkazdorocnimu {Color:Blue}Festivalu Piccoru{Color:White}!\nNapadlo me, ze bychom mohli\njit spolu. Nevadi ti to?"
+ },
+ {
+  "gi": 16,
+  "si": 4,
+  "en": "Oh, is that what you're here for? \n\nWell, {Player} was up late helping me\nlast night, and he's still asleep...\nBut I do have an errand at the\ncastle... Yes, that should be fine.\n{07:10:05}",
+  "cz": "Ach, proto jsi tady? \n\n{Player} mi pomahal do pozdnich\nhodin a jeste spi...\nAle mam pochuzku na hrade...\nAno, to by melo byt v poradku.\n{07:10:05}"
+ },
+ {
+  "gi": 16,
+  "si": 5,
+  "en": "{Player}, time to get up!",
+  "cz": "{Player}, je cas vstavat!"
+ },
+ {
+  "gi": 16,
+  "si": 9,
+  "en": "{04:10:00}Hey! {Player}!\n\n{Color:Green}Princess Zelda{Color:White} is here. She'd like to\nknow if you'd join her at the festival.",
+  "cz": "{04:10:00}Hej! {Player}!\n\n{Color:Green}Princezna Zelda{Color:White} je tady. Pta se,\njestli s ni pujdes na festival."
+ },
+ {
+  "gi": 16,
+  "si": 10,
+  "en": "Yeah, {Player}. Come on! Let's\ngo check out the festival together!\n{Color:Green}Master Smith{Color:White} already gave me\npermission to take you!",
+  "cz": "Jo, {Player}. Pojd! Pojdme\nspolu na festival!\n{Color:Green}Mistr Smith{Color:White} uz mi dovolil,\nabych te vzala!"
+ },
+ {
+  "gi": 16,
+  "si": 11,
+  "en": "{04:10:00}Yes. After all, the festival only comes\nonce a year. Go on, have fun!\nAnd while you're there, you can do me\na favor.\nI just finished making this {Color:Red}sword {Color:White}for\nthe minister at {Color:Green}Hyrule Castle{Color:White}.\nI'd like you to deliver it to him.",
+  "cz": "{04:10:00}Ano. Festival je prece jen jednou\nrocne. Bavte se!\nA kdyz uz tam budes, udelej\nmi laskavost.\nPrave jsem dokoncil tenhle {Color:Red}mec {Color:White}\npro ministra na {Color:Green}hradu Hyrule{Color:White}.\nChtel bych, abys mu ho dorucil."
+ },
+ {
+  "gi": 16,
+  "si": 12,
+  "en": "{04:10:00}This is the blade that will be presented\nto the winner of the competition.\nDon't lose it. And while the two of you\nmay be childhood friends, remember...\n{07:10:0E}",
+  "cz": "{04:10:00}Tenhle mec bude predan\nvitezi souteze.\nNeztrat ho. A i kdyz jste kamaradi\nz detstvi, pamatuj...\n{07:10:0E}"
+ },
+ {
+  "gi": 16,
+  "si": 13,
+  "en": "Master Smith, quit worrying! We'll be\nperfectly safe.\nCome on, {Player}! Let's go\ncheck out the festival!",
+  "cz": "Mistre Smithe, neboj se! Budem\nv naprostem bezpeci.\nPojd, {Player}! Pojdme\nna festival!"
+ },
+ {
+  "gi": 16,
+  "si": 14,
+  "en": "{04:10:00}Zelda is the princess of Hyrule.\n\nYou watch over her. Don't let\nanything bad happen to her.",
+  "cz": "{04:10:00}Zelda je princezna Hyrule.\n\nDavej na ni pozor. At se\nji nic spatneho nestane."
+ },
+ {
+  "gi": 16,
+  "si": 16,
+  "en": "{Sound:00:94}{Player}! Over here!\n",
+  "cz": "{Sound:00:94}{Player}! Sem!\n"
+ },
+ {
+  "gi": 16,
+  "si": 17,
+  "en": "Come on, {Player}. Let's hurry\nto the castle.",
+  "cz": "Pojd, {Player}. Pospesme\nna hrad."
+ },
+ {
+  "gi": 16,
+  "si": 18,
+  "en": "{Sound:00:95}{Player}!\nHurry! Let's go!",
+  "cz": "{Sound:00:95}{Player}!\nPospes! Jdeme!"
+ },
+ {
+  "gi": 16,
+  "si": 19,
+  "en": "Over here! Come on!\nHurry up!",
+  "cz": "Sem! Pojd!\nPospes si!"
+ },
+ {
+  "gi": 16,
+  "si": 20,
+  "en": "Well, here we are! The {Color:Green}town of Hyrule{Color:White}!",
+  "cz": "Tak, a jsme tady! {Color:Green}Mesto Hyrule{Color:White}!"
+ },
+ {
+  "gi": 16,
+  "si": 33,
+  "en": "We have a winner!",
+  "cz": "Mame vitezku!"
+ },
+ {
+  "gi": 16,
+  "si": 34,
+  "en": "Oh, my! Princess Zelda! You won the\ngrand prize in our drawing? Wow!\nYou get your choice of any of these\nwonderful prizes. What will it be?",
+  "cz": "Ach! Princezna Zelda! Vyhrala jsi\nhlavni cenu v nasi loterii? Pani!\nMuzes si vybrat kteroukoliv z\ntechto skvelych cen. Kterou?"
+ },
+ {
+  "gi": 16,
+  "si": 35,
+  "en": "First, we have...this lovely\n{Color:Red}heart-shaped stone{Color:White}!\nNext, we have...",
+  "cz": "Nejdriv mame...tenhle krasny\n{Color:Red}kamen ve tvaru srdce{Color:White}!\nDal mame..."
+ },
+ {
+  "gi": 16,
+  "si": 36,
+  "en": "this {Color:Red}magnificent gem{Color:White}!\nAnd finally, there's...",
+  "cz": "tenhle {Color:Red}nadherny drahokam{Color:White}!\nA nakonec mame..."
+ },
+ {
+  "gi": 16,
+  "si": 37,
+  "en": "this teeny-tiny {Color:Red}shield{Color:White}.",
+  "cz": "tenhle malicky {Color:Red}stit{Color:White}."
+ },
+ {
+  "gi": 16,
+  "si": 38,
+  "en": "So, which one would you like?\n\nLet me guess...the jewel? Oh, but this\nheart stone is very cute, too.\nChoose whichever one you like!\n",
+  "cz": "Tak, ktery chces?\n\nHadam...drahokam? Ach, ale ten\nkamen-srdce je take roztomily.\nVyber si, kterykoli chces!\n"
+ },
+ {
+  "gi": 16,
+  "si": 39,
+  "en": "The {Color:Red}shield {Color:White}is so adorable! I think\nI'll take it.",
+  "cz": "Ten {Color:Red}stit {Color:White}je tak roztomily!\nMyslim, ze si vezmu jeho."
+ },
+ {
+  "gi": 16,
+  "si": 40,
+  "en": "What!? Why? Why would you want that\nugly thing!?\nWhat about the heart stone! It's cute!\n\nOr... Or this giant gem! It's pretty!\n\nHonestly, they're both much nicer than\nthat nasty little shield thing.",
+  "cz": "Coze!? Proc? Proc bys chtela\ntu osklivost!?\nA co kamen-srdce! Je rozkosny!\n\nNebo... Nebo ten obrovsky drahokam!\nJe krasny!\nUprimne, oba jsou mnohem hezci\nnez ta osklivost-stit."
+ },
+ {
+  "gi": 16,
+  "si": 41,
+  "en": "Nope! I want the {Color:Red}shield{Color:White}.\nCan I have it?",
+  "cz": "Ne! Chci ten {Color:Red}stit{Color:White}.\nMuzu ho dostat?"
+ },
+ {
+  "gi": 16,
+  "si": 42,
+  "en": "What a strange princess you are.\nWell...\nOK. Here's your teeny-tiny {Color:Red}shield{Color:White}.\n",
+  "cz": "Jsi ale podivna princezna.\nNo...\nOK. Tady je tvuj malicky {Color:Red}stit{Color:White}.\n"
+ },
+ {
+  "gi": 16,
+  "si": 43,
+  "en": "Here! I want to give you a present!\n\nDoesn't this {Color:Red}shield{Color:White} suit you perfectly,\n{Player}?",
+  "cz": "Tady! Chci ti dat darek!\n\nNesedne ti tenhle {Color:Red}stit{Color:White} dokonale,\n{Player}?"
+ },
+ {
+  "gi": 16,
+  "si": 44,
+  "en": "Yep! Just as I thought! You look great!\n\nNow, if anything happens, you can\nprotect me with that shield!\nOh! I almost forgot! We have to {Color:Blue}take\nMaster Smith's sword to the castle{Color:White}.\nLet's go, {Player}.",
+  "cz": "Jo! Presne, jak jsem myslela!\nVypadas skvele!\nKdyz se neco stane, muzes me\ntim stitem chranit!\nAch! Skoro jsem zapomnela! Musime\n{Color:Blue}odnest mistruv mec na hrad{Color:White}.\nPojdme, {Player}."
+ },
+ {
+  "gi": 16,
+  "si": 54,
+  "en": "{04:10:0C}{Sound:00:A9}Oh! {Player}! You brought the\nsword, did you?\nThen, as minister to the kingdom of\nHyrule, I, {Color:Green}Potho{Color:White}, accept this blade.\nYou came just in time. The award\nceremony will begin soon.",
+  "cz": "{04:10:0C}{Sound:00:A9}Ach! {Player}! Prinesl jsi ten\nmec, ze?\nJako ministr kralovstvi Hyrule\nja, {Color:Green}Potho{Color:White}, prijimam tento mec.\nPrisel jsi prave vcas. Slavnostni\nceremonie zacne brzy."
+ },
+ {
+  "gi": 16,
+  "si": 55,
+  "en": "{Sound:00:94}{04:10:0C}I'm sorry, {Player}, but I'd better go.\nI have to prepare for the ceremony.\nI had a good time at the festival.\nThanks for coming with me!",
+  "cz": "{Sound:00:94}{04:10:0C}Promin, {Player}, ale musim jit.\nMusim se pripravit na ceremonii.\nMela jsem na festivalu pekny cas.\nDik, ze jsi sel se mnou!"
+ },
+ {
+  "gi": 16,
+  "si": 56,
+  "en": "Since you're here, {Player}, why don't\nyou join us for the award ceremony?",
+  "cz": "Kdyz uz jsi tady, {Player}, proc\nse nepridas k slavnostni ceremonii?"
+ },
+ {
+  "gi": 16,
+  "si": 57,
+  "en": "Do you know about {Color:Red}that sword{Color:White},\n{Player}?\nIt is called the {Color:Red}Picori Blade{Color:White}, and it\nlocks much evil away in that chest.\nThe {Color:Red}Picori Blade{Color:White} is sacred among the\npeople of Hyrule.\nThe legend has it that, long ago, the\n{Color:Green}Picori{Color:White} gave us this blade.\nWhoever wins the competition earns the\nhonor of touching the sacred blade.",
+  "cz": "Vis o {Color:Red}tom meci{Color:White},\n{Player}?\nJmenuje se {Color:Red}Picori cepel{Color:White} a zamyka\nv te truhle mnoho zla.\n{Color:Red}Picori cepel{Color:White} je posvatna pro\nobyvatele Hyrule.\nLegenda pravi, ze davno {Color:Green}Picori{Color:White}\nnam dali tenhle mec.\nKdo vyhraje soutez, ziska cest\ndotknout se posvatneho mece."
+ },
+ {
+  "gi": 16,
+  "si": 58,
+  "en": "{Sound:01:F2}Let the award ceremony commence!\n\n{Color:Green}Vaati{Color:White}, champion of the competition,\nyou may approach the blade!",
+  "cz": "{Sound:01:F2}At ceremonie zacne!\n\n{Color:Green}Vaati{Color:White}, sampione souteze,\nmuzes pristoupit k cepeli!"
+ },
+ {
+  "gi": 16,
+  "si": 59,
+  "en": "{Sound:00:AA}Ah! Princess Zelda!! Wh--\nWhen did you leave the castle?!",
+  "cz": "{Sound:00:AA}Ach! Princezno Zeldo!! K--\nKdy jsi opustila hrad?!"
+ },
+ {
+  "gi": 16,
+  "si": 60,
+  "en": "{Sound:00:AA}Welcome to {Color:Green}Hyrule Castle{Color:White}!",
+  "cz": "{Sound:00:AA}Vitej na {Color:Green}hrade Hyrule{Color:White}!"
+ },
+ {
+  "gi": 16,
+  "si": 61,
+  "en": "Sorry, but we're getting things ready\nfor the ceremony. I can't let you pass.",
+  "cz": "Promin, ale chystame ceremonii.\nNemuzu te pustit."
+ },
+ {
+  "gi": 16,
+  "si": 62,
+  "en": "Preparations for the award ceremony\nare coming along nicely.",
+  "cz": "Pripravy na slavnostni ceremonii\nidou pekne kupredu."
+ },
+ {
+  "gi": 16,
+  "si": 63,
+  "en": "Sorry, but I can't let you pass. We've\nsealed the area off because of {Color:Green}Vaati{Color:White}.",
+  "cz": "Promin, nemuzu te pustit. Oblast\njsme uzavreli kvuli {Color:Green}Vaatimu{Color:White}."
+ },
+ {
+  "gi": 16,
+  "si": 64,
+  "en": "Ah, the sword for the award ceremony!\nYou should take that to {Color:Green}Minister Potho{Color:White}.\nYou'll find him in front of the castle.",
+  "cz": "Aha, mec pro ceremonii! Mel bys\nho odnest {Color:Green}ministru Pothovi{Color:White}.\nNajdes ho pred hradem."
+ },
+ {
+  "gi": 16,
+  "si": 67,
+  "en": "Heh heh heh...\n\nTo think things would go this well!\n\nThe {Color:Red}Picori Blade{Color:White} and the Bound Chest\nspoken of in Hylian lore...\nThis chest must hold that which I seek!\nI'll relieve you of its contents now.",
+  "cz": "Che che che...\n\nAby to slo tak dobre!\n\n{Color:Red}Picori cepel{Color:White} a spoutana Truhla\nz hylianskych legend...\nTa truhla musi obsahovat to, co\nhledam! Zbavim te obsahu."
+ },
+ {
+  "gi": 16,
+  "si": 68,
+  "en": "{Sound:00:9B}Mmmm ah hah hah hah!\nDo not interfere with me...\nAs victor, I've earned the right to\napproach the {Color:Red}Picori Blade{Color:White}...\nI've been waiting for this moment!",
+  "cz": "{Sound:00:9B}Mmmm cha cha cha!\nNezasahujte do me cesty...\nJako vitez jsem ziskal pravo\npristoupit k {Color:Red}Picori cepeli{Color:White}...\nNa tuto chvili jsem cekal!"
+ },
+ {
+  "gi": 16,
+  "si": 69,
+  "en": "Who are you? Why are you doing this?",
+  "cz": "Kdo jsi? Proc to delas?"
+ },
+ {
+  "gi": 16,
+  "si": 70,
+  "en": "The princess with the {Color:Blue}mystic aura{Color:White}...\n\n...The power that was gifted to the\npeople of Hyrule still flows\nwithin the veins of the ladies\nof its royal family? Interesting...\nIf I leave you now, you'll only cause\nme trouble later. That will never do.",
+  "cz": "Princezna s {Color:Blue}mystickou aurou{Color:White}...\n\n...Sila, ktera byla darovana\nobyvatelum Hyrule, stale plyne\nv zilach dam kralovske rodiny?\nZajimave...\nKdyz te ted necham, jen mi pak\nzpusobis potize. To nepujde."
+ },
+ {
+  "gi": 16,
+  "si": 71,
+  "en": "To stone with you!",
+  "cz": "Promen se v kamen!"
+ },
+ {
+  "gi": 16,
+  "si": 72,
+  "en": "{Player}! Watch out!\n{09:00}",
+  "cz": "{Player}! Pozor!\n{09:00}"
+ },
+ {
+  "gi": 16,
+  "si": 73,
+  "en": "...?!?\n\nEmpty? There was nothing in there\nbut a rabble of monsters?\nWhat is the meaning of this?\n\nWell, I know the {Color:Red}force{Color:White} I'm after is\nsomewhere out there.\nI'm in no hurry. I can take my\ntime searching for it.\n{Sound:00:9B}Heh heh heh...",
+  "cz": "...?!?\n\nPrazdne? Nebylo tam nic krome\nbandy priser?\nCo to ma znamenat?\n\nVim, ze {Color:Red}sila{Color:White}, kterou hledam, je\nnekde venku.\nNespecham. Muzu si dat na\nhledani cas.\n{Sound:00:9B}Che che che..."
+ },
+ {
+  "gi": 16,
+  "si": 74,
+  "en": "Heh heh heh heh... All who stand\nin my way shall share this fate!\nNow, to find out what power awaits\nme in this chest!",
+  "cz": "Che che che che... Vsichni, kdo\nmi stoji v ceste, sdileji tento osud!\nA ted zjistim, jaka sila na me\nv te truhle ceka!"
+ },
+ {
+  "gi": 16,
+  "si": 75,
+  "en": "Eeeeeeeek!",
+  "cz": "Iiiiiiiii!"
+ },
+ {
+  "gi": 16,
+  "si": 80,
+  "en": "{Sound:00:A3}It is as you have all heard.\n\nA sorcerer named {Color:Green}Vaati{Color:White} has cursed my\nfair Zelda and turned her to stone.\nIf we had the sacred {Color:Red}Picori Blade{Color:White}, we\nlikely could have broken the curse.\nBut Vaati shattered the blade...\n\nHowever, I have not given up hope.\nWhat do you know about the {Color:Green}Picori{Color:White}?",
+  "cz": "{Sound:00:A3}Je to tak, jak jste vsichni slyseli.\n\nCarodej jmenem {Color:Green}Vaati{Color:White} proklel mou\nmilou Zeldu a promenil ji v kamen.\nKdybychom meli posvatnou {Color:Red}Picori\ncepel{Color:White}, mohli jsme prokleti zlomit.\nAle Vaati cepel rozbil...\n\nPresto jsem neztratil nadeji.\nCo vis o {Color:Green}Picori{Color:White}?"
+ },
+ {
+  "gi": 16,
+  "si": 81,
+  "en": "The {Color:Green}Picori{Color:White}? Not much, beyond what the\nfairy tales say...\nThey're supposed to be very tiny, if I'm\nremembering correctly.",
+  "cz": "{Color:Green}Picori{Color:White}? Moc ne, krome toho, co\nrikaji pohadky...\nMaji byt velmi malicti, jestli\nse dobre pamatuji."
+ },
+ {
+  "gi": 16,
+  "si": 82,
+  "en": "Yes, the ones from the fairy tales...\n\nBut the Picori are no mere legend.\nThey most certainly exist.\nNo one outside of the royal family\nknows the truth about them.\nThe Picori, who forged the sacred\nblade, live deep within {Color:Green}Minish Woods{Color:White}.\nThey should be able to repair the\nbroken blade and reforge the sword.",
+  "cz": "Ano, ti z pohadek...\n\nAle Picori nejsou jen legenda.\nUrcite existuji.\nNikdo mimo kralovskou rodinu\nnezna pravdu o nich.\nPicori, kteri ukovali posvatnou\ncepel, ziji hluboko v {Color:Green}Minish Woods{Color:White}.\nMeli by byt schopni opravit\nrozbitou cepel a prekovat mec."
+ },
+ {
+  "gi": 16,
+  "si": 83,
+  "en": "Wh-What!? Then we must dispatch the\nsoldiers there at once!",
+  "cz": "C-Co!? Pak tam musime ihned\nvyslat vojaky!"
+ },
+ {
+  "gi": 16,
+  "si": 84,
+  "en": "No, soldiers will not do.\n\nThe Picori do not show themselves\nto anyone but children.\nOur soldiers could search for days\nand still find no sign of them.",
+  "cz": "Ne, vojaci nepostaci.\n\nPicori se neukazuji nikomu\njinemu nez detem.\nNasi vojaci by mohli hledat\ndny a nenasli by po nich stopu."
+ },
+ {
+  "gi": 16,
+  "si": 85,
+  "en": "I see...\n\nIf that's the case, then why not\nsend {Player}?",
+  "cz": "Aha...\n\nKdyz je to tak, proc\nnevyslat {Player}a?"
+ },
+ {
+  "gi": 16,
+  "si": 86,
+  "en": "{Sound:01:EB}If {Player} has recovered, then yes,\nI would like to ask this of him.\nPlease, turn my precious Zelda back\nto normal.\nThe {Color:Green}Picori{Color:White} should know how to create a\nnew {Color:Red}sacred sword{Color:White}.\nIt will be a dangerous journey, now\nthat those monsters have been freed.\nPlease, take this sword with you,\nalong with the broken {Color:Red}Picori Blade{Color:White}.",
+  "cz": "{Sound:01:EB}Kdyz se {Player} zotavil, ano,\nrad bych ho o to pozadal.\nProsim, vrat mou drahou Zeldu\nzpet do normalu.\n{Color:Green}Picori{Color:White} by meli vedet, jak vytvorit\nnovy {Color:Red}posvatny mec{Color:White}.\nBude to nebezpecna cesta, kdyz\nty prisery byly osvobozeny.\nProsim, vezmi si tento mec\ni rozbitou {Color:Red}Picori cepel{Color:White}."
+ },
+ {
+  "gi": 16,
+  "si": 87,
+  "en": "Very well, then. Send the soldiers to\nsearch for {Color:Green}Vaati{Color:White} at once!",
+  "cz": "Velmi dobre. Vyslete vojaky,\nat ihned hledaji {Color:Green}Vaatiho{Color:White}!"
+ },
+ {
+  "gi": 16,
+  "si": 88,
+  "en": "Deep within the {Color:Green}Minish Woods{Color:White}, you will\nfind a place called {Color:Green}Deepwood Shrine{Color:White}.\nOnce, humans and {Color:Green}Picori{Color:White} shared that\nshrine as a meeting place.\nI think it would be best if you\nstarted your search there.",
+  "cz": "Hluboko v {Color:Green}Minish Woods{Color:White} najdes\nmisto zvane {Color:Green}Deepwood Shrine{Color:White}.\nKdysi tam lide a {Color:Green}Picori{Color:White} mivali\nsetkani.\nMyslim, ze bys mel hledani\nzacit tam."
+ },
+ {
+  "gi": 16,
+  "si": 89,
+  "en": "Take this {Color:Red}map {Color:White}with you.\n\n{07:10:5E}",
+  "cz": "Vezmi si tuto {Color:Red}mapu{Color:White}.\n\n{07:10:5E}"
+ },
+ {
+  "gi": 16,
+  "si": 90,
+  "en": "{Color:Green}Minish Woods{Color:White} lies southeast\nof the town of Hyrule.\nIn fact, it's due east of your\nhouse, {Player}.",
+  "cz": "{Color:Green}Minish Woods{Color:White} leze jihovychodne\nod mesta Hyrule.\nVlastne hned na vychod od\ntveho domu, {Player}."
+ },
+ {
+  "gi": 16,
+  "si": 91,
+  "en": "Oh, {Player}. You're awake. Are you\nfeeling all right?\nStand at my side. The king of\nHyrule is about to speak.",
+  "cz": "Ach, {Player}. Probudil ses. Citis\nse dobre?\nStuj po mem boku. Kral\nHyrule bude mluvit."
+ },
+ {
+  "gi": 16,
+  "si": 92,
+  "en": "I am counting on you, {Player}.\n\nOnly you can break {Color:Blue}Vaati's curse\n{Color:White}and free Princess Zelda.",
+  "cz": "Pocitam s tebou, {Player}.\n\nJen ty muzes zlomit {Color:Blue}Vaatiho kletbu\n{Color:White}a osvobodit princeznu Zeldu."
+ },
+ {
+  "gi": 16,
+  "si": 94,
+  "en": "If you get lost on your way to the\nforest, simply check your map.\nJust press START and then {Key:Left} or\n{Key:Right} to open the map.\nI've marked the location of the forest\nfor you. Good luck, and be careful.",
+  "cz": "Kdyz se ztratis cestou do lesa,\nstaci se podivat na mapu.\nStiskni START a pak {Key:Left} nebo\n{Key:Right}, abys mapu otevrel.\nOznacil jsem ti polohu lesa.\nHodne stesti a buc opatrny."
+ },
+ {
+  "gi": 16,
+  "si": 95,
+  "en": "Oh, thank goodness!\nYou've awakened!\n{07:10:60}",
+  "cz": "Ach, diky bohu!\nProbudil ses!\n{07:10:60}"
+ },
+ {
+  "gi": 16,
+  "si": 96,
+  "en": "Master Smith is here as well. He's come\nto see His Majesty the king.",
+  "cz": "Mistr Smith je tu take. Prisel\nza Jeho Velicenstvem kralem."
+ },
+ {
+  "gi": 16,
+  "si": 97,
+  "en": "Please find a way to break the curse\non Princess Zelda.",
+  "cz": "Prosim, najdi zpusob, jak zlomit\nkletbu na princezne Zelde."
+ },
+ {
+  "gi": 16,
+  "si": 98,
+  "en": "Please be careful!",
+  "cz": "Prosim, bud opatrny!"
+ },
+ {
+  "gi": 16,
+  "si": 99,
+  "en": "Press {Key:Right} while walking to roll. This\nis useful when you want to move fast.\nDon't forget! And if you want to {Color:Blue}save{Color:White}\nduring the game, press {Color:Blue}START{Color:White}\nand choose SAVE from the {Color:Blue}Items\nscreen{Color:White} or the {Color:Blue}Quest Status screen{Color:White}.",
+  "cz": "Stiskni {Key:Right} pri chuzi pro kotrmelec.\nHodi se to, kdyz chces rychle se hybat.\nNezapomen! A kdyz chces {Color:Blue}ulozit{Color:White}\nv prubehu hry, stiskni {Color:Blue}START{Color:White}\na vyber SAVE z {Color:Blue}obrazovky\npredmetu{Color:White} nebo {Color:Blue}stavu mise{Color:White}."
+ },
+ {
+  "gi": 16,
+  "si": 100,
+  "en": "There are monsters outside the castle.\n\nIf you see one, use your {Color:Red}shield{Color:White} to\ndefend yourself.\nMove in close enough to use your {Color:Red}sword{Color:White}\nif you need to fight.",
+  "cz": "Venku za hradem jsou prisery.\n\nKdyz nejakou uvidis, pouzij {Color:Red}stit{Color:White}\nk obrane.\nPribliz se dostatecne, abys mohl\npouzit {Color:Red}mec{Color:White}, kdyz potrebujes bojovat."
+ },
+ {
+  "gi": 16,
+  "si": 102,
+  "en": "{Sound:01:E0}Owwwwch!\n\nThat must be the {Color:Green}Business Scrub{Color:White} I\nheard the soldiers talking about.\nThey were saying a Deku Scrub had\nbeen hassling all the passersby.\n{Player}, do something about it!\nOtherwise, we can't get to the castle.\nIf only we had some way to defend\nourselves against {Color:Blue}those nuts of his{Color:White}.",
+  "cz": "{Sound:01:E0}Au!\n\nTo musi byt ten {Color:Green}Business Scrub{Color:White},\no kterem vojaci mluvili.\nRikali, ze Deku Scrub otravuje\nvsechny kolemjdouci.\n{Player}, udelej s tim neco!\nJinak se nedostaneme na hrad.\nKdybychom meli, cim se branit\nproti {Color:Blue}tem jeho orechum{Color:White}."
+ },
+ {
+  "gi": 16,
+  "si": 103,
+  "en": "If we could just defend against those\n{Color:Blue}nuts{Color:White}, I'm sure we could do something!",
+  "cz": "Kdybychom se mohli branit\n{Color:Blue}tem orechum{Color:White}, urcite bychom neco zmohli!"
+ },
+ {
+  "gi": 16,
+  "si": 104,
+  "en": "I actually feel a little sorry for that\nBusiness Scrub. But that nut hurt!\nOh, well. He won't be hassling anyone\nnow! We'd better hurry to the castle!",
+  "cz": "Vlastne mi je toho Business\nScruba trochu lito. Ale ten orech bolel!\nNo nic. Uz nebude nikoho otravovat!\nMusime spechat na hrad!"
+ },
+ {
+  "gi": 16,
+  "si": 105,
+  "en": "Where are you going, {Player}?\nHurry up and do something!",
+  "cz": "Kam jdes, {Player}?\nPospes si a udelej neco!"
+ },
+ {
+  "gi": 16,
+  "si": 106,
+  "en": "Please! Forgive me, sir!\n\nI heard there was a {Color:Blue}festival{Color:White}, and I\ncame to {Color:Green}town {Color:White}hoping to hawk my wares.\nUnfortunately, we scrubs have a\ntendency to spit nuts when we speak!\nEveryone got scared and ran away,\nand no one would buy anything!\nThis is a terrible place to do\nbusiness! I'm going back to my cave!",
+  "cz": "Prosim! Odpustte mi, pane!\n\nSlysel jsem, ze je {Color:Blue}festival{Color:White}, a\nprisel do {Color:Green}mesta {Color:White}prodavat zbozi.\nBohuzel my scrubove mame sklon\nplivat orechy, kdyz mluvime!\nVsichni se vylekli a utekli,\nnikdo nic nekoupil!\nTohle je hrozne misto pro obchod!\nVracim se do sve jeskyne!"
+ },
+ {
+  "gi": 16,
+  "si": 108,
+  "en": "All right! To the {Color:Green}castle {Color:White}we go!",
+  "cz": "Dobre! Jdeme na {Color:Green}hrad{Color:White}!"
+ },
+ {
+  "gi": 16,
+  "si": 113,
+  "en": "Even turned to stone by {Color:Blue}Vaati's\ncurse{Color:White}, her eyes are filled with life.\nHurry... Save her...",
+  "cz": "I kdyz je promenena v kamen\n{Color:Blue}Vaatiho kletbou{Color:White}, oci ma plne zivota.\nPospes... Zachran ji..."
+ },
+ {
+  "gi": 17,
+  "si": 1,
+  "en": "Helllllp!!! Help meeee!!!",
+  "cz": "Pomocccc!!! Pomozte miii!!!"
+ },
+ {
+  "gi": 17,
+  "si": 2,
+  "en": "Ouch! Won't somebody stop them!?",
+  "cz": "Au! Nezastavi je nekdo!?"
+ },
+ {
+  "gi": 17,
+  "si": 3,
+  "en": "Ow! Ow! Help... Somebody!\nCan't anybody hear me?",
+  "cz": "Au! Au! Pomoc... Nekdo!\nNeslysi me nikdo?"
+ },
+ {
+  "gi": 17,
+  "si": 4,
+  "en": "OUCH!!!",
+  "cz": "AU!!!"
+ },
+ {
+  "gi": 17,
+  "si": 5,
+  "en": "{Sound:00:92}Hey! Kid! You there!",
+  "cz": "{Sound:00:92}Hej! Kluku! Ty tam!"
+ },
+ {
+  "gi": 17,
+  "si": 6,
+  "en": "Ow!",
+  "cz": "Au!"
+ },
+ {
+  "gi": 17,
+  "si": 7,
+  "en": "Hey! Don't just stand there!\nDo something!!!",
+  "cz": "Hej! Nestuj jen tak!\nUdelej neco!!!"
+ },
+ {
+  "gi": 17,
+  "si": 8,
+  "en": "Ow!",
+  "cz": "Au!"
+ },
+ {
+  "gi": 17,
+  "si": 9,
+  "en": "What's wrong with you!? Do you like\nwatching me take this abuse!? Help me!",
+  "cz": "Co je s tebou!? Bavi te koukat\nse, jak me biji!? Pomoz mi!"
+ },
+ {
+  "gi": 17,
+  "si": 10,
+  "en": "{Sound:00:90}Phew! Well done! That was close. Not\nthat I couldn't handle them myself.\nBut that's beside the point!\n\nWhat in the world is a lone child\ndoing so deep in the woods?",
+  "cz": "{Sound:00:90}Uf! Dobra prace! Bylo to tesne.\nNe ze bych je sam nezvladl.\nAle to neni podstatne!\n\nCo tu osamele dite dela tak\nhluboko v lesich?"
+ },
+ {
+  "gi": 17,
+  "si": 11,
+  "en": "Ho ho! I see.",
+  "cz": "Ho ho! Aha."
+ },
+ {
+  "gi": 17,
+  "si": 12,
+  "en": "The...{Color:Green}Picori{Color:White}, you say? And {Color:Green}Vaati{Color:White}?",
+  "cz": "...{Color:Green}Picori{Color:White}, rikas? A {Color:Green}Vaati{Color:White}?"
+ },
+ {
+  "gi": 17,
+  "si": 13,
+  "en": "Vaati's cursed someone? What?\nThe sacred blade?!?",
+  "cz": "Vaati nekoho proklel? Co?\nPosvatnou cepel?!?"
+ },
+ {
+  "gi": 17,
+  "si": 14,
+  "en": "Is that so? I see, I see... You know,\nyou and I have quite a lot in common.\nYou see, I, too, am on a quest to\nbreak a curse of Vaati's.\nAnd you say that reforging the {Color:Red}sacred\nblade{Color:White} can break his curse, eh?\nWell, then you have found yourself\na companion, my boy!\nMy name is {Color:Green}Ezlo{Color:White}. It's a pleasure to\nmake your acquaintance.",
+  "cz": "Vazne? Aha, aha... Vis, mame\nspolu hodne spolecneho.\nJa take putuji, abych zlomil\njednu Vaatiho kletbu.\nA rikas, ze prekovani {Color:Red}posvatne\ncepele{Color:White} muze kletbu zlomit?\nNo, pak jsi nasel spolecnika,\nmuj chlapce!\nJmenuji se {Color:Green}Ezlo{Color:White}. Tesim se na\nspolecnou cestu."
+ },
+ {
+  "gi": 17,
+  "si": 15,
+  "en": "{Sound:00:92}Wait! Wait, I say!\n\nYou walk so quickly!\nToo quickly, in fact!\nCan't you go any slower? Surely\nyou've noticed that I have no legs...",
+  "cz": "{Sound:00:92}Pockej! Pockej, povidam!\n\nChodis tak rychle!\nMoc rychle, vskutku!\nNemuzes pomaleji? Urcite sis\nvsiml, ze nemam nohy..."
+ },
+ {
+  "gi": 17,
+  "si": 16,
+  "en": "{Sound:00:92}Boy! Take a good look at me! Do you\nreally think I can walk that fast!?",
+  "cz": "{Sound:00:92}Kluku! Poradne se na me podivej!\nVazne myslis, ze chodim tak rychle!?"
+ },
+ {
+  "gi": 17,
+  "si": 17,
+  "en": "{Sound:01:E4}Augh!\n\nIf it isn't one thing, it's another!\nYou are a troublesome boy!",
+  "cz": "{Sound:01:E4}Ach!\n\nKdyz ne jedna vec, tak druha!\nJsi otravny kluk!"
+ },
+ {
+  "gi": 17,
+  "si": 18,
+  "en": "{Sound:00:5F}There! Now, you can't possibly\nleave me behind.\nMy... It's quite comfortable up here.\nMore comfortable than it looks, surely.\nAnd much easier on me!\n\nHey! Quit your squirming! Can't\nyou sit still? See! There...\nYes, yes! That's it. Much better.\n\nNow, I suppose a boy like you still has\nmuch to learn about the world.\nIf ever you need my insight, press\n{Color:Blue}SELECT{Color:White}. I'll be happy to help!\nAh, such a hopeless child...",
+  "cz": "{Sound:00:5F}Tak! Ted me uz nemuzes\nnechat za sebou.\nMujm... Tady nahore je to pohodlne.\nPohodlnejsi nez to vypada, vskutku.\nA pro me mnohem snazsi!\n\nHej! Prestan se vrtet! Nevydrzis\nv klidu? Tak... Tady...\nAno, ano! To je ono. Mnohem lepsi.\n\nKluk jako ty se ma jeste\nhodne co ucit o svete.\nKdy budes potrebovat radu, stiskni\n{Color:Blue}SELECT{Color:White}. Rad ti pomohu!\nAch, takove bezradne dite..."
+ },
+ {
+  "gi": 17,
+  "si": 19,
+  "en": "Hey! Where are you going?\nYou heartless brat! Help me!!!",
+  "cz": "Hej! Kam jdes?\nBezsrdcaty parchant! Pomoz mi!!!"
+ },
+ {
+  "gi": 17,
+  "si": 20,
+  "en": "What are you doing? Aren't you going\nto finish them off?",
+  "cz": "Co delas? Nedoraz je?"
+ },
+ {
+  "gi": 17,
+  "si": 21,
+  "en": "...What? Is there something on my\nface? Quit staring! It's rude!",
+  "cz": "...Co? Mam neco na oblicej?\nPrestan civet! Je to hrubost!"
+ },
+ {
+  "gi": 17,
+  "si": 23,
+  "en": "Oh, {Player}. You're heading for\n{Color:Green}Minish Woods{Color:White} now, aren't you?\nLeave the monsters that {Color:Green}Vaati\n{Color:White}freed to us, and go find the {Color:Green}Picori{Color:White}!",
+  "cz": "Ach, {Player}. Mirilis ted do\n{Color:Green}Minish Woods{Color:White}, ze?\nPrenech prisery, ktere {Color:Green}Vaati\n{Color:White}osvobodil, nam a najdi {Color:Green}Picori{Color:White}!"
+ },
+ {
+  "gi": 17,
+  "si": 24,
+  "en": "{Color:Green}Minish Woods {Color:White}lie far to the south from\nhere. If you get lost, check your {Color:Red}map{Color:White}.",
+  "cz": "{Color:Green}Minish Woods {Color:White}lezi daleko na jih\nodtud. Kdyz se ztratis, mrkni na {Color:Red}mapu{Color:White}."
+ },
+ {
+  "gi": 17,
+  "si": 26,
+  "en": "Hey, kid! Where are you going!?\nThat's the way we just came from!",
+  "cz": "Hej, kluku! Kam jdes!?\nOdtud jsme prave prisli!"
+ },
+ {
+  "gi": 17,
+  "si": 29,
+  "en": "You who desire to enter the realm of\nthe Minish, seek out the hidden portal.\nOffer up your song at the portal's\nbase, and be guided to the world below.",
+  "cz": "Ty, kdo touzis vstoupit do rise\nMinish, hledej skryty portal.\nObetuj svou pisen u zakladu\nportalu a budes veden dolu."
+ },
+ {
+  "gi": 17,
+  "si": 37,
+  "en": "{Sound:00:8E}Hmmm... It appears we have found the\n{Color:Green}Minish village{Color:White}.",
+  "cz": "{Sound:00:8E}Hmmm... Zda se, ze jsme nasli\n{Color:Green}vesnici Minish{Color:White}."
+ },
+ {
+  "gi": 17,
+  "si": 38,
+  "en": "{Sound:00:B1}Pico picori!",
+  "cz": "{Sound:00:B1}Pico picori!"
+ },
+ {
+  "gi": 17,
+  "si": 39,
+  "en": "{Sound:00:B3}Ripi ripico picori!",
+  "cz": "{Sound:00:B3}Ripi ripico picori!"
+ },
+ {
+  "gi": 17,
+  "si": 40,
+  "en": "{Sound:00:B2}Picoco pico ripico!",
+  "cz": "{Sound:00:B2}Picoco pico ripico!"
+ },
+ {
+  "gi": 17,
+  "si": 41,
+  "en": "I gather it's been quite some time\nsince they last saw a human.\n...What's that? You didn't understand\nwhat they were saying just now?\nAh, yes. That was the language\nof the {Color:Green}Minish{Color:White}.\nIt's a little different from the dialect\nI am most familiar with.\nI'm afraid I didn't catch most\nof what they said myself.\nBut perhaps there is someone here\nwho {Color:Blue}understands your language{Color:White}.\nWe should look around.",
+  "cz": "Hadam, ze je to dost dlouho,\nco naposled videli cloveka.\n...Coze? Ty jsi nerozumel\ntomu, co prave rikali?\nAch, ano. To byl jazyk\n{Color:Green}Minish{Color:White}.\nLisi se trochu od dialektu,\nktery znam nejlepe.\nObavam se, ze jsem vetsinu\nani sam nepostrehl.\nAle mozna je tu nekdo, kdo\n{Color:Blue}rozumi tvemu jazyku{Color:White}.\nPodivame se kolem."
+ },
+ {
+  "gi": 17,
+  "si": 43,
+  "en": "Fortunately, the {Color:Red}Earth Element {Color:White}is in the\n{Color:Green}shrine {Color:White}at the far end of the village.\nA horde of beasts lives in that {Color:Green}shrine{Color:White},\nthough, so enter with caution.",
+  "cz": "Nastesti je {Color:Red}Element zeme {Color:White}ve\n{Color:Green}svatyni {Color:White}na konci vesnice.\nV te {Color:Green}svatyni{Color:White} vsak zije horda\nselem, takze vstup s opatrnosti."
+ },
+ {
+  "gi": 17,
+  "si": 48,
+  "en": "{Sound:02:0D}Oh! You speak our language!\n\nIt's been quite a while since we've\nheard outsiders speak our tongue!\nWe have little to offer you in these\nwoods, but please, enjoy your stay.",
+  "cz": "{Sound:02:0D}Ach! Mluvis nasim jazykem!\n\nUz je to dlouho, co jsme slyseli\ncizince mluvit nasi reci!\nMame malo co nabidnout v techto\nlesich, ale prosim, uzij si pobyt."
+ },
+ {
+  "gi": 17,
+  "si": 49,
+  "en": "Thank you for your offer, but we have\nno time to relax. My name is {Color:Green}Ezlo{Color:White}.\nThis child is {Player}.\n\nWe need to break a {Color:Blue}curse {Color:White}that has\nbeen cast on the princess of Hyrule.\nTo do so, we'll need to reforge\nthe broken {Color:Red}Picori Blade{Color:White}.",
+  "cz": "Dekuji za nabidku, ale nemame\ncas odpocivat. Jmenuji se {Color:Green}Ezlo{Color:White}.\nToto dite je {Player}.\n\nMusime zlomit {Color:Blue}kletbu{Color:White}, ktera byla\nuvalena na princeznu Hyrule.\nKvuli tomu musime prekovat\nrozbitou {Color:Red}Picori cepel{Color:White}."
+ },
+ {
+  "gi": 17,
+  "si": 50,
+  "en": "Ah, yes. And you've come here now\nhoping to have the blade reforged?\nHm... Well, if that's what you're after,\nyou'll need four mystic {Color:Red}elements{Color:White}.\nThese elements are the crystalline\nforms of the energies of this world.\nOnly by {Color:Blue}infusing the blade{Color:White} with these\nenergies can a new blade be forged.\nHere, give me your map. I can mark\nwhere these {Color:Red}elements{Color:White} can be found.",
+  "cz": "Aha, ano. A prisli jste sem v\nnadeji, ze cepel prekujete?\nHm... Pokud po tom touzite,\nbudete potrebovat ctyri mysticke {Color:Red}elementy{Color:White}.\nTyto elementy jsou krystalicke\nformy energii tohoto sveta.\nJen {Color:Blue}prosycenim cepele{Color:White} temito\nenergiemi lze ukovat novou cepel.\nDejte mi mapu. Oznacim, kde\nse tyto {Color:Red}elementy{Color:White} nachazeji."
+ },
+ {
+  "gi": 17,
+  "si": 51,
+  "en": "The {Color:Red}Earth Element{Color:White} can be found in the\n{Color:Green}shrine{Color:White} to the north of {Color:Green}Festari{Color:White}'s abbey.\nSpeak with {Color:Green}Festari{Color:White}. He will show you the\npath to the {Color:Green}shrine{Color:White}'s entrance.\nGo with caution. Evil creatures have\nlately made their home in our {Color:Green}shrine{Color:White}.\nReturn to me at once after you have\nfound the {Color:Red}Earth Element{Color:White}.",
+  "cz": "{Color:Red}Element zeme{Color:White} naleznes ve\n{Color:Green}svatyni{Color:White} severne od {Color:Green}Festari{Color:White}ho opatstvi.\nPromluv s {Color:Green}Festari{Color:White}m. Ukaze ti\ncestu ke vchodu do {Color:Green}svatyne{Color:White}.\nJdi opatrne. Zle bytosti si\nnedavno udelaly domov v nasi {Color:Green}svatyni{Color:White}.\nIhned se ke mne vrat, kdyz\nnajdes {Color:Red}Element zeme{Color:White}."
+ },
+ {
+  "gi": 17,
+  "si": 53,
+  "en": "{Sound:02:0D}So! You have found the {Color:Red}Earth Element{Color:White}!\n\nYou are blessed with much courage and\nstrength for one so young.\nIf your conviction holds strong, head\nto {Color:Green}Mount Crenel{Color:White}.\nThere, you will find a man named {Color:Green}Melari{Color:White}.\n\nAmong all the Minish, there is no one\nmore able to repair your sword.\nIf you ask him, I am certain he will\nreforge your {Color:Red}broken Picori Blade{Color:White}.\nI shall send word to him in advance.\n\nTravel safely. You are brave, but\nthere are many evils now in the world.",
+  "cz": "{Sound:02:0D}Tak! Nasel jsi {Color:Red}Element zeme{Color:White}!\n\nJsi obdaren velkou odvahou a\nsilou na nekoho tak mladeho.\nJestli tvoje odhodlani vydrzi,\nmir k {Color:Green}Mt. Crenel{Color:White}.\nTam najdes muze jmenem {Color:Green}Melari{Color:White}.\n\nMezi vsemi Minish neni nikdo\nschopnejsi opravit tvuj mec.\nKdyz ho pozadas, urcite\nprekuje tvou {Color:Red}rozbitou Picori cepel{Color:White}.\nPredem mu poslu zpravu.\n\nCestuj bezpecne. Jsi statecny,\nale na svete je ted mnoho zla."
+ },
+ {
+  "gi": 17,
+  "si": 54,
+  "en": "Leave through this door here. It will\ntake you out of the forest quickly.",
+  "cz": "Odejdi temito dvermi. Rychle\nse dostanes z lesa."
+ },
+ {
+  "gi": 17,
+  "si": 55,
+  "en": "Great elder, we are in your debt.\n\nWe shall head for {Color:Green}Mount Crenel{Color:White}\nat once!",
+  "cz": "Velky starsi, jsme vam zavazani.\n\nIhned vyrazime k\n{Color:Green}Mt. Crenel{Color:White}!"
+ },
+ {
+  "gi": 18,
+  "si": 1,
+  "en": "{Sound:00:B0}Come one, come all! See how many\nKinstone pieces you can collect!\nYou never know what fusing {Color:Red}Kinstones{Color:White}\nwill do, but it's sure to be good!\nCome on up and get your free {Color:Red}Kinstone\nbag{Color:White} for holding your {Color:Red}Kinstone pieces{Color:White}!\nDon't miss out on this incredible,\nonce-in-a-lifetime opportunity!",
+  "cz": "{Sound:00:B0}Pojdte vsichni! Uvidite, kolik\nkousku Kamene osudu nasbirate!\nNikdy nevite, co spojeni {Color:Red}Kamenu osudu{Color:White}\nzpusobi, ale urcite je to dobre!\nPojdte si pro {Color:Red}pytlik na Kameny{Color:White}\nzdarma na nosenie {Color:Red}kousku{Color:White}!\nNenechte si ujit tuhle\nneuveritelnou prilezitost!"
+ },
+ {
+  "gi": 18,
+  "si": 2,
+  "en": "Yes, yes. You're here for your free\n{Color:Red}Kinstone bag{Color:White}, aren't you?\nThat's right! Maybe you didn't hear me,\nbut they're free for all kids right now!",
+  "cz": "Ano, ano. Jdes si pro {Color:Red}pytlik\nna Kameny{Color:White} zdarma, ze?\nSpravne! Mozna jsi neslysel,\nale ted jsou pro deti zdarma!"
+ },
+ {
+  "gi": 18,
+  "si": 3,
+  "en": "Fitting two {Color:Red}Kinstone pieces{Color:White} together\nis called {Color:Blue}Kinstone Fusion{Color:White}.\nIf you get two pieces to fit perfectly,\ngreat happiness will come your way!\nI'll put a {Color:Red}Kinstone piece{Color:White} in your\n{Color:Red}Kinstone bag{Color:White} so you can give it a try.\n{07:12:04}",
+  "cz": "Spojeni dvou {Color:Red}kousku Kamene osudu{Color:White}\nse nazyva {Color:Blue}Spojeni Kamenu{Color:White}.\nKdyz spojis dva kousky perfektne,\npotka te velke stesti!\nDam ti {Color:Red}kousek Kamene{Color:White} do\n{Color:Red}pytliku{Color:White}, abys to zkusil.\n{07:12:04}"
+ },
+ {
+  "gi": 18,
+  "si": 4,
+  "en": "Anyone who's ready and willing to {Color:Blue}fuse\nKinstones {Color:White}will look like I do right now.\nWhen you see that look in their eyes,\nthat's when you press {Key:Left}!\nUse {Key:Dpad} to choose a {Color:Red}Kinstone piece{Color:White},\nand press {Key:A} to try {Color:Blue}fusing it{Color:White}!\nDid you catch all of that?\n   {Choice:12:05}Yes   {Choice:12:03}No",
+  "cz": "Kdokoliv ochotny {Color:Blue}spojit Kameny osudu{Color:White}\nbude vypadat jako ja ted.\nKdyz uvidis ten pohled v\njejich ocich, stiskni {Key:Left}!\nPouzij {Key:Dpad} k vyberu {Color:Red}kousku{Color:White}\na stiskni {Key:A} k {Color:Blue}spojeni{Color:White}!\nZachytil jsi vsechno?\n   {Choice:12:05}Ano   {Choice:12:03}Ne"
+ },
+ {
+  "gi": 18,
+  "si": 5,
+  "en": "Then stand in front of me and press\n{Key:Left} so we can {Color:Blue}fuse Kinstones{Color:White}!",
+  "cz": "Pak se postav prede me a stiskni\n{Key:Left}, at muzeme {Color:Blue}spojit Kameny osudu{Color:White}!"
+ },
+ {
+  "gi": 18,
+  "si": 6,
+  "en": "Where are you going? Stand in front of\nme and press {Key:Left}!",
+  "cz": "Kam jdes? Postav se prede\nme a stiskni {Key:Left}!"
+ },
+ {
+  "gi": 18,
+  "si": 7,
+  "en": "Yes, yes. That's it. Press {Key:Left}!\nThen you can see the {Color:Blue}Kinstone screen{Color:White}.",
+  "cz": "Ano, ano. Tak. Stiskni {Key:Left}!\nUvidis {Color:Blue}obrazovku Kamenu{Color:White}."
+ },
+ {
+  "gi": 18,
+  "si": 8,
+  "en": "Hey! What's wrong? Press {Key:Left} so we\ncan try {Color:Blue}fusing{Color:White} our {Color:Blue}Kinstones{Color:White}.",
+  "cz": "Hej! Co se deje? Stiskni {Key:Left},\nat muzeme zkusit {Color:Blue}spojit Kameny{Color:White}."
+ },
+ {
+  "gi": 18,
+  "si": 9,
+  "en": "A perfect fit! That means we're both\ndue for a little happiness! See ya!",
+  "cz": "Perfektni shoda! Oba nas\nceka stesti! Mej se!"
+ },
+ {
+  "gi": 18,
+  "si": 11,
+  "en": "{Sound:02:07}Ting along, tong along!{Symbol:0B}\nDig along fer iron!{Symbol:0B}",
+  "cz": "{Sound:02:07}Ting tonk, tong tonk!{Symbol:0B}\nKopej dal pro zelezo!{Symbol:0B}"
+ },
+ {
+  "gi": 18,
+  "si": 12,
+  "en": "{Sound:02:08}Ting along, tong along!{Symbol:0B}\n\nDig down, dig around!{Symbol:0B}\nDig the ground fer iron!{Symbol:0B}",
+  "cz": "{Sound:02:08}Ting tonk, tong tonk!{Symbol:0B}\n\nKopej dolu, kopej kolem!{Symbol:0B}\nKopej zem pro zelezo!{Symbol:0B}"
+ },
+ {
+  "gi": 18,
+  "si": 13,
+  "en": "{Sound:02:0A}This mine belongs to {Color:Green}Melari{Color:White} and\nus, his seven apprentices.\nDid you ting along, tong along, all this\nlong way to get your sword repaired?\nThe {Color:Green}boss{Color:White} is down on the lowest level.",
+  "cz": "{Sound:02:0A}Tenhle dul patri {Color:Green}Melarimu{Color:White} a\nnam, jeho sedmi ucnum.\nPrisel jsi tu dlouhou cestu,\nabys ti spravili mec?\n{Color:Green}Sef{Color:White} je dole na nejnizsim patre."
+ },
+ {
+  "gi": 18,
+  "si": 14,
+  "en": "{Sound:02:0A}Ting along, tong along!{Symbol:0B}\nI'm hmm... Hmm... Hmph!\nMan... I really need to come up\nwith a digging song of my own.",
+  "cz": "{Sound:02:0A}Ting tonk, tong tonk!{Symbol:0B}\nJa hmm... Hmm... Hmf!\nClovece... Vazne si musim\nvymyslet vlastni dolovaci pisen."
+ },
+ {
+  "gi": 18,
+  "si": 15,
+  "en": "{Sound:02:0A}Ting tong, tong along!{Symbol:0B}\n\nDeep down, dig down!{Symbol:0B}\nDig joy in the ground!{Symbol:0B}",
+  "cz": "{Sound:02:0A}Ting tonk, tong tonk!{Symbol:0B}\n\nHluboko dolu, kopej dolu!{Symbol:0B}\nKopej radost v zemi!{Symbol:0B}"
+ },
+ {
+  "gi": 18,
+  "si": 16,
+  "en": "{Sound:02:0A}If you head outside from here, you\ncan go see the {Color:Green}mine{Color:White} the humans dug.\nBut the {Color:Green}boss{Color:White} doesn't let anyone go\nin there without permission.",
+  "cz": "{Sound:02:0A}Kdyz pujdes ven, muzes videt\n{Color:Green}dul{Color:White}, ktery vykopali lide.\nAle {Color:Green}sef{Color:White} tam nikoho nepousti\nbez dovoleni."
+ },
+ {
+  "gi": 18,
+  "si": 17,
+  "en": "{Sound:02:0A}What? You're going to the {Color:Green}mine{Color:White}?\n\nIf you've talked to the {Color:Green}boss{Color:White}, I won't\nstop you. But be careful.",
+  "cz": "{Sound:02:0A}Co? Ty jdes do {Color:Green}dolu{Color:White}?\n\nJestli jsi mluvil se {Color:Green}sefem{Color:White},\nnezastavim te. Ale opatrne."
+ },
+ {
+  "gi": 18,
+  "si": 18,
+  "en": "{Sound:02:09}Ting along, tong along!{Symbol:0B}\nHuh, what? Who am I?\nWhy, my lad, I'm the second-best of\nthe Minish metalsmiths!\nI'm makin' swords with the boss.",
+  "cz": "{Sound:02:09}Ting tonk, tong tonk!{Symbol:0B}\nHe, co? Kdo jsem?\nMily hochu, jsem druhy nejlepsi\nz Minish kovaru!\nDelam mece se sefem."
+ },
+ {
+  "gi": 18,
+  "si": 19,
+  "en": "{Sound:02:06}Ting along, tong along!{Symbol:0B}\nHuh, what? Who am I?\nWell, I'm no less than the third-\nbest of the Minish metalsmiths!\nI'm makin' swords with the boss.",
+  "cz": "{Sound:02:06}Ting tonk, tong tonk!{Symbol:0B}\nHe, co? Kdo jsem?\nJsem nic mene nez treti nejlepsi\nz Minish kovaru!\nDelam mece se sefem."
+ },
+ {
+  "gi": 18,
+  "si": 22,
+  "en": "{Sound:02:0A}Oh! You made it back safely! Fantastic!\nWe were all starting to get worried.\nI think your {Color:Red}sword{Color:White} might be ready.\n\nThe boss was just putting the finishing\ntouches on it a second ago.",
+  "cz": "{Sound:02:0A}Ach! Vratil jsi se bezpecne!\nFantasticke! Uz jsme se zacinali bat.\nMyslim, ze tvuj {Color:Red}mec{Color:White} je hotov.\n\nSef ho prave dokoncoval\npred chvili."
+ },
+ {
+  "gi": 18,
+  "si": 23,
+  "en": "{Sound:02:06}Ting along, tong along!{Symbol:0B}\nThe sacred sword is done!{Symbol:0B}",
+  "cz": "{Sound:02:06}Ting tonk, tong tonk!{Symbol:0B}\nPosvatny mec je hotov!{Symbol:0B}"
+ },
+ {
+  "gi": 18,
+  "si": 25,
+  "en": "{04:10:00}The {Color:Green}sanctuary {Color:White}is a strange place that\nborders the human and Minish worlds.\nThe doorway to the {Color:Green}sanctuary {Color:White}opens\nonly once every hundred years.\nI believe the entrance is somewhere\nin {Color:Green}Hyrule Castle{Color:White}.",
+  "cz": "{04:10:00}{Color:Green}Svatyne {Color:White}je podivne misto, ktere\nspojuje lidsky a Minish svet.\nDvere do {Color:Green}svatyne {Color:White}se otevirou\njen jednou za sto let.\nVerim, ze vchod je nekde\nv {Color:Green}hrade Hyrule{Color:White}."
+ },
+ {
+  "gi": 18,
+  "si": 26,
+  "en": "Oh! Do you have a {Color:Red}Kinstone piece{Color:White}?\nWell, come on! Let's {Color:Blue}fuse Kinstones{Color:White}!",
+  "cz": "Ach! Mas {Color:Red}kousek Kamene osudu{Color:White}?\nPojd! Pojdme {Color:Blue}spojit Kameny{Color:White}!"
+ },
+ {
+  "gi": 18,
+  "si": 27,
+  "en": "Oh, had a change of heart, have we?",
+  "cz": "Ach, rozmyslel sis to?"
+ },
+ {
+  "gi": 18,
+  "si": 28,
+  "en": "Oh! Yes! They fit together! A perfect\nmatch! It's such a satisfying sight!",
+  "cz": "Ach! Ano! Sednou! Dokonala\nshoda! Je to uspokojivy pohled!"
+ },
+ {
+  "gi": 18,
+  "si": 31,
+  "en": "I dug up a {Color:Red}Kinstone piece{Color:White} near here.",
+  "cz": "Vykopal jsem tu {Color:Red}kousek Kamene{Color:White}."
+ },
+ {
+  "gi": 18,
+  "si": 32,
+  "en": "Want to {Color:Blue}fuse Kinstones{Color:White} with me?\n",
+  "cz": "Chces se mnou {Color:Blue}spojit Kameny osudu{Color:White}?\n"
+ },
+ {
+  "gi": 18,
+  "si": 33,
+  "en": "Oh, so now you don't?",
+  "cz": "Ach, ted nechces?"
+ },
+ {
+  "gi": 18,
+  "si": 34,
+  "en": "Lookee there! Our pieces fused\ntogether!\nI wonder what it means... Maybe I'll\ndig up some really strong iron!",
+  "cz": "Podivej! Nase kousky se\nspojily!\nCo to asi znamena... Mozna\nvykopu opravdu silne zelezo!"
+ },
+ {
+  "gi": 18,
+  "si": 37,
+  "en": "{Sound:02:0A}Ting along, tong along!{Symbol:0B}\nDiggin' holes for {Color:Red}Kinstones{Color:White}!{Symbol:0B}",
+  "cz": "{Sound:02:0A}Ting tonk, tong tonk!{Symbol:0B}\nKopu diry pro {Color:Red}Kameny osudu{Color:White}!{Symbol:0B}"
+ },
+ {
+  "gi": 18,
+  "si": 38,
+  "en": "Want to {Color:Blue}fuse Kinstones{Color:White} with me?",
+  "cz": "Chces se mnou {Color:Blue}spojit Kameny osudu{Color:White}?"
+ },
+ {
+  "gi": 18,
+  "si": 39,
+  "en": "No? You don't want to?\nFine. Whatever.",
+  "cz": "Ne? Nechces?\nDobre. Jak chces."
+ },
+ {
+  "gi": 18,
+  "si": 40,
+  "en": "Yes! A perfect fit! Maybe now I can be\njust like my dad!",
+  "cz": "Ano! Dokonala shoda! Mozna ted\nmuzu byt jako tata!"
+ },
+ {
+  "gi": 18,
+  "si": 43,
+  "en": "Y'know, iron's not the only thing\nwe dig up around here.\nWe've been known to find quite\na few {Color:Red}Kinstone pieces{Color:White} as well.",
+  "cz": "Vis, zelezo neni jedina vec,\nco tu vykopavame.\nObcas najdeme i hodne\n{Color:Red}kousku Kamene osudu{Color:White}."
+ },
+ {
+  "gi": 18,
+  "si": 44,
+  "en": "Want to {Color:Blue}fuse Kinstones{Color:White} with me?",
+  "cz": "Chces se mnou {Color:Blue}spojit Kameny osudu{Color:White}?"
+ },
+ {
+  "gi": 18,
+  "si": 45,
+  "en": "If you find some more pieces, come on\nback. I'm sure I'll dig up a bunch!",
+  "cz": "Kdyz najdes vic kousku, vrat\nse. Urcite jich vykopu spoustu!"
+ },
+ {
+  "gi": 18,
+  "si": 46,
+  "en": "Incredible! A perfect match! I can't\nwait to see what will happen to me!",
+  "cz": "Neuveritelne! Dokonala shoda!\nNemuzu se dockat, co se mi stane!"
+ },
+ {
+  "gi": 18,
+  "si": 49,
+  "en": "{Sound:02:09}Ting along, tong along,{Symbol:0B}\nIt's time for a sleeping song!{Symbol:0B}\nThe Ting Tong song can be sung only\nby full-grown mountain men!\nIt warms the heart, doesn't it? Fills\nyou with energy? Try singing a round!",
+  "cz": "{Sound:02:09}Ting tonk, tong tonk,{Symbol:0B}\nJe cas na ukolebavku!{Symbol:0B}\nPisen Ting Tong muzou zpivat\njen dospeli horski muzi!\nZahreje u srdce, ze? Naplni\nte energii? Zazpivej s nami!"
+ },
+ {
+  "gi": 18,
+  "si": 50,
+  "en": "Want to fuse Kinstones with me?",
+  "cz": "Chces se mnou spojit Kameny osudu?"
+ },
+ {
+  "gi": 18,
+  "si": 51,
+  "en": "Let's fuse Kinstones again sometime.",
+  "cz": "Spojme Kameny osudu zase nekdy."
+ },
+ {
+  "gi": 18,
+  "si": 52,
+  "en": "Whoa! They fused together!\nI'm gonna tell everybody!",
+  "cz": "Pani! Spojily se!\nReknu to vsem!"
+ },
+ {
+  "gi": 18,
+  "si": 55,
+  "en": "Wanna {Color:Blue}fuse Kinstones{Color:White}?",
+  "cz": "Chces {Color:Blue}spojit Kameny osudu{Color:White}?"
+ },
+ {
+  "gi": 18,
+  "si": 56,
+  "en": "We're gonna {Color:Blue}fuse Kinstones{Color:White}!",
+  "cz": "Spojime {Color:Blue}Kameny osudu{Color:White}!"
+ },
+ {
+  "gi": 18,
+  "si": 57,
+  "en": "{Color:Blue}Fusing Kinstones{Color:White} is a blast!",
+  "cz": "{Color:Blue}Spojovani Kamenu osudu{Color:White} je zabava!"
+ },
+ {
+  "gi": 18,
+  "si": 61,
+  "en": "{Sound:02:0C}{04:10:0E}Green clothes? And an odd hat?!?\nSir! Might you be young {Player}?\nI am {Color:Green}Melari{Color:White}, master smith.\n\nI hear you want me to reforge the\n{Color:Red}sacred sword{Color:White} and help break a curse.\nI'll be needin' the old sword, which\nholds the power of the {Color:Red}elements{Color:White}, first.\nShow me that {Color:Red}broken Picori Blade{Color:White}!\n\nI love all this adventure, what with\nthe rescuing of princesses and such.\nI'd be happy to reforge this thing into\na brand-new sacred blade for you.",
+  "cz": "{Sound:02:0C}{04:10:0E}Zelene saty? A divny klobouk?!?\nPane! Nejste mladsi {Player}?\nJsem {Color:Green}Melari{Color:White}, mistr kovar.\n\nSlysim, ze chces, abych prekoval\n{Color:Red}posvatny mec{Color:White} a pomohl zlomit kletbu.\nNejdriv budu potrebovat stary mec,\nktery drzi silu {Color:Red}elementu{Color:White}.\nUkaz mi tu {Color:Red}rozbitou Picori cepel{Color:White}!\n\nMam rad dobrodruzstvi se zachranou\nprinceznam a takove vecicky.\nRad ti to prekuju v zbrusu\nnovou posvatnou cepel."
+ },
+ {
+  "gi": 18,
+  "si": 62,
+  "en": "{04:10:00}It'll take me a while to rework\nyour sword.\nIn the meantime, you should track down\nthe missing {Color:Red}elements{Color:White}.\nOne of them should be in the {Color:Green}mine{Color:White} the\nhumans dug. It's not far from here.",
+  "cz": "{04:10:00}Bude mi chvili trvat predelat\ntvuj mec.\nMezitim by ses mel vydat za\nchybejicimi {Color:Red}elementy{Color:White}.\nJeden by mel byt v {Color:Green}dolu{Color:White}, ktery\nvykopali lide. Neni to daleko."
+ },
+ {
+  "gi": 18,
+  "si": 63,
+  "en": "{04:10:00}All right! Let's get started!",
+  "cz": "{04:10:00}Dobre! Pojdme na to!"
+ },
+ {
+  "gi": 18,
+  "si": 64,
+  "en": "{Sound:00:92}They'll be a while, {Player}. Let's\nleave them to it and find that {Color:Red}element{Color:White}!",
+  "cz": "{Sound:00:92}Bude to chvili trvat, {Player}.\nNechme je byt a najdeme ten {Color:Red}element{Color:White}!"
+ },
+ {
+  "gi": 18,
+  "si": 67,
+  "en": "{04:10:0E}I'm the {Color:Green}Crenel hermit{Color:White}. I left the world\nto pursue a life of quiet reflection.\nYou seem to be but a child, and yet you\nclimbed this forbidding mountain alone?\nI must reward your courage with a\nlittle information.\nHave you not seen strange patterned\nwalls as you climbed this mountain?\n{Color:Red}Bombs{Color:White}! Bombs are the answer!",
+  "cz": "{04:10:0E}Jsem {Color:Green}Crenel poustevnik{Color:White}. Opustil jsem\nsvet kvuli zivotu tiche reflexe.\nZdas se byt jen dite, a presto\njsi vylezl na tuto horu sam?\nMusim ti tvou odvahu odmenit\ntrochou informaci.\nNevidel jsi divne vzorovane\nzdi pri vystupu na horu?\n{Color:Red}Bomby{Color:White}! Bomby jsou odpoved!"
+ },
+ {
+  "gi": 18,
+  "si": 81,
+  "en": "I have an old {Color:Red}Kinstone piece{Color:White} that I\ndug up somewhere around here.\nDo you want to {Color:Blue}fuse Kinstone pieces{Color:White}?\nOh, yeah!   Maybe later",
+  "cz": "Mam stary {Color:Red}kousek Kamene osudu{Color:White},\nco jsem vykopal nekde tady.\nChces {Color:Blue}spojit kousky Kamenu{Color:White}?\nO ano!   Mozna pozdeji"
+ }
+]

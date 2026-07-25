@@ -1,0 +1,2186 @@
+[
+ {
+  "gi": 0,
+  "si": 3,
+  "en": "\nThe data in File {Var:1} is corrupted.",
+  "cz": "\nData v souboru {Var:1} jsou poskozena."
+ },
+ {
+  "gi": 0,
+  "si": 4,
+  "en": "\nThere are no empty save files.\n",
+  "cz": "\nNejsou zadne prazdne sloty.\n"
+ },
+ {
+  "gi": 0,
+  "si": 5,
+  "en": "\nCopying...\nDo not touch the Game Pak\nor turn the power off.\n",
+  "cz": "\nKopiruji...\nNesahej na Game Pak\nani nevypinej napajeni.\n"
+ },
+ {
+  "gi": 0,
+  "si": 6,
+  "en": "\nUnable to copy file.\n",
+  "cz": "\nSoubor nelze zkopirovat.\n"
+ },
+ {
+  "gi": 0,
+  "si": 7,
+  "en": "\nErasing file...\nDo not touch the Game Pak\nor turn the power off.",
+  "cz": "\nMazu soubor...\nNesahej na Game Pak\nani nevypinej napajeni."
+ },
+ {
+  "gi": 0,
+  "si": 8,
+  "en": "\nSaving file...\nDo not touch the Game Pak\nor turn the power off.",
+  "cz": "\nUkladam soubor...\nNesahej na Game Pak\nani nevypinej napajeni."
+ },
+ {
+  "gi": 0,
+  "si": 9,
+  "en": "\nUnable to save file.\n",
+  "cz": "\nSoubor nelze ulozit.\n"
+ },
+ {
+  "gi": 0,
+  "si": 11,
+  "en": "\nSaving...\n\nDo not touch the Game Pak\nor turn the power off.\n",
+  "cz": "\nUkladam...\n\nNesahej na Game Pak\nani nevypinej napajeni.\n"
+ },
+ {
+  "gi": 0,
+  "si": 12,
+  "en": "\nSave was not performed correctly.\n",
+  "cz": "\nUlozeni se nezdarilo.\n"
+ },
+ {
+  "gi": 0,
+  "si": 13,
+  "en": "Activate Sleep Mode?\n\n{Var:1} Yes      {Var:2} No\n\nTo exit Sleep Mode, press SELECT and\nthe L and R Buttons simultaneously.",
+  "cz": "Aktivovat rezim spanku?\n\n{Var:1} Ano      {Var:2} Ne\n\nPro ukonceni stiskni SELECT a\ntlacitka L a R zaroven."
+ },
+ {
+  "gi": 0,
+  "si": 16,
+  "en": "{Var:1} Save\n\n{Var:2} Don't Save",
+  "cz": "{Var:1} Ulozit\n\n{Var:2} Neukladat"
+ },
+ {
+  "gi": 0,
+  "si": 17,
+  "en": "{Var:1} Continue\n\n{Var:2} Quit",
+  "cz": "{Var:1} Pokracovat\n\n{Var:2} Konec"
+ },
+ {
+  "gi": 1,
+  "si": 0,
+  "en": "\n\n\n\n\n{Color:Green}DIRECTOR{Color:White}\n\nHidemaro Fujibayashi",
+  "cz": "\n\n\n\n\n{Color:Green}REZIE{Color:White}\n\nHidemaro Fujibayashi"
+ },
+ {
+  "gi": 1,
+  "si": 1,
+  "en": "{Color:Green}PLANNING{Color:White}\n\nHidemaro Fujibayashi\nSuchol Lee\nJoko Kazuki\nMitsuki Tsukada\nMinoru Nakai\nTakashi Hamamura\nShigeki Morihira",
+  "cz": "{Color:Green}NAVRH{Color:White}\n\nHidemaro Fujibayashi\nSuchol Lee\nJoko Kazuki\nMitsuki Tsukada\nMinoru Nakai\nTakashi Hamamura\nShigeki Morihira"
+ },
+ {
+  "gi": 1,
+  "si": 2,
+  "en": "{Color:Green}PROGRAMMING{Color:White}\n\nToshihiko Honda\nshimitan\nYoshiyuki Fujikawa\nN.MINOMIYA\nYohey Doi\nK.YOSHIDA",
+  "cz": "{Color:Green}PROGRAMOVANI{Color:White}\n\nToshihiko Honda\nshimitan\nYoshiyuki Fujikawa\nN.MINOMIYA\nYohey Doi\nK.YOSHIDA"
+ },
+ {
+  "gi": 1,
+  "si": 3,
+  "en": "{Color:Green}OBJECT DESIGN{Color:White}\n\nKIMOKIMO\nerichop\nKumiko Fujiwara\n\nKeisuke\n     \"TWIGGY\"\n         Motozono",
+  "cz": "{Color:Green}DESIGN OBJEKTU{Color:White}\n\nKIMOKIMO\nerichop\nKumiko Fujiwara\n\nKeisuke\n     \"TWIGGY\"\n         Motozono"
+ },
+ {
+  "gi": 1,
+  "si": 4,
+  "en": "{Color:Green}SCROLL DESIGN{Color:White}\n\nNishitsuji Asae\nTakayuki Nakayama\nHiroyuki Imahori\nYoshi Maeda\nHaruki Suetsugu",
+  "cz": "{Color:Green}DESIGN POZADI{Color:White}\n\nNishitsuji Asae\nTakayuki Nakayama\nHiroyuki Imahori\nYoshi Maeda\nHaruki Suetsugu"
+ },
+ {
+  "gi": 1,
+  "si": 5,
+  "en": "\n{Color:Green}MUSIC{Color:White}\n\nMitsuhiko Takano\n\n\n{Color:Green}SOUND EFFECTS{Color:White}\n\nShinji Amagishi\nTakashi Moriguchi",
+  "cz": "\n{Color:Green}HUDBA{Color:White}\n\nMitsuhiko Takano\n\n\n{Color:Green}ZVUKOVE EFEKTY{Color:White}\n\nShinji Amagishi\nTakashi Moriguchi"
+ },
+ {
+  "gi": 1,
+  "si": 6,
+  "en": "\n\n\n\n\n{Color:Green}CHARACTER DESIGN{Color:White}\n\nKIMOKIMO",
+  "cz": "\n\n\n\n\n{Color:Green}DESIGN POSTAV{Color:White}\n\nKIMOKIMO"
+ },
+ {
+  "gi": 1,
+  "si": 7,
+  "en": "\n\n\n\n\n{Color:Green}ARTWORK{Color:White}\n\nHaruki Suetsugu",
+  "cz": "\n\n\n\n\n{Color:Green}GRAFIKA{Color:White}\n\nHaruki Suetsugu"
+ },
+ {
+  "gi": 1,
+  "si": 8,
+  "en": "\n\n\n\n{Color:Green}TITLE LOGO DESIGN{Color:White}\n\nSHOEI\nSatoshi Ukai",
+  "cz": "\n\n\n\n{Color:Green}DESIGN LOGA{Color:White}\n\nSHOEI\nSatoshi Ukai"
+ },
+ {
+  "gi": 1,
+  "si": 10,
+  "en": "\n\n{Color:Green}SUPERVISOR{Color:White}\n\nE. Aonuma\nY. Yamada\nM. Narita\nT. Tezuka\nY. Yamashita",
+  "cz": "\n\n{Color:Green}DOHLED{Color:White}\n\nE. Aonuma\nY. Yamada\nM. Narita\nT. Tezuka\nY. Yamashita"
+ },
+ {
+  "gi": 1,
+  "si": 11,
+  "en": "\n\n\n\n\n{Color:Green}SOUND ADVISOR{Color:White}\n\nK. Kondo",
+  "cz": "\n\n\n\n\n{Color:Green}ZVUKOVY PORADCE{Color:White}\n\nK. Kondo"
+ },
+ {
+  "gi": 1,
+  "si": 12,
+  "en": "{Color:Green}SPECIAL THANKS{Color:White}\n\nM. TAKEGUCHI\nSUPER MARIO CLUB\nNOA PRODUCT\n         TESTING\n\nROCKMAN CLUB\nCAPCOM HC\nFLAGSHIP Co., Ltd",
+  "cz": "{Color:Green}SPECIALNI PODEKOVANI{Color:White}\n\nM. TAKEGUCHI\nSUPER MARIO CLUB\nNOA PRODUCT\n         TESTING\n\nROCKMAN CLUB\nCAPCOM HC\nFLAGSHIP Co., Ltd"
+ },
+ {
+  "gi": 1,
+  "si": 13,
+  "en": "\n\n\n\n{Color:Green}SPECIAL THANKS{Color:White}\n\nORIGINAL\n     \"ZELDA\" STAFF",
+  "cz": "\n\n\n\n{Color:Green}SPECIALNI PODEKOVANI{Color:White}\n\nPUVODNI\n     TYM \"ZELDA\""
+ },
+ {
+  "gi": 1,
+  "si": 14,
+  "en": "{Color:Green}MANAGEMENT{Color:White}\n\nnosetake\nMasanori Kusumoto\n\n\n{Color:Green}PRODUCT\n    MANAGEMENT{Color:White}\n\nYasushi Adachi",
+  "cz": "{Color:Green}VEDENI{Color:White}\n\nnosetake\nMasanori Kusumoto\n\n\n{Color:Green}PRODUKTOVE\n    VEDENI{Color:White}\n\nYasushi Adachi"
+ },
+ {
+  "gi": 1,
+  "si": 15,
+  "en": "\n\n\n\n\n{Color:Green}PRODUCER{Color:White}\n\nKeiji Inafune",
+  "cz": "\n\n\n\n\n{Color:Green}PRODUCENT{Color:White}\n\nKeiji Inafune"
+ },
+ {
+  "gi": 1,
+  "si": 16,
+  "en": "\n\n\n{Color:Green}GENERAL\n    PRODUCER{Color:White}\n\nShigeru Miyamoto",
+  "cz": "\n\n\n{Color:Green}HLAVNI\n    PRODUCENT{Color:White}\n\nShigeru Miyamoto"
+ },
+ {
+  "gi": 1,
+  "si": 17,
+  "en": "\n\n\n{Color:Green}EXECUTIVE\n      PRODUCER{Color:White}\n\nSatoru Iwata",
+  "cz": "\n\n\n{Color:Green}VYKONNY\n      PRODUCENT{Color:White}\n\nSatoru Iwata"
+ },
+ {
+  "gi": 1,
+  "si": 19,
+  "en": "\n\n\n\n\nNORTH AMERICAN\n     LOCALIZATION\n",
+  "cz": "\n\n\n\n\nSEVEROAMERICKA\n     LOKALIZACE\n"
+ },
+ {
+  "gi": 1,
+  "si": 20,
+  "en": "\n\n\n\n{Color:Green}MANAGEMENT{Color:White}\n\nJeff Miller\nLeslie Swan",
+  "cz": "\n\n\n\n{Color:Green}VEDENI{Color:White}\n\nJeff Miller\nLeslie Swan"
+ },
+ {
+  "gi": 1,
+  "si": 21,
+  "en": "\n\n\n\n{Color:Green}LOCALIZATION\n\n{Color:White}Rich Amtower\nScot Ritchey\nBill Trinen",
+  "cz": "\n\n\n\n{Color:Green}LOKALIZACE\n\n{Color:White}Rich Amtower\nScot Ritchey\nBill Trinen"
+ },
+ {
+  "gi": 1,
+  "si": 24,
+  "en": "\n\n\n\nAll Rights, including the copyrights of\nGame, Scenario, Music and Program,\nreserved by NINTENDO.",
+  "cz": "\n\n\n\nVsechna prava, vcetne autorskych prav\nke hre, scenari, hudbe a programu,\nvyhrazuje NINTENDO."
+ },
+ {
+  "gi": 1,
+  "si": 25,
+  "en": "Thus did {Player}'s quest\ncome to an end.",
+  "cz": "A tak {Player}ova vyprava\ndospela ke konci."
+ },
+ {
+  "gi": 1,
+  "si": 26,
+  "en": "But surely, this is not the end of Zelda\nand {Player}'s adventures in Hyrule.",
+  "cz": "Ale toto jiste neni konec dobrodruzstvi\nZeldy a {Player}a v Hyrule."
+ },
+ {
+  "gi": 1,
+  "si": 27,
+  "en": "\nThe legend will continue...",
+  "cz": "\nLegenda bude pokracovat..."
+ },
+ {
+  "gi": 1,
+  "si": 28,
+  "en": "...as long as the power of the light\nforce echoes throughout the ages.",
+  "cz": "...dokud sila svetla bude\ndoznivat skrze veky."
+ },
+ {
+  "gi": 2,
+  "si": 0,
+  "en": "NPC Name",
+  "cz": "Jmeno NPC"
+ },
+ {
+  "gi": 2,
+  "si": 1,
+  "en": "Mysterious Cloud",
+  "cz": "Zahadny oblak"
+ },
+ {
+  "gi": 2,
+  "si": 2,
+  "en": "Mysterious Statue",
+  "cz": "Zahadna socha"
+ },
+ {
+  "gi": 2,
+  "si": 3,
+  "en": "Source of the Flow",
+  "cz": "Pramen toku"
+ },
+ {
+  "gi": 2,
+  "si": 4,
+  "en": "Percy",
+  "cz": "Percy"
+ },
+ {
+  "gi": 2,
+  "si": 5,
+  "en": "Mysterious Wall",
+  "cz": "Zahadna zed"
+ },
+ {
+  "gi": 2,
+  "si": 6,
+  "en": "Belari",
+  "cz": "Belari"
+ },
+ {
+  "gi": 2,
+  "si": 8,
+  "en": "Stranger",
+  "cz": "Cizinec"
+ },
+ {
+  "gi": 2,
+  "si": 9,
+  "en": "Din",
+  "cz": "Din"
+ },
+ {
+  "gi": 2,
+  "si": 10,
+  "en": "Farore",
+  "cz": "Farore"
+ },
+ {
+  "gi": 2,
+  "si": 11,
+  "en": "Nayru",
+  "cz": "Nayru"
+ },
+ {
+  "gi": 2,
+  "si": 12,
+  "en": "Swiftblade",
+  "cz": "Swiftblade"
+ },
+ {
+  "gi": 2,
+  "si": 13,
+  "en": "Grayblade",
+  "cz": "Grayblade"
+ },
+ {
+  "gi": 2,
+  "si": 14,
+  "en": "Waveblade",
+  "cz": "Waveblade"
+ },
+ {
+  "gi": 2,
+  "si": 15,
+  "en": "Grimblade",
+  "cz": "Grimblade"
+ },
+ {
+  "gi": 2,
+  "si": 16,
+  "en": "Swiftblade I",
+  "cz": "Swiftblade I"
+ },
+ {
+  "gi": 2,
+  "si": 17,
+  "en": "Gentari",
+  "cz": "Gentari"
+ },
+ {
+  "gi": 2,
+  "si": 18,
+  "en": "Festari",
+  "cz": "Festari"
+ },
+ {
+  "gi": 2,
+  "si": 19,
+  "en": "Melari",
+  "cz": "Melari"
+ },
+ {
+  "gi": 2,
+  "si": 20,
+  "en": "Librari",
+  "cz": "Librari"
+ },
+ {
+  "gi": 2,
+  "si": 21,
+  "en": "Forest Minish",
+  "cz": "Lesni Minish"
+ },
+ {
+  "gi": 2,
+  "si": 22,
+  "en": "Mountain Minish",
+  "cz": "Horsky Minish"
+ },
+ {
+  "gi": 2,
+  "si": 23,
+  "en": "Town Minish",
+  "cz": "Mestsky Minish"
+ },
+ {
+  "gi": 2,
+  "si": 24,
+  "en": "Village Minish",
+  "cz": "Vesnicky Minish"
+ },
+ {
+  "gi": 2,
+  "si": 25,
+  "en": "Library Minish",
+  "cz": "Knihovni Minish"
+ },
+ {
+  "gi": 2,
+  "si": 27,
+  "en": "Goron",
+  "cz": "Goron"
+ },
+ {
+  "gi": 2,
+  "si": 28,
+  "en": "Business Scrub",
+  "cz": "Obchodni Scrub"
+ },
+ {
+  "gi": 2,
+  "si": 29,
+  "en": "Spookter",
+  "cz": "Spookter"
+ },
+ {
+  "gi": 2,
+  "si": 31,
+  "en": "Dampé",
+  "cz": "Dampe"
+ },
+ {
+  "gi": 2,
+  "si": 32,
+  "en": "Syrup",
+  "cz": "Syrup"
+ },
+ {
+  "gi": 2,
+  "si": 34,
+  "en": "Anton",
+  "cz": "Anton"
+ },
+ {
+  "gi": 2,
+  "si": 35,
+  "en": "Sheila",
+  "cz": "Sheila"
+ },
+ {
+  "gi": 2,
+  "si": 36,
+  "en": "June",
+  "cz": "June"
+ },
+ {
+  "gi": 2,
+  "si": 37,
+  "en": "Keeley",
+  "cz": "Keeley"
+ },
+ {
+  "gi": 2,
+  "si": 38,
+  "en": "Gepper",
+  "cz": "Gepper"
+ },
+ {
+  "gi": 2,
+  "si": 39,
+  "en": "Klaus",
+  "cz": "Klaus"
+ },
+ {
+  "gi": 2,
+  "si": 40,
+  "en": "Marshall",
+  "cz": "Marshall"
+ },
+ {
+  "gi": 2,
+  "si": 41,
+  "en": "Dottie",
+  "cz": "Dottie"
+ },
+ {
+  "gi": 2,
+  "si": 42,
+  "en": "Edmond",
+  "cz": "Edmond"
+ },
+ {
+  "gi": 2,
+  "si": 43,
+  "en": "Martin",
+  "cz": "Martin"
+ },
+ {
+  "gi": 2,
+  "si": 44,
+  "en": "Spekter",
+  "cz": "Spekter"
+ },
+ {
+  "gi": 2,
+  "si": 45,
+  "en": "Guts",
+  "cz": "Guts"
+ },
+ {
+  "gi": 2,
+  "si": 46,
+  "en": "Match",
+  "cz": "Match"
+ },
+ {
+  "gi": 2,
+  "si": 48,
+  "en": "Zill",
+  "cz": "Zill"
+ },
+ {
+  "gi": 2,
+  "si": 49,
+  "en": "Lolly",
+  "cz": "Lolly"
+ },
+ {
+  "gi": 2,
+  "si": 50,
+  "en": "Candy",
+  "cz": "Candy"
+ },
+ {
+  "gi": 2,
+  "si": 52,
+  "en": "Crenel Hermit",
+  "cz": "Poustevnik z Crenelu"
+ },
+ {
+  "gi": 2,
+  "si": 54,
+  "en": "Verona",
+  "cz": "Verona"
+ },
+ {
+  "gi": 2,
+  "si": 55,
+  "en": "Julietta",
+  "cz": "Julietta"
+ },
+ {
+  "gi": 2,
+  "si": 56,
+  "en": "Romio",
+  "cz": "Romio"
+ },
+ {
+  "gi": 2,
+  "si": 58,
+  "en": "Mama",
+  "cz": "Mama"
+ },
+ {
+  "gi": 2,
+  "si": 59,
+  "en": "Joe",
+  "cz": "Joe"
+ },
+ {
+  "gi": 2,
+  "si": 60,
+  "en": "Baris",
+  "cz": "Baris"
+ },
+ {
+  "gi": 2,
+  "si": 61,
+  "en": "Chai",
+  "cz": "Chai"
+ },
+ {
+  "gi": 2,
+  "si": 62,
+  "en": "Herb",
+  "cz": "Herb"
+ },
+ {
+  "gi": 2,
+  "si": 63,
+  "en": "Jasmine",
+  "cz": "Jasmine"
+ },
+ {
+  "gi": 2,
+  "si": 64,
+  "en": "Breve",
+  "cz": "Breve"
+ },
+ {
+  "gi": 2,
+  "si": 66,
+  "en": "Mutoh",
+  "cz": "Mutoh"
+ },
+ {
+  "gi": 2,
+  "si": 67,
+  "en": "Mack",
+  "cz": "Mack"
+ },
+ {
+  "gi": 2,
+  "si": 68,
+  "en": "Doyle",
+  "cz": "Doyle"
+ },
+ {
+  "gi": 2,
+  "si": 69,
+  "en": "Bremor",
+  "cz": "Bremor"
+ },
+ {
+  "gi": 2,
+  "si": 70,
+  "en": "Brent",
+  "cz": "Brent"
+ },
+ {
+  "gi": 2,
+  "si": 72,
+  "en": "Beedle",
+  "cz": "Beedle"
+ },
+ {
+  "gi": 2,
+  "si": 73,
+  "en": "Pina",
+  "cz": "Pina"
+ },
+ {
+  "gi": 2,
+  "si": 74,
+  "en": "Brocco",
+  "cz": "Brocco"
+ },
+ {
+  "gi": 2,
+  "si": 76,
+  "en": "Emma",
+  "cz": "Emma"
+ },
+ {
+  "gi": 2,
+  "si": 77,
+  "en": "Bindle",
+  "cz": "Bindle"
+ },
+ {
+  "gi": 2,
+  "si": 78,
+  "en": "Satchel",
+  "cz": "Satchel"
+ },
+ {
+  "gi": 2,
+  "si": 80,
+  "en": "Tina",
+  "cz": "Tina"
+ },
+ {
+  "gi": 2,
+  "si": 81,
+  "en": "Dina",
+  "cz": "Dina"
+ },
+ {
+  "gi": 2,
+  "si": 82,
+  "en": "Joel",
+  "cz": "Joel"
+ },
+ {
+  "gi": 2,
+  "si": 83,
+  "en": "Harrison",
+  "cz": "Harrison"
+ },
+ {
+  "gi": 2,
+  "si": 84,
+  "en": "Erik",
+  "cz": "Erik"
+ },
+ {
+  "gi": 2,
+  "si": 85,
+  "en": "Jim",
+  "cz": "Jim"
+ },
+ {
+  "gi": 2,
+  "si": 86,
+  "en": "Berry",
+  "cz": "Berry"
+ },
+ {
+  "gi": 2,
+  "si": 87,
+  "en": "Leila",
+  "cz": "Leila"
+ },
+ {
+  "gi": 2,
+  "si": 89,
+  "en": "Anju",
+  "cz": "Anju"
+ },
+ {
+  "gi": 2,
+  "si": 90,
+  "en": "Gorman",
+  "cz": "Gorman"
+ },
+ {
+  "gi": 2,
+  "si": 91,
+  "en": "Monty",
+  "cz": "Monty"
+ },
+ {
+  "gi": 2,
+  "si": 92,
+  "en": "Wheaton",
+  "cz": "Wheaton"
+ },
+ {
+  "gi": 2,
+  "si": 93,
+  "en": "Pita",
+  "cz": "Pita"
+ },
+ {
+  "gi": 2,
+  "si": 95,
+  "en": "Dr. Left",
+  "cz": "Dr. Left"
+ },
+ {
+  "gi": 2,
+  "si": 96,
+  "en": "Rem",
+  "cz": "Rem"
+ },
+ {
+  "gi": 2,
+  "si": 98,
+  "en": "Stamp",
+  "cz": "Stamp"
+ },
+ {
+  "gi": 2,
+  "si": 99,
+  "en": "Marcy",
+  "cz": "Marcy"
+ },
+ {
+  "gi": 2,
+  "si": 101,
+  "en": "Sturgeon",
+  "cz": "Sturgeon"
+ },
+ {
+  "gi": 2,
+  "si": 102,
+  "en": "Paige",
+  "cz": "Paige"
+ },
+ {
+  "gi": 2,
+  "si": 103,
+  "en": "Maggie",
+  "cz": "Maggie"
+ },
+ {
+  "gi": 2,
+  "si": 105,
+  "en": "Hagen",
+  "cz": "Hagen"
+ },
+ {
+  "gi": 2,
+  "si": 107,
+  "en": "Siroc",
+  "cz": "Siroc"
+ },
+ {
+  "gi": 2,
+  "si": 108,
+  "en": "Hailey",
+  "cz": "Hailey"
+ },
+ {
+  "gi": 2,
+  "si": 109,
+  "en": "Caprice",
+  "cz": "Caprice"
+ },
+ {
+  "gi": 2,
+  "si": 110,
+  "en": "Gale",
+  "cz": "Gale"
+ },
+ {
+  "gi": 2,
+  "si": 111,
+  "en": "Strato",
+  "cz": "Strato"
+ },
+ {
+  "gi": 2,
+  "si": 112,
+  "en": "Gregal",
+  "cz": "Gregal"
+ },
+ {
+  "gi": 2,
+  "si": 114,
+  "en": "Castle Servant",
+  "cz": "Hradni sluha"
+ },
+ {
+  "gi": 2,
+  "si": 115,
+  "en": "Soldier",
+  "cz": "Vojak"
+ },
+ {
+  "gi": 2,
+  "si": 116,
+  "en": "Soldier Captain",
+  "cz": "Kapitan vojaku"
+ },
+ {
+  "gi": 2,
+  "si": 117,
+  "en": "Potho",
+  "cz": "Potho"
+ },
+ {
+  "gi": 2,
+  "si": 118,
+  "en": "Daltus",
+  "cz": "Daltus"
+ },
+ {
+  "gi": 2,
+  "si": 120,
+  "en": "Smith",
+  "cz": "Smith"
+ },
+ {
+  "gi": 2,
+  "si": 122,
+  "en": "Epona",
+  "cz": "Epona"
+ },
+ {
+  "gi": 2,
+  "si": 123,
+  "en": "Fifi",
+  "cz": "Fifi"
+ },
+ {
+  "gi": 2,
+  "si": 124,
+  "en": "Rolf",
+  "cz": "Rolf"
+ },
+ {
+  "gi": 2,
+  "si": 125,
+  "en": "Growler",
+  "cz": "Growler"
+ },
+ {
+  "gi": 2,
+  "si": 126,
+  "en": "Scratcher",
+  "cz": "Scratcher"
+ },
+ {
+  "gi": 2,
+  "si": 127,
+  "en": "Purry",
+  "cz": "Purry"
+ },
+ {
+  "gi": 2,
+  "si": 128,
+  "en": "Cucco",
+  "cz": "Cucco"
+ },
+ {
+  "gi": 2,
+  "si": 129,
+  "en": "Brown Cucco",
+  "cz": "Hnedy Cucco"
+ },
+ {
+  "gi": 2,
+  "si": 130,
+  "en": "Cucco Chick",
+  "cz": "Cucco kure"
+ },
+ {
+  "gi": 2,
+  "si": 131,
+  "en": "Elsie",
+  "cz": "Elsie"
+ },
+ {
+  "gi": 2,
+  "si": 133,
+  "en": "Tingle",
+  "cz": "Tingle"
+ },
+ {
+  "gi": 2,
+  "si": 134,
+  "en": "Ankle",
+  "cz": "Ankle"
+ },
+ {
+  "gi": 2,
+  "si": 135,
+  "en": "Knuckle",
+  "cz": "Knuckle"
+ },
+ {
+  "gi": 2,
+  "si": 136,
+  "en": "David Jr.",
+  "cz": "David Jr."
+ },
+ {
+  "gi": 2,
+  "si": 138,
+  "en": "Postbox",
+  "cz": "Postovni schranka"
+ },
+ {
+  "gi": 2,
+  "si": 141,
+  "en": "Gina",
+  "cz": "Gina"
+ },
+ {
+  "gi": 2,
+  "si": 142,
+  "en": "Flurris",
+  "cz": "Flurris"
+ },
+ {
+  "gi": 2,
+  "si": 143,
+  "en": "Postman",
+  "cz": "Postak"
+ },
+ {
+  "gi": 2,
+  "si": 144,
+  "en": "Talon",
+  "cz": "Talon"
+ },
+ {
+  "gi": 2,
+  "si": 145,
+  "en": "Malon",
+  "cz": "Malon"
+ },
+ {
+  "gi": 2,
+  "si": 146,
+  "en": "Eenie",
+  "cz": "Eenie"
+ },
+ {
+  "gi": 2,
+  "si": 147,
+  "en": "Meenie",
+  "cz": "Meenie"
+ },
+ {
+  "gi": 2,
+  "si": 148,
+  "en": "Hurdy-Gurdy Man",
+  "cz": "Niharista"
+ },
+ {
+  "gi": 3,
+  "si": 1,
+  "en": "This is the Swordsman Newsletter {Symbol:10}1.\n\nWould you like to read it?\n    {Choice:03:09}Yes  {Choice:FF}No",
+  "cz": "Toto je Sermirsky zpravodaj {Symbol:10}1.\n\nChces si ho precist?\n    {Choice:03:09}Ano  {Choice:FF}Ne"
+ },
+ {
+  "gi": 3,
+  "si": 2,
+  "en": "This is the Swordsman Newsletter {Symbol:10}2.\n\nWould you like to read it?\n    {Choice:03:0D}Yes  {Choice:FF}No",
+  "cz": "Toto je Sermirsky zpravodaj {Symbol:10}2.\n\nChces si ho precist?\n    {Choice:03:0D}Ano  {Choice:FF}Ne"
+ },
+ {
+  "gi": 3,
+  "si": 3,
+  "en": "This is the Swordsman Newsletter {Symbol:10}3.\n\nWould you like to read it?\n    {Choice:03:11}Yes  {Choice:FF}No",
+  "cz": "Toto je Sermirsky zpravodaj {Symbol:10}3.\n\nChces si ho precist?\n    {Choice:03:11}Ano  {Choice:FF}Ne"
+ },
+ {
+  "gi": 3,
+  "si": 4,
+  "en": "This is the Swordsman Newsletter {Symbol:10}4.\n\nWould you like to read it?\n    {Choice:03:15}Yes  {Choice:FF}No",
+  "cz": "Toto je Sermirsky zpravodaj {Symbol:10}4.\n\nChces si ho precist?\n    {Choice:03:15}Ano  {Choice:FF}Ne"
+ },
+ {
+  "gi": 3,
+  "si": 5,
+  "en": "This is the Swordsman Newsletter {Symbol:10}5.\n\nWould you like to read it?\n    {Choice:03:19}Yes  {Choice:FF}No",
+  "cz": "Toto je Sermirsky zpravodaj {Symbol:10}5.\n\nChces si ho precist?\n    {Choice:03:19}Ano  {Choice:FF}Ne"
+ },
+ {
+  "gi": 3,
+  "si": 6,
+  "en": "This is the Swordsman Newsletter {Symbol:10}6.\n\nWould you like to read it?\n    {Choice:03:1D}Yes  {Choice:FF}No",
+  "cz": "Toto je Sermirsky zpravodaj {Symbol:10}6.\n\nChces si ho precist?\n    {Choice:03:1D}Ano  {Choice:FF}Ne"
+ },
+ {
+  "gi": 3,
+  "si": 7,
+  "en": "This is the Swordsman Newsletter {Symbol:10}7.\n\nWould you like to read it?\n    {Choice:03:21}Yes  {Choice:FF}No",
+  "cz": "Toto je Sermirsky zpravodaj {Symbol:10}7.\n\nChces si ho precist?\n    {Choice:03:21}Ano  {Choice:FF}Ne"
+ },
+ {
+  "gi": 3,
+  "si": 8,
+  "en": "This is the Swordsman Newsletter {Symbol:10}8.\n\nWould you like to read it?\n    {Choice:03:25}Yes  {Choice:FF}No",
+  "cz": "Toto je Sermirsky zpravodaj {Symbol:10}8.\n\nChces si ho precist?\n    {Choice:03:25}Ano  {Choice:FF}Ne"
+ },
+ {
+  "gi": 3,
+  "si": 9,
+  "en": "Swordsman Newsletter {Symbol:10}1\n    Some Walls Go Boom...\nIt may look like a regular wall, but\nit may be something you can blow up.\nThere's actually an easy way to tell.\nAnd I'm here to teach you!\n{Color:Blue}Build up the power in your sword and\nstart stabbing the wall.{Color:White}\nIf you pay attention, you'll find that\nsome spots make a different sound!\n{Choice:03:0A}Continue reading  {Choice:FF}That's enough",
+  "cz": "Sermirsky zpravodaj {Symbol:10}1\n    Nektere zdi delaji bum...\nMuze to vypadat jako bezna zed, ale\nmuze to byt neco, co lze vyhodit.\nExistuje snadny zpusob, jak to poznat.\nA ja te to naucim!\n{Color:Blue}Nabij mec silou a\nzacni do zdi bodat.{Color:White}\nKdyz dobre poslouchas, zjistis, ze\nnektera mista zni jinak!\n{Choice:03:0A}Cist dal  {Choice:FF}To stací"
+ },
+ {
+  "gi": 3,
+  "si": 10,
+  "en": "    Teach us, Teacher!\nMonsters got you?\nDon't give up! {Color:Blue}Start mashing buttons!{Color:White}\nYou might be able to escape quickly!\n{Choice:03:0B}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Nauc nas, ucitelı!\nChytlo te monstrum?\nNevzdavej to! {Color:Blue}Mackej tlacitka!{Color:White}\nMozna se ti podari rychle uniknout!\n{Choice:03:0B}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 11,
+  "en": "    Swiftblade's Gossip Column\nThe Magical Boomerang...\nSomewhere in Hyrule, you can find an\nincredibly handy {Color:Red}boomerang{Color:White}.\nIt's designed so you can change its\ndirection after you throw it!\nOr so I've been told.\nBut it's just a rumor...\n{Choice:03:0C}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Swiftbladuv drbarsky kout\nKouzelny bumerang...\nNekde v Hyrule najdes neuveritelne\nsikovny {Color:Red}bumerang{Color:White}.\nJe vyrobeny tak, ze muzes menit\njeho smer i po hodu!\nNebo mi to aspon rekli.\nAle je to jen drb...\n{Choice:03:0C}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 12,
+  "en": "    Swiftblade, Signing Off!\nThat's it for our first issue!\nWe plan to bring you helpful questing\nhints every week, rain or shine.\nBe sure to check with your local\npost office for future issues!\nSee you in issue 2!\nUntil next time, warriors!",
+  "cz": "    Swiftblade se louci!\nA to je vse z naseho prvniho cisla!\nKazdy tyden ti prineseme uzitecne\ntipy na vypravy, at prsi nebo svıti.\nUrcite se stav na mistni poste\nkvuli dalsim cislum!\nUvidime se v cisle 2!\nDo prıste, valecnici!"
+ },
+ {
+  "gi": 3,
+  "si": 13,
+  "en": "Swordsman Newsletter {Symbol:10}2\n    This Year's Must-Have Item!\nHave you seen those sparks that move\nalong walls?\nYour sword doesn't work, so maybe\nyou've just given up fighting them.\nBut have you tried ALL your items?\nLike...what about your boomerang?\nGive that a shot! You might be\nsurprised at the results!\n{Choice:03:0E}Continue reading  {Choice:FF}That's enough",
+  "cz": "Sermirsky zpravodaj {Symbol:10}2\n    Letosni must-have predmet!\nVidel jsi ty jiskry, co se pohybuji\npodel zdi?\nMec na ne nefunguje, takze jsi\nmozna boj s nimi vzdal.\nAle zkousel jsi VSECHNY predmety?\nNapriklad...co tak bumerang?\nZkus to! Mozna te vysledek\nprekvapi!\n{Choice:03:0E}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 14,
+  "en": "    Teach us, Teacher!\nMonster took your shield?\nWell, don't get all down about it.\nAll hope is not lost.\nBeat him up quickly, and you might\njust get it back!\n{Choice:03:0F}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Nauc nas, ucitelı!\nVzala ti netvor stıt?\nNo, nesvesuj kvuli tomu hlavu.\nNadeje neni ztracena.\nRychle ho zmlat a treba\nho dostanes zpatky!\n{Choice:03:0F}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 15,
+  "en": "    Swiftblade's Gossip Column\nThe Mirror Shield...\nA beautiful, glimmering shield capable\nof reflecting monsters' shots.\nYou can use it to turn their\nattacks back at them.\nOr so they say...\nBut it's just a rumor...\n{Choice:03:10}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Swiftbladuv drbarsky kout\nZrcadlovy stıt...\nKrasny, zarici stıt schopny\nodrazet strely netvoru.\nMuzes jim vratit jejich\nutoky zpatky.\nNebo se to aspon povida...\nAle je to jen drb...\n{Choice:03:10}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 16,
+  "en": "    Swiftblade, Signing Off!\nIssue 2 is out the door!\nWe've got our first reader letter!\nLet's answer it now!\n\"Hey, Swiftblade, what's your best\nfeature?\"\nThat would be my eyebrows! I spend\na lot of time grooming these suckers!\nSee you in issue 3!\nUntil next time, warriors!",
+  "cz": "    Swiftblade se louci!\nCislo 2 je venku!\nMame prvni ctenarsky dopis!\nPojdme na nej odpovedet!\n\"Hej, Swiftblade, jaka je tvoje\nnejlepsi vlastnost?\"\nTo by bylo moje oboci! Travim\nspoustu casu jeho upravou!\nUvidime se v cisle 3!\nDo prıste, valecnici!"
+ },
+ {
+  "gi": 3,
+  "si": 17,
+  "en": "Swordsman Newsletter {Symbol:10}3{Color:Green}\n    {Color:White}Got a Bone to Pick?\nYou're sure to run into more than\na few skeletons on your journey.\nThat's why this week's newsletter is\ndedicated to all you bone-breakers!\nA good, solid whack to the head should\ndo the trick. That's their weak spot!\nTry smacking them with a beam\nfrom your {Color:Red}Cane of Pacci{Color:White}.\nYou should also try your {Color:Red}Gust Jar{Color:White}.\nThat head should just pop right off!\nThey go all to pieces once they\nlose their head.\n{Choice:03:12}Continue reading  {Choice:FF}That's enough",
+  "cz": "Sermirsky zpravodaj {Symbol:10}3{Color:Green}\n    {Color:White}Mas s nekym konflikt?\nUrcite na ceste potkas vıc\nnez par koster.\nProto je tento tydennik venovan\nvsem lamacum kosti!\nPoradny tresk do hlavy by mel\nzabrat. To je jejich slabina!\nZkus je sahnout paprskem\n{Color:Red}Hole Pacci{Color:White}.\nMuzes zkusit i {Color:Red}Vichrnici{Color:White}.\nTa hlava by mela odletet!\nKdyz prijdou o hlavu, hned\nse rozsypou.\n{Choice:03:12}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 18,
+  "en": "    Teach us, Teacher!\nThose darn Bob-ombs!\nIf you hit them with your sword, they'll\nrun all over the place and explode!\nBut don't you worry. This newsletter's\nhere to teach you how to cope!\nYour best bet is arrows!\nOne shot can take them down!\nYou can fire from a safe distance,\ntoo! There's also your Gust Jar...\nDraw them in and shoot them out, and\nthey'll even blow up whatever they hit!\n{Choice:03:13}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Nauc nas, ucitelı!\nTi proklati Bob-omby!\nKdyz je seknes mecem, rozutecou se\nvsude a vybuchnou!\nAle neboj se. Tento zpravodaj\nte nauci, jak na ne!\nNejlepsi jsou sıpy!\nJeden vystrel je slozi!\nMuzes strilet z bezpecne\nvzdalenosti! A taky Vichrnice...\nNasaj je a vystrel je ven a\nvybuchnou tam, kam dopadnou!\n{Choice:03:13}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 19,
+  "en": "    Swiftblade's Gossip Column\nLight Arrows are amazing...\nThey go through grass!\nThey fell a monster with one strike!\nThey're handy! They're dandy!\nThey're a super-duper-ultra-item!\nOr so it seems...\nBut it's just a rumor...\n{Choice:03:14}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Swiftbladuv drbarsky kout\nSvetelne sıpy jsou uzasne...\nProjdou travou!\nSloziji netvora jednou ranou!\nJsou sikovne! Jsou parade!\nJsou super-duper-ultra-predmet!\nNebo se to aspon zda...\nAle je to jen drb...\n{Choice:03:14}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 20,
+  "en": "    Swiftblade, Signing Off!\nWe've got more reader mail this week!\n\"Hey, Swiftblade! How many siblings\ndo you have?\"\nThere are nine of us, not counting\nthe ghost of Swiftblade the First.\nI'm the oldest, but again, that's if you\ndon't count Swiftblade the First!\nSee you in issue 4!\nUntil next time, warriors!!!!",
+  "cz": "    Swiftblade se louci!\nTento tyden mame dalsi posty!\n\"Hej, Swiftblade! Kolik mas\nsourozencu?\"\nJe nas devet, nepocitam-li\nducha Swiftbladea Prvniho.\nJsem nejstarsi, ovsem zase jen kdyz\nnepocitam Swiftbladea Prvniho!\nUvidime se v cisle 4!\nDo prıste, valecnici!!!!"
+ },
+ {
+  "gi": 3,
+  "si": 21,
+  "en": "Swordsman Newsletter {Symbol:10}4\n    Seek Out the Strong!\nHave you ever seen a golden monster?\n\nWhen you fuse Kinstone pieces, you\nmight get the rare chance to meet one.\nThey're much stronger than the\nregular version of that monster.\nOf course, if you beat one of 'em,\nyou'll get something REALLY good!\nIf you see one, go fight it instantly!\nJust drop everything and go!\n{Choice:03:16}Continue reading  {Choice:FF}That's enough",
+  "cz": "Sermirsky zpravodaj {Symbol:10}4\n    Hledej silne!\nVidel jsi nekdy zlateho netvora?\n\nKdyz spojis kousky Kamenu osudu, mas\nvzacnou sanci nektereho potkat.\nJsou mnohem silnejsi nez\nbezna verze toho netvora.\nSamozrejme, kdyz jednoho porazis,\ndostanes neco fakt dobreho!\nKdyz nektereho uvidıs, jdi hned bojovat!\nVsechno hod za hlavu a bez!\n{Choice:03:16}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 22,
+  "en": "    Teach us, Teacher!{Color:Green}\n{Color:White}  Coping with a Thorny Situation\nThose thorny little thorn monsters!\nYour sword doesn't hurt 'em at all!\nBut if you bump 'em with your\n{Color:Red}shield {Color:White}up, they'll totally flip!\nThere are other ways, though.\nFlip 'em with a {Color:Red}bomb{Color:White}!\nOr your {Color:Red}Cane of Pacci{Color:White}!\nOr with a well-placed {Color:Red}Down Thrust{Color:White}!{Color:Blue}\n{Color:White}How's that for options? Your head must\nbe swimming at the possibilities!\n{Choice:03:17}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Nauc nas, ucitelı!{Color:Green}\n{Color:White}  Reseni trnite situace\nTa mala trniva monstra!\nMec jim vubec nevadi!\nAle kdyz do nich strcis se\nzvednutym {Color:Red}stıtem{Color:White}, prevratis je!\nJsou ale i jine zpusoby.\nPrevrat je {Color:Red}bombou{Color:White}!\nNebo {Color:Red}Holı Pacci{Color:White}!\nNebo dobre miren {Color:Red}Spodni vypad{Color:White}!{Color:Blue}\n{Color:White}Co takove moznosti? Hlava ti\nuz urcite jede z tech moznosti!\n{Choice:03:17}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 23,
+  "en": "    Swiftblade's Gossip Column\nRemote Bombs...\nHere's a secret: you can blow them up\nwhenever you want! How cool is that?!\nOr so it seems...\nBut it's just a rumor...\n{Choice:03:18}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Swiftbladuv drbarsky kout\nDalkove bomby...\nTajemstvi: muzes je odpalit\nkdykoli chces! Neni to skvele?!\nNebo se to aspon zda...\nAle je to jen drb...\n{Choice:03:18}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 24,
+  "en": "    Swiftblade, Signing Off!\nI went to {Color:Green}Lon Lon Ranch {Color:White}the other day.\nI saw the ghost of Swiftblade the First\ndefeat a cow with his bare hands!\nIt was kind of sad, really...\n\nSee you in issue 5!\nUntil next time, warriors!!!!",
+  "cz": "    Swiftblade se louci!\nNedavno jsem byl na {Color:Green}rancı Lon Lon{Color:White}.\nVidel jsem ducha Swiftbladea Prvniho,\njak holyma rukama porazi kravu!\nBylo to vlastne dost smutne...\n\nUvidime se v cisle 5!\nDo prıste, valecnici!!!!"
+ },
+ {
+  "gi": 3,
+  "si": 25,
+  "en": "Swordsman Newsletter {Symbol:10}5\n    Fire Up That Chilly Chump!\nHave you seen a sorcerer who throws\ncold curses at you?\nYeah, the one who keeps disappearing!\nThat's him!\nWell, next time he shows up, whack him\nwith your lantern!\nFire against ice!\nIt's the law of nature!\n{Choice:03:1A}Continue reading  {Choice:FF}That's enough",
+  "cz": "Sermirsky zpravodaj {Symbol:10}5\n    Zapal toho mraziveho hlupaka!\nVidel jsi carodeje, ktery na tebe\nhazi ledove kletby?\nJo, ten co porad mizı! To je on!\n\nTak az se prıste objevi, prasti\nho lampou!\nOhen proti ledu!\nTo je prirodni zakon!\n{Choice:03:1A}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 26,
+  "en": "    Teach us, Teacher!\nThose pig-faced Moblins...\nYou see them around the Minish Woods,\nright? They're big and dumb?\nWell, they're also rich!\n{Color:Blue}Beat one up for some quick cash!{Color:White}\n{Choice:03:1B}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Nauc nas, ucitelı!\nTi prasecı Moblinove...\nVidıs je v lesıch Minish, vid?\nJsou velcı a hloupı?\nAno, ale taky bohatı!\n{Color:Blue}Zmlat jednoho a budes mit hotovost!{Color:White}\n{Choice:03:1B}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 27,
+  "en": "    Swiftblade's Gossip Column\nA tidbit about amulets...\nI hear that there's a mysterious amulet\nthat raises your abilities if you use it!\nWell, that's what I heard, anyway...\nBut it's just a rumor...\n{Choice:03:1C}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Swiftbladuv drbarsky kout\nDrobnost o amuletech...\nSlysel jsem, ze existuje zahadny\namulet, ktery zvysi tve schopnosti!\nNo, to jsem aspon slysel...\nAle je to jen drb...\n{Choice:03:1C}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 28,
+  "en": "    Swiftblade, Signing Off!\nI went to Smith's the other day.\nThe old guy's still looking pretty good.\n... ...\nBut I AM a little concerned about the\n{Color:Blue}guy in green tights {Color:White}on the hill there...\nSee you in issue 6!\nUntil next time, warriors!!!!",
+  "cz": "    Swiftblade se louci!\nNedavno jsem byl u Smithe.\nStary panek porad vypada dobre.\n... ...\nAle malinko se starosti o\n{Color:Blue}chlapika v zelenych puncochach{Color:White} na kopci...\nUvidime se v cisle 6!\nDo prıste, valecnici!!!!"
+ },
+ {
+  "gi": 3,
+  "si": 29,
+  "en": "Swordsman Newsletter {Symbol:10}6\n    Here's What You Do!\nHave you seen a monster wrapped in\nbandages? It tries to grab you?\nWell, here's a pro tip: {Color:Blue}bandages burn{Color:White}\neasily, especially on a mummy!\nI don't have to spell this out, do I?\nYeah, you know what I'm about to say!\nThat's right, it's time to light up\ntheir world! FWOOOSH!\n{Choice:03:1E}Continue reading  {Choice:FF}That's enough",
+  "cz": "Sermirsky zpravodaj {Symbol:10}6\n    Tady mas, co delat!\nVidel jsi netvora obvazaneho\nv obvazech? Snazi se te chytit?\nProfı tip: {Color:Blue}obvazy snadno horı{Color:White},\nzvlast na mumii!\nNemusim to dal vysvetlovat, ze?\nJo, vıs, co reknu!\nPresne tak, je cas rozzarit\njim den! WHOOOOO!\n{Choice:03:1E}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 30,
+  "en": "    Teach us, Teacher!\nThose heavy-handed Floor Masters...\nAnd their irritating friends,\nthe Wall Masters...\nThey're really annoying, but if you\nbeat one, they say you'll be rich!!\nBut it's just a rumor... Don't complain\nto me if it turns out to be wrong.\n{Choice:03:1F}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Nauc nas, ucitelı!\nTi tezkopadnı Floor Masteri...\nA jejich otravnı kamaradi,\nWall Masteri...\nJsou fakt nepriejmnı, ale kdyz\njednoho porazis, prej zbohatnes!!\nAle je to jen drb... Nestezuj si\nu me, kdyz to vyjde naprazno.\n{Choice:03:1F}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 31,
+  "en": "    Swiftblade's Gossip Column\nRupee-stealing nasties...\nThose Rupee-camouflaged creeps have\nbeen ripping a lot of you off lately.\nI've heard that you greedy\nadventurers are getting soaked!\nIn fact, I hear that the greedier\nyou are, the more it takes!\nOr so it seems...\nBut it's just a rumor...\n{Choice:03:20}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Swiftbladuv drbarsky kout\nZlodeji rupiı...\nTi netvori maskovaní jako rupie\nposledne hodne dobrodruhu okradli.\nSlysel jsem, ze vy hamoun-stı\ndobrodruzi to schytavate!\nDokonce slysim, ze cım jsi\nhamounstejsi, tım vıc ti vezme!\nNebo se to aspon zda...\nAle je to jen drb...\n{Choice:03:20}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 32,
+  "en": "    Swiftblade, Signing Off!\nWe've got reader mail again!\n\"Hey, Swiftblade, do you have\na hobby?\"\nTraining!\n\nSee you in issue 7!\nUntil next time, warriors!!!!",
+  "cz": "    Swiftblade se louci!\nZase mame ctenarskou postu!\n\"Hej, Swiftblade, mas nejaky\nkonıcek?\"\nTrening!\n\nUvidime se v cisle 7!\nDo prıste, valecnici!!!!"
+ },
+ {
+  "gi": 3,
+  "si": 33,
+  "en": "Swordsman Newsletter {Symbol:10}7\n    For Real Swordsmen Only\nYou know the Roll Attack, right?\nYeah, the one you do midroll!\nI bet Grayblade told you to attack\njust as you finish the roll, right?\nWell, actually, you can do it just as\nyou start the roll, too!\nBut the timing is very tricky!\nYou can do it! Hone your skill!\nThe journey of a thousand miles begins\nwith a single step! Or...something!\n{Choice:03:22}Continue reading  {Choice:FF}That's enough",
+  "cz": "Sermirsky zpravodaj {Symbol:10}7\n    Jen pro skutecne sermire\nZnas Utok pri kotrmelci, vid?\nJo, ten co se delá behem kotrmelce!\nVsadim se, ze Grayblade ti rekl, abys\nzautocil az na konci kotrmelce, ze?\nVlastne to muzes udelat i hned,\njak kotrmelec zacne!\nAle nacasovanı je trsne!\nZvladnes to! Pilui techniku!\nCesta tisıce mil zacına jednim\nkrokem! Nebo... necım takovym!\n{Choice:03:22}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 34,
+  "en": "    Teach us, Teacher!\nCamouflaged shell-shockers...\nThese fiends festoon themselves with\ngrass and rocks to deceive your eyes.\nBut you can remove their camo without\ntrying to pick them up, you know!\nHit them with that {Color:Red}Cane of Pacci{Color:White}!\nSuck them with the {Color:Red}Gust Jar{Color:White}!\nHow do you like that!?\nNow you're a camo-buster!\n{Choice:03:23}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Nauc nas, ucitelı!\nMaskovanı sneci...\nTito netvori se obklopuji travou\na kamenim, aby te oklamali.\nMaskovani jim ale muzes sundat\nbez toho, aby ses je snazil zvednout!\nPrasti je {Color:Red}Holı Pacci{Color:White}!\nNasaj je {Color:Red}Vichrnici{Color:White}!\nJak se ti to lıbı!?\nTed jsi nicitel maskovanı!\n{Choice:03:23}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 35,
+  "en": "    Swiftblade's Gossip Column\nThose short-fused Bob-ombs...\nI told you about them in issue 3, but\nhere's another thing...\nApparently they drop {Color:Red}bombs {Color:White}at a higher\nrate than other enemies!\nOr so it seems...\nBut it's just a rumor...\n{Choice:03:24}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Swiftbladuv drbarsky kout\nTi vybusnı Bob-omby...\nRıkal jsem ti o nich v cisle 3,\nale tady je dalsı vec...\nUdajne pousteji {Color:Red}bomby{Color:White} casteji\nnez jinı nepratele!\nNebo se to aspon zda...\nAle je to jen drb...\n{Choice:03:24}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 36,
+  "en": "    Swiftblade, Signing Off!\nThe next one is our last issue!\nAfter that, it'll be time for me to put\ndown my pen.\nAs much as I like writing, I'm a\nteacher at heart.\nBut I know you'll miss me when I'm\ngone. I'm like a star! A superstar!\nIssue 8, the last one, is coming soon!\nHope you're looking forward to it!\nUntil next time, warriors!!!!",
+  "cz": "    Swiftblade se louci!\nDalsı bude posledni cislo!\nPak bude cas, abych odlozil\npero.\nI kdyz me bavi psanı, jsem\nucitel srdcem.\nAle vım, ze ti budu chybet,\naz odejdu. Jsem jako hvezda!\nCislo 8, to posledni, prijde brzy!\nDoufam, ze se tesıs!\nDo prıste, valecnici!!!!"
+ },
+ {
+  "gi": 3,
+  "si": 37,
+  "en": "Swordsman Newsletter {Symbol:10}8\n    The Way to the Sacred Blade\nHave you ever wished you could unleash\nyour {Color:Red}Spin Attack {Color:White}a little faster?\nOr perhaps split faster? Or maybe you\nwanted a longer {Color:Red}Great Spin Attack{Color:White}?\nIt's only natural to want these things.\nEvery warrior wants to be his best!\nSo now for some good news! I haven't\nconfirmed it, but there MAY be a way!\nAll of these things could be yours if\nyou only figure out how to do it!\n{Choice:03:26}Continue reading  {Choice:FF}That's enough",
+  "cz": "Sermirsky zpravodaj {Symbol:10}8\n    Cesta k posvatne cepeli\nPral sis nekdy, abys mohl pustit\n{Color:Red}Otacivy utok{Color:White} rychleji?\nNebo rychleji rozdelit? Nebo abys\nmel delsı {Color:Red}Velky otacivy utok{Color:White}?\nJe prirozene chtit tyto veci.\nKazdy valecnik chce byt nejlepsi!\nA ted dobra zprava! Nepotvrdil jsem\nto, ale MUZE existovat zpusob!\nVsechno to muze byt tve, pokud\nprijdes na to, jak to udelat!\n{Choice:03:26}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 38,
+  "en": "    Teach us, Teacher!\nThe one-eyed statue Eyegore...\nYou have to shoot him with an {Color:Red}arrow {Color:White}to\nmake him move...\nBut if you beat him, he almost always\n{Color:Blue}drops spare arrows {Color:White}for you!\nSo don't you worry about running out of\narrows once you've beaten him!\nJust fire away!\n{Choice:03:27}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Nauc nas, ucitelı!\nJednooka socha Eyegore...\nMusıs do nı strelit {Color:Red}sıpem{Color:White}, aby\nse pohnula...\nAle kdyz ji porazis, skoro vzdy\n{Color:Blue}pustı nahradni sıpy{Color:White}!\nTak se neboj, ze ti dojdou\nsıpy, az ji porazıs!\nJen strilej!\n{Choice:03:27}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 39,
+  "en": "    Swiftblade's Gossip Column\nArmos, fabled creations of the Minish.\nI hear that they {Color:Blue}drop Kinstone pieces{Color:White}\nwhen you beat them!\nOr so it seems...\nBut it's just a rumor...\n{Choice:03:28}Continue reading  {Choice:FF}That's enough",
+  "cz": "    Swiftbladuv drbarsky kout\nArmosi, bajni vytvory Minish.\nSlysel jsem, ze {Color:Blue}pousteji kousky Kamenu osudu{Color:White},\nkdyz je porazıs!\nNebo se to aspon zda...\nAle je to jen drb...\n{Choice:03:28}Cist dal  {Choice:FF}To staci"
+ },
+ {
+  "gi": 3,
+  "si": 40,
+  "en": "    Swiftblade, Signing Off!\nThat's all the news for you!\nIf you get lonely, just come over\nand spar for a while!\nAnd thanks for reading! I hope you've\nenjoyed it as much as I have.\nAnd now, let me sign off one final time\nwith that oh-so-familiar farewell...\nUntil next time, warriors!!!!",
+  "cz": "    Swiftblade se louci!\nTo jsou vsechny zpravy pro tebe!\nKdyz se budes citit sam, prijd\nse sermovat!\nA dik za cteni! Doufam, ze\nses bavil jako ja.\nA ted me nechte naposledy\nrici tu osvedcenou rozluvku...\nDo prıste, valecnici!!!!"
+ },
+ {
+  "gi": 4,
+  "si": 0,
+  "en": "(Empty)",
+  "cz": "(Prazdne)"
+ },
+ {
+  "gi": 4,
+  "si": 1,
+  "en": "Smith's Sword",
+  "cz": "Smithuv mec"
+ },
+ {
+  "gi": 4,
+  "si": 2,
+  "en": "White Sword",
+  "cz": "Bily mec"
+ },
+ {
+  "gi": 4,
+  "si": 3,
+  "en": "White Sword (Two Elements)",
+  "cz": "Bily mec (dva zivly)"
+ },
+ {
+  "gi": 4,
+  "si": 4,
+  "en": "White Sword (Three Elements)",
+  "cz": "Bily mec (tri zivly)"
+ },
+ {
+  "gi": 4,
+  "si": 6,
+  "en": "Four Sword",
+  "cz": "Four Sword"
+ },
+ {
+  "gi": 4,
+  "si": 7,
+  "en": "Bombs",
+  "cz": "Bomby"
+ },
+ {
+  "gi": 4,
+  "si": 8,
+  "en": "Remote Bombs",
+  "cz": "Dalkove bomby"
+ },
+ {
+  "gi": 4,
+  "si": 9,
+  "en": "Bow",
+  "cz": "Luk"
+ },
+ {
+  "gi": 4,
+  "si": 10,
+  "en": "Light Arrow",
+  "cz": "Svetelny sip"
+ },
+ {
+  "gi": 4,
+  "si": 11,
+  "en": "Boomerang",
+  "cz": "Bumerang"
+ },
+ {
+  "gi": 4,
+  "si": 12,
+  "en": "Magical Boomerang",
+  "cz": "Kouzelny bumerang"
+ },
+ {
+  "gi": 4,
+  "si": 13,
+  "en": "Small Shield",
+  "cz": "Maly stit"
+ },
+ {
+  "gi": 4,
+  "si": 14,
+  "en": "Mirror Shield",
+  "cz": "Zrcadlovy stit"
+ },
+ {
+  "gi": 4,
+  "si": 15,
+  "en": "Flame Lantern",
+  "cz": "Plamenna lampa"
+ },
+ {
+  "gi": 4,
+  "si": 16,
+  "en": "Flame Lantern",
+  "cz": "Plamenna lampa"
+ },
+ {
+  "gi": 4,
+  "si": 17,
+  "en": "Gust Jar",
+  "cz": "Vichrnice"
+ },
+ {
+  "gi": 4,
+  "si": 18,
+  "en": "Cane of Pacci",
+  "cz": "Hul Pacci"
+ },
+ {
+  "gi": 4,
+  "si": 19,
+  "en": "Mole Mitts",
+  "cz": "Krteci rukavice"
+ },
+ {
+  "gi": 4,
+  "si": 20,
+  "en": "Roc's Cape",
+  "cz": "Rocuv plast"
+ },
+ {
+  "gi": 4,
+  "si": 21,
+  "en": "Pegasus Boots",
+  "cz": "Pegasove boty"
+ },
+ {
+  "gi": 4,
+  "si": 22,
+  "en": "Fire Rod",
+  "cz": "Ohnivy prut"
+ },
+ {
+  "gi": 4,
+  "si": 23,
+  "en": "Ocarina of Wind",
+  "cz": "Okarina vetru"
+ },
+ {
+  "gi": 4,
+  "si": 24,
+  "en": "(DEBUG) Mega Crush",
+  "cz": "(DEBUG) Mega Crush"
+ },
+ {
+  "gi": 4,
+  "si": 25,
+  "en": "(DEBUG) Enemy Set",
+  "cz": "(DEBUG) Enemy Set"
+ },
+ {
+  "gi": 4,
+  "si": 26,
+  "en": "(DEBUG) Cell Overwrite Set",
+  "cz": "(DEBUG) Cell Overwrite Set"
+ },
+ {
+  "gi": 4,
+  "si": 27,
+  "en": "Power Wrist",
+  "cz": "Naramek sily"
+ },
+ {
+  "gi": 4,
+  "si": 28,
+  "en": "Empty Bottle",
+  "cz": "Prazdna lahev"
+ },
+ {
+  "gi": 4,
+  "si": 29,
+  "en": "Empty Bottle",
+  "cz": "Prazdna lahev"
+ },
+ {
+  "gi": 4,
+  "si": 30,
+  "en": "Empty Bottle",
+  "cz": "Prazdna lahev"
+ },
+ {
+  "gi": 4,
+  "si": 31,
+  "en": "Empty Bottle",
+  "cz": "Prazdna lahev"
+ },
+ {
+  "gi": 4,
+  "si": 32,
+  "en": "Empty Bottle",
+  "cz": "Prazdna lahev"
+ },
+ {
+  "gi": 4,
+  "si": 33,
+  "en": "Butter",
+  "cz": "Maslo"
+ },
+ {
+  "gi": 4,
+  "si": 34,
+  "en": "Lon Lon Milk",
+  "cz": "Mleko Lon Lon"
+ },
+ {
+  "gi": 4,
+  "si": 35,
+  "en": "Lon Lon Milk (1{Symbol:15}2)",
+  "cz": "Mleko Lon Lon (1{Symbol:15}2)"
+ },
+ {
+  "gi": 4,
+  "si": 36,
+  "en": "Red Potion",
+  "cz": "Cerveny lektvar"
+ },
+ {
+  "gi": 4,
+  "si": 37,
+  "en": "Blue Potion",
+  "cz": "Modry lektvar"
+ },
+ {
+  "gi": 4,
+  "si": 38,
+  "en": "Water",
+  "cz": "Voda"
+ },
+ {
+  "gi": 4,
+  "si": 39,
+  "en": "Mt. Crenel Mineral Water",
+  "cz": "Mineralka z Mt. Crenel"
+ },
+ {
+  "gi": 4,
+  "si": 40,
+  "en": "Fairy",
+  "cz": "Vila"
+ },
+ {
+  "gi": 4,
+  "si": 41,
+  "en": "Red Picolyte",
+  "cz": "Cerveny Picolyt"
+ },
+ {
+  "gi": 4,
+  "si": 42,
+  "en": "Orange Picolyte",
+  "cz": "Oranzovy Picolyt"
+ },
+ {
+  "gi": 4,
+  "si": 43,
+  "en": "Yellow Picolyte",
+  "cz": "Zluty Picolyt"
+ },
+ {
+  "gi": 4,
+  "si": 44,
+  "en": "Green Picolyte",
+  "cz": "Zeleny Picolyt"
+ },
+ {
+  "gi": 4,
+  "si": 45,
+  "en": "Blue Picolyte",
+  "cz": "Modry Picolyt"
+ },
+ {
+  "gi": 4,
+  "si": 46,
+  "en": "White Picolyte",
+  "cz": "Bily Picolyt"
+ },
+ {
+  "gi": 4,
+  "si": 47,
+  "en": "Nayru's Charm",
+  "cz": "Nayruin amulet"
+ },
+ {
+  "gi": 4,
+  "si": 48,
+  "en": "Farore's Charm",
+  "cz": "Faroren amulet"
+ },
+ {
+  "gi": 4,
+  "si": 49,
+  "en": "Din's Charm",
+  "cz": "Dinin amulet"
+ },
+ {
+  "gi": 4,
+  "si": 52,
+  "en": "Smith's Blade",
+  "cz": "Smithova cepel"
+ },
+ {
+  "gi": 4,
+  "si": 53,
+  "en": "Broken Picori Sword",
+  "cz": "Zlomena Picori cepel"
+ },
+ {
+  "gi": 4,
+  "si": 54,
+  "en": "Bottle of Dog Food",
+  "cz": "Lahev psiho zrani"
+ },
+ {
+  "gi": 4,
+  "si": 55,
+  "en": "Lon Lon Ranch Key",
+  "cz": "Klic od rance Lon Lon"
+ },
+ {
+  "gi": 4,
+  "si": 56,
+  "en": "Wake-Up Mushroom",
+  "cz": "Probouzeci houba"
+ },
+ {
+  "gi": 4,
+  "si": 57,
+  "en": "Library Book: A Hyrulean Bestiary",
+  "cz": "Kniha: Hyrulsky bestiar"
+ },
+ {
+  "gi": 4,
+  "si": 58,
+  "en": "Library Book: Legend of the Picori",
+  "cz": "Kniha: Legenda o Picori"
+ },
+ {
+  "gi": 4,
+  "si": 59,
+  "en": "Library Book: A History of Masks",
+  "cz": "Kniha: Historie masek"
+ },
+ {
+  "gi": 4,
+  "si": 60,
+  "en": "Graveyard Key",
+  "cz": "Klic od hrbitova"
+ },
+ {
+  "gi": 4,
+  "si": 61,
+  "en": "Tingle Trophy",
+  "cz": "Tinglova trofej"
+ },
+ {
+  "gi": 4,
+  "si": 62,
+  "en": "Carlov Medal",
+  "cz": "Carlovova medaile"
+ },
+ {
+  "gi": 4,
+  "si": 63,
+  "en": "Mysterious Shells",
+  "cz": "Zahadne mušle"
+ },
+ {
+  "gi": 4,
+  "si": 64,
+  "en": "Earth Element",
+  "cz": "Zivel Zeme"
+ },
+ {
+  "gi": 4,
+  "si": 65,
+  "en": "Fire Element",
+  "cz": "Zivel Ohne"
+ },
+ {
+  "gi": 4,
+  "si": 66,
+  "en": "Water Element",
+  "cz": "Zivel Vody"
+ },
+ {
+  "gi": 4,
+  "si": 67,
+  "en": "Wind Element",
+  "cz": "Zivel Vetru"
+ },
+ {
+  "gi": 4,
+  "si": 68,
+  "en": "Grip Ring",
+  "cz": "Prsten uchopu"
+ },
+ {
+  "gi": 4,
+  "si": 69,
+  "en": "Power Bracelets",
+  "cz": "Naramky sily"
+ },
+ {
+  "gi": 4,
+  "si": 70,
+  "en": "Flippers",
+  "cz": "Plovaci ploutve"
+ },
+ {
+  "gi": 4,
+  "si": 71,
+  "en": "Map of Hyrule",
+  "cz": "Mapa Hyrule"
+ },
+ {
+  "gi": 4,
+  "si": 72,
+  "en": "Spin Attack",
+  "cz": "Otacivy utok"
+ },
+ {
+  "gi": 4,
+  "si": 73,
+  "en": "Roll Attack",
+  "cz": "Kotrmelcovy utok"
+ },
+ {
+  "gi": 4,
+  "si": 74,
+  "en": "Dash Attack",
+  "cz": "Bezovy utok"
+ },
+ {
+  "gi": 4,
+  "si": 75,
+  "en": "Rock Breaker",
+  "cz": "Lamac kamenu"
+ },
+ {
+  "gi": 4,
+  "si": 76,
+  "en": "Sword Beam",
+  "cz": "Paprsek mece"
+ },
+ {
+  "gi": 4,
+  "si": 77,
+  "en": "Great Spin Attack",
+  "cz": "Velky otacivy utok"
+ },
+ {
+  "gi": 4,
+  "si": 78,
+  "en": "Down Thrust",
+  "cz": "Spodni vypad"
+ },
+ {
+  "gi": 4,
+  "si": 79,
+  "en": "Peril Beam",
+  "cz": "Paprsek nouze"
+ },
+ {
+  "gi": 4,
+  "si": 80,
+  "en": "Dungeon Map",
+  "cz": "Mapa dungeonu"
+ },
+ {
+  "gi": 4,
+  "si": 81,
+  "en": "Compass",
+  "cz": "Kompas"
+ },
+ {
+  "gi": 4,
+  "si": 82,
+  "en": "Big Key",
+  "cz": "Velky klic"
+ },
+ {
+  "gi": 4,
+  "si": 83,
+  "en": "Small Key",
+  "cz": "Maly klic"
+ },
+ {
+  "gi": 4,
+  "si": 84,
+  "en": "1 Rupee",
+  "cz": "1 rupie"
+ },
+ {
+  "gi": 4,
+  "si": 85,
+  "en": "5 Rupees",
+  "cz": "5 rupii"
+ },
+ {
+  "gi": 4,
+  "si": 86,
+  "en": "20 Rupees",
+  "cz": "20 rupii"
+ },
+ {
+  "gi": 4,
+  "si": 87,
+  "en": "50 Rupees",
+  "cz": "50 rupii"
+ },
+ {
+  "gi": 4,
+  "si": 88,
+  "en": "100 Rupees",
+  "cz": "100 rupii"
+ },
+ {
+  "gi": 4,
+  "si": 89,
+  "en": "200 Rupees",
+  "cz": "200 rupii"
+ },
+ {
+  "gi": 4,
+  "si": 91,
+  "en": "Jabber Nut",
+  "cz": "Drmolivy orisek"
+ },
+ {
+  "gi": 4,
+  "si": 92,
+  "en": "Kinstone Piece",
+  "cz": "Kousek Kamene osudu"
+ },
+ {
+  "gi": 4,
+  "si": 93,
+  "en": "5 Bombs",
+  "cz": "5 bomb"
+ },
+ {
+  "gi": 4,
+  "si": 94,
+  "en": "5 Arrows",
+  "cz": "5 sipu"
+ },
+ {
+  "gi": 4,
+  "si": 95,
+  "en": "Heart",
+  "cz": "Srdce"
+ },
+ {
+  "gi": 4,
+  "si": 96,
+  "en": "Fairy",
+  "cz": "Vila"
+ },
+ {
+  "gi": 4,
+  "si": 98,
+  "en": "Heart Container",
+  "cz": "Nadoba srdce"
+ },
+ {
+  "gi": 4,
+  "si": 99,
+  "en": "Pieces of Heart",
+  "cz": "Kousky srdce"
+ },
+ {
+  "gi": 4,
+  "si": 100,
+  "en": "Big Wallet (Increased Size)",
+  "cz": "Velka penezenka (vetsi)"
+ },
+ {
+  "gi": 4,
+  "si": 101,
+  "en": "Big Bomb Bag (Increased Size)",
+  "cz": "Velky pytel na bomby (vetsi)"
+ },
+ {
+  "gi": 4,
+  "si": 102,
+  "en": "Big Quiver",
+  "cz": "Velky toulec"
+ },
+ {
+  "gi": 4,
+  "si": 103,
+  "en": "Kinstone Bag",
+  "cz": "Pytel na Kameny osudu"
+ },
+ {
+  "gi": 4,
+  "si": 104,
+  "en": "Brioche",
+  "cz": "Briosa"
+ },
+ {
+  "gi": 4,
+  "si": 105,
+  "en": "Slice of Cake",
+  "cz": "Kus dortu"
+ },
+ {
+  "gi": 4,
+  "si": 106,
+  "en": "Croissant",
+  "cz": "Croissant"
+ },
+ {
+  "gi": 4,
+  "si": 107,
+  "en": "Slice of Pie",
+  "cz": "Kus kolace"
+ },
+ {
+  "gi": 4,
+  "si": 108,
+  "en": "10 Bombs",
+  "cz": "10 bomb"
+ },
+ {
+  "gi": 4,
+  "si": 109,
+  "en": "30 Bombs",
+  "cz": "30 bomb"
+ },
+ {
+  "gi": 4,
+  "si": 110,
+  "en": "10 Arrows",
+  "cz": "10 sipu"
+ },
+ {
+  "gi": 4,
+  "si": 111,
+  "en": "30 Arrows",
+  "cz": "30 sipu"
+ },
+ {
+  "gi": 4,
+  "si": 112,
+  "en": "Tiger Scrolls",
+  "cz": "Tygri svitky"
+ },
+ {
+  "gi": 4,
+  "si": 115,
+  "en": "Go to Save Screen",
+  "cz": "Jit na obrazovku ukladani"
+ },
+ {
+  "gi": 4,
+  "si": 116,
+  "en": "Go to Sleep Screen",
+  "cz": "Jit na obrazovku spanku"
+ },
+ {
+  "gi": 4,
+  "si": 117,
+  "en": "Spin Attack{Color:Red}\n{Color:White}Press and hold your {Color:Red}sword\n{Color:White}button. Charge and release!",
+  "cz": "Otacivy utok{Color:Red}\n{Color:White}Stiskni a podrz tlacitko {Color:Red}mece\n{Color:White}. Nabij a pust!"
+ },
+ {
+  "gi": 4,
+  "si": 118,
+  "en": "Roll Attack\nRoll! Then swing your {Color:Red}sword\n{Color:White}as you start to get up!",
+  "cz": "Kotrmelcovy utok\nUdelej kotrmelec! Pak mavni {Color:Red}mecem\n{Color:White}, jakmile se zacnes zvedat!"
+ },
+ {
+  "gi": 4,
+  "si": 119,
+  "en": "Dash Attack\nEquip your {Color:Red}Pegasus Boots\n{Color:White}and {Color:Red}sword{Color:White}, then dash away!",
+  "cz": "Bezovy utok\nNasad si {Color:Red}Pegasove boty\n{Color:White}a {Color:Red}mec{Color:White}, pak vyraz!"
+ },
+ {
+  "gi": 4,
+  "si": 120,
+  "en": "Rock Breaker{Color:Red}\n{Color:White}Break pots with your {Color:Red}sword{Color:White}!\nThat's all there is to it!",
+  "cz": "Lamac kamenu{Color:Red}\n{Color:White}Roztrıst dzbany {Color:Red}mecem{Color:White}!\nTo je vsechno!"
+ },
+ {
+  "gi": 4,
+  "si": 121,
+  "en": "Sword Beam\nWhen your hearts are full,\nswing your {Color:Red}sword{Color:White}!",
+  "cz": "Paprsek mece\nKdyz mas plna srdce,\nmavni {Color:Red}mecem{Color:White}!"
+ },
+ {
+  "gi": 4,
+  "si": 122,
+  "en": "Great Spin Attack\nPerform a {Color:Red}Spin Attack{Color:White}...and\nhit the button repeatedly!",
+  "cz": "Velky otacivy utok\nProved {Color:Red}Otacivy utok{Color:White}...a\nopakovane mackej tlacitko!"
+ },
+ {
+  "gi": 4,
+  "si": 123,
+  "en": "Down Thrust\nEquip the {Color:Red}Roc's Cape{Color:White} and\nthe {Color:Red}sword{Color:White}!! Jump and swing!",
+  "cz": "Spodni vypad\nNasad si {Color:Red}Rocuv plast{Color:White} a\n{Color:Red}mec{Color:White}!! Skoc a mavni!"
+ },
+ {
+  "gi": 4,
+  "si": 124,
+  "en": "Peril Beam\nWhen you have only one\nheart left, swing the {Color:Red}sword{Color:White}!",
+  "cz": "Paprsek nouze\nKdyz ti zbyva jen jedno\nsrdce, mavni {Color:Red}mecem{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 0,
+  "en": "...",
+  "cz": "..."
+ },
+ {
+  "gi": 5,
+  "si": 1,
+  "en": "{04:10:0C}You got the {Color:Red}Smith's Sword{Color:White}! It's a sharp\nblade made by your grandfather.",
+  "cz": "{04:10:0C}Dostal jsi {Color:Red}Smithuv mec{Color:White}! Je to ostra\ncepel od tveho dedecka."
+ },
+ {
+  "gi": 5,
+  "si": 2,
+  "en": "{04:10:0E}You got the {Color:Red}White Sword{Color:White}! Its beautiful\nwhite blade sparkles with light!\nYou can put away your {Color:Red}grandfather's\nsword{Color:White} now.",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Bily mec{Color:White}! Jeho krasna\nbila cepel zari svetlem!\nTed muzes odlozit {Color:Red}dedeckuv\nmec{Color:White}."
+ },
+ {
+  "gi": 5,
+  "si": 3,
+  "en": "{04:10:00}The powers of the {Color:Red}Earth{Color:White} and {Color:Red}Fire\nElements{Color:White} have infused your blade!",
+  "cz": "{04:10:00}Sily {Color:Red}Zeme{Color:White} a {Color:Red}Ohne\nzivlu{Color:White} prosakly tvou cepel!"
+ },
+ {
+  "gi": 5,
+  "si": 4,
+  "en": "{04:10:00}The power of the {Color:Red}Water Element{Color:White}\nhas infused your blade!\nThe power of this {Color:Red}element {Color:White}allows you to\n{Color:Blue}split into three copies{Color:White}!",
+  "cz": "{04:10:00}Sila {Color:Red}Vodniho zivlu{Color:White}\nprosakla tvou cepel!\nSila tohoto {Color:Red}zivlu{Color:White} ti umoznuje\n{Color:Blue}rozdelit se na tri kopie{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 5,
+  "en": "{04:10:00}The power of the {Color:Red}Wind Element{Color:White}\nhas infused your blade!\n{07:05:06}",
+  "cz": "{04:10:00}Sila {Color:Red}Vetrneho zivlu{Color:White}\nprosakla tvou cepel!\n{07:05:06}"
+ },
+ {
+  "gi": 5,
+  "si": 6,
+  "en": "{04:10:00}With the power of the four elements,\nyour blade has become the {Color:Red}Four Sword{Color:White}!\nFocus power in your blade and release\nto fire a beam.\nUse it to break Vaati's curse and\nrestore the people of Hyrule.",
+  "cz": "{04:10:00}Se silou ctyr zivlu se tva cepel\nstala {Color:Red}Four Sword{Color:White}!\nSoustred silu v cepeli a pust\npro vystrel paprsku.\nPouzij ji, abys zlomil Vaatiho kletbu\na obnovil lidi Hyrule."
+ },
+ {
+  "gi": 5,
+  "si": 7,
+  "en": "{04:10:0E}You got a {Color:Red}Bomb Bag{Color:White}!\n\nAnd it has ten {Color:Red}bombs{Color:White} in it!\nNow you can blow up lots of stuff!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Pytel na bomby{Color:White}!\n\nA ma v sobe deset {Color:Red}bomb{Color:White}!\nTed muzes vyhodit do vzduchu spousty veci!"
+ },
+ {
+  "gi": 5,
+  "si": 8,
+  "en": "{04:10:0E}You got a {Color:Red}Remote Bomb{Color:White}!\n\nPress the button to place a bomb, then\npress the button again to detonate it.",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Dalkovou bombu{Color:White}!\n\nStiskni tlacitko, abys polozil bombu,\npak stiskni znovu pro odpaleni."
+ },
+ {
+  "gi": 5,
+  "si": 9,
+  "en": "{04:10:0E}You got a {Color:Red}bow{Color:White}! Now you can take\nout enemies from afar!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}luk{Color:White}! Ted muzes\nslozit nepratele z dalky!"
+ },
+ {
+  "gi": 5,
+  "si": 10,
+  "en": "You got the {Color:Red}Light Arrow{Color:White}! Now, you can\nfire arrows filled with sacred light!",
+  "cz": "Dostal jsi {Color:Red}Svetelny sip{Color:White}! Ted muzes\nstrilet sipy plne posvatneho svetla!"
+ },
+ {
+  "gi": 5,
+  "si": 11,
+  "en": "You got a {Color:Red}boomerang{Color:White}! This well-\ncrafted weapon returns when thrown!",
+  "cz": "Dostal jsi {Color:Red}bumerang{Color:White}! Tato dobre\nudelana zbran se po hodu vraci!"
+ },
+ {
+  "gi": 5,
+  "si": 12,
+  "en": "You got the {Color:Red}Magical Boomerang{Color:White}!\n\nHold the button you threw it with and\nuse {Key:Dpad} to control its path!",
+  "cz": "Dostal jsi {Color:Red}Kouzelny bumerang{Color:White}!\n\nDrz tlacitko, kterym jsi ho hodil, a\npouzij {Key:Dpad} k rizeni jeho letu!"
+ },
+ {
+  "gi": 5,
+  "si": 13,
+  "en": "{04:10:00}Princess Zelda gave you a {Color:Red}small shield{Color:White}!\n\nHold the button to protect yourself.\n\n...It IS a little embarrassing, though.\nIt's so tiny!",
+  "cz": "{04:10:00}Princezna Zelda ti dala {Color:Red}maly stit{Color:White}!\n\nDrz tlacitko, aby ses chranil.\n\n...Je to ale trochu trapne.\nJe tak maly!"
+ },
+ {
+  "gi": 5,
+  "si": 14,
+  "en": "{04:10:00}You got the {Color:Red}Mirror Shield{Color:White}!\n\nThis mighty shield shines like a mirror.\nUse it to reflect enemy attacks!",
+  "cz": "{04:10:00}Dostal jsi {Color:Red}Zrcadlovy stit{Color:White}!\n\nTento mocny stit zari jako zrcadlo.\nPouzij ho k odrazu utoku nepratel!"
+ },
+ {
+  "gi": 5,
+  "si": 15,
+  "en": "You got the {Color:Red}Flame Lantern{Color:White}!\n\nThis handy item lights up the night!\nPress the button to turn it on or off.",
+  "cz": "Dostal jsi {Color:Red}Plamennou lampu{Color:White}!\n\nTento sikovny predmet osvetli noc!\nStiskni tlacitko pro zapnuti/vypnuti."
+ },
+ {
+  "gi": 5,
+  "si": 16,
+  "en": "Flame Lantern (Fire)\n\nOn your Items screen, equip it to either\n{Key:A} or {Key:B} to use it!",
+  "cz": "Plamenna lampa (Ohen)\n\nNa obrazovce Predmetu si ji nasad na\n{Key:A} nebo {Key:B}, abys ji pouzil!"
+ },
+ {
+  "gi": 5,
+  "si": 17,
+  "en": "{04:10:0E}You got the {Color:Red}Gust Jar{Color:White}!\n\nHold the button to draw things in,\nand release it to fire them out!\nSet it to {Key:A} or {Key:B} on the {Color:Blue}Items screen{Color:White}\nto use it!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Vichrnici{Color:White}!\n\nDrz tlacitko k nasati veci dovnitr\na pust pro jejich vystrel ven!\nNastav ji na {Key:A} nebo {Key:B} na {Color:Blue}obrazovce Predmetu{Color:White},\nabys ji pouzil!"
+ },
+ {
+  "gi": 5,
+  "si": 18,
+  "en": "{04:10:0E}You got the {Color:Red}Cane of Pacci{Color:White}!\n\nThis mystical rod has the power to\nflip things over.\nUse it to charge up energy in holes\nand then flip up on out of it!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Hul Pacci{Color:White}!\n\nTato mysticka hul ma moc\nprevracet veci.\nPouzij ji k nabiti energie v derach\na vyletis z nich!"
+ },
+ {
+  "gi": 5,
+  "si": 19,
+  "en": "{04:10:0E}You got the {Color:Red}Mole Mitts{Color:White}! Dig, dig,\ndig to your heart's content!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Krteci rukavice{Color:White}! Kopej, kopej,\nkopej, dokud te to bavi!"
+ },
+ {
+  "gi": 5,
+  "si": 20,
+  "en": "{04:10:0E}You got the {Color:Red}Roc's Cape{Color:White}!\n\nJump with the greatest of ease!\nHold the button to jump farther.",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Rocuv plast{Color:White}!\n\nSkakej s nejvetsi lehkosti!\nDrz tlacitko pro delsi skok."
+ },
+ {
+  "gi": 5,
+  "si": 21,
+  "en": "{04:10:0E}You got the {Color:Red}Pegasus Boots{Color:White}! Hold the\nbutton to run faster than the wind!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Pegasove boty{Color:White}! Drz\ntlacitko a pobezis rychleji nez vitr!"
+ },
+ {
+  "gi": 5,
+  "si": 22,
+  "en": "{04:10:0E}You got the {Color:Red}Fire Rod{Color:White}! This mystical rod\nshoots forth mighty flames.",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Ohnivy prut{Color:White}! Tato mysticka\nhul chrli mohutne plameny."
+ },
+ {
+  "gi": 5,
+  "si": 23,
+  "en": "{04:10:0E}You got the {Color:Red}Ocarina of Wind{Color:White}!\n\nNorth, south, east, and west are\nall just a breath away!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Okarinu vetru{Color:White}!\n\nSever, jih, vychod a zapad jsou\nvsechny jen na dech vzdaleny!"
+ },
+ {
+  "gi": 5,
+  "si": 24,
+  "en": "You got a {Color:Red}Piece of Heart{Color:White}!\n\nCollect four to make a new Heart\nContainer for even more {Color:Blue}life energy{Color:White}!",
+  "cz": "Dostal jsi {Color:Red}Kousek srdce{Color:White}!\n\nSeber ctyri, abys vytvoril novou Nadobu\nsrdce pro vıc {Color:Blue}zivotni energie{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 25,
+  "en": "You got a {Color:Red}Piece of Heart{Color:White}!\n\nNow you have two pieces. {Color:Blue}Collect two\nmore{Color:White} to increase your life energy!",
+  "cz": "Dostal jsi {Color:Red}Kousek srdce{Color:White}!\n\nTed mas dva kousky. {Color:Blue}Seber jeste\ndva{Color:White} pro vetsi zivotni energii!"
+ },
+ {
+  "gi": 5,
+  "si": 26,
+  "en": "You got a {Color:Red}Piece of Heart{Color:White}!\n\nYou now have three. {Color:Blue}Collect just one\nmore{Color:White} to increase your life energy!",
+  "cz": "Dostal jsi {Color:Red}Kousek srdce{Color:White}!\n\nTed mas tri. {Color:Blue}Seber jeste jeden\n{Color:White} pro vetsi zivotni energii!"
+ },
+ {
+  "gi": 5,
+  "si": 27,
+  "en": "You got a {Color:Red}Piece of Heart{Color:White}!\n\nYou completed a new Heart Container!\n\n{Color:Blue}Your life energy has been replenished\nand increased!",
+  "cz": "Dostal jsi {Color:Red}Kousek srdce{Color:White}!\n\nDokoncil jsi novou Nadobu srdce!\n\n{Color:Blue}Tva zivotni energie byla doplnena\na zvysena!"
+ },
+ {
+  "gi": 5,
+  "si": 28,
+  "en": "You swapped for {Color:Red}bombs{Color:White}!",
+  "cz": "Vymenil jsi za {Color:Red}bomby{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 29,
+  "en": "You bought a {Color:Red}small shield{Color:White}!",
+  "cz": "Koupil jsi {Color:Red}maly stit{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 32,
+  "en": "You got an {Color:Red}empty bottle{Color:White}!\nUse it to store all sorts of things.",
+  "cz": "Dostal jsi {Color:Red}prazdnou lahev{Color:White}!\nPouzij ji k uskladneni vseho moznetho."
+ },
+ {
+  "gi": 5,
+  "si": 33,
+  "en": "Your Lon Lon Milk turned into {Color:Red}butter{Color:White}!\nIt's very fresh and delicious!",
+  "cz": "Tvoje Mleko Lon Lon se zmenilo v {Color:Red}maslo{Color:White}!\nJe velmi cerstve a chutne!"
+ },
+ {
+  "gi": 5,
+  "si": 34,
+  "en": "{04:10:0E}You got some {Color:Red}Lon Lon Milk{Color:White}!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Mleko Lon Lon{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 36,
+  "en": "{04:10:0E}You got a {Color:Red}red potion{Color:White}! Drink it to\nreplenish all of your life energy!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}cerveny lektvar{Color:White}! Vypij\nho a doplnis si veskerou zivotni energii!"
+ },
+ {
+  "gi": 5,
+  "si": 37,
+  "en": "{04:10:0E}You got a {Color:Red}blue potion{Color:White}! Drink it to\nreplenish your life energy.",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}modry lektvar{Color:White}! Vypij\nho a doplnis si zivotni energii."
+ },
+ {
+  "gi": 5,
+  "si": 38,
+  "en": "You put {Color:Red}water{Color:White} in your bottle!\nSprinkle it on different things!",
+  "cz": "Nalil jsi {Color:Red}vodu{Color:White} do lahve!\nKropi ji na ruzne veci!"
+ },
+ {
+  "gi": 5,
+  "si": 39,
+  "en": "{04:10:0E}You put {Color:Red}Mt. Crenel Mineral Water{Color:White} in your\nbottle! It's piping hot!",
+  "cz": "{04:10:0E}Nalil jsi do lahve {Color:Red}Mineralku z Mt. Crenel{Color:White}!\nJe vrouci hot!"
+ },
+ {
+  "gi": 5,
+  "si": 40,
+  "en": "You caught a {Color:Red}fairy{Color:White} in your bottle!\n\nThis winged friend will come to your\naid if your life energy is depleted.",
+  "cz": "Chytil jsi {Color:Red}vilu{Color:White} do lahve!\n\nTento okridleny kamarad ti pomuze,\nkdyz ti dojde zivotni energie."
+ },
+ {
+  "gi": 5,
+  "si": 41,
+  "en": "{04:10:0E}You got some {Color:Red}Red Picolyte{Color:White}! If you use\nit, you might find lots of hearts!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Cerveny Picolyt{Color:White}! Kdyz ho\npouzijes, najdes mozna spousty srdci!"
+ },
+ {
+  "gi": 5,
+  "si": 42,
+  "en": "{04:10:0E}You got some {Color:Red}Orange Picolyte{Color:White}! If you\nuse it, you might find lots of fairies!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Oranzovy Picolyt{Color:White}! Kdyz ho\npouzijes, najdes mozna spousty vil!"
+ },
+ {
+  "gi": 5,
+  "si": 43,
+  "en": "{04:10:0E}You got some {Color:Red}Yellow Picolyte{Color:White}! If you use\nit, you might find lots of Rupees!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Zluty Picolyt{Color:White}! Kdyz ho\npouzijes, najdes mozna spousty rupii!"
+ },
+ {
+  "gi": 5,
+  "si": 44,
+  "en": "{04:10:0E}You got some {Color:Red}Green Picolyte{Color:White}! If you\nuse it, you might find lots of {Color:Red}shells{Color:White}!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Zeleny Picolyt{Color:White}! Kdyz ho\npouzijes, najdes mozna spousty {Color:Red}musli{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 45,
+  "en": "{04:10:0E}You got some {Color:Red}Blue Picolyte{Color:White}! If you use\nit, you might find lots of items!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Modry Picolyt{Color:White}! Kdyz ho\npouzijes, najdes mozna spousty predmetu!"
+ },
+ {
+  "gi": 5,
+  "si": 46,
+  "en": "{04:10:0E}You got some {Color:Red}White Picolyte{Color:White}! If you use\nit, you might find lots of {Color:Red}Kinstones{Color:White}!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Bily Picolyt{Color:White}! Kdyz ho\npouzijes, najdes mozna spousty {Color:Red}Kamenu osudu{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 47,
+  "en": "{04:10:0E}You got {Color:Red}Nayru's Charm{Color:White}! Your guard\nwill be strengthened for a while!",
+  "cz": "{04:10:0E}Dostal jsi {Color:Red}Nayruin amulet{Color:White}! Tva obrana\nbude na chvili posılena!"
+ }
+]

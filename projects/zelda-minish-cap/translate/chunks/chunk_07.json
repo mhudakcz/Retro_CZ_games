@@ -1,0 +1,2168 @@
+[
+ {
+  "gi": 70,
+  "si": 48,
+  "en": "Yes!! Fine work! You know the way!\nI will now give you this {Color:Red}Tiger Scroll{Color:White}!\nIf you ever forget this technique,\nyou can review it with this {Color:Red}scroll{Color:White}!",
+  "cz": "Ano!! Vyborna prace! Znas cestu!\nTed ti dam tento {Color:Red}Tigri svitek{Color:White}!\nKdybys nekdy techniku zapomnel,\nmuzes si ji pripomenout tim {Color:Red}svitkem{Color:White}!"
+ },
+ {
+  "gi": 70,
+  "si": 49,
+  "en": "Now there is nothing more that\nI can teach you!!\nYour training from now on is\nall in your mind!!\nThe way of the sword is eternal! Yes!",
+  "cz": "Uz te nemam co naucit!!\n\nTve dalsi cviceni je\njen ve tve mysli!!\nCesta mece je vecna! Ano!"
+ },
+ {
+  "gi": 70,
+  "si": 50,
+  "en": "{Sound:00:D0}You have found the true master\nswordsman of Hyrule,{Color:Green} Grimblade{Color:White}!\nIf you {Color:Blue}train {Color:White}with me, I will teach you\nskills you've never imagined!\nBut the room is dark, and I cannot see\nyour face! We cannot train like this!!",
+  "cz": "{Sound:00:D0}Nasel jsi praveho mistra\nsermire Hyrule,{Color:Green} Grimbladea{Color:White}!\nKdyz se mnou budes {Color:Blue}cvicit{Color:White}, naucim te\ndovednosti, jake sis nepredstavoval!\nAle mistnost je tmava a nevidim ti\ndo obliceje! Takhle cvicit nemuzeme!!"
+ },
+ {
+  "gi": 70,
+  "si": 52,
+  "en": "{Sound:00:D0}You have found the true master\nswordsman of Hyrule,{Color:Green} Waveblade{Color:White}!\nIf you {Color:Blue}train {Color:White}with me, I will teach you\nskills that will make you a master!",
+  "cz": "{Sound:00:D0}Nasel jsi praveho mistra\nsermire Hyrule,{Color:Green} Wavebladea{Color:White}!\nKdyz se mnou budes {Color:Blue}cvicit{Color:White}, naucim te\ndovednosti, ktere z tebe udelaji mistra!"
+ },
+ {
+  "gi": 70,
+  "si": 53,
+  "en": "So? Would you like to {Color:Blue}train {Color:White}here?\n  {Choice:FF}Please {Choice:46:5F}No, thanks",
+  "cz": "Tak co? Chces se tu {Color:Blue}cvicit{Color:White}?\n  {Choice:FF}Prosim {Choice:46:5F}Ne, diky"
+ },
+ {
+  "gi": 70,
+  "si": 54,
+  "en": "Now you will learn a dangerous\ntechnique for desperate times!\nThe {Color:Red}Peril Beam{Color:White}!\n\n{Color:Blue}First!!{Color:White}\nYou must have only one heart left...\n{Color:Blue}Second!! {Color:White}Use your last ounce of\nstrength to swing your sword!\nThat's all, young swordsman!!\n\nDo you understand?\n  {Choice:FF}Yes   {Choice:46:36}No",
+  "cz": "Ted se naucis nebezpecnou\ntechniku pro zoufale chvile!\n{Color:Red}Paprsek nebezpeci{Color:White}!\n\n{Color:Blue}Za prve!!{Color:White}\nMusis mit uz jen jedno srdce...\n{Color:Blue}Za druhe!!{Color:White} Posledni kapkou sily\nseknes svym mecem!\nTo je vse, mlady sermire!!\n\nRozumis?\n  {Choice:FF}Ano   {Choice:46:36}Ne"
+ },
+ {
+  "gi": 70,
+  "si": 55,
+  "en": "So...\nThere is no turning back now...\nFor one must feel the technique,\nnot just hear about it!\nThat's why I will now possess your body\nso as to demonstrate the technique!\nThis is the {Color:Blue}Waveblade Possession\ntechnique{Color:White} of training!\nWatch this!!\nUrrngh!!\nPoe...Zeh...SHUN!!!",
+  "cz": "Tak...\nUz neni cesty zpet...\nClovek musi techniku citit,\nnejen o ni slyset!\nProto se ti ted vselim do tela,\nabych ti techniku predvedl!\nToto je {Color:Blue}cvicna technika\nposednuti Wavebladem{Color:White}!\nDivej se!!\nUrrngh!!\nPoe...Zeh...SHUN!!!"
+ },
+ {
+  "gi": 70,
+  "si": 56,
+  "en": "Phew...\nNow! You must try it {Color:Blue}yourself{Color:White}!\n{07:46:66}",
+  "cz": "Fuj...\nTed! Musis to zkusit {Color:Blue}sam{Color:White}!\n{07:46:66}"
+ },
+ {
+  "gi": 70,
+  "si": 57,
+  "en": "Yes!! Fine work!\nYou know the way!\nI will now give you this {Color:Red}Tiger Scroll{Color:White}!\nIf you ever forget this technique,\nyou can review it with this {Color:Red}scroll{Color:White}!",
+  "cz": "Ano!! Vyborna prace!\nZnas cestu!\nTed ti dam tento {Color:Red}Tigri svitek{Color:White}!\nKdybys nekdy techniku zapomnel,\nmuzes si ji pripomenout tim {Color:Red}svitkem{Color:White}!"
+ },
+ {
+  "gi": 70,
+  "si": 58,
+  "en": "Now there is nothing more that\nI can teach you!!\nYour training from now on is\nall in your mind!!\nThe way of the sword leads\never upward! Yes!",
+  "cz": "Uz te nemam co naucit!!\n\nTve dalsi cviceni je\njen ve tve mysli!!\nCesta mece vede stale\nvzhuru! Ano!"
+ },
+ {
+  "gi": 70,
+  "si": 59,
+  "en": "You have found the true master\nswordsman of Hyrule,{Color:Green} Waveblade{Color:White}!\nIf you {Color:Blue}train {Color:White}with me, I will teach\nyou things you've never seen!\nHmn?\n\nIt seems you are not ready\nto train here!\nCome back when you have\n{Color:Red}more than 10 hearts{Color:White}!",
+  "cz": "Nasel jsi praveho mistra\nsermire Hyrule,{Color:Green} Wavebladea{Color:White}!\nKdyz se mnou budes {Color:Blue}cvicit{Color:White}, naucim\nte veci, jake jsi nikdy nevidel!\nHmm?\n\nZda se, ze nejsi pripraven\nse zde cvicit!\nVrat se, az budes mit\n{Color:Red}vice nez 10 srdci{Color:White}!"
+ },
+ {
+  "gi": 70,
+  "si": 61,
+  "en": "{Sound:00:D0}Though my body may perish, I am still\nthe true master swordsman of Hyrule...\n{Color:Green}Swiftblade the First, Spirit of the\nSwordsman{Color:White}!\nIf you {Color:Blue}train {Color:White}with me, I will teach you\nskills that are out of this world!",
+  "cz": "{Sound:00:D0}I kdyz me telo zaslo, jsem stale\npravy mistr sermir Hyrule...\n{Color:Green}Swiftblade Prvni, Duch\nSermire{Color:White}!\nKdyz se mnou budes {Color:Blue}cvicit{Color:White}, naucim te\ndovednosti z jineho sveta!"
+ },
+ {
+  "gi": 70,
+  "si": 62,
+  "en": "So? Would you like to {Color:Blue}train {Color:White}here?\n  {Choice:FF}Please {Choice:46:5F}No, thanks",
+  "cz": "Tak co? Chces se tu {Color:Blue}cvicit{Color:White}?\n  {Choice:FF}Prosim {Choice:46:5F}Ne, diky"
+ },
+ {
+  "gi": 70,
+  "si": 63,
+  "en": "This is a technique that only I have\nmastered...\nOnly one who holds the sacred blade\ncan perform...the {Color:Red}Great Spin Attack{Color:White}!{Color:Red}\n{Color:Blue}First!!{Color:White}\nDo a Spin Attack...\n{Color:Blue}Second!!{Color:White}\nPress the button repeatedly!\nRepeatedly! Repeatedly, do you hear\nme? That's all, young swordsman!!\nDo you understand?\n  {Choice:FF}Yes   {Choice:46:3F}No",
+  "cz": "Toto je technika, kterou jsem\nzvladl jen ja...\nJen ten, kdo drzi posvatnou cepel,\nmuze provest...{Color:Red}Velky Vir Utok{Color:White}!{Color:Red}\n{Color:Blue}Za prve!!{Color:White}\nProved Vir Utok...\n{Color:Blue}Za druhe!!{Color:White}\nMackej tlacitko opakovane!\nOpakovane! Opakovane, slysis\nme? To je vse, mlady sermire!!\nRozumis?\n  {Choice:FF}Ano   {Choice:46:3F}Ne"
+ },
+ {
+  "gi": 70,
+  "si": 64,
+  "en": "Wohohoho!\nBut it is not so easy!\nOne must feel the technique,\nnot just hear about it!\nThat's why I will now possess your body\nso as to demonstrate the technique!\nThis is the {Color:Blue}Spooky Possession\ntechnique{Color:White} of training!\nWatch this!!\nUrrngh!!\nPoe...Zeh...SHUN!!!",
+  "cz": "Wohohoho!\nAle neni to tak snadne!\nClovek musi techniku citit,\nnejen o ni slyset!\nProto se ti ted vselim do tela,\nabych ti techniku predvedl!\nToto je {Color:Blue}cvicna technika\nstrasidelneho posednuti{Color:White}!\nDivej se!!\nUrrngh!!\nPoe...Zeh...SHUN!!!"
+ },
+ {
+  "gi": 70,
+  "si": 65,
+  "en": "Phew...\nNow! You must try it {Color:Blue}yourself{Color:White}!\n{07:46:67}",
+  "cz": "Fuj...\nTed! Musis to zkusit {Color:Blue}sam{Color:White}!\n{07:46:67}"
+ },
+ {
+  "gi": 70,
+  "si": 66,
+  "en": "Yes!! Fine work!\nYou know the way!\nYou have passed the test of\n{Color:Green}Swiftblade the First {Color:White}with such ease!\nI will now give you this {Color:Red}Tiger Scroll{Color:White}!\n\nIf you ever forget this technique,\nyou can review this {Color:Red}scroll{Color:White}!",
+  "cz": "Ano!! Vyborna prace!\nZnas cestu!\nProsel jsi zkouskou\n{Color:Green}Swiftbladea Prvniho {Color:White}s lehkosti!\nTed ti dam tento {Color:Red}Tigri svitek{Color:White}!\n\nKdybys nekdy techniku zapomnel,\nmuzes se podivat na ten {Color:Red}svitek{Color:White}!"
+ },
+ {
+  "gi": 70,
+  "si": 67,
+  "en": "Now there is nothing more that\nI can teach you!!\nYour training from now on is\nall in your mind!!\nThe way begins with the sword and ends\nwith the sword! Yes!",
+  "cz": "Uz te nemam co naucit!!\n\nTve dalsi cviceni je\njen ve tve mysli!!\nCesta zacina mecem a koncí\nmecem! Ano!"
+ },
+ {
+  "gi": 70,
+  "si": 68,
+  "en": "{Sound:00:D0}Though my body may perish, I am still\nthe true master swordsman of Hyrule...\n{Color:Green}Swiftblade the First, Spirit of the\nSwordsman{Color:White}!\nIf you {Color:Blue}train {Color:White}with me, I will teach you\nskills that are out of this world!\nHmn?\n\nIt seems you are not yet ready\nto train with me!\nCome back when you have\n{Color:Red}all 7 Tiger Scrolls{Color:White}!",
+  "cz": "{Sound:00:D0}I kdyz me telo zaslo, jsem stale\npravy mistr sermir Hyrule...\n{Color:Green}Swiftblade Prvni, Duch\nSermire{Color:White}!\nKdyz se mnou budes {Color:Blue}cvicit{Color:White}, naucim te\ndovednosti z jineho sveta!\nHmm?\n\nZda se, ze jeste nejsi pripraven\nse mnou cvicit!\nVrat se, az budes mit\n{Color:Red}vsech 7 Tigrich svitku{Color:White}!"
+ },
+ {
+  "gi": 70,
+  "si": 70,
+  "en": "{Sound:00:D0}Swordsmanship is spirit!\n\nI am the finest or maybe second-finest\nswordsman in all of Hyrule, {Color:Green}Scarblade{Color:White}!\n{Color:Blue}Training {Color:White}with me will forever\ntransform your swordsmanship!",
+  "cz": "{Sound:00:D0}Sermirstvi je duch!\n\nJsem nejlepsi nebo mozna druhy\nnejlepsi sermir v Hyrule, {Color:Green}Scarblade{Color:White}!\n{Color:Blue}Cviceni {Color:White}se mnou navzdy promeni\ntve sermirske umeni!"
+ },
+ {
+  "gi": 70,
+  "si": 71,
+  "en": "So? Would you like to {Color:Blue}train {Color:White}here?\n  {Choice:FF}Please {Choice:46:5F}No, thanks",
+  "cz": "Tak co? Chces se tu {Color:Blue}cvicit{Color:White}?\n  {Choice:FF}Prosim {Choice:46:5F}Ne, diky"
+ },
+ {
+  "gi": 70,
+  "si": 72,
+  "en": "Yes!\nThen I will teach you how to more\nquickly unleash your {Color:Red}Spin Attack{Color:White},\nwhich you have already learned!\nI take visualization {Color:Blue}training {Color:White}very\nseriously, I'll have you know!\nNow, quietly close your eyes...\n\nVisualize {Color:Blue}your sword moving at an\nunthinkable speed{Color:White}...\nWuoooooohhhh!!!!{Color:Blue}\n\n{Color:White}SSSSSSPINNNNNNNNINNNNNNG...",
+  "cz": "Ano!\nNaucim te, jak rychleji\nspustit tvuj {Color:Red}Vir Utok{Color:White},\nktery uz znas!\nVizualizacni {Color:Blue}cviceni {Color:White}beru velmi\nvazne, abys vedel!\nTed potichu zavri oci...\n\nPredstav si {Color:Blue}svuj mec, jak se hybe\nneuveritelnou rychlosti{Color:White}...\nWuoooooohhhh!!!!{Color:Blue}\n\n{Color:White}TOOOOOCIIIIIIIIIIIINNN..."
+ },
+ {
+  "gi": 70,
+  "si": 73,
+  "en": "Mnuhhh...\n\nNow, you can perform your Spin Attack\n{Color:Blue}much faster{Color:White}, my student!{Color:Blue}\n{Color:White}This is the heart of the sword!\n\nAll begins with belief...\nCommit yourself to the blade!",
+  "cz": "Mnuhhh...\n\nTed muzes provadet svuj Vir Utok\n{Color:Blue}mnohem rychleji{Color:White}, muj zaku!{Color:Blue}\n{Color:White}To je srdce mece!\n\nVsechno zacina virou...\nOddej se cepeli!"
+ },
+ {
+  "gi": 70,
+  "si": 80,
+  "en": "{Sound:00:D0}The spirit and the sword are one!\n\nI am the nearly best swordsman\nin Hyrule, {Color:Green}Splitblade{Color:White}!\nIf you {Color:Blue}train {Color:White}with me, you will discover\nthe secrets of your hidden power!",
+  "cz": "{Sound:00:D0}Duch a mec jsou jedno!\n\nJsem skoro nejlepsi sermir\nv Hyrule, {Color:Green}Splitblade{Color:White}!\nKdyz se mnou budes {Color:Blue}cvicit{Color:White}, objevis\ntajemstvi sve skryte sily!"
+ },
+ {
+  "gi": 70,
+  "si": 81,
+  "en": "So? Would you like to {Color:Blue}train {Color:White}here?\n  {Choice:FF}Please {Choice:46:5F}No, thanks",
+  "cz": "Tak co? Chces se tu {Color:Blue}cvicit{Color:White}?\n  {Choice:FF}Prosim {Choice:46:5F}Ne, diky"
+ },
+ {
+  "gi": 70,
+  "si": 82,
+  "en": "Mnnh!\n\nNow I will teach you how to fill your\n{Color:Red}Split Gauge{Color:White} faster than ever!\nI take visualization {Color:Blue}training {Color:White}very\nseriously, I'll have you know!\nNow, quietly close your eyes...\n\nVisualize {Color:Blue}your body splitting even\nfaster than ever before{Color:White}...\nWuoooooohhhh!!!!{Color:Blue}\n\n{Color:White}Spuh--Liii--TING!",
+  "cz": "Mnnh!\n\nNaucim te plnit tvuj\n{Color:Red}Ukazatel Deleni{Color:White} rychleji nez kdy jindy!\nVizualizacni {Color:Blue}cviceni {Color:White}beru velmi\nvazne, abys vedel!\nTed potichu zavri oci...\n\nPredstav si {Color:Blue}sve telo, jak se deli\nrychleji nez kdy predtim{Color:White}...\nWuoooooohhhh!!!!{Color:Blue}\n\n{Color:White}Spuh--Liii--TING!"
+ },
+ {
+  "gi": 70,
+  "si": 83,
+  "en": "Mnuhhh...\n\nNow you will {Color:Blue}fill your Split\nGauge much faster{Color:White}, my student!{Color:Blue}\n{Color:White}This is the truth of the sword!\n\nAnd truth is almost the exact opposite\nof not-truth!\nCommit yourself to the blade!",
+  "cz": "Mnuhhh...\n\nTed budes {Color:Blue}plnit svuj Ukazatel\nDeleni mnohem rychleji{Color:White}, muj zaku!{Color:Blue}\n{Color:White}To je pravda mece!\n\nA pravda je skoro presny opak\nnepravdy!\nOddej se cepeli!"
+ },
+ {
+  "gi": 70,
+  "si": 90,
+  "en": "{Sound:00:D0}Mastery of the sword is mastery\nof the soul!\nI am kinda like almost the best\nswordsman in Hyrule, {Color:Green}Greatblade{Color:White}!\n{Color:Blue}Training {Color:White}with me will totally change\nyour sword skill forever and stuff!",
+  "cz": "{Sound:00:D0}Mistrovstvi mece je mistrovstvi\ndusi!\nJsem tak jako skoro nejlepsi\nsermir v Hyrule, {Color:Green}Greatblade{Color:White}!\n{Color:Blue}Cviceni {Color:White}se mnou totalne zmeni\ntvou sermirskou dovednost navzdy a tak!"
+ },
+ {
+  "gi": 70,
+  "si": 91,
+  "en": "So? Would you like to {Color:Blue}train {Color:White}here?\n  {Choice:FF}Please {Choice:46:5F}No, thanks",
+  "cz": "Tak co? Chces se tu {Color:Blue}cvicit{Color:White}?\n  {Choice:FF}Prosim {Choice:46:5F}Ne, diky"
+ },
+ {
+  "gi": 70,
+  "si": 92,
+  "en": "Yes!\nAll right, I'll teach you how to prolong\nthe duration of the {Color:Red}Great Spin Attack{Color:White},\nwhich you have already learned!\nI take visualization {Color:Blue}training {Color:White}very\nseriously, I'll have you know!\nNow, quietly close your eyes...\n\nVisualize {Color:Blue}your sword continuing to move\nlonger than ever possible{Color:White}...\nWuoooooohhhh!!!!\n{Color:Blue}\n{Color:White}SSSSSSPINNNNNNNNINNNNNNG...{Color:Blue}\n{Color:White}SSSSSSPINNNNNNNNINNNNNNG...\nSSSSSSPINNNNNNNNINNNNNNG...\nSSSSSSPINNNNNNNNINNNNNNG...\nSSSSSSPINNNNNNNNINNNNNNG...\nSSSSSSPINNNNNNNNINNNNNNG...\nSSSSSSPINNNNNNNNINNNNNNG...\nSSSSSSPINNNNNNNNINNNNNNG!!!",
+  "cz": "Ano!\nDobre, naucim te, jak prodlouzit\ndelku {Color:Red}Velkeho Vir Utoku{Color:White},\nktery uz znas!\nVizualizacni {Color:Blue}cviceni {Color:White}beru velmi\nvazne, abys vedel!\nTed potichu zavri oci...\n\nPredstav si {Color:Blue}svuj mec, jak se hybe\ndele nez je mozne{Color:White}...\nWuoooooohhhh!!!!\n{Color:Blue}\n{Color:White}TOOOOOCIIIIIIIIIIIINNN...{Color:Blue}\n{Color:White}TOOOOOCIIIIIIIIIIIINNN...\nTOOOOOCIIIIIIIIIIIINNN...\nTOOOOOCIIIIIIIIIIIINNN...\nTOOOOOCIIIIIIIIIIIINNN...\nTOOOOOCIIIIIIIIIIIINNN...\nTOOOOOCIIIIIIIIIIIINNN...\nTOOOOOCIIIIIIIIIIIINNN!!!"
+ },
+ {
+  "gi": 70,
+  "si": 93,
+  "en": "Mnuhhh...\n\nNow your Great Spin Attack will last\n{Color:Blue}longer than before{Color:White}, my student!{Color:Blue}\n{Color:White}This is the truth of the sword!\n\nWhen you doubt another, you bring\nclouds into the mind's skies!\nCommit yourself to the blade and stuff!",
+  "cz": "Mnuhhh...\n\nTed tvuj Velky Vir Utok vydrzi\n{Color:Blue}dele nez predtim{Color:White}, muj zaku!{Color:Blue}\n{Color:White}To je pravda mece!\n\nKdyz pochybujes o druhem, prinasis\nmraky do nebes mysli!\nOddej se cepeli a tak!"
+ },
+ {
+  "gi": 70,
+  "si": 94,
+  "en": "Mastery of the sword is mastery\nof the soul!\nI am kinda like almost the best\nswordsman in Hyrule, {Color:Green}Greatblade{Color:White}!\n{Color:Blue}Training {Color:White}with me will totally change\nyour sword skill forever and stuff!\nHmn?\n\nDude... I don't think you're even\nready to train here!\nCome back when you have learned the\n{Color:Red}highest technique{Color:White} of the sword!",
+  "cz": "Mistrovstvi mece je mistrovstvi\ndusi!\nJsem tak jako skoro nejlepsi\nsermir v Hyrule, {Color:Green}Greatblade{Color:White}!\n{Color:Blue}Cviceni {Color:White}se mnou totalne zmeni\ntvou sermirskou dovednost navzdy a tak!\nHmm?\n\nKamo... Nemyslim, ze jsi vubec\npripraven se zde cvicit!\nVrat se, az se naucis\n{Color:Red}nejvyssi techniku{Color:White} mece!"
+ },
+ {
+  "gi": 70,
+  "si": 95,
+  "en": "Is that so? Then you go now! Shoo!",
+  "cz": "Vazne? Tak ted bezte! Sup!"
+ },
+ {
+  "gi": 70,
+  "si": 96,
+  "en": "Press and hold your sword button.\nBuild up enough power.\nThen, release your destructive might!!\nThat's all there is to it!",
+  "cz": "Stiskni a drz tlacitko mece.\nNasbiraj dost sily.\nPak uvolni svou nicivou moc!!\nTo je vsechno!"
+ },
+ {
+  "gi": 70,
+  "si": 97,
+  "en": "Break the pots with your sword!\nThat's all!",
+  "cz": "Rozbij hrnce svym mecem!\nTo je vse!"
+ },
+ {
+  "gi": 70,
+  "si": 98,
+  "en": "Equip the Pegasus Boots and your\nsword, and then run like crazy!!",
+  "cz": "Nasad si Pegasovy boty a vytahni\nmec, pak utikej jako blazen!!"
+ },
+ {
+  "gi": 70,
+  "si": 99,
+  "en": "Equip the Roc's Cape and the sword!!\nJump!!\nWhen you reach your jump's peak,\nswing the sword! That's all!",
+  "cz": "Nasad si Rocuv plast a mec!!\nSkoc!!\nKdyz dosahnes vrcholu skoku,\nseknij mecem! To je vse!"
+ },
+ {
+  "gi": 70,
+  "si": 100,
+  "en": "Roll with {Key:Dpad} and {Key:Right}, and then swing\nyour sword as you start to get up!",
+  "cz": "Kotoul s {Key:Dpad} a {Key:Right}, a pak seknij\nmecem, az se zacnes zvedat!"
+ },
+ {
+  "gi": 70,
+  "si": 101,
+  "en": "When your hearts are full...swing your\nsword with all your might!",
+  "cz": "Kdyz mas plna srdce...seknij\nmecem ze vsech sil!"
+ },
+ {
+  "gi": 70,
+  "si": 102,
+  "en": "When you have only one heart left...\n\nSwing the sword with the last\nof your waning strength!",
+  "cz": "Kdyz ti zbyva jen jedno srdce...\n\nSeknij mecem s poslednim zbytkem\nubyvajici sily!"
+ },
+ {
+  "gi": 70,
+  "si": 103,
+  "en": "Perform a Spin Attack...and hit the\nbutton! Again! Again! Again! Again!",
+  "cz": "Proved Vir Utok...a mackej\ntlacitko! Znovu! Znovu! Znovu! Znovu!"
+ },
+ {
+  "gi": 71,
+  "si": 1,
+  "en": "{Sound:01:FC}If you want to get across the swamp,\nyou need to be swift on your feet.\nYou know, a friend of mine makes shoes\nin Hyrule's shoe shop.\nI'm pretty sure he can make\n{Color:Red}Pegasus Boots{Color:White}...",
+  "cz": "{Sound:01:FC}Kdyz chces prejit bazinu,\npotrebujes mit rychle nohy.\nVis, muj kamarad vyrabi boty\nv obchode s botami v Hyrule.\nJsem si jisty, ze umi udelat\n{Color:Red}Pegasovy boty{Color:White}..."
+ },
+ {
+  "gi": 71,
+  "si": 2,
+  "en": "{Sound:01:FB}Would you like to fuse\nKinstones with me?",
+  "cz": "{Sound:01:FB}Chces se mnou spojit\nKameny osudu?"
+ },
+ {
+  "gi": 71,
+  "si": 3,
+  "en": "{Sound:01:FE}You don't want to? You don't\neven want to try?",
+  "cz": "{Sound:01:FE}Nechces? Ani to\nnechces zkusit?"
+ },
+ {
+  "gi": 71,
+  "si": 4,
+  "en": "{Sound:01:FF}We did it! They fit perfectly! You know\nwhat that means? Good luck for us!",
+  "cz": "{Sound:01:FF}Dokazali jsme to! Sedi perfektne!\nVis, co to znamena? Stesti pro nas!"
+ },
+ {
+  "gi": 71,
+  "si": 6,
+  "en": "{Sound:01:F7}I found some amazingly rare {Color:Red}Kinstone{Color:White}\npieces! At least, I think they're rare!",
+  "cz": "{Sound:01:F7}Nasel jsem uzasne vzacne kousky\n{Color:Red}Kamene osudu{Color:White}! Aspon myslim, ze jsou vzacne!"
+ },
+ {
+  "gi": 71,
+  "si": 7,
+  "en": "{Sound:01:F8}Oh?! You want to fuse pieces? Yay!",
+  "cz": "{Sound:01:F8}Ach?! Chces spojit kousky? Hura!"
+ },
+ {
+  "gi": 71,
+  "si": 8,
+  "en": "{Sound:01:F9}You don't want to try?",
+  "cz": "{Sound:01:F9}Nechces to zkusit?"
+ },
+ {
+  "gi": 71,
+  "si": 9,
+  "en": "{Sound:01:FA}Look at that! A perfect match!\nI can't wait to see what happens!",
+  "cz": "{Sound:01:FA}Podivej! Dokonala shoda!\nNemuzu se dockat, co se stane!"
+ },
+ {
+  "gi": 71,
+  "si": 11,
+  "en": "{Sound:01:FE}Hmmm... I found a {Color:Red}Kinstone {Color:White}piece over\nthere.\nI've never seen anything like it.\nIt must be a really rare one...",
+  "cz": "{Sound:01:FE}Hmmm... Tam jsem nasel kousek\n{Color:Red}Kamene osudu{Color:White}.\nNic takoveho jsem nikdy nevidel.\nMusi byt opravdu vzacny..."
+ },
+ {
+  "gi": 71,
+  "si": 12,
+  "en": "{Sound:01:FF}You want to fuse pieces? Do you think\nyou have one that matches mine?",
+  "cz": "{Sound:01:FF}Chces spojit kousky? Myslis,\nze mas takovy, co se hodi k memu?"
+ },
+ {
+  "gi": 71,
+  "si": 13,
+  "en": "{Sound:01:FD}Mmmm... I guess it's hard to find\na match for such a rare piece...",
+  "cz": "{Sound:01:FD}Mmmm... Asi je tezke najit\nshodu pro takovy vzacny kousek..."
+ },
+ {
+  "gi": 71,
+  "si": 14,
+  "en": "{Sound:01:FB}Hmm! It fits perfectly!\n\nHow could you have a piece that fits\nmy ultra-rare one so well!?",
+  "cz": "{Sound:01:FB}Hmm! Sedi perfektne!\n\nJak jsi mohl mit kousek, ktery se\nk memu ultra vzacnemu tak hodi!?"
+ },
+ {
+  "gi": 71,
+  "si": 15,
+  "en": "{Sound:01:FB}I think this is a really\nrare {Color:Red}Kinstone piece{Color:White}!",
+  "cz": "{Sound:01:FB}Myslim, ze toto je opravdu\nvzacny {Color:Red}kousek Kamene osudu{Color:White}!"
+ },
+ {
+  "gi": 71,
+  "si": 16,
+  "en": "{Sound:02:05}Hey, look at this {Color:Red}Kinstone piece{Color:White}!\nHave you ever seen one like this?\nWhat? You don't know what a {Color:Red}Kinstone\npiece{Color:White} is? Well, tell you what...\nWhy don't you come back and see me\nwhen you get one, OK?",
+  "cz": "{Sound:02:05}Hej, podivej na tento {Color:Red}kousek Kamene\nosudu{Color:White}! Videl jsi nekdy takovy?\nCo? Nevis, co je {Color:Red}kousek Kamene\nosudu{Color:White}? No, vis co...\nProc se nevratis a nepodivas se\nza mnou, az nejaky budes mit, OK?"
+ },
+ {
+  "gi": 71,
+  "si": 17,
+  "en": "{Sound:02:00}What's that? You want to {Color:Blue}fuse\nKinstone pieces{Color:White} with me?",
+  "cz": "{Sound:02:00}Co je? Chces se mnou {Color:Blue}spojit\nkousky Kamene osudu{Color:White}?"
+ },
+ {
+  "gi": 71,
+  "si": 18,
+  "en": "{Sound:01:FA}I guess it's hard to find\na match for such a rare piece...",
+  "cz": "{Sound:01:FA}Asi je tezke najit shodu\npro takovy vzacny kousek..."
+ },
+ {
+  "gi": 71,
+  "si": 19,
+  "en": "{Sound:01:F9}Whaa! It fits! You must have had\na really rare piece, too!",
+  "cz": "{Sound:01:F9}Cooo! Sedi! Musel jsi mit\ntake opravdu vzacny kousek!"
+ },
+ {
+  "gi": 71,
+  "si": 20,
+  "en": "{Sound:01:FD}What? You don't know what a {Color:Red}Kinstone\npiece{Color:White} is? Well, tell you what...\nWhy don't you come back and see me\nwhen you get one, OK?",
+  "cz": "{Sound:01:FD}Co? Nevis, co je {Color:Red}kousek Kamene\nosudu{Color:White}? No, vis co...\nProc se nevratis a nepodivas se\nza mnou, az nejaky budes mit, OK?"
+ },
+ {
+  "gi": 71,
+  "si": 21,
+  "en": "{Sound:01:FA}A visitor! How rare... I don't have much\nto offer, but you're welcome to stay.",
+  "cz": "{Sound:01:FA}Navsteva! To je vzacne... Moc toho\nnenabidnu, ale klidne tu zustan."
+ },
+ {
+  "gi": 71,
+  "si": 22,
+  "en": "{Sound:02:00}What's that? You want to fuse\n{Color:Red}Kinstone pieces {Color:White}with me? Sure.",
+  "cz": "{Sound:02:00}Co je? Chces se mnou spojit\n{Color:Red}kousky Kamene osudu{Color:White}? Jasne."
+ },
+ {
+  "gi": 71,
+  "si": 23,
+  "en": "{Sound:02:01}You're quitting?",
+  "cz": "{Sound:02:01}Koncis?"
+ },
+ {
+  "gi": 71,
+  "si": 24,
+  "en": "{Sound:02:02}We did it! They fit perfectly!\nMaybe I'll get some luck finally!",
+  "cz": "{Sound:02:02}Dokazali jsme to! Sedi perfektne!\nMozna konecne budu mit stesti!"
+ },
+ {
+  "gi": 71,
+  "si": 26,
+  "en": "{Sound:02:05}You moved the rock for me? Great!\nI thought I'd never get outside!",
+  "cz": "{Sound:02:05}Posunul jsi pro me ten kamen? Skvele!\nMyslel jsem, ze se nikdy nedostanu ven!"
+ },
+ {
+  "gi": 71,
+  "si": 27,
+  "en": "{Sound:01:FE}Oh, you want to fuse with me?\nNow let's see here...",
+  "cz": "{Sound:01:FE}Och, chces se mnou spojit?\nTak se podivame..."
+ },
+ {
+  "gi": 71,
+  "si": 28,
+  "en": "{Sound:01:FB}I guess it'll be a while before I find\na piece that fits this one...",
+  "cz": "{Sound:01:FB}Asi to chvili potrva, nez najdu\nkousek, ktery se hodi k tomuto..."
+ },
+ {
+  "gi": 71,
+  "si": 29,
+  "en": "{Sound:01:FC}Look! They fit!\nHow lucky! Amazing, even!",
+  "cz": "{Sound:01:FC}Podivej! Sedi!\nTo je stesti! Az uzasne!"
+ },
+ {
+  "gi": 71,
+  "si": 31,
+  "en": "{Sound:01:F9}What's your problem?\n\nMmmm! You're staring at my amazingly\nrare {Color:Red}Kinstone piece{Color:White}, aren't you?!",
+  "cz": "{Sound:01:F9}Co mas za problem?\n\nMmmm! Civis na muj uzasne vzacny\n{Color:Red}kousek Kamene osudu{Color:White}, ze?!"
+ },
+ {
+  "gi": 71,
+  "si": 32,
+  "en": "{Sound:01:FA}How dare you! You want to fuse\nmy precious {Color:Red}Kinstone piece{Color:White}?!",
+  "cz": "{Sound:01:FA}Jak se opovazujes! Chces spojit\nmuj vzacny {Color:Red}kousek Kamene osudu{Color:White}?!"
+ },
+ {
+  "gi": 71,
+  "si": 33,
+  "en": "{Sound:01:FD}Phew... Sweet little {Color:Red}Kinstone piece{Color:White}.\nIt's OK. No one's gonna hurt you...{Symbol:0B}",
+  "cz": "{Sound:01:FD}Fuj... Sladky maly {Color:Red}kousek Kamene osudu{Color:White}.\nTo je dobry. Nikdo ti neublizi...{Symbol:0B}"
+ },
+ {
+  "gi": 71,
+  "si": 34,
+  "en": "{Sound:02:02}Ahh... They fit...\nMy poor little {Color:Red}Kinstone piece{Color:White}...",
+  "cz": "{Sound:02:02}Ach... Sedi...\nMuj chudak maly {Color:Red}kousek Kamene osudu{Color:White}..."
+ },
+ {
+  "gi": 71,
+  "si": 36,
+  "en": "{Sound:02:03}Hey! Your clothes... You must be\nhuman! Oh, I just LOVE human fashion!\nI just can't help feeling that humans\nare more sophisticated than {Color:Green}Minish{Color:White}.\nYou know, I even think some other\n{Color:Green}Minish {Color:White}feel that way, too...",
+  "cz": "{Sound:02:03}Hej! Tve obleceni... Musis byt\nclovek! Och, MILUJU lidskou modu!\nProste si nemuzu pomoct, ale clovek\nje rafinovanejsi nez {Color:Green}Minish{Color:White}.\nVis, myslim, ze i nekteri jini\n{Color:Green}Minish {Color:White}to tak citi..."
+ },
+ {
+  "gi": 71,
+  "si": 37,
+  "en": "{Sound:02:02}Water is life for {Color:Blue}Crenel Beans{Color:White}!{Color:Blue}\n\n{Color:White}The blue beans grow when you pour\n{Color:Red}water {Color:White}on them...\nBut the green beans like\n{Color:Red}Mt. Crenel Mineral Water{Color:White}.{Color:Blue}\n{Color:Red}Mt. Crenel Mineral Water {Color:White}can be found\nonly in a spring here on {Color:Green}Mount Crenel{Color:White}.\nWell, really, the spring is closer to\nthe base of {Color:Green}Mount Crenel{Color:White}.",
+  "cz": "{Sound:02:02}Voda je zivot pro {Color:Blue}Crenelske faseole{Color:White}!{Color:Blue}\n\n{Color:White}Modre faseole rostou, kdyz na ne\nnalejes {Color:Red}vodu{Color:White}...\nAle zelene faseole maji rady\n{Color:Red}mineralku z Mt. Crenel{Color:White}.{Color:Blue}\n{Color:Red}Mineralku z Mt. Crenel {Color:White}najdes\njen v prameni zde na {Color:Green}Mt. Crenel{Color:White}.\nVlastne, ten pramen je blize\nk upati {Color:Green}Mt. Crenel{Color:White}."
+ },
+ {
+  "gi": 71,
+  "si": 38,
+  "en": "{Sound:02:01}These {Color:Green}soldier statues{Color:Blue} {Color:White}here were built\nby the Minish ages ago to help humans.\nIt's kind of a secret, but there's a\nswitch inside that {Color:Blue}turns them on or off{Color:White}.",
+  "cz": "{Sound:02:01}Tyto {Color:Green}sochy vojaku{Color:Blue} {Color:White}zde postavili\nMinish davno, aby pomahali lidem.\nJe to tak trochu tajemstvi, ale uvnitr\nje vypinac, ktery je {Color:Blue}zapina nebo vypina{Color:White}."
+ },
+ {
+  "gi": 71,
+  "si": 39,
+  "en": "{Sound:02:01}Go get the {Color:Red}flippers {Color:White}from the {Color:Green}Minish\nelder {Color:White}who lives in the library.\nThey'll make it so you can swim\nthrough the water with ease.",
+  "cz": "{Sound:02:01}Bez si vyzvednout {Color:Red}plovaci blany {Color:White}od\n{Color:Green}Minishskeho starsiho{Color:White}, ktery zije v knihovne.\nDiky nim budes moct plavat\nve vode s lehkosti."
+ },
+ {
+  "gi": 71,
+  "si": 40,
+  "en": "{Sound:02:04}Can you solve my riddle?\n\n{Color:Blue}Splish, splash, the sound of water.\nHe lives in the answer house.{Color:White}\nI wonder if you'll meet my friend?",
+  "cz": "{Sound:02:04}Vyresis moji hadanku?\n\n{Color:Blue}Slup, slap, zvuk vody.\nZije v dome odpovedi.{Color:White}\nZajimalo by me, jestli potkas meho kamarada?"
+ },
+ {
+  "gi": 71,
+  "si": 41,
+  "en": "{Sound:02:04}{Color:Blue}A fearsome, unfriendly feline...\nThe answer lives here!{Color:White}\nYou did well to come this far.\nPlease take this.",
+  "cz": "{Sound:02:04}{Color:Blue}Hrozive, neprijemne kocicovite...\nOdpoved zije zde!{Color:White}\nDobre jsi udelal, ze jsi dosel az sem.\nProsim, vezmi si toto."
+ },
+ {
+  "gi": 71,
+  "si": 42,
+  "en": "{Sound:02:04}{Color:Blue}Man, woman, or middle?\nHe lives in the answer house.{Color:White}\nI wonder if you'll meet my friend?",
+  "cz": "{Sound:02:04}{Color:Blue}Muz, zena, nebo neco mezi?\nZije v dome odpovedi.{Color:White}\nZajimalo by me, jestli potkas meho kamarada?"
+ },
+ {
+  "gi": 71,
+  "si": 43,
+  "en": "{Sound:02:04}{Color:Blue}That meow is mighty!\nHe lives in the answer house.{Color:White}\nI wonder if you'll meet my friend?",
+  "cz": "{Sound:02:04}{Color:Blue}To mnoukani je mocne!\nZije v dome odpovedi.{Color:White}\nZajimalo by me, jestli potkas meho kamarada?"
+ },
+ {
+  "gi": 71,
+  "si": 45,
+  "en": "{Sound:01:FB}I gave you my last {Color:Red}Kinstone piece{Color:White}\na while ago! But I'll go look for more.",
+  "cz": "{Sound:01:FB}Pred chvili jsem ti dal posledni\n{Color:Red}kousek Kamene osudu{Color:White}! Ale pujdu hledat dalsi."
+ },
+ {
+  "gi": 72,
+  "si": 1,
+  "en": "{Sound:01:FC}Oh, ho! A visitor! How rare!\n\nBut you have found me, the\nwisest of the wisest of the wise!\nYou what? You want to enter the\n{Color:Blue}temple you can see in the lake{Color:White}?\nThey call that place the {Color:Green}Temple of\nDroplets{Color:White}.\nI have heard rumors that one Minish\nactually did find a way in, long ago...\nThat Minish is {Color:Green}Elder Librari{Color:White}, and he is\nin semi-retirement in the town library.\nThe library should be opening soon.\nPerhaps you can go find him.",
+  "cz": "{Sound:01:FC}Och, ho! Navsteva! To je vzacne!\n\nAle nasel jsi me, nejmoudrejsiho\nz nejmoudrejsich z moudrych!\nTy co? Chces vstoupit do\n{Color:Blue}chramu, co je videt v jezere{Color:White}?\nRikaji tomu mistu {Color:Green}Chram\nKapek{Color:White}.\nSlysel jsem famy, ze jeden Minish\ndavno vskutku nasel cestu dovnitr...\nTen Minish je {Color:Green}Starsi Librari{Color:White}, ktery je\nv polo-duchodu v mestske knihovne.\nKnihovna by se mela brzy otevirat.\nMozna ho tam najdes."
+ },
+ {
+  "gi": 72,
+  "si": 2,
+  "en": "{Sound:01:FB}Yes, the elder Librari once found an\nentrance to the Temple of Droplets.\nAnd now, he lives in the town library!\n\nAnd this is all the wisdom of the wisest\nof the wise I have to offer you!",
+  "cz": "{Sound:01:FB}Ano, starsi Librari kdysi nasel\nvchod do Chramu Kapek.\nA ted zije v mestske knihovne!\n\nA to je vsechna moudrost nejmoudrejsiho\nz moudrych, kterou ti mohu nabidnout!"
+ },
+ {
+  "gi": 72,
+  "si": 3,
+  "en": "{Sound:02:05}So you met with elder Librari?!\n\nAnd he said that he really HAS been\ninside of the Temple of Droplets?\nI knew it! Once again, my wisdom has\nsurpassed the wisdom of the wisest!",
+  "cz": "{Sound:02:05}Tak jsi se setkal se starsim Librarim?!\n\nA on rekl, ze opravdu BYL\nuvnitr Chramu Kapek?\nVedel jsem to! Opet ma moudrost\nprekonala moudrost nejmoudrejsiho!"
+ },
+ {
+  "gi": 72,
+  "si": 4,
+  "en": "{Sound:01:FE}I have lots of wise and thought-\nprovoking information...\nBut nothing for you right now.",
+  "cz": "{Sound:01:FE}Mam spoustu moudrych a podnetnych\ninformaci...\nAle nic pro tebe ted nemam."
+ },
+ {
+  "gi": 72,
+  "si": 5,
+  "en": "{Sound:02:03}Hello! How nice to have a visitor!{Symbol:0B}\n\nBut...I'm having some trouble!\n\nThey've changed the room around, and\nnow I can't get into the fireplace!",
+  "cz": "{Sound:02:03}Ahoj! Jak je prijemne mit navstevu!{Symbol:0B}\n\nAle...mam nejake problemy!\n\nPrestavili mistnost a ted\nse nedostanu do krbu!"
+ },
+ {
+  "gi": 72,
+  "si": 6,
+  "en": "{Sound:02:02}They've changed the room around!\nIt's terrible now! So gauche!",
+  "cz": "{Sound:02:02}Prestavili mistnost!\nTed je to hrozne! Tak nevkusne!"
+ },
+ {
+  "gi": 72,
+  "si": 7,
+  "en": "{Sound:02:03}Thank you! Now I can climb in through\nthe fireplace and get some sleep!",
+  "cz": "{Sound:02:03}Diky! Ted se mohu vyskrabat\nkrbem a trochu si pospat!"
+ },
+ {
+  "gi": 73,
+  "si": 1,
+  "en": "Welcome to the library!\n\nSay, aren't you Smith's grandson,\n{Player}?\nHm? The books missing from the\nbookshelf on the second floor?\nYes, they've been checked out for\nquite a while. They're VERY overdue!\n{07:49:02}\n",
+  "cz": "Vitej v knihovne!\n\nHele, nejsi ty Smithuv vnuk,\n{Player}?\nHmm? Knihy chybejici z polic\nv druhem patre?\nAno, jsou pujcene uz dost\ndlouho. Jsou MOC po lhute!\n{07:49:02}\n"
+ },
+ {
+  "gi": 73,
+  "si": 2,
+  "en": "Take {Color:Red}A Hyrulean Bestiary{Color:White}, for\nexample. Been gone for ages.\nChecked out by {Color:Blue}a girl with a cat{Color:White}. She\nsaid she had a new cat at her house.\nWanted to learn more about it, she did.",
+  "cz": "Vezmi treba {Color:Red}Hyrulskou bestiar{Color:White}.\nUz je pryc vecnost.\nPujcila si ji {Color:Blue}divka s kockou{Color:White}. Rikala,\nze ma doma novou kocku.\nChtela se o ni dozvedet vic."
+ },
+ {
+  "gi": 73,
+  "si": 3,
+  "en": "The next overdue book is...\nLet's see...\nAh, yes! Of course...{Color:Red}Legend of the\nPicori{Color:White}! It's been out forever!\nIt was checked out by a somewhat\n{Color:Blue}absentminded scholar{Color:White}, I believe...",
+  "cz": "Dalsi prosla kniha je...\nPodivejme se...\nAch, ano! Samozrejme...{Color:Red}Legenda o\nPicori{Color:White}! Je venku navzdy!\nPujcil si ji jakysi\n{Color:Blue}roztrziteny ucenec{Color:White}, myslim..."
+ },
+ {
+  "gi": 73,
+  "si": 4,
+  "en": "And the last book we still need\nis {Color:Red}A History of Masks{Color:White}.\nI think it was checked out by {Color:Green}Hagen{Color:White},\nthe mayor.\nHow could he keep a library book\nso long! He's a public official!",
+  "cz": "A posledni kniha, kterou stale\npotrebujeme, je {Color:Red}Historie masek{Color:White}.\nMyslim, ze si ji pujcil {Color:Green}Hagen{Color:White},\nstarosta.\nJak si mohl drzet knihovni knihu\ntak dlouho! Vzdyt je verejny cinitel!"
+ },
+ {
+  "gi": 73,
+  "si": 6,
+  "en": "Hey! Look at that! Our long-lost copy\nof {Color:Red}A Hyrulean Bestiary{Color:White}!\n{Player}, are you returning\nthis book?! Thank you so much!\nI can't begin to describe how much I'm\nlooking forward to putting this back!",
+  "cz": "Hej! Podivej! Nas davno ztraceny\nexemplar {Color:Red}Hyrulske bestiare{Color:White}!\n{Player}, ty tu knihu\nvracis?! Mockrat dekuji!\nNeumim popsat, jak moc se tesim,\nze ji budu moct vratit zpet!"
+ },
+ {
+  "gi": 73,
+  "si": 7,
+  "en": "Oh my goodness, will you look at that!\n\nIt's our copy of {Color:Red}Legend of the Picori{Color:White}!\nIt's been checked out for so long!\n{Player}, you deserve a medal\nfor all this!\nI am moved... Deeply, deeply moved\nby this thoughtful gesture!",
+  "cz": "Och, jeminkote, podivej se na to!\n\nJe to nas exemplar {Color:Red}Legendy o Picori{Color:White}!\nByl pujceny tak dlouho!\n{Player}, zaslouzis za vsechno\ntoto medaili!\nJsem dojaty... Hluboce, hluboce dojaty\ntimto laskavym gestem!"
+ },
+ {
+  "gi": 73,
+  "si": 8,
+  "en": "Would you look at that! I can't believe\nit! It's our copy of {Color:Red}A History of Masks{Color:White}!\nThat mayor of ours is a real piece of\nwork, isn't he?\nIt must have been quite a challenge\nto get this back from him.\nYou are my new favorite person,\n{Player}! Thank you so much!",
+  "cz": "Podivej se na to! Tomu nemuzu uverit!\nJe to nas exemplar {Color:Red}Historie masek{Color:White}!\nTen nas starosta je opravdu\nkousek, ze?\nMuselo byt dost vyzvou\ndostat to od nej zpet.\nJsi ma nova oblibena osoba,\n{Player}! Mockrat dekuji!"
+ },
+ {
+  "gi": 73,
+  "si": 12,
+  "en": "You know, {Player}, you've now\nreturned all of our overdue books!\nNow I can finally get that bookshelf\non the second floor in order!\nHey, {Color:Green}Sturgeon{Color:White}! Books to shelve!!",
+  "cz": "Vis, {Player}, ted jsi vratil\nvsechny nase prodlouzene knihy!\nKonecne mohu dat tu polici\nv druhem patre do poradku!\nHej, {Color:Green}Sturgeone{Color:White}! Knihy k zalozeni!!"
+ },
+ {
+  "gi": 73,
+  "si": 13,
+  "en": "Yes, yes! Here I am! I'm here! I'll have\nthese books put away lickety-split!",
+  "cz": "Ano, ano! Tady jsem! Jsem tu! Tyto\nknihy ulozim jedna dve!"
+ },
+ {
+  "gi": 73,
+  "si": 14,
+  "en": "{Sound:00:DB}Sometimes, these books move on their\nown! I've seen it with my own two eyes!\nAn' don't tell me I'm crazy!\nI ain't crazy!",
+  "cz": "{Sound:00:DB}Nekdy se tyto knihy pohybuji samy\nod sebe! Videl jsem to na vlastni oci!\nA nerikej, ze jsem blazen!\nNejsem blazen!"
+ },
+ {
+  "gi": 73,
+  "si": 15,
+  "en": "Say, {Color:Green}Sturgeon{Color:White}, on the second floor,\nhas been acting a little strange.\nHe keeps babbling about the books\nmoving around on their own!\nDo you think maybe we have rats\nor something up there?",
+  "cz": "Vis, {Color:Green}Sturgeon{Color:White}, v druhem patre,\nse chova trochu divne.\nPorad blabli o knihach, ktere\nse pohybuji samy!\nMyslis, ze mame mozna nahore\nkrysy nebo neco takoveho?"
+ },
+ {
+  "gi": 73,
+  "si": 16,
+  "en": "I'm in charge of checking out books,\nso it's not my problem.\nStill, I feel really bad for the girl\nover there in charge of returns...",
+  "cz": "Mam na starosti pujcovani knih,\ntakze to neni muj problem.\nPresto je mi opravdu lito te divky,\nco ma na starosti vraceni..."
+ },
+ {
+  "gi": 73,
+  "si": 17,
+  "en": "Folks don't come up here so often.\nI get a touch lonely on my own.",
+  "cz": "Lide sem nahoru nechodi casto.\nSam jsem trochu opusteny."
+ },
+ {
+  "gi": 73,
+  "si": 18,
+  "en": "Welcome to the library!\n\nHey! Aren't you Smith's grandson,\n{Player}? Enjoy your browsing!",
+  "cz": "Vitej v knihovne!\n\nHej! Nejsi ty Smithuv vnuk,\n{Player}? Uzij si prohlizeni!"
+ },
+ {
+  "gi": 73,
+  "si": 19,
+  "en": "The bookshelves are back in order!\nAh, I feel so...so...renewed!\nEnjoy your browsing!",
+  "cz": "Police jsou zpatky v poradku!\nAch, citim se tak...tak...obnoven!\nUzij si prohlizeni!"
+ },
+ {
+  "gi": 73,
+  "si": 20,
+  "en": "Wonder what I should check out today.",
+  "cz": "Zajimalo by me, co bych si dnes mel pujcit."
+ },
+ {
+  "gi": 73,
+  "si": 21,
+  "en": "Oh ho ho! All the books are back\non the shelves! Isn't it grand!",
+  "cz": "Och ho ho! Vsechny knihy jsou zpet\nna policich! Neni to bajecne!"
+ },
+ {
+  "gi": 74,
+  "si": 1,
+  "en": "{Sound:01:FD}Hey, hey, hey! This is no good!\nNo good at all!\nThe humans have {Color:Blue}checked some books\nout of the library{Color:White}!\nThanks to them, none of us can get\nback to {Color:Green}Elder Librari{Color:White}...\nHow will he get by all alone?\nI'm so worried...\nI'm sure the {Color:Green}librarian{Color:White} knows something\nabout where those books went...\nI wish I were big. Why, I'd walk right\nup and ask her where those books went!",
+  "cz": "{Sound:01:FD}Hej, hej, hej! Tohle neni dobre!\nVubec ne dobre!\nLide {Color:Blue}pujcili nejake knihy\nz knihovny{Color:White}!\nKvuli nim se zadny z nas nedostane\nzpet ke {Color:Green}Starsimu Librarimu{Color:White}...\nJak to tam zvladne uplne sam?\nMam takovou starost...\nJsem si jisty, ze {Color:Green}knihovnice{Color:White} neco vi\no tom, kam ty knihy zmizely...\nKez bych byl velky. To bych si k ni\nprisel a zeptal se ji, kde jsou!"
+ },
+ {
+  "gi": 74,
+  "si": 3,
+  "en": "{Sound:01:FD}Hey, hey, hey! Listen up! Listen good!\nThe books are back now!\nIt's true! It's true! Haha!\nNow we can get back to {Color:Green}Elder Librari{Color:White}!\nSo you brought the books back?\nGood for you! Thank you!\n{07:4A:04}",
+  "cz": "{Sound:01:FD}Hej, hej, hej! Poslouchejte! Poslouchejte dobre!\nKnihy jsou zpet!\nJe to pravda! Je to pravda! Haha!\nTed se muzeme vratit ke {Color:Green}Starsimu Librarimu{Color:White}!\nTakze tys ty knihy prinesl zpet?\nVyborne! Diky!\n{07:4A:04}"
+ },
+ {
+  "gi": 74,
+  "si": 4,
+  "en": "{Sound:01:FE}Please take this as a\nsign of our thanks!",
+  "cz": "{Sound:01:FE}Prosim, vezmi si toto jako\nznameni nasi vdecnosti!"
+ },
+ {
+  "gi": 74,
+  "si": 5,
+  "en": "{Sound:02:00}I'd better get back to {Color:Green}Elder Librari{Color:White}\nnow! He'll be wondering where I am.\nEspecially now that I can climb over the\nbooks, right? I mean, it's so easy now!",
+  "cz": "{Sound:02:00}Radsi se vratim ke {Color:Green}Starsimu Librarimu{Color:White}\nted! Bude se divit, kde jsem.\nObzvlast ted, kdyz mohu prelezt\nknihy, vid? Je to ted tak snadne!"
+ },
+ {
+  "gi": 74,
+  "si": 6,
+  "en": "{Sound:02:05}Thanks again for your help!",
+  "cz": "{Sound:02:05}Jeste jednou diky za pomoc!"
+ },
+ {
+  "gi": 74,
+  "si": 7,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}007",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 8,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}008",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 9,
+  "en": "{Sound:01:F7}What a great combo!\n\nYou're going to meet\n{Color:Green}Elder Librari{Color:White} and {Color:Green}Jotori{Color:White}?\nOh, and how about Librari's long,\nboring adventure stories? Haha!\nTalk about thrilling! Har har!\n\nWell, if you're going over there,\njust climb over the books!",
+  "cz": "{Sound:01:F7}To je skvela kombinace!\n\nJdes potkat\n{Color:Green}Starsiho Librariho{Color:White} a {Color:Green}Jotoriho{Color:White}?\nOch, a co Librariho dlouhe,\nnudne dobrodruzne pribehy? Haha!\nTo je teprve napinave! Har har!\n\nNo, kdyz tam jdes,\nproste prelez knihy!"
+ },
+ {
+  "gi": 74,
+  "si": 10,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}010",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 11,
+  "en": "{Sound:01:F8}We can't get up the shelf, because\nsome human checked that book out!\nBut at least we don't have to listen to\n{Color:Green}Elder Librari{Color:White}'s boring old stories!",
+  "cz": "{Sound:01:F8}Nedostaneme se na polici, protoze\nnejaky clovek pujcil tu knihu!\nAle aspon nemusime poslouchat\nnudne stare pribehy {Color:Green}Starsiho Librariho{Color:White}!"
+ },
+ {
+  "gi": 74,
+  "si": 12,
+  "en": "{Sound:01:F9}Ahh, it's so nice to have all my little\nbooks in a row!{Symbol:0B}",
+  "cz": "{Sound:01:F9}Ach, je tak prijemne mit vsechny\nme male knizky v rade!{Symbol:0B}"
+ },
+ {
+  "gi": 74,
+  "si": 13,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}013",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 14,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}014",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 15,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}015",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 16,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}016",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 17,
+  "en": "{Sound:02:05}I am {Color:Green}Jotori{Color:White}, one of {Color:Green}Librari{Color:White}'s students!\n\nAnd to be perfectly honest, I think\nthat {Color:Green}Librari{Color:White}'s adventure stories are...\n{Sound:01:FD}The best!!\nNo, really!\nI may be a mental giant, but I have\nthe body of just a tiny Minish lad...\nThat's why I really admire strong folk!",
+  "cz": "{Sound:02:05}Ja jsem {Color:Green}Jotori{Color:White}, jeden z {Color:Green}Librariho{Color:White} zaku!\n\nA upremne, myslim, ze\n{Color:Green}Librariho{Color:White} dobrodruzne pribehy jsou...\n{Sound:01:FD}Nejlepsi!!\nNe, opravdu!\nJsem mozna mentalni obr, ale mam\ntelo malickeho Minish chlapce...\nProto opravdu obdivuju silne lidi!"
+ },
+ {
+  "gi": 74,
+  "si": 18,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}018",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 19,
+  "en": "{Sound:01:FD}Oh! So you passed the trial and\nreturned with {Color:Green}Elder Librari{Color:White}'s flippers?\nI'm so jealous!\nI'm not much for exercise myself...\nBut if you're going on an adventure,\nthere's no one better to learn from!\nAh, that {Color:Green}Elder Librari{Color:White}! He's so manly!\nSo brave! And so full of FIRE!",
+  "cz": "{Sound:01:FD}Och! Tak jsi prosel zkouskou a\nvratil se s {Color:Green}Starsiho Librariho{Color:White} plovacimi blanami?\nMam takovou zavist!\nNa cviceni sam moc nejsem...\nAle kdyz jdes na dobrodruzstvi,\nneni od koho se lepe ucit!\nAch, ten {Color:Green}Starsi Librari{Color:White}! Je tak muzny!\nTak statecny! A tak plny OHNE!"
+ },
+ {
+  "gi": 74,
+  "si": 20,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}020",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 21,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}021",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 22,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}022",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 23,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}023",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 24,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}024",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 25,
+  "en": "{Sound:02:0D}Wohohoho! What business have you\nwith old {Color:Green}Librari{Color:White}?\nBut! Before you ask, please allow me\nto introduce myself.\nWohohoho! Ahem, aheeeeem...\n\nMy name is {Color:Green}Librari{Color:White}, and I have lived\nmany long years.\nSo many, in fact, that I've rather\nforgotten how old I am!\nBut when I was young, oh,\nI crossed mountain and sea!\nI had many great adventures, but now\nI stay here and teach students.\nYes, I enjoy my life of quiet study.\nI have so many stories yet to tell...",
+  "cz": "{Sound:02:0D}Wohohoho! Co mas za zajem\nse starym {Color:Green}Librarim{Color:White}?\nAle! Nez se zeptas, dovol mi\nse predstavit.\nWohohoho! Ehm, eheeeem...\n\nJmenuji se {Color:Green}Librari{Color:White} a zil jsem\nmnoho dlouhych let.\nTolik, ze jsem vlastne\nzapomnel, kolik mi je!\nAle kdyz jsem byl mlady, och,\nprekrocil jsem hory i more!\nMel jsem mnoho velkych dobrodruzstvi,\nale ted zustavam tu a ucim zaky.\nAno, uzivam si tichy zivot studia.\nMam jeste tolik pribehu k vypraveni..."
+ },
+ {
+  "gi": 74,
+  "si": 26,
+  "en": "{Sound:02:0D}Yes, you are speaking to the world-\nfamous treasure-hunter {Color:Green}Librari{Color:White}!",
+  "cz": "{Sound:02:0D}Ano, mluvis se svetozname\nlovcem pokladu {Color:Green}Librarim{Color:White}!"
+ },
+ {
+  "gi": 74,
+  "si": 27,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}027",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 28,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}028",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 29,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}029",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 30,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}030",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 31,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}031",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 32,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}032",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 33,
+  "en": "KOBITO{Symbol:1F}HONDANA{Symbol:1F}033",
+  "cz": ""
+ },
+ {
+  "gi": 74,
+  "si": 34,
+  "en": "{Sound:02:0D}Wohohoho! Oh?\nA visitor after many long weeks!\nEven {Color:Green}Jotari{Color:White} has been away so long,\nI've grown almost...lonely.\n...But what is it? What do you need?\n\nHm? You want to visit the {Color:Green}Temple of\nDroplets{Color:White}?\nVery well... You are the first such\nbrave person in a long while!\nStand on the clover in front of me!",
+  "cz": "{Sound:02:0D}Wohohoho! Och?\nNavsteva po mnoha dlouhych tydnech!\nDokonce i {Color:Green}Jotari{Color:White} je pryc tak dlouho,\nuz jsem skoro...osameli.\n...Ale co je? Co potrebujes?\n\nHmm? Chces navstivit {Color:Green}Chram\nKapek{Color:White}?\nDobre... Jsi prvni takovy\nstatecny clovek po dlouhe dobe!\nPostav se na trojlistek prede mnou!"
+ },
+ {
+  "gi": 74,
+  "si": 35,
+  "en": "{Sound:02:0D}Hrmm?\nWhat's this? What's this?\nYou want me to cut to the chase and\ntell you about the {Color:Green}Temple of Droplets{Color:White}?",
+  "cz": "{Sound:02:0D}Hmm?\nCo to je? Co to je?\nChces, abych prestal a rekl\nti o {Color:Green}Chramu Kapek{Color:White}?"
+ },
+ {
+  "gi": 74,
+  "si": 36,
+  "en": "{Sound:02:0D}All right, all right. You kids today...\nNo patience for an old man.\nWell, just stand right there, like\nI told you!",
+  "cz": "{Sound:02:0D}Dobre, dobre. Vy deti dnes...\nZadnou trpelivost pro stareho muze.\nNo, jen se postav tam,\nkde jsem ti rekl!"
+ },
+ {
+  "gi": 74,
+  "si": 37,
+  "en": "Wohoho!\nNow...OPEN, secret mystery panel!!",
+  "cz": "Wohoho!\nA ted...OTEVRI se, tajny mysticky panel!!"
+ },
+ {
+  "gi": 74,
+  "si": 38,
+  "en": "Wohoho! Wasn't that fun?\nNow then...\nIt's up to you to pass this {Color:Blue}trial {Color:White}safely\nand recover the {Color:Red}item {Color:White}you require.\nOh, what fun! I do so love the real\nnitty-gritty of adventuring!",
+  "cz": "Wohoho! Nebylo to zabavne?\nA ted...\nJe na tobe, abys bezpecne prosel touto\n{Color:Blue}zkouskou{Color:White} a ziskal {Color:Red}predmet{Color:White}, ktery potrebujes.\nOch, jak zabavne! Tak moc miluju\nopravdovou podstatu dobrodruzstvi!"
+ },
+ {
+  "gi": 74,
+  "si": 39,
+  "en": "{Sound:02:0D}Well done, indeed! Why, you're almost\nas spry as I was at that age!",
+  "cz": "{Sound:02:0D}Vyborne, opravdu! Jsi skoro\ntak svizny, jako jsem byl v tvem veku!"
+ },
+ {
+  "gi": 75,
+  "si": 1,
+  "en": "{Sound:01:F7}What a nice smell...",
+  "cz": "{Sound:01:F7}Jak hezka vune..."
+ },
+ {
+  "gi": 75,
+  "si": 2,
+  "en": "{Sound:01:FB}I like those red hats the Forest Minish\nwear...",
+  "cz": "{Sound:01:FB}Libi se mi ty cervene cepice, co nosi\nLesni Minish..."
+ },
+ {
+  "gi": 75,
+  "si": 3,
+  "en": "{Sound:01:F8}I like these blue hats the Town\nMinish wear...",
+  "cz": "{Sound:01:F8}Libi se mi tyto modre cepice, co nosi\nMestsky Minish..."
+ },
+ {
+  "gi": 75,
+  "si": 4,
+  "en": "{Sound:01:FD}The {Color:Green}Forest Minish{Color:White}\nhave come for a visit.",
+  "cz": "{Sound:01:FD}{Color:Green}Lesni Minish{Color:White}\nprisli na navstevu."
+ },
+ {
+  "gi": 75,
+  "si": 5,
+  "en": "{Sound:01:FF}I knew the city life would be exciting!",
+  "cz": "{Sound:01:FF}Vedel jsem, ze zivot ve meste bude vzrusujici!"
+ },
+ {
+  "gi": 75,
+  "si": 6,
+  "en": "{Sound:02:01}Everyone here is so refined...",
+  "cz": "{Sound:02:01}Vsichni tady jsou tak rafinovani..."
+ },
+ {
+  "gi": 75,
+  "si": 7,
+  "en": "{Sound:02:02}I get hungry just from that smell!",
+  "cz": "{Sound:02:02}Dostavam hlad uz jen z te vune!"
+ },
+ {
+  "gi": 75,
+  "si": 8,
+  "en": "{Sound:01:FC}I want a red hat...",
+  "cz": "{Sound:01:FC}Chci cervenou cepici..."
+ },
+ {
+  "gi": 75,
+  "si": 9,
+  "en": "{Sound:01:FC}I want a blue hat...",
+  "cz": "{Sound:01:FC}Chci modrou cepici..."
+ },
+ {
+  "gi": 75,
+  "si": 10,
+  "en": "{Sound:01:FF}Our reunion with the {Color:Green}Forest Minish{Color:White} is\nstill in full swing!",
+  "cz": "{Sound:01:FF}Nase setkani s {Color:Green}Lesnimi Minish{Color:White}\nje stale v plnem proudu!"
+ },
+ {
+  "gi": 75,
+  "si": 11,
+  "en": "{Sound:02:01}We're getting more refined just\nBEING here!",
+  "cz": "{Sound:02:01}Stavame se rafinovanejsimi uz jen\ntim, ze tady JSME!"
+ },
+ {
+  "gi": 75,
+  "si": 12,
+  "en": "{Sound:02:01}Maybe I should just stay here and\nnever go back home...",
+  "cz": "{Sound:02:01}Mozna bych mel proste zustat tu a\nnikdy se nevracet domu..."
+ },
+ {
+  "gi": 75,
+  "si": 13,
+  "en": "{Sound:02:05}What a wonderful smell...",
+  "cz": "{Sound:02:05}Jak nadherna vune..."
+ },
+ {
+  "gi": 75,
+  "si": 14,
+  "en": "{Sound:02:03}We just love bread...",
+  "cz": "{Sound:02:03}Proste milujeme chleba..."
+ },
+ {
+  "gi": 75,
+  "si": 15,
+  "en": "{Sound:02:02}Sometimes I sneak off with a little\nnibble of leftover bread.{Symbol:0B}",
+  "cz": "{Sound:02:02}Nekdy se vyplizim s malym\nkousnutim zbylyho chleba.{Symbol:0B}"
+ },
+ {
+  "gi": 75,
+  "si": 16,
+  "en": "{Sound:02:00}The bread {Color:Green}Wheaton {Color:White}makes has got\nto be the best bread in Hyrule!",
+  "cz": "{Sound:02:00}Chleba, ktery {Color:Green}Wheaton {Color:White}peče, musi\nbyt ten nejlepsi chleba v Hyrule!"
+ },
+ {
+  "gi": 75,
+  "si": 17,
+  "en": "{Sound:01:FB}Isn't {Color:Green}Pita {Color:White}cute?",
+  "cz": "{Sound:01:FB}Neni {Color:Green}Pita {Color:White}roztomila?"
+ },
+ {
+  "gi": 75,
+  "si": 18,
+  "en": "{Sound:01:FF}Every one of their breads is\nso delicious!",
+  "cz": "{Sound:01:FF}Kazdy z jejich chlebu je\ntak vyborny!"
+ },
+ {
+  "gi": 75,
+  "si": 19,
+  "en": "{Sound:01:FE}Those two newlyweds are being more\nfresh than this fresh-baked bread!{Symbol:0B}",
+  "cz": "{Sound:01:FE}Ti dva novomanzele jsou\ncerstvejsi nez tento cerstvy chleba!{Symbol:0B}"
+ },
+ {
+  "gi": 75,
+  "si": 20,
+  "en": "{Sound:01:FA}It's such a thrill coming up here from\nbelow, just like PSHOOOO!",
+  "cz": "{Sound:01:FA}Je to takove vzruseni dostat se sem\nzdola, prave jako PSHOOOO!"
+ },
+ {
+  "gi": 75,
+  "si": 21,
+  "en": "{Sound:01:FD}Fewer and fewer people are coming\nto buy bread...",
+  "cz": "{Sound:01:FD}Stale mene a mene lidi prichazi\nkoupit chleba..."
+ },
+ {
+  "gi": 75,
+  "si": 22,
+  "en": "{Sound:01:FC}I can't believe how dangerous\nit's gotten around here...",
+  "cz": "{Sound:01:FC}Nemuzu uverit, jak nebezpecne\nto tu zacalo byt..."
+ },
+ {
+  "gi": 75,
+  "si": 23,
+  "en": "{Sound:01:FB}Now more than ever, we all need to get\nsome good-luck bread!{Symbol:0B}",
+  "cz": "{Sound:01:FB}Ted vic nez kdy jindy vsichni\npotrebujeme chleba pro stesti!{Symbol:0B}"
+ },
+ {
+  "gi": 75,
+  "si": 24,
+  "en": "{Sound:01:FE}I like eating leftovers, but I just wish\nbusiness were going better for them...",
+  "cz": "{Sound:01:FE}Rad jim zbytky, ale prece bych si pral,\naby se jim obchod darilo lepe..."
+ },
+ {
+  "gi": 75,
+  "si": 25,
+  "en": "KOBITO{Symbol:1F}HARI{Symbol:1F}025",
+  "cz": ""
+ },
+ {
+  "gi": 75,
+  "si": 26,
+  "en": "KOBITO{Symbol:1F}HARI{Symbol:1F}026",
+  "cz": ""
+ },
+ {
+  "gi": 75,
+  "si": 27,
+  "en": "KOBITO{Symbol:1F}HARI{Symbol:1F}027",
+  "cz": ""
+ },
+ {
+  "gi": 75,
+  "si": 28,
+  "en": "KOBITO{Symbol:1F}HARI{Symbol:1F}028",
+  "cz": ""
+ },
+ {
+  "gi": 75,
+  "si": 29,
+  "en": "KOBITO{Symbol:1F}HARI{Symbol:1F}029",
+  "cz": ""
+ },
+ {
+  "gi": 75,
+  "si": 30,
+  "en": "KOBITO{Symbol:1F}HARI{Symbol:1F}030",
+  "cz": ""
+ },
+ {
+  "gi": 75,
+  "si": 31,
+  "en": "{Sound:01:F8}Hmmm! I see! Oh, that makes sense!\n...Human books are so interesting!\nAnd that guy {Color:Green}Dr. Left{Color:White} living down there\nhas great taste in reading material!",
+  "cz": "{Sound:01:F8}Hmmm! Aha! Och, to dava smysl!\n...Lidske knihy jsou tak zajimave!\nA ten chlap {Color:Green}Dr. Left{Color:White}, co bydli dole,\nma skvely vkus na knizky!"
+ },
+ {
+  "gi": 75,
+  "si": 32,
+  "en": "{Sound:01:F9}I'm almost done with this book. I should\ngo nab another of the doctor's books.",
+  "cz": "{Sound:01:F9}Skoro jsem dokoncil tuto knihu. Mel bych\nbezet sebrat dalsi z doktorovych knih."
+ },
+ {
+  "gi": 75,
+  "si": 33,
+  "en": "{Sound:01:FA}I would love to read something a little\nmore romantic next...",
+  "cz": "{Sound:01:FA}Rad bych si dalsi precetl neco\nmalinko romantictejsiho..."
+ },
+ {
+  "gi": 75,
+  "si": 34,
+  "en": "{Sound:01:FB}Ho! Ha! Hey!!\n\nPhew... I want to {Color:Blue}return this book by\ndropping it down below{Color:White}.\nIt's impossible without some\nextra weight here...\nBut my brother is so busy with a book\nof his own that he won't help me out!\nMaybe I can do it if I try again...",
+  "cz": "{Sound:01:FB}Ho! Ha! Hej!!\n\nFuj... Chci {Color:Blue}vratit tuto knihu tim,\nze ji shodim dolu{Color:White}.\nJe to nemozne bez nejake\nextra vahy tady...\nAle muj bratr je tak zaneprazdneny\nvlastni knihou, ze mi nepomuze!\nMozna to dokazu, kdyz zkusim znovu..."
+ },
+ {
+  "gi": 75,
+  "si": 35,
+  "en": "{Sound:01:FC}I think my brother is going to finish\nthat book he's reading soon.\nI bet I'll have to return that one, too.\nGuess I'd better put on a little weight!",
+  "cz": "{Sound:01:FC}Myslim, ze muj bratr brzy dokonci\nknihu, kterou cte.\nSazim, ze i tu budu muset vratit.\nAsi bych mel pribrat trochu na vaze!"
+ },
+ {
+  "gi": 75,
+  "si": 36,
+  "en": "{Sound:01:FE}My brother loves reading books!\n\nAnd I love pushing my brother's books\noff the rafters to return them!",
+  "cz": "{Sound:01:FE}Muj bratr miluje cteni knih!\n\nA ja miluju shazovani jeho knih\nz tramu, abych je vratil!"
+ },
+ {
+  "gi": 75,
+  "si": 37,
+  "en": "{Sound:02:01}It's a bit dusty up here, huh?\nMaybe I should do a little cleaning...",
+  "cz": "{Sound:02:01}Je tu trochu prach, co?\nMozna bych mel trochu uklidit..."
+ },
+ {
+  "gi": 75,
+  "si": 38,
+  "en": "{Sound:02:02}Thanks for cleaning up!\nNow, all that dust is gone!{Symbol:0B}",
+  "cz": "{Sound:02:02}Diky za uklid!\nTed je veskery ten prach pryc!{Symbol:0B}"
+ },
+ {
+  "gi": 75,
+  "si": 39,
+  "en": "KOBITO{Symbol:1F}HARI{Symbol:1F}039",
+  "cz": ""
+ },
+ {
+  "gi": 75,
+  "si": 40,
+  "en": "KOBITO{Symbol:1F}HARI{Symbol:1F}040",
+  "cz": ""
+ },
+ {
+  "gi": 76,
+  "si": 0,
+  "en": "SHICYO{Symbol:1F}TEI{Symbol:1F}000",
+  "cz": ""
+ },
+ {
+  "gi": 76,
+  "si": 1,
+  "en": "Aherrrm herrmmm!\nI am {Color:Green}Hagen{Color:White}, mayor of this fair town!\nMayors are usually very important and\nbusy folk, I'll have you know...\nBut I still have a hobby, of course!\nI collect unusual masks!\nI just love them!\nThey're beautiful!\nSimply magnificent, I tell you!",
+  "cz": "Ehmmm hmmmm!\nJa jsem {Color:Green}Hagen{Color:White}, starosta tohoto mesta!\nStarostove jsou obvykle velmi dulezite\na zaneprazdnene osoby, abys vedel...\nAle mam i konicek, samozrejme!\nSbiram neobvykle masky!\nProste je miluju!\nJsou nadherne!\nProste nadherne, rikam ti!"
+ },
+ {
+  "gi": 76,
+  "si": 2,
+  "en": "Aherrm!\n\nYes! That's me, {Color:Green}Hagen{Color:White}.\nI am mayor of this town.\nWhat's that? You want a book?\n{Color:Red}A History of Masks{Color:White}?\nAnd you say I checked it out,\ndo you? Yes, indeed I did...\nOr wait... Did I?",
+  "cz": "Ehmmm!\n\nAno! To jsem ja, {Color:Green}Hagen{Color:White}.\nJsem starosta tohoto mesta.\nCo je? Chces knihu?\n{Color:Red}Historie masek{Color:White}?\nA rikas, ze jsem si ji pujcil,\nano? Ano, opravdu pujcil...\nNebo pockej... Pujcil?"
+ },
+ {
+  "gi": 76,
+  "si": 3,
+  "en": "Ahh, you seem to have found the book,\nsafe and sound and in fine shape!\nBut only because you listened to my\nmasks like a good little boy, right?\nWar har har har!",
+  "cz": "Ach, zda se, zes nasel knihu,\nzdrava a v dobrem stavu!\nAle jen proto, zes poslouchal me\nmasky jako hodny chlapecek, ze?\nHa ha ha ha!"
+ },
+ {
+  "gi": 76,
+  "si": 4,
+  "en": "I'm going to have to pick up volume 2.\nThat last book was just getting good!",
+  "cz": "Budu si muset vyzvednout dil 2.\nTa posledni kniha se prave stavala dobrou!"
+ },
+ {
+  "gi": 76,
+  "si": 5,
+  "en": "{Sound:01:FE}The person living here is the mayor,\nvery important you know.\nDoesn't it all just sound so...official?",
+  "cz": "{Sound:01:FE}Osoba, ktera zde zije, je starosta,\nvelmi dulezity, vis.\nNezni to vsechno tak...oficialne?"
+ },
+ {
+  "gi": 76,
+  "si": 6,
+  "en": "{Sound:01:F8}The mayor likes strange masks.\nSometimes, he even makes his own.",
+  "cz": "{Sound:01:F8}Starosta ma rad podivne masky.\nNekdy si dokonce vyrabi vlastni."
+ },
+ {
+  "gi": 76,
+  "si": 7,
+  "en": "{Sound:01:FD}The mayor took off for his {Color:Green}cabin by the\nlake{Color:White} clutching a {Color:Red}book{Color:White}. We saw him go...\nBut after the chest was opened, the\nroad to {Color:Green}Minish Woods{Color:White} was blocked.\nYou won't be able to get through.",
+  "cz": "{Sound:01:FD}Starosta odjel do sve {Color:Green}chaty u\njezera{Color:White} s {Color:Red}knihou{Color:White} v ruce. Videli jsme ho jet...\nAle kdyz se truhla otevrela, cesta\ndo {Color:Green}Minish Lesu{Color:White} byla zablokovana.\nNeprojdes tudy."
+ },
+ {
+  "gi": 76,
+  "si": 8,
+  "en": "{Sound:01:F6}When the {Color:Green}mayor {Color:White}came back, he didn't\nhave that {Color:Red}book {Color:White}anymore.\nI'm sure he just left it at his {Color:Green}lakeside\ncabin{Color:White}. He's pretty forgetful like that.",
+  "cz": "{Sound:01:F6}Kdyz se {Color:Green}starosta {Color:White}vratil, uz tu\n{Color:Red}knihu {Color:White}nemel.\nUrcite ji nechal ve sve {Color:Green}chate\nu jezera{Color:White}. Je takto dost zapominciny."
+ },
+ {
+  "gi": 76,
+  "si": 9,
+  "en": "{Sound:01:FC}You want to go to the cabin\nby the lake?\nWell, let me just mark\nit here on your {Color:Red}map{Color:White}.\nErr... Yes! There. It's right here.\nYou should be able to find it now.",
+  "cz": "{Sound:01:FC}Chces jit do chaty\nu jezera?\nNo, dovol mi ji oznacit\nzde na tve {Color:Red}mape{Color:White}.\nEhm... Ano! Tam. Je prave zde.\nTed bys ji mel umet najit."
+ },
+ {
+  "gi": 76,
+  "si": 10,
+  "en": "{Sound:01:FD}So the {Color:Red}book {Color:White}WAS at the {Color:Green}lake{Color:White}, then.",
+  "cz": "{Sound:01:FD}Takze ta {Color:Red}kniha {Color:White}BYLA u {Color:Green}jezera{Color:White}."
+ },
+ {
+  "gi": 76,
+  "si": 11,
+  "en": "{Sound:01:F9}Ah, but I do love our absentminded\nold mayor. He's a fine man.",
+  "cz": "{Sound:01:F9}Ach, ale miluju naseho roztrziteho\nstareho starostu. Je to dobry muz."
+ },
+ {
+  "gi": 76,
+  "si": 12,
+  "en": "You know, these masks see everything\nthat goes on in my private life.\nMaybe you should just ask my masks!\n",
+  "cz": "Vis, tyto masky vidi vsechno,\nco se deje v mem soukromem zivote.\nMozna by ses mel zeptat mych masek!\n"
+ },
+ {
+  "gi": 76,
+  "si": 13,
+  "en": "I think I've finally got a good grasp\nof how things run in {Color:Green}Hyrule{Color:White}.\nThings run so smoothly around here,\nand I haven't even done a thing!\nI wonder how much better this place\nwould be if I actually did anything!",
+  "cz": "Myslim, ze jsem konecne dobre pochopil,\njak veci funguji v {Color:Green}Hyrule{Color:White}.\nVeci tu bezi tak hladce\na ja jsem ani nic neudelal!\nZajimalo by me, o kolik lepsi by tohle\nmisto bylo, kdybych skutecne neco delal!"
+ },
+ {
+  "gi": 76,
+  "si": 14,
+  "en": "Aherrm!! That hole in the garden leads\nto a shelter of sorts.\nBut it's not like I'm trying to run off\nand save myself alone or anything!\nJust keep that in mind!\n",
+  "cz": "Ehmmm!! Ta dira v zahrade vede\ndo jakehosi ukrytu.\nAle to neznamena, ze se snazim utect\na zachranit jen sebe, nebo neco!\nJen to mej na pameti!\n"
+ },
+ {
+  "gi": 76,
+  "si": 15,
+  "en": "I'm thinking of ways to increase the\nlibrary's budget to buy more books.\nEspecially the ones about masks,\nyou know.",
+  "cz": "Premyslim o zpusobech, jak zvysit\nrozpocet knihovny na nakup knih.\nObzvlast tech o maskach,\nvis."
+ },
+ {
+  "gi": 76,
+  "si": 16,
+  "en": "I may look somewhat idle to you,\nbut no, sir!\nI will be working terrifically hard as\nsoon as you leave.\nYou can bet on that! Hoho!",
+  "cz": "Mozna ti pripadam trochu lenivy,\nale ne, pane!\nBudu pracovat strasne tvrde,\njakmile odejdes.\nNa to vsadis! Hoho!"
+ },
+ {
+  "gi": 76,
+  "si": 17,
+  "en": "These are the times that really test my\nmettle as a mayor, I tell you.\nHyrule is my responsibility to the last.\nEveryone to the shelters!",
+  "cz": "Toto jsou casy, ktere opravdu testuji\nmuj charakter jako starosty, rikam ti.\nHyrule je ma zodpovednost do posledni chvile.\nVsichni do ukrytu!"
+ },
+ {
+  "gi": 76,
+  "si": 18,
+  "en": "Monsters are coming!\nEveryone stay indoors!\nOh, that doesn't apply to you, my boy!\nYou go get 'em, {Player}!\nYour sword and bravery\nwill save the day!",
+  "cz": "Prichazeji monstra!\nVsichni zustante uvnitr!\nOch, to se na tebe nevztahuje, chlapce!\nJdi po nich, {Player}!\nTvuj mec a statecnost\nzachrani den!"
+ },
+ {
+  "gi": 76,
+  "si": 19,
+  "en": "SHICYO{Symbol:1F}TEI{Symbol:1F}019",
+  "cz": ""
+ },
+ {
+  "gi": 76,
+  "si": 20,
+  "en": "I hope I don't sound like I'm bragging,\nbut I have a cabin at {Color:Green}Lake Hylia{Color:White}.\nIt's a gorgeous little place where I go\nto enjoy my hobby, mask making.",
+  "cz": "Doufam, ze nezni, ze se chlubim,\nale mam chatu u {Color:Green}Jezera Hylia{Color:White}.\nJe to nadherne mistecko, kam chodim\nuzivat si svuj konicek, vyrobu masek."
+ },
+ {
+  "gi": 76,
+  "si": 21,
+  "en": "{Sound:01:F9}That {Color:Green}cabin by the lake{Color:White} is\nreally quite far.",
+  "cz": "{Sound:01:F9}Ta {Color:Green}chata u jezera{Color:White} je\nopravdu dost daleko."
+ },
+ {
+  "gi": 76,
+  "si": 22,
+  "en": "{Sound:01:FD}The mayor wouldn't be nearly so\ncharming if he weren't so carefree.",
+  "cz": "{Sound:01:FD}Starosta by zdaleka nebyl tak\noklavny, kdyby nebyl tak bezstarostny."
+ },
+ {
+  "gi": 77,
+  "si": 0,
+  "en": "LEFT{Symbol:1F}000",
+  "cz": ""
+ },
+ {
+  "gi": 77,
+  "si": 1,
+  "en": "What is all of this!?\nI'm busy, don't you see that?\nDo not disturb my research! If you have\nno business, begone! You heard me!",
+  "cz": "Co to vsechno je!?\nJsem zaneprazdneny, nevidis to?\nNerus mi vyzkum! Pokud nemas\nco delat, odejdi! Slysel jsi me!"
+ },
+ {
+  "gi": 77,
+  "si": 2,
+  "en": "What, huh?\nA book? From the library?\nAh, yes...of course. I knew this\nday would come. Please, come in.",
+  "cz": "Co, ha?\nKniha? Z knihovny?\nAch, ano...samozrejme. Vedel jsem, ze\ntento den prijde. Prosim, pojd dal."
+ },
+ {
+  "gi": 77,
+  "si": 3,
+  "en": "LEFT{Symbol:1F}003",
+  "cz": ""
+ },
+ {
+  "gi": 77,
+  "si": 4,
+  "en": "LEFT{Symbol:1F}004",
+  "cz": ""
+ },
+ {
+  "gi": 77,
+  "si": 5,
+  "en": "I am a researcher of Picori legend\nand lore. My name is {Color:Blue}Dr. Left{Color:White}.\nYou're here about that book,\n{Color:Red}Legend of the Picori{Color:White}, aren't you?\nWell, I hate to say this, but I haven't\nseen it in several days.\nPerhaps a mischievous little mouse\nhas taken it?\nWell, I'm sure it's in this house\nsomewhere. I just don't know where.\nBut I'm very busy right now, so why\ndon't you just look for it yourself?",
+  "cz": "Jsem badatel Picori legend\na povesti. Jmenuji se {Color:Blue}Dr. Left{Color:White}.\nJsi tu kvuli te knize,\n{Color:Red}Legenda o Picori{Color:White}, ze?\nNo, neradi to rikam, ale uz jsem ji\npar dni nevidel.\nMozna ji vzala nejaka\nzlomyslna mysicka?\nNo, urcite je nekde v tomto\ndome. Jen nevim kde.\nAle ted jsem velmi zaneprazdneny,\ntak proc si ji nehledas sam?"
+ },
+ {
+  "gi": 77,
+  "si": 6,
+  "en": "A book fell with a \"THUD!\" a little\nwhile ago.\nIt gave me such a shock that\nmy heart skipped a beat!",
+  "cz": "Pred chvili spadla kniha\ns \"BACH!\".\nDalo mi to takovy sok, ze\nmi srdce vynechalo!"
+ },
+ {
+  "gi": 77,
+  "si": 7,
+  "en": "You found and returned the book for\nme, did you? I'm very grateful.\nHere, let me tell you something\ninteresting as thanks.\nYou see, the Minish did not always live\nin our world.\nNo, they came through a secret portal\nmany ages ago from their world to ours!\nBut don't tell anyone! It's a valuable\nbit of knowledge that only I know!\nAnd I gleaned it only after hours of\nstudy from an incredibly old book.",
+  "cz": "Nasel jsi a vratil mi knihu,\nano? Jsem velmi vdecny.\nDovol, abych ti rekl neco\nzajimaveho jako diky.\nVidis, Minish nezili vzdy\nv nasem svete.\nNe, prisli pred mnoha vekey skrz\ntajny portal ze sveho sveta do naseho!\nAle nikomu to nerikej! Je to cenny\nkousek znalosti, ktery zna jen ja!\nA ja jsem to vylustil az po\nhodinach studia z neuveritelne stare knihy."
+ },
+ {
+  "gi": 77,
+  "si": 8,
+  "en": "So you've come to hear more about the\nMinish, have you?\nWell, I can part with one more tidbit,\nI suppose... It could be useful.\nThe portal linking us to the Minish\nworld opens only once every 100 years.\nThat means the Minish here now are\ndescendants of those who came before.\nThat's right! Those Minish came here\n100 years ago, or even longer ago!\nNow that the portal is open this year,\nperhaps new Minish will come through...",
+  "cz": "Tak jsi prisel slyset vic o\nMinish, ano?\nNo, mohu se rozloucit s dalsim drobtem,\nasi... Mohlo by to byt uzitecne.\nPortal spojujici nas se svetem\nMinish se otvira jen jednou za 100 let.\nTo znamena, ze Minish, kteri jsou tu ted,\njsou potomci tech, kteri prisli pred nimi.\nPresne tak! Ti Minish sem prisli\npred 100 lety nebo jeste drive!\nTed kdyz je portal letos otevren,\nmozna projdou novi Minish..."
+ },
+ {
+  "gi": 77,
+  "si": 9,
+  "en": "The more I study the Minish, the closer\nI feel to them!\nIt's almost as if they were right\nhere with me, all the time...",
+  "cz": "Cim vic studuji Minish, tim blize\nse k nim citim!\nJako by byli prave\ntady se mnou, porad..."
+ },
+ {
+  "gi": 77,
+  "si": 10,
+  "en": "I never leave my house, whether there\nare monsters outside or not!",
+  "cz": "Nikdy neopoustim svuj dum, at uz\njsou venku monstra, nebo ne!"
+ },
+ {
+  "gi": 77,
+  "si": 11,
+  "en": "Hey, do you know the clues that reveal\nthe location of the treasure?\n{Color:Blue}Cross the bridge that spans\nthe rapid flow...\nThrough the land of\nthe fearsome beast...\nUntil you reach\nthe misty falls...\nThe treasure sleeps on the other side\nof the secret entrance there...{Color:White}\nThey say it's a magical tool that allows\neven little people to push big things!\nAccording to the legend, you're\nsupposed to start from this house!",
+  "cz": "Hej, znas indicie, ktere odhaluji\numisteni pokladu?\n{Color:Blue}Prejdi most, ktery prekonava\nprudky proud...\nSkrze zemi\nstrasidelne sevre...\nAz dorazis k\nmlhavym vodopadum...\nPoklad spi na druhe strane\ntajneho vchodu tam...{Color:White}\nRikaji, ze je to magicky nastroj, ktery\numoznuje i malym lidem strkat velke veci!\nPodle legendy mas zacit\nz tohoto domu!"
+ },
+ {
+  "gi": 77,
+  "si": 12,
+  "en": "{Sound:01:FB}Ahh... What should I do? Should I stay\nor go? If I go, there could be...\n...What's that?\n\nYou've already found the {Color:Red}bracelet {Color:White}that\nmakes one strong?!\nAhhh, I knew it! I'd been stumped on\nthat for so long! I knew I'd lose out!",
+  "cz": "{Sound:01:FB}Ach... Co mam delat? Mam zustat\nnebo jit? Pokud pujdu, mohlo by tam byt...\n...Co je?\n\nUz jsi nasel {Color:Red}naramek{Color:White}, ktery\ncloveka udela silnym?!\nAchhh, vedel jsem to! Byl jsem v tom\nzaseknuty tak dlouho! Vedel jsem, ze prohraju!"
+ },
+ {
+  "gi": 77,
+  "si": 13,
+  "en": "{Sound:01:FC}You're so brave!\nI really respect that!",
+  "cz": "{Sound:01:FC}Jsi tak statecny!\nOpravdu si toho vazim!"
+ },
+ {
+  "gi": 77,
+  "si": 14,
+  "en": "{Sound:01:FD}Have you been using the {Color:Red}bracelet {Color:White}that\nmakes you strong? Must come in handy!",
+  "cz": "{Sound:01:FD}Pouzival jsi {Color:Red}naramek{Color:White}, ktery te\ndela silnym? Musi se hodit!"
+ },
+ {
+  "gi": 77,
+  "si": 15,
+  "en": "Oh, look! You've found it! Could I ask\nyou to return that {Color:Red}book {Color:White}for me, lad?",
+  "cz": "Och, podivej! Nasel jsi ji! Mohu te\npozadat, abys mi tu {Color:Red}knihu {Color:White}vratil, chlapce?"
+ },
+ {
+  "gi": 78,
+  "si": 1,
+  "en": "Hey.\nWhat do you want?\nMy sister's not here.\nShe's at school.",
+  "cz": "Hej.\nCo chces?\nMoje sestra tu neni.\nJe ve skole."
+ },
+ {
+  "gi": 78,
+  "si": 2,
+  "en": "You have a weird hat. Where can\nI get one of those?",
+  "cz": "Mas divnou cepici. Kde\nbych takovou mohl ziskat?"
+ },
+ {
+  "gi": 78,
+  "si": 3,
+  "en": "Aaaarf!",
+  "cz": "Aaaarf!"
+ },
+ {
+  "gi": 78,
+  "si": 4,
+  "en": "My dog's real smart.\nAnd a little spoiled, too.",
+  "cz": "Muj pes je opravdu chytry.\nA trochu rozmazleny take."
+ },
+ {
+  "gi": 78,
+  "si": 5,
+  "en": "{Color:Green}Julietta{Color:White}, from next door, went\nback home...\nBut I'll see her tomorrow!{Symbol:0B}",
+  "cz": "{Color:Green}Julietta{Color:White}, ze sousedstvi, sla\nzpatky domu...\nAle uvidim ji zitra!{Symbol:0B}"
+ },
+ {
+  "gi": 78,
+  "si": 6,
+  "en": "My sister's back now.\nI guess she's supposed to stay in.",
+  "cz": "Moje sestra je zpatky.\nAsi ma zustat doma."
+ },
+ {
+  "gi": 78,
+  "si": 7,
+  "en": "{Sound:00:D1}Awooo! Hot! Awoo!\n{Color:Blue}The fireplace is too hot!{Color:White}\nMy master won't come home, 'cuz he's\nhead over heels for the girl next door.\nBut when he puts the fire out, then\nsometimes mice come out...\nI hate mice, so either way,\nI'm never happy!",
+  "cz": "{Sound:00:D1}Awooo! Horko! Awoo!\n{Color:Blue}V krbu je moc horko!{Color:White}\nMuj pan se nevraci domu, protoze je\npo usi zamilovany do sousedky.\nAle kdyz uhasi ohen, pak nekdy\nvyleznou mysi...\nMam nenavidim mysi, tak at tak nebo\nonak, nikdy nejsem stastny!"
+ },
+ {
+  "gi": 78,
+  "si": 8,
+  "en": "{Sound:00:D1}It's too hot! Arf...\n{Color:Blue}The fireplace is too hot...{Color:White}\nNow there are even more people in here,\nand it's getting too hot to bear!\nWhat will it take to cool this place\ndown!? Pant, pant, pant!",
+  "cz": "{Sound:00:D1}Je moc horko! Arf...\n{Color:Blue}V krbu je moc horko...{Color:White}\nTed je tu jeste vic lidi a\nje to moc horko k vydrzeni!\nCo to bude stat to misto\nochladit!? Funi, funi, funi!"
+ },
+ {
+  "gi": 78,
+  "si": 9,
+  "en": "{Sound:00:D1}Thanks, arf!\nYou put out the fire.\nBut I'm still miffed at my master!\n\nI can't believe how long he's been\nhanging out with his girlfriend!\nArf! Arf!",
+  "cz": "{Sound:00:D1}Diky, arf!\nUhasil jsi ohen.\nAle stale jsem nastvany na sveho pana!\n\nNemuzu uverit, jak dlouho je\nse svou pritelkyni!\nArf! Arf!"
+ },
+ {
+  "gi": 78,
+  "si": 10,
+  "en": "Huh? A {Color:Red}book {Color:White}from the {Color:Green}library{Color:White}?\n\n{Color:Red}A Hyrulean Bestiary{Color:White}, is that the one?\nYeah, I checked it out a while ago.\nYou came all this way to get it?\nWow! You're one dedicated librarian!\nBut... I don't know how to tell you\nthis, but it's back at my house.\nWould you mind going there to get it?\nI just can't leave right now, see...",
+  "cz": "Ha? {Color:Red}Kniha {Color:White}z {Color:Green}knihovny{Color:White}?\n\n{Color:Red}Hyrulska bestiar{Color:White}, ta je to?\nJo, pujcil jsem si ji pred chvili.\nPrisel jsi az sem ji ziskat?\nWow! Jsi opravdu oddany knihovnik!\nAle... Nevim, jak ti to mam rict,\nale je zpatky u me doma.\nVadilo by ti tam jit a vyzvednout ji?\nJa odsud ted nemuzu odejit, vis..."
+ },
+ {
+  "gi": 78,
+  "si": 11,
+  "en": "They say the king's been weird lately.\n\nBut that doesn't really have anything\nto do with our love...",
+  "cz": "Rikaji, ze kral byl posledne divny.\n\nAle to nema opravdu nic\nspolecneho s nasi laskou..."
+ },
+ {
+  "gi": 78,
+  "si": 14,
+  "en": "I'm writing a letter right now, so I\ndon't have any time to play with you.\nSorry.",
+  "cz": "Prave ted pisu dopis, takze\nnemam cas si s tebou hrat.\nPromin."
+ },
+ {
+  "gi": 78,
+  "si": 15,
+  "en": "You returned my book?\nThanks!",
+  "cz": "Vratil jsi mou knihu?\nDiky!"
+ },
+ {
+  "gi": 78,
+  "si": 16,
+  "en": "They say the king's been weird lately.\n\nBut that doesn't really have anything\nto do with our love...",
+  "cz": "Rikaji, ze kral byl posledne divny.\n\nAle to nema opravdu nic\nspolecneho s nasi laskou..."
+ },
+ {
+  "gi": 78,
+  "si": 17,
+  "en": "You ought to be careful when you're\nrunning around! You're awfully tiny!\nAnd not all dogs and cats are nice,\nlike me. Woof!\nSome of them might even take a swipe\nat you, arf! Rarf!",
+  "cz": "Mel bys byt opatrny, kdyz pobihas\nkolem! Jsi strasne maly!\nA ne vsichni psi a kocky jsou tak hodni\njako ja. Haf!\nNekteri po tobe mohou dokonce\nsahnout, arf! Rarf!"
+ },
+ {
+  "gi": 78,
+  "si": 19,
+  "en": "MINKA{Symbol:1F}019",
+  "cz": ""
+ },
+ {
+  "gi": 78,
+  "si": 20,
+  "en": "MINKA{Symbol:1F}020",
+  "cz": ""
+ },
+ {
+  "gi": 78,
+  "si": 21,
+  "en": "Oh, hello.\nMy brother's at school.",
+  "cz": "Och, ahoj.\nMuj bratr je ve skole."
+ },
+ {
+  "gi": 78,
+  "si": 22,
+  "en": "I'm writing a letter right now, so I\ndon't have any time to play with you.\nSorry.",
+  "cz": "Prave ted pisu dopis, takze\nnemam cas si s tebou hrat.\nPromin."
+ },
+ {
+  "gi": 78,
+  "si": 23,
+  "en": "{Sound:00:D2}Meowry-meowww!!!",
+  "cz": "{Sound:00:D2}Mnauu-mnauuu!!!"
+ },
+ {
+  "gi": 78,
+  "si": 24,
+  "en": "{Sound:00:D2}Sssss!",
+  "cz": "{Sound:00:D2}Sssss!"
+ },
+ {
+  "gi": 78,
+  "si": 25,
+  "en": "My family is all very close. Same with\n{Color:Green}Romio{Color:White}'s family next door, too.\nHee hee!{Symbol:0B}",
+  "cz": "Moje rodina je velmi blizka. Stejne tak\n{Color:Green}Romio{Color:White}va rodina ze sousedstvi.\nHi hi!{Symbol:0B}"
+ },
+ {
+  "gi": 78,
+  "si": 26,
+  "en": "My brother's back. Now, he's not\nallowed out anymore...",
+  "cz": "Muj bratr je zpatky. Ted nesmi\nuz ven..."
+ },
+ {
+  "gi": 78,
+  "si": 27,
+  "en": "Dear Mom,\nGone to Julietta's house. Back soon.",
+  "cz": "Mila mami,\nIdu k Juliette domu. Brzy zpet."
+ },
+ {
+  "gi": 78,
+  "si": 28,
+  "en": "{Sound:02:02}It's really dangerous up ahead! You\ncan't just charge through recklessly!",
+  "cz": "{Sound:02:02}Pred nami je opravdu nebezpecno! Nemuzes\nprosto utocit bezhlavym zpusobem!"
+ },
+ {
+  "gi": 78,
+  "si": 29,
+  "en": "{Sound:02:02}Hey, I've heard about you... So you're\ngonna go ahead, are you?\nWell, onward to glory then!\nJust don't die out there, OK?",
+  "cz": "{Sound:02:02}Hej, slysel jsem o tobe... Tak ty se\nchystas jit dal, ano?\nNo, kupredu ke slave tedy!\nJen tam nezemri, OK?"
+ },
+ {
+  "gi": 78,
+  "si": 30,
+  "en": "{Sound:02:02}You made it through that den of evil\nand came back alive?!\nAmazing! Whoo! Whoo!",
+  "cz": "{Sound:02:02}Prosel jsi tim doupatem zla\na vratil ses zivy?!\nUzasne! Whuu! Whuu!"
+ },
+ {
+  "gi": 78,
+  "si": 31,
+  "en": "I come from a faraway land. You\ncan tell by my clothing, can't you?",
+  "cz": "Pochazim z daleke zeme. To\npoznas podle meho obleceni, ne?"
+ },
+ {
+  "gi": 78,
+  "si": 32,
+  "en": "This place isn't so bad once you get\nused to it. I like it here.",
+  "cz": "Toto misto neni tak spatne, az si\nzvyknes. Libi se mi tu."
+ },
+ {
+  "gi": 78,
+  "si": 33,
+  "en": "In this cool climate, my clothes are\na little on the unprotective side.",
+  "cz": "V tomto chladnem klimatu je moje\nobleceni trochu malo chranici."
+ },
+ {
+  "gi": 78,
+  "si": 34,
+  "en": "I'm thinking about calling my family\nover soon.\nLiving with your feet on the ground\nis not so bad, I've decided.",
+  "cz": "Premyslim, ze pozvu svou rodinu\nbrzy.\nZit s nohama na zemi neni\ntak spatne, rozhodla jsem se."
+ },
+ {
+  "gi": 78,
+  "si": 35,
+  "en": "So you've been to my hometown?\nIt's great, isn't it?",
+  "cz": "Tak jsi byl v mem rodnem meste?\nJe skvele, ze?"
+ },
+ {
+  "gi": 78,
+  "si": 36,
+  "en": "Monsters could attack at any time.\nMaybe I shouldn't call my family over.",
+  "cz": "Monstra mohou kdykoli zautocit.\nMozna bych nemela volat svou rodinu."
+ },
+ {
+  "gi": 78,
+  "si": 37,
+  "en": "{Sound:01:FF}I really like this house. This is the\nbest place in this whole human town!\nI want to stay here forever.",
+  "cz": "{Sound:01:FF}Opravdu se mi libi tento dum. Je to\nnejlepsi misto v celem tomto lidskem meste!\nChci tu zustat navzdy."
+ },
+ {
+  "gi": 78,
+  "si": 38,
+  "en": "{Sound:01:FF}This place is getting a little run-down.\nI'm thinking about rebuilding the place.",
+  "cz": "{Sound:01:FF}Toto misto je trochu zdevastovane.\nPremyslim, ze ho prestavim."
+ },
+ {
+  "gi": 78,
+  "si": 39,
+  "en": "{Sound:01:FF}Welcome!\n\nThis is my new house! Ah... Don't\nyou just love that new-house smell?\nAnd I was JUST thinking about building\na new house, so this is great!",
+  "cz": "{Sound:01:FF}Vitej!\n\nToto je muj novy dum! Ach... Nemilujes\nproste tu vuni noveho domu?\nA PROSTO jsem premyslel o stavbe\nnoveho domu, takze je to skvele!"
+ },
+ {
+  "gi": 78,
+  "si": 40,
+  "en": "{Sound:01:FF}Imagine moving from a musty old\nmushroom to a fabulous house like this!\nIt's like a dream come true!",
+  "cz": "{Sound:01:FF}Predstav si stehovani ze zatuchle stare\nhouby do bajecneho domu jako je tento!\nJe to jako splneny sen!"
+ },
+ {
+  "gi": 78,
+  "si": 43,
+  "en": "Well, I suppose I'd better get dinner\nstarted! Hmm hm hmmm!{Symbol:0B}",
+  "cz": "No, asi bych mela zacit pripravovat\nveceri! Hmm hm hmmm!{Symbol:0B}"
+ },
+ {
+  "gi": 78,
+  "si": 44,
+  "en": "Oooh, scary... Well, as long as nothing\nelse happens...",
+  "cz": "Oooh, strasidelne... No, dokud se\nnestane neco jineho..."
+ },
+ {
+  "gi": 78,
+  "si": 45,
+  "en": "What's a moss-ster?",
+  "cz": "Co je to mochovstro?"
+ },
+ {
+  "gi": 78,
+  "si": 46,
+  "en": "It's so boring not being\nable to go outside.",
+  "cz": "Je to tak nudne, kdyz nemuzu\njit ven."
+ },
+ {
+  "gi": 78,
+  "si": 47,
+  "en": "{Sound:02:00}The boss might seem rough, but he's\na real softy at heart...",
+  "cz": "{Sound:02:00}Sef se muze zdat drsny, ale\nv srdci je to opravdovy mekoun..."
+ },
+ {
+  "gi": 78,
+  "si": 48,
+  "en": "{Sound:02:00}The boss is a real refined fella, right?\nAnybody what's smart can see dat!",
+  "cz": "{Sound:02:00}Sef je opravdu rafinovany chlap, ze?\nKazdy, kdo je chytry, to vidi!"
+ },
+ {
+  "gi": 78,
+  "si": 49,
+  "en": "{Sound:02:00}I would like to apprentice to the boss,\ntoo, but he barely even notices me...\nIt's so sad.",
+  "cz": "{Sound:02:00}Rad bych se ucil u sefa,\ntake, ale on me sotva vsima...\nJe to tak smutne."
+ },
+ {
+  "gi": 78,
+  "si": 50,
+  "en": "{Sound:02:00}They call him Punch Mutoh because he's\nlike a real punchy fella and all dat.",
+  "cz": "{Sound:02:00}Rikaji mu Punch Mutoh, protoze je\njako opravdovy udernicky chlapik a tak."
+ },
+ {
+  "gi": 78,
+  "si": 51,
+  "en": "{Sound:02:00}The boss is the number-one builder in\ntown. You need a building, you see him.",
+  "cz": "{Sound:02:00}Sef je nejlepsi stavitel ve\nmeste. Potrebujes budovu, jdi za nim."
+ },
+ {
+  "gi": 79,
+  "si": 0,
+  "en": "We do our best to make this a nice,\ncozy place, where people can relax.\nMy ideal cafe is a place where everyone\ncan just let it all hang out. Ah, yeah.",
+  "cz": "Snazime se ze vsech sil, aby to tu bylo\npekne utulne misto, kde mohou lide relaxovat.\nMa idealni kavarna je misto, kde se kazdy\nmuze proste uvolnit. Ach, jo."
+ },
+ {
+  "gi": 79,
+  "si": 1,
+  "en": "My ideal cafe is a place where everyone\ncan just let it all hang out. Ah, yeah.",
+  "cz": "Ma idealni kavarna je misto, kde se kazdy\nmuze proste uvolnit. Ach, jo."
+ },
+ {
+  "gi": 79,
+  "si": 2,
+  "en": "We hear all sorts of interesting gossip\nin here. Stop by from time to time.",
+  "cz": "Slychame tu vsechny mozne zajimave drby.\nZaskoc obcas."
+ },
+ {
+  "gi": 79,
+  "si": 3,
+  "en": "Make yourself at home...\nHeehee...",
+  "cz": "Citej se jako doma...\nHihi..."
+ },
+ {
+  "gi": 79,
+  "si": 4,
+  "en": "I am a laid-back, easygoing kind\nof guy. Not a care in the world.\nAnd that's just the way I like it!",
+  "cz": "Jsem v pohode, bezstarostny\nchlapik. Nic me netrapi.\nA takhle se mi to libi!"
+ },
+ {
+  "gi": 79,
+  "si": 5,
+  "en": "He who can enjoy a nice cup of\nsteaming hot tea at his leisure...\nis truly master of his own time.",
+  "cz": "Ten, kdo si muze v klidu uzit\npekny salek pareho horkeho caje...\nje opravdu panem sveho casu."
+ },
+ {
+  "gi": 79,
+  "si": 6,
+  "en": "Let me tell you something that\nmight come in handy someday.\nYou can move bookcases and stuff.\nTry to {Color:Blue}push and pull different things{Color:White}...\nAfter all, you're young! You should\nbe trying all kinds of new things! Ha!",
+  "cz": "Reknu ti neco, co se ti\nmozna nekdy hodi.\nMuzes hybat knihovnami a podobne.\nZkus {Color:Blue}strkat a tahat ruzne veci{Color:White}...\nKoneckoncu, jsi mlady! Mel bys\nzkouset vsechny mozne nove veci! Ha!"
+ },
+ {
+  "gi": 79,
+  "si": 7,
+  "en": "I'm one smart cookie!",
+  "cz": "Jsem jeden chytry kousek!"
+ },
+ {
+  "gi": 79,
+  "si": 8,
+  "en": "Cheers! Yaay! Cheers!\nRaise your milk for a toast!\nI wonder what I should have for\ndinner...",
+  "cz": "Na zdravi! Hura! Na zdravi!\nZvedni mleko k pripitku!\nZajimalo by me, co bych mela mit\nk veceri..."
+ },
+ {
+  "gi": 79,
+  "si": 9,
+  "en": "I wonder what I should have for\ndinner...",
+  "cz": "Zajimalo by me, co bych mela mit\nk veceri..."
+ },
+ {
+  "gi": 79,
+  "si": 10,
+  "en": "Everyone's so relaxed here.\nThat's a good thing.\nMy ideal cafe is a place where everyone\ncan just let it all hang out. Ah, yeah.",
+  "cz": "Vsichni jsou tu tak uvolneni.\nTo je dobra vec.\nMa idealni kavarna je misto, kde se kazdy\nmuze proste uvolnit. Ach, jo."
+ },
+ {
+  "gi": 79,
+  "si": 11,
+  "en": "My ideal cafe is a place where everyone\ncan just let it all hang out. Ah, yeah.",
+  "cz": "Ma idealni kavarna je misto, kde se kazdy\nmuze proste uvolnit. Ach, jo."
+ },
+ {
+  "gi": 79,
+  "si": 12,
+  "en": "Welcoooooome!\nNice to see you!",
+  "cz": "Vitejtee!\nRad te vidim!"
+ },
+ {
+  "gi": 79,
+  "si": 13,
+  "en": "Take a load off.\nHeehee...",
+  "cz": "Slozte se.\nHihi..."
+ },
+ {
+  "gi": 79,
+  "si": 14,
+  "en": "This is my special time...\n\nJust me and my cuppa joe.",
+  "cz": "Toto je muj zvlastni cas...\n\nJen ja a muj salek kavy."
+ },
+ {
+  "gi": 79,
+  "si": 15,
+  "en": "Well, I don't actually drink coffee...",
+  "cz": "No, ja vlastne kavu nepiju..."
+ },
+ {
+  "gi": 79,
+  "si": 16,
+  "en": "It seems the {Color:Green}king {Color:White}has commanded all of\nthe guards to search for magic power.\nFolks say that this \"{Color:Red}light force{Color:White}\" will\ngrant any wish, but I don't buy it...",
+  "cz": "Zda se, ze {Color:Green}kral {Color:White}narídil vsem strazcum,\naby hledali magickou silu.\nLide rikaji, ze tato \"{Color:Red}svetelna sila{Color:White}\" splni\nkazde prani, ale ja tomu neverim..."
+ },
+ {
+  "gi": 79,
+  "si": 17,
+  "en": "I know all kinds of stuff.",
+  "cz": "Znam vsechny mozne veci."
+ },
+ {
+  "gi": 79,
+  "si": 18,
+  "en": "Cheers! Yaay! Cheers!\nRaise your millk for a toast!\nCan't we just have the same thing for\ndinner tonight that we had last night?",
+  "cz": "Na zdravi! Hura! Na zdravi!\nZvedni mleko k pripitku!\nNemuzeme mit dnes k veceri\nto stejne, co jsme meli vcera?"
+ },
+ {
+  "gi": 79,
+  "si": 19,
+  "en": "I wonder if we can't just have the same\nthing for dinner we had last night...",
+  "cz": "Zajimalo by me, jestli nemuzeme mit\nk veceri to stejne, co jsme meli vcera..."
+ },
+ {
+  "gi": 79,
+  "si": 20,
+  "en": "{Sound:01:F8}This cafe is so busy. You can hear all\nsorts of stuff from all the people here.",
+  "cz": "{Sound:01:F8}Tato kavarna je tak rusna. Slychas tu\nvsechny mozne veci od vsech lidi."
+ },
+ {
+  "gi": 79,
+  "si": 21,
+  "en": "{Sound:01:F8}It's just right for people like us who\nthrive on the hustle and bustle, huh?",
+  "cz": "{Sound:01:F8}Je to akorat pro lidi jako my, kteri\nzili z ruchu a shonu, co?"
+ },
+ {
+  "gi": 79,
+  "si": 22,
+  "en": "{Sound:01:F8}It's hard not to get stepped on when\nthere are so many people here.",
+  "cz": "{Sound:01:F8}Je tezke nezuslapnout, kdyz je\ntu tolik lidi."
+ },
+ {
+  "gi": 79,
+  "si": 23,
+  "en": "{Sound:01:F8}And adults can't even see us, right?",
+  "cz": "{Sound:01:F8}A dospeli nas ani nevidi, ze?"
+ },
+ {
+  "gi": 79,
+  "si": 24,
+  "en": "Everyone's so relaxed here.\nThat's a good thing.\nMy ideal cafe is a place where everyone\ncan relax, relax, and relax some more.",
+  "cz": "Vsichni jsou tu tak uvolneni.\nTo je dobra vec.\nMa idealni kavarna je misto, kde\nkazdy relaxuje, relaxuje a relaxuje."
+ },
+ {
+  "gi": 79,
+  "si": 25,
+  "en": "My ideal cafe is a place where everyone\ncan relax, relax, and relax some more.",
+  "cz": "Ma idealni kavarna je misto, kde\nkazdy relaxuje, relaxuje a relaxuje."
+ },
+ {
+  "gi": 79,
+  "si": 26,
+  "en": "Hey there, sweety!\nWelcome!",
+  "cz": "Ahoj, sladucinky!\nVitej!"
+ },
+ {
+  "gi": 79,
+  "si": 27,
+  "en": "Just sit anywhere you like,\nheehee...",
+  "cz": "Posad se, kam chces,\nhihi..."
+ },
+ {
+  "gi": 79,
+  "si": 28,
+  "en": "Talking only to oneself...\n\nis an exercise in eloquent silence.",
+  "cz": "Mluvit jen sam k sobe...\n\nje cviceni v vymluvnem tichu."
+ },
+ {
+  "gi": 79,
+  "si": 29,
+  "en": "I wonder if that makes any sense...",
+  "cz": "Zajimalo by me, jestli to dava smysl..."
+ },
+ {
+  "gi": 79,
+  "si": 30,
+  "en": "The {Color:Green}king {Color:White}was always such a nice man,\nbut lately, he's been such a brute...\nI wonder what happened to him?\nHohoho...",
+  "cz": "{Color:Green}Kral {Color:White}byl vzdy tak prijemny muz,\nale posledne je takovy hrubian...\nZajimalo by me, co se mu stalo?\nHohoho..."
+ },
+ {
+  "gi": 79,
+  "si": 31,
+  "en": "Maybe a monster crawled in his skin and\nis parading around as the real {Color:Green}king{Color:White}!\nHohohoho!",
+  "cz": "Mozna mu vlezlo monstrum do kuze a\npochoduje kolem jako pravy {Color:Green}kral{Color:White}!\nHohohoho!"
+ },
+ {
+  "gi": 79,
+  "si": 32,
+  "en": "Cheers! Yaay! Cheers!\nRaise your milk for a toast!\nWould they even notice if I made the\nsame thing for dinner tonight?",
+  "cz": "Na zdravi! Hura! Na zdravi!\nZvedni mleko k pripitku!\nVsimli by si vubec, kdybych dnes\nk veceri udelala to stejne?"
+ },
+ {
+  "gi": 79,
+  "si": 33,
+  "en": "I wonder...\n\nWould they even notice if I made the\nsame thing for dinner tonight?",
+  "cz": "Zajimalo by me...\n\nVsimli by si vubec, kdybych dnes\nk veceri udelala to stejne?"
+ },
+ {
+  "gi": 79,
+  "si": 34,
+  "en": "{Sound:01:F8}Welcome back, honey!\nGood to see ya!",
+  "cz": "{Sound:01:F8}Vitej zpatky, zlaticko!\nRada te vidim!"
+ },
+ {
+  "gi": 79,
+  "si": 35,
+  "en": "{Sound:01:F8}The old lady in front of this house\ndrinks nothing but milk.",
+  "cz": "{Sound:01:F8}Stara dama pred timto domem\nnepije nic jineho nez mleko."
+ },
+ {
+  "gi": 79,
+  "si": 36,
+  "en": "Everyone's so relaxed here.\nThat's a good thing.\nA place you don't ever want to leave.\nThat's my idea of a good cafe.",
+  "cz": "Vsichni jsou tu tak uvolneni.\nTo je dobra vec.\nMisto, ze ktereho nikdy nechces odejit.\nTo je moje predstava dobre kavarny."
+ },
+ {
+  "gi": 79,
+  "si": 37,
+  "en": "A place you don't ever want to leave.\nThat's my idea of a good cafe.",
+  "cz": "Misto, ze ktereho nikdy nechces odejit.\nTo je moje predstava dobre kavarny."
+ },
+ {
+  "gi": 79,
+  "si": 38,
+  "en": "Welcome back, you!\nYou're my favorite customer!",
+  "cz": "Vitej zpatky!\nJsi muj oblibeny zakaznik!"
+ },
+ {
+  "gi": 79,
+  "si": 39,
+  "en": "So you've been good lately?\nGooood, heehee...",
+  "cz": "Tak ses posledne choval dobre?\nDobreee, hihi..."
+ },
+ {
+  "gi": 79,
+  "si": 40,
+  "en": "You can tell all of your deepest\nsecrets to a wall.\nThe wall will never talk back.",
+  "cz": "Muzes rict vsechna sva nejhlubsi\ntajemstvi zdi.\nZed nikdy neodpovi."
+ },
+ {
+  "gi": 79,
+  "si": 41,
+  "en": "But I've found if you talk to 'em right,\nwalls will give up all sorts of secrets!",
+  "cz": "Ale zjistil jsem, ze kdyz s nimi spravne\nmluvis, zdi vydaji vsechna mozna tajemstvi!"
+ },
+ {
+  "gi": 79,
+  "si": 42,
+  "en": "You're going to the {Color:Green}Royal Valley{Color:White}?\nI hear that place is haunted...\nBut there's a secret entrance that will\nget you there from {Color:Green}Hyrule Field{Color:White}.\nI mean, that's what I've heard.",
+  "cz": "Jdes do {Color:Green}Kralovskeho udoli{Color:White}?\nSlysel jsem, ze tam straci...\nAle je tam tajny vchod, ktery\nte tam dostane z {Color:Green}Hyrulske pole{Color:White}.\nTedy, to jsem slysel."
+ },
+ {
+  "gi": 79,
+  "si": 43,
+  "en": "That place is dark even in the daytime.\n\nAnd you know how ghosts love\nthe dark! Hohohoho...",
+  "cz": "To misto je tmave i pres den.\n\nA vis, jak duchove miluji\ntmu! Hohohoho..."
+ },
+ {
+  "gi": 79,
+  "si": 44,
+  "en": "Cheers! Yaay! Cheers!\nRaise your milk for a toast!\nHey, I know... Why don't we just have\nmilk for dinner?",
+  "cz": "Na zdravi! Hura! Na zdravi!\nZvedni mleko k pripitku!\nHej, vim... Proc nemame jen\nmleko k veceri?"
+ },
+ {
+  "gi": 79,
+  "si": 45,
+  "en": "Why can't we just have\nmilk for dinner?",
+  "cz": "Proc nemuzeme mit jen\nmleko k veceri?"
+ },
+ {
+  "gi": 79,
+  "si": 46,
+  "en": "{Sound:01:F8}Oh, hey there...\nGood to see you.",
+  "cz": "{Sound:01:F8}Och, ahoj...\nRad te vidim."
+ },
+ {
+  "gi": 79,
+  "si": 47,
+  "en": "{Sound:01:F8}We Minish all get along very well.",
+  "cz": "{Sound:01:F8}My Minish si vsichni dobre rozumime."
+ },
+ {
+  "gi": 79,
+  "si": 48,
+  "en": "Everyone's so relaxed here.\nThat's a good thing.\nA place where you're so familiar that\nyou don't even have to order.\nThat's my idea of a good cafe.",
+  "cz": "Vsichni jsou tu tak uvolneni.\nTo je dobra vec.\nMisto, kde jsi tak doma, ze\nani nemusis objednavat.\nTo je moje predstava dobre kavarny."
+ },
+ {
+  "gi": 79,
+  "si": 49,
+  "en": "A place where you're so familiar that\nyou don't even have to order.\nThat's my idea of a good cafe.",
+  "cz": "Misto, kde jsi tak doma, ze\nani nemusis objednavat.\nTo je moje predstava dobre kavarny."
+ },
+ {
+  "gi": 79,
+  "si": 50,
+  "en": "Howdy, hon.\nGlad to see you again.",
+  "cz": "Cau, zlaticko.\nRada te zase vidim."
+ },
+ {
+  "gi": 79,
+  "si": 51,
+  "en": "Aren't you looking manly now!\nHeehee...",
+  "cz": "Nevypadas ted muzne!\nHihi..."
+ },
+ {
+  "gi": 79,
+  "si": 52,
+  "en": "Actually, there is a VERY GOOD reason\nI cannot stand...\nWhat would you do if I told you that?",
+  "cz": "Vlastne je VELMI DOBRY duvod,\nproc nemohu stat...\nCo bys delal, kdybych ti to rekla?"
+ },
+ {
+  "gi": 79,
+  "si": 53,
+  "en": "What is truth?\n\nWhen we understand this, then we will\nconquer even time itself...",
+  "cz": "Co je pravda?\n\nKdyz tomu porozumime, pak\ndobyjeme i samotny cas..."
+ },
+ {
+  "gi": 79,
+  "si": 54,
+  "en": "The{Color:Green} source of the flow{Color:White}? Well, that's\neasy. It's talking about water!\nThe water flowing into {Color:Green}town {Color:White}and into\nthe {Color:Green}lake {Color:White}all comes from the same place.\nHohohoh...",
+  "cz": "{Color:Green}Zdroj toku{Color:White}? No, to je\nsnadne. Mluvi se o vode!\nVoda tekouci do {Color:Green}mesta {Color:White}a do\n{Color:Green}jezera {Color:White}prichazi vsechna ze stejneho mista.\nHohohoh..."
+ },
+ {
+  "gi": 79,
+  "si": 55,
+  "en": "If you're looking for the {Color:Green}source of\nthe flow{Color:White}...\nWell, you'd better make sure you're\nwell equipped is all I'm sayin'! Hohoho!",
+  "cz": "Pokud hledas {Color:Green}zdroj\ntoku{Color:White}...\nNo, radsi se ujisti, ze jsi\ndobre vybaven, to je vse, co rikam! Hohoho!"
+ },
+ {
+  "gi": 79,
+  "si": 56,
+  "en": "Cheers! Yaay! Cheers!\nRaise your milk for a toast!\nI wonder...do we even need to eat\ndinner at all?",
+  "cz": "Na zdravi! Hura! Na zdravi!\nZvedni mleko k pripitku!\nZajimalo by me...musime vubec\nvecerit?"
+ },
+ {
+  "gi": 79,
+  "si": 57,
+  "en": "I wonder...do we even need to eat\ndinner at all?",
+  "cz": "Zajimalo by me...musime vubec\nvecerit?"
+ },
+ {
+  "gi": 79,
+  "si": 58,
+  "en": "{Sound:01:F8}Welcome, sugar pie!",
+  "cz": "{Sound:01:F8}Vitej, sladka kolacku!"
+ },
+ {
+  "gi": 79,
+  "si": 59,
+  "en": "{Sound:01:F8}It's so convenient to live in a human\nhouse as a Minish.",
+  "cz": "{Sound:01:F8}Je tak vyhodne zit v lidskem\ndome jako Minish."
+ },
+ {
+  "gi": 79,
+  "si": 60,
+  "en": "Everyone's so relaxed here.\nThat's a good thing.\nA place where you can relax despite\nwhat's going on outside.\nThat's my idea of a good cafe.",
+  "cz": "Vsichni jsou tu tak uvolneni.\nTo je dobra vec.\nMisto, kde se muzes uvolnit i pres to,\nco se deje venku.\nTo je moje predstava dobre kavarny."
+ },
+ {
+  "gi": 79,
+  "si": 61,
+  "en": "A place where you can relax despite\nwhat's going on outside.\nThat's my idea of a good cafe.",
+  "cz": "Misto, kde se muzes uvolnit i pres to,\nco se deje venku.\nTo je moje predstava dobre kavarny."
+ },
+ {
+  "gi": 79,
+  "si": 62,
+  "en": "Heeeey!\nWeeeelcome!",
+  "cz": "Heeeej!\nVitejteee!"
+ },
+ {
+  "gi": 79,
+  "si": 63,
+  "en": "You're turning into a fine little man,\naren't you! Heehee...",
+  "cz": "Stavas se z tebe pekny mlady muz,\nco! Hihi..."
+ },
+ {
+  "gi": 79,
+  "si": 64,
+  "en": "Though I am nondescript, you notice me\nand talk to me.\nThat makes me the prize, and you\nare the winner of that prize!",
+  "cz": "I kdyz jsem neprime, vsimas si me\na mluvis se mnou.\nTo ze me dela cenu a ty\njsi vitez te ceny!"
+ },
+ {
+  "gi": 79,
+  "si": 65,
+  "en": "Someday, you will understand.",
+  "cz": "Jednou pochopis."
+ },
+ {
+  "gi": 79,
+  "si": 66,
+  "en": "I hear a guard who was looking for the\n{Color:Red}light force {Color:White}got thrown in the dungeon!\nWhy, the {Color:Green}king {Color:White}is hardly worthy of being\ncalled \"noble\" anymore!",
+  "cz": "Slysel jsem, ze strazce, ktery hledal\n{Color:Red}svetelnou silu{Color:White}, byl uvrzen do zalare!\nProc, {Color:Green}kral {Color:White}uz neni hoden byt\nnazyvan \"vznesenym\"!"
+ },
+ {
+  "gi": 79,
+  "si": 67,
+  "en": "But I should be careful, lest I be jailed\nmyself just for criticizing the {Color:Green}king{Color:White}!",
+  "cz": "Ale mel bych byt opatrny, abych\nnebyl uveznen za kritiku {Color:Green}krale{Color:White}!"
+ },
+ {
+  "gi": 79,
+  "si": 68,
+  "en": "Cheers! Yaay! Cheers!\nRaise your milk for a toast!\nIt's not like the world would come to an\nend if I didn't make dinner, right?",
+  "cz": "Na zdravi! Hura! Na zdravi!\nZvedni mleko k pripitku!\nNeni to, ze by svet skoncil,\nkdybych neudelala veceri, ze?"
+ },
+ {
+  "gi": 79,
+  "si": 69,
+  "en": "It's not like the world would come to an\nend if I didn't make dinner, right?",
+  "cz": "Neni to, ze by svet skoncil,\nkdybych neudelala veceri, ze?"
+ },
+ {
+  "gi": 79,
+  "si": 70,
+  "en": "Everyone's so relaxed here.\nThat's a good thing.\nA place where you could happily let the\nworld crumble around you.\nThat's my idea of a good cafe.",
+  "cz": "Vsichni jsou tu tak uvolneni.\nTo je dobra vec.\nMisto, kde bys mohl stastne nechat\nsvet rozpadat se kolem tebe.\nTo je moje predstava dobre kavarny."
+ },
+ {
+  "gi": 79,
+  "si": 71,
+  "en": "A place where you could happily let the\nworld crumble around you.\nThat's my idea of a good cafe.",
+  "cz": "Misto, kde bys mohl stastne nechat\nsvet rozpadat se kolem tebe.\nTo je moje predstava dobre kavarny."
+ },
+ {
+  "gi": 79,
+  "si": 72,
+  "en": "Hey there!\nDoin' well?",
+  "cz": "Cau!\nDari se?"
+ },
+ {
+  "gi": 79,
+  "si": 73,
+  "en": "We're counting on you, young man!\nHeehee!",
+  "cz": "Pocitame s tebou, mlady muzi!\nHihi!"
+ },
+ {
+  "gi": 79,
+  "si": 74,
+  "en": "Everything with a beginning\nalso has an end.\nTo put it another way, all things move\ntoward their end...\nEven from the moment they begin.",
+  "cz": "Vsechno, co ma zacatek,\nma take konec.\nJinymi slovy, vsechny veci se hybou\nke svemu konci...\nUz od chvile, kdy zacnou."
+ },
+ {
+  "gi": 79,
+  "si": 75,
+  "en": "The end is near.\nFor me, as well as for you.",
+  "cz": "Konec je blizko.\nPro me, stejne jako pro tebe."
+ },
+ {
+  "gi": 79,
+  "si": 76,
+  "en": "{Color:Green}Hyrule Castle{Color:White} is covered in darkness.\nThis is the end.",
+  "cz": "{Color:Green}Hrad Hyrule{Color:White} je zahalen temnotou.\nToto je konec."
+ },
+ {
+  "gi": 79,
+  "si": 77,
+  "en": "I never imagined something like this\nwould happen in my lifetime.\nI wonder if the {Color:Green}Picori {Color:White}will show up\nand help us once again...",
+  "cz": "Nikdy jsem si nepredstavoval, ze se\nneco takoveho stane za meho zivota.\nZajimalo by me, jestli se {Color:Green}Picori {Color:White}objevi\na pomohou nam zase..."
+ },
+ {
+  "gi": 79,
+  "si": 78,
+  "en": "Cheers! Yaay! Cheers!\nRaise your milk for a toast!\nI never knew that failing to make\ndinner would have such consequences!",
+  "cz": "Na zdravi! Hura! Na zdravi!\nZvedni mleko k pripitku!\nNikdy jsem nevedela, ze nepripravit\nveceri ma takove dusledky!"
+ },
+ {
+  "gi": 79,
+  "si": 79,
+  "en": "I never knew that failing to make\ndinner would have such consequences!",
+  "cz": "Nikdy jsem nevedela, ze nepripravit\nveceri ma takove dusledky!"
+ },
+ {
+  "gi": 79,
+  "si": 81,
+  "en": "Just try fusing {Color:Blue}Kinstone pieces{Color:White} with\nlots of people.\nThere are a lot of people out there\nlooking for someone to fuse with.",
+  "cz": "Proste zkus spojit {Color:Blue}kousky Kamene osudu{Color:White}\ns hodne lidmi.\nVenku je hodne lidi,\nkteri hledaji nekoho na spojeni."
+ },
+ {
+  "gi": 79,
+  "si": 82,
+  "en": "You'd be surprised to find who--and\nwhat--you can {Color:Blue}fuse Kinstones {Color:White}with!\nYeah, you've got a lot of fusing in\nyour future, pal...",
+  "cz": "Divil by ses, s kym--a s cim--\nmuzes {Color:Blue}spojit Kameny osudu{Color:White}!\nJo, ceka te ve tve budoucnosti\nspousta spojovani, kamo..."
+ },
+ {
+  "gi": 79,
+  "si": 83,
+  "en": "I recommend visiting {Color:Blue}places you've\nalready been{Color:White}.\nYou may then be able to fuse Kinstone\npieces in those places, you know?",
+  "cz": "Doporucuji navstivit {Color:Blue}mista, kde\njsi uz byl{Color:White}.\nMozna pak budes moct spojit kousky\nKamene osudu na tech mistech, vis?"
+ },
+ {
+  "gi": 79,
+  "si": 84,
+  "en": "You can get special items by fusing\n{Color:Blue}Kinstone pieces{Color:White}!\nDon't miss out on the opportunity!",
+  "cz": "Muzes ziskat specialni predmety spojenim\n{Color:Blue}kousku Kamene osudu{Color:White}!\nNeprijdi o prilezitost!"
+ },
+ {
+  "gi": 79,
+  "si": 85,
+  "en": "There's a {Color:Green}group of lovely young ladies\n{Color:White}visiting Hyrule...\nMaybe I'll get a chance to talk to them\nif I offer to fuse {Color:Blue}Kinstone pieces{Color:White}. Heh.",
+  "cz": "V Hyrule navstevuje {Color:Green}skupinka peknych\nmladych dam{Color:White}...\nMozna budu mit sanci s nimi mluvit,\nkdyz jim nabidnu spojeni {Color:Blue}kousku Kamene osudu{Color:White}. Heh."
+ },
+ {
+  "gi": 79,
+  "si": 86,
+  "en": "I hear there's a wall in {Color:Green}Minish Woods{Color:White}\nwith a spot for a {Color:Blue}Kinstone piece{Color:White}.\nI'm sure you can find other places\nwhere you can place Kinstone pieces.",
+  "cz": "Slysel jsem, ze v {Color:Green}Minish Lese{Color:White}\nje zed s mistem pro {Color:Blue}kousek Kamene osudu{Color:White}.\nUrcite najdes i jina mista,\nkam muzes umistit kousky Kamene osudu."
+ },
+ {
+  "gi": 79,
+  "si": 87,
+  "en": "Do you know of the {Color:Green}Goron Cave{Color:White}? It's a\ntunnel that the {Color:Green}Gorons {Color:White}are digging.\nAnd if you can get all the way to the\ncave's end and place a {Color:Blue}Kinstone{Color:White}...\nWell, why don't I just let you try it\nfor yourself!",
+  "cz": "Znas {Color:Green}Goronskou Jeskyni{Color:White}? Je to\ntunel, ktery {Color:Green}Goroni {Color:White}kopaji.\nA kdyz se dostanes az na konec\njeskyne a umistis {Color:Blue}Kamen osudu{Color:White}...\nNo, proc te nenechame, abys to\nzkusil sam!"
+ },
+ {
+  "gi": 79,
+  "si": 88,
+  "en": "I hear you can fuse {Color:Blue}Kinstone pieces{Color:White}\nwith the {Color:Green}ghost {Color:White}in the {Color:Green}Royal Crypt{Color:White}.\nOr at least so I hear. I'm too scared\nto find out for sure.",
+  "cz": "Slysel jsem, ze muzes spojit {Color:Blue}kousky Kamene osudu{Color:White}\ns {Color:Green}duchem {Color:White}v {Color:Green}Kralovske Kryptě{Color:White}.\nNebo aspon to jsem slysel. Mam moc\nstrach to ziskat jiste."
+ },
+ {
+  "gi": 79,
+  "si": 89,
+  "en": "You can't always just charge straight\nahead to new places in life, you know.\nYou need to go back to places you've\nalready been and reflect on things.\nWho knows? That quiet reflection may\ngive you a chance to {Color:Blue}fuse Kinstones{Color:White}!",
+  "cz": "Nemuzes vzdy jen utocit primo\nvpred na nova mista v zivote, vis.\nMusis se vracet na mista, kde jsi\nuz byl, a premyslet o vecech.\nKdo vi? Ta tiche uvaha ti muze\ndat sanci {Color:Blue}spojit Kameny osudu{Color:White}!"
+ },
+ {
+  "gi": 79,
+  "si": 90,
+  "en": "You know, fusing {Color:Blue}Kinstone pieces{Color:White} can\nget you more than mere {Color:Red}Rupees{Color:White}...\nIt can call new people to a place or\neven change the way the town looks.\nAnd all those things can lead\nto happiness as well, right?",
+  "cz": "Vis, spojovani {Color:Blue}kousku Kamene osudu{Color:White} ti muze\nprinest vice nez jen {Color:Red}rupie{Color:White}...\nMuze pritahnout nove lidi na misto nebo\ndokonce zmenit, jak mesto vypada.\nA vsechny ty veci mohou vest\ntake ke stesti, ze?"
+ },
+ {
+  "gi": 79,
+  "si": 91,
+  "en": "Are you enjoying fusing {Color:Blue}Kinstone\npieces{Color:White}?\nFusing can bring happiness to you and\nyour fusing buddy! That's what I say!",
+  "cz": "Bavi te spojovani {Color:Blue}kousku Kamene\nosudu{Color:White}?\nSpojovani muze prinest stesti tobe a\ntvemu spojovacimu kamaradovi! To rikam!"
+ },
+ {
+  "gi": 79,
+  "si": 92,
+  "en": "I wonder what happens if you fuse all\nof the Kinstones a person is holding...",
+  "cz": "Zajimalo by me, co se stane, kdyz spojis\nvsechny Kameny osudu, ktere clovek drzi..."
+ },
+ {
+  "gi": 79,
+  "si": 93,
+  "en": "{Color:Green}Hyrule Castle{Color:White} has fallen to the\ndarkness...\nI suppose this is no time to be fusing\n{Color:Blue}Kinstone pieces{Color:White}, is it?",
+  "cz": "{Color:Green}Hrad Hyrule{Color:White} padl do\ntemnoty...\nAsi ted neni cas spojovat\n{Color:Blue}kousky Kamene osudu{Color:White}, ze?"
+ },
+ {
+  "gi": 79,
+  "si": 94,
+  "en": "Nonsense! Maybe we need it now more\nthan ever before!\nFusing {Color:Blue}Kinstone pieces{Color:White} can bring\npeople happiness!\nThis is the true motive for fusing, my\nfriend! Not Rupees, but happiness!",
+  "cz": "Nesmysl! Mozna to potrebujeme ted vic\nnez kdy predtim!\nSpojovani {Color:Blue}kousku Kamene osudu{Color:White} muze prinest\nlidem stesti!\nToto je pravy motiv pro spojovani,\nmuj prateli! Ne rupie, ale stesti!"
+ }
+]

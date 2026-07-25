@@ -1,0 +1,2186 @@
+[
+ {
+  "gi": 9,
+  "si": 57,
+  "en": "Carlov's Peaceful Hyrule\nScenery Series No. 1",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 58,
+  "en": "Carlov's Peaceful Hyrule\nScenery Series No. 2",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 59,
+  "en": "Carlov's Peaceful Hyrule\nScenery Series No. 3",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 60,
+  "en": "With a boisterous crow and a cute\ncrest, these feathered friends\nare the most popular pets in Hyrule.\nThe baby chicks like small bugs.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 61,
+  "en": "This small ranch lies just outside\nHyrule Town. Father-and-daughter\nteam Talon and Malon run it, and they\nsell the finest milk in Hyrule!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 62,
+  "en": "The people who built the Wind Ruins.\nThey now live above the clouds,\nsuspended by their own magic ability\nto control the wind.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 63,
+  "en": "An old man plagued by an evil spirit.\nComing to his aid will bring you benefit\nin the end, so if you meet him, you must\nfind a way to help him.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 64,
+  "en": "Tingle (in green) and his twin younger\nbrothers Ankle (in purple) and Knuckle\n(in blue). They believe fusing Kinstones\nwill help them meet fairies, so they are\nrecording Kinstone data on their maps.\nDavid Jr. is not technically a relative.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 65,
+  "en": "The Hyrulean vegetables grown in their\nfields are exquisitely delicious.\nApparently, Brocco sells the best\nof their crops.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 66,
+  "en": "This Goron appears when you\nsuccessfully fuse certain Kinstone\npieces. He will sell you expensive,\nbut rare, Kinstone pieces.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 67,
+  "en": "Ghosts from the Royal Valley. The one\nin the blue cap is Spookter, and the\none in the red cap is Spekter. Spookter\ntries to be scary, but he's just not.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 68,
+  "en": "Appears in Minish dungeons.\nThey drop from the ceiling\nunexpectedly. They are slow, so take\nyour time, and defeat them one by one.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 69,
+  "en": "Appears in Minish roads {Symbol:0D} dungeons.\nThese monsters have sharp mandibles.\nHit them when they shoot these away.\nAvoid their attacks to get in close.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 70,
+  "en": "Appears in Minish roads.\nThey come out of the ground when they\nsense prey. If you get swallowed, you'll\ntake damage and get all dirty!\nWatch out, because when you're all\ndirty, Pestos will come after you.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 71,
+  "en": "Appears in dungeons.\nCovered in hard, spiny shells.\nFew attacks work on them. You have\nto flip them over to hurt them.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 72,
+  "en": "Appears in Castor Wilds.\nThey move when you put an arrow in\ntheir eye. No other attacks work.\nYou can always just let them pass...",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 73,
+  "en": "Appears in caves, etc.\nNormally stay underground. They'll pop\nout and spit seeds at you, but if you\nget to know 'em, they're not so bad.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 74,
+  "en": "Appears in the Wind Ruins.\nBuilt by the Minish for the Wind Tribe\nlong ago. They look like stone statues,\nbut if you get too close, they move!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 75,
+  "en": "Appears in various areas.\nThese bats live in dungeons and caves.\nTheir movement is unpredictable, so use\nranged weapons from a safe distance.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 76,
+  "en": "Appears in various areas.\nThis thieving fox preys upon travelers\nand merchants. He may not be strong,\nbut he will attack very quickly,\nso be careful.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 77,
+  "en": "Appears in the Royal Valley, etc. \nThese dark beasties are attracted to\nlight, and if they attack you, they\nmay suck your life away!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 78,
+  "en": "Appears in the Palace of Winds.\nThese mummies keep coming at you when\nyou attack. It's better to fight from a\ndistance if you want to avoid damage.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 79,
+  "en": "Appears in dungeons.\nHis hard shell protects him from swords,\nbut once he rolls into a ball, you can\nuse the {Color:Red}Gust Jar {Color:White}to draw him in.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 80,
+  "en": "Appears in dungeons.\nThey cling to walls and move quickly.\nNormal attacks may not work, but the\n{Color:Red}boomerang {Color:White}is pretty effective.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 81,
+  "en": "Appears in Castor Wilds.\nThese armor-clad soldiers are tough.\nUse your {Color:Red}shield{Color:White} and {Color:Blue}rolling{Color:White} skills to\nfind an opening in their defenses...",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 82,
+  "en": "Appears in the Palace of Winds.\nThese Dark Nut commanders are strong,\nbut if you relax and wait for your\nopening, you can still defeat them.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 83,
+  "en": "Appears in dungeons.\nThey move quickly to chase you once\nthey spot you. Your shield will block\nthem, but keep on your toes!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 84,
+  "en": "Appears in Veil Falls.\nThese tough Chuchus wear rocks on\ntheir heads. The rocks protect them\nfrom damage, so you'll have to find\na way to knock the rocks off before\nyou'll be able to destroy them.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 85,
+  "en": "Appears in various areas.\nThese guys move quickly and randomly.\nTrap them in a corner and take them\nout quickly.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 86,
+  "en": "Appears in the Royal Crypt.\nThey look like doors, but they're really\ntraps! If you get too close to one, it\nwill fall down on you!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 87,
+  "en": "Appears on Mount Crenel, etc.\nThese strange beasts hover on\npropeller-like leaves. You can pull\nthem out of the sky with your {Color:Red}Gust Jar{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 88,
+  "en": "Appears in various areas.\nTheir fronts are protected with metal\nmasks, but their backsides aren't! Pop\noff that mask for an easy battle.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 89,
+  "en": "Appears in dungeons.\nIf these guys grab you, they'll send\nyou back to the start of the dungeon.\nDodge them as they fall, then attack.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 90,
+  "en": "Appears in dungeons.\nIf these guys grab you, they'll send\nyou back to the start of the dungeon.\nWatch out when he attacks with others.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 91,
+  "en": "Appears in the Eastern Hills, etc.\nFive of them pop out at once. If you\nsmack each one as they pop out of the\nground, they're a piece of cake.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 92,
+  "en": "Appears in dungeons.\nThey often gather in groups in narrow\nareas. Once activated, they go a little\ncrazy. Take them out with arrows.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 93,
+  "en": "Appears in dungeons.\nThey float in the air and explode when\ntouched. Walk carefully, and you may\nescape unhurt...",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 94,
+  "en": "Appears in caves, dungeons, etc.\nDon't let them grab you: they'll eat\nyour shield if they hold you long\nenough. Swing your sword to escape.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 95,
+  "en": "Appears in caves, dungeons, etc.\nThis Rupee Like has a Rupee dangling\nfrom its head stalk. This clever lure\nattracts greedy and delicious heroes.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 96,
+  "en": "Appears in various areas.\nThey'll come straight for you if they\nspot you. Just swing your sword when\nthey charge at you.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 97,
+  "en": "Appears on Mount Crenel, etc.\nThese huge boulders come crashing\ndown from cliff walls. They fall in a\nrandom pattern, so watch your step!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 98,
+  "en": "Appears in the Palace of Winds.\nThey're not fast, but that iron ball is\na bruiser! Try to hit them after they\nswing the ball.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 99,
+  "en": "Appears in various areas.\nThey hide under common rocks and\ngrass. Be careful, because they can\npop out when you least expect it!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 100,
+  "en": "Appears in Minish Woods, etc.\nThey rush you on sight. They also\nblock head-on attacks with their\nspears, so circle around to attack.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 101,
+  "en": "Appears in various areas.\nThey fire arrows at you on sight.\nBlock these with your {Color:Red}shield {Color:White}and\nthen close in to attack.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 102,
+  "en": "Appears in the sky.\nThey swim through clouds like fish\nin water. Attack them in that brief\nmoment when they pop out!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 103,
+  "en": "Appears in Minish roads, dungeons,\netc. There are red and blue ones.\nThey may look small and weak, but\ntheir hard shells make them formidable.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 104,
+  "en": "Appears in Minish roads, dungeons,\netc. There are red and blue ones.\nThe blue ones are stronger and\nthrow things down on your head.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 105,
+  "en": "Appears in Deepwood Shrine.\nThese mushroom beasties scatter\nspores all over dungeons. When their\ncaps are red, they are invincible.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 106,
+  "en": "Appears in the Palace of Winds, etc.\nThey fire magic bolts from afar. Hit\nthem when they appear so they don't\ncast another spell!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 107,
+  "en": "Appears in the Palace of Winds.\nThey wield fire magic. Hit them when\nthey appear so they don't cast\nanother spell!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 108,
+  "en": "Appears in the Palace of Winds.\nThey wield ice magic. They're weak\nagainst fire, so attack with fire for a\nquick battle!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 109,
+  "en": "Appears in dungeons.\nThey float in midair. They won't hurt\nyou, but if you touch them, you won't\nbe able to use your sword for a while.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 110,
+  "en": "Appears in various areas.\nThere are red and blue ones. They've\nappeared in every Zelda game to date.\nThey spit rocks, so be careful!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 111,
+  "en": "Appears in... Well, we're not sure!\nThe legendary Golden Octorok. It can't\nbe confirmed, but they are said to\nshoot chunks of pure gold...",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 112,
+  "en": "Appears in... Well, we're not sure!\nThe legendary Golden Tektite.\nIts basic attack is the same,\nbut it has much more power.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 113,
+  "en": "Appears in... Well, we're not sure!\nThe legendary Golden Rope. It's much\nmore aggressive than the normal ones:\nit will attack you on sight.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 114,
+  "en": "Appears in various areas.\nThe black one is Crow. If you touch\nTakkuri, he will steal Rupees from\nyou, so be careful!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 115,
+  "en": "Appears in the sky.\nThey float on clouds. They don't move,\nbut they do throw lightning bolts.\nSteal their clouds with the {Color:Red}Gust Jar{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 116,
+  "en": "Appears in dungeons.\nBlue ones jump, and red ones throw\nbones. See what happens when you\nremove their heads with the {Color:Red}Gust Jar{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 117,
+  "en": "Appears in various areas.\nThey appear under rocks and grass.\nIf they grab you, you won't be able to\nmove. Swing your sword to get away.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 118,
+  "en": "Appears in various areas.\nChuchus come in many colors.\nEach color is a little different, but\nranged weapons work well against all.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 119,
+  "en": "Appears on Mount Crenel, etc.\nThey move by jumping long distances.\nTheir movement can be unpredictable,\nso attack them when they are still.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 120,
+  "en": "Appears in various areas.\nA trap with sharp blades. Some are\ntriggered by nearby intruders, while\nothers follow a set path.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 121,
+  "en": "Appears in Wind Ruins, Veil Falls.\nThese baddies move freely underground\nwhen attacking. You never know where\nthey will pop up, so keep your {Color:Red}shield{Color:White}\nraised and at the ready!",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 122,
+  "en": "Appears in Deepwood Shrine, etc.\nThis caterpillar moves in a zigzag\npattern. If you hit him on the nose, he\ngets upset and starts running around.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 123,
+  "en": "Appears in various areas.\nThese Chuchus project spikes from\ntheir bodies at the first sign of\ndanger. Try a well-placed bomb.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 124,
+  "en": "Appears in the Temple of Droplets.\nFrozen solid by the power of the Water\nElement. He's been frozen so long that\nhis hunger is unbearable.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 125,
+  "en": "Appears in Palace of Winds.\nFemales are larger than males.\nThey fly around the Palace of Winds,\npreying on adventurers.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 126,
+  "en": "This is a legendary Goron with a body\nbigger than a mountain. This Goron is\nso big, in fact, that no one has ever\nseen all of it at once.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 127,
+  "en": "Appears in Deepwood Shrine.\nA perfectly ordinary Chuchu. Though\nnot much of an enemy usually, they are\nterrifying to anyone Minish-sized.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 128,
+  "en": "Appears in the Cave of Flames.\nA Gleerok with a hard, rocky shell found\nin Mount Crenel. Hiding in lava, this\nbeast spews fire on everything it sees.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 129,
+  "en": "Appears in the Wind Ruins.\nConstructed by the Wind Tribe to repel\nintruders, this sturdy machine cannot\nbe destroyed by any external force.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 130,
+  "en": "Appears in the Temple of Droplets.\nAn ordinary blue Chuchu. Fighting him\nwhile Minish-sized is daunting, but just\ntry to avoid that electric attack.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 131,
+  "en": "These two became fast friends because\nof Smith and the king of Hyrule. Zelda\nwishes that the sometimes unreliable\n{Player} were just a wee bit stronger.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 132,
+  "en": "The Minish Ezlo, before he was cursed\nby Vaati. He is a famous Minish sage.\nEven among Minish inventors, he was\nrenowned for his amazing creations.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 133,
+  "en": "Appears in Dark Hyrule Castle.\nThis is the strongest Dark Nut, with a\ngood balance of attack and defense.\nThey will do anything to stop you.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 134,
+  "en": "The sorcerer Vaati took this form\nafter draining the power of the light\nforce from Princess Zelda. The evil\nbeams from his eyes are devastating.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 135,
+  "en": "Once Vaati's body has been shattered,\nthis dark form rises up, all that\nremains of the evil sorcerer. Only the\nsacred Four Sword can defeat him.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 136,
+  "en": "This is the embodiment of purest evil,\nthe final form of the power-mad Vaati.\nIts mind is consumed with a hunger for\ndestruction. Find its weakness.",
+  "cz": ""
+ },
+ {
+  "gi": 9,
+  "si": 137,
+  "en": "This strange red postbox has the\nability to fuse Kinstone pieces with\nyou. Some say there is really just a\nperson hiding inside it...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 0,
+  "en": "{Sound:00:91}Ew! What is that? Is that a\ncaterpillar? It's disgusting!\nHey, kid! I'll just let you\ntake care of this one!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 1,
+  "en": "{Sound:00:8D}What are you doing, talking to me at a\ntime like this! You've got work to do!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 2,
+  "en": "{Sound:00:8E}My word! It has spikes, it jumps...\nWhat can't it do!? Ah, such a bother!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 3,
+  "en": "{Sound:00:8D}Ahhhh! Watch your feet!! Such an\ninhospitable monster this is!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 4,
+  "en": "{Sound:00:8D}This must be another guardian,\nwouldn't you agree?\nHm... Knock him down, and he just gets\nback up again!\n{Player}! It's time to see if you\ncan knock him down for good!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 5,
+  "en": "{Sound:00:8D}{Player}! If you need my help, you\nknow where to find me!\nJust give me a shout, and I'll see\nwhat I can do to lend a...er...beak.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 6,
+  "en": "{Sound:00:92}{Player}, I would imagine that you can\ntake this thing out with ease now.\nJust remember everything I've\ntaught you!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 7,
+  "en": "{Sound:00:91}This weather's miserable! I think I'm\ncatching a cold...\nAh...ah...achoo!\n\nOh, don't worry about me, {Player}.\nI'm sure I'll be just fine... Sniffle...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 8,
+  "en": "{Sound:00:92}These sky-flying rays will be no match\nfor my {Color:Red}White Sword{Color:White}!\nI mean your {Color:Red}White Sword{Color:White}, {Player}!!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 9,
+  "en": "{Sound:00:91}Maybe I forgot to mention it,\nbut I'm not so good with heights...\nBut this thing would be a piece of cake\non land, am I not right?\nWell, no point worrying about that now!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 10,
+  "en": "{Sound:00:92}These Black Knights are\nin {Color:Green}Vaati{Color:White}'s service!\nExercise caution, {Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 11,
+  "en": "{Sound:00:8D}If we don't stop {Color:Green}Vaati{Color:White} here, {Color:Green}Princess\nZelda{Color:White}--and all of Hyrule--is done for!\nWe cannot allow that to happen,\n{Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 12,
+  "en": "{Sound:00:8E}So this is the true form\nof the {Color:Blue}sorcerer {Color:Green}Vaati{Color:White}!\nSo dark... So powerful... So evil!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 13,
+  "en": "{Sound:00:8E}{Player}, judging by the look in your\neyes, I'd say you've made up your mind!\nExcellent! Perhaps now, we are ready\nto face {Color:Green}Vaati{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 14,
+  "en": "{Sound:00:92}He's mad with power! He's nothing but\na swirling mass of raw chaos now!\nHe will consume everything and reduce\nthe world to darkness!\nIf we let him go now, he will engulf\nthe world in an eternal night!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 15,
+  "en": "{Sound:00:8D}What are you doing!? We've no\ntime for any of your nonsense!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 16,
+  "en": "{Sound:00:92}Waugh! What a hideous face!\n...It's no good, {Player}.\nWe tried to settle this peacefully, but\nsome people can't be reasoned with...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 17,
+  "en": "{Sound:00:8D}{Player}, save your breath!\nFight now and talk later!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 18,
+  "en": "{Sound:00:91}So this would be the {Color:Green}Deepwood\nShrine{Color:White} the Minish elder spoke of...\nHe...said something about there being\nmonsters inside, didn't he?\nHe-Hey now! No reason to be afraid or\nanything... I'll be waiting right here.\nNo, wait! What am I saying!? I'm not\nletting you leave me alone out here!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 19,
+  "en": "{Sound:00:91}Wow... It's hot in here! Come on!\nLet's not stand around wasting time!\nFind that {Color:Red}element{Color:White}, so we can\nget out of here!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 20,
+  "en": "{Sound:00:8E}Hm. To think the ruins were hidden\nwithin this cliff the whole time!\nWatch your step, {Player}. There\nmay be traps in here.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 21,
+  "en": "{Sound:00:8D}Who knew there'd be someplace like this\nbehind one of the town's fountains?!\nWell, let's get moving and see if we can\nfind that item those Minish mentioned.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 22,
+  "en": "{Sound:00:91}Urk... Owowow!! I just smacked my\nhip on something!\nWell, not my hip... My...whatever it\nis I have now... My brim? Whatever!\nThat old fool must just love sending\npeople on dangerous missions!\nAnd how did that {Color:Green}Librari{Color:White} get into\nthe {Color:Green}Temple of Droplets{Color:White}, anyway?\nI guess the answer lies up ahead.\nKeep moving, boy!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 23,
+  "en": "{Sound:00:91}Brrr...chatter chatter...\nI'm freezing in here...!!\nIf you don't find that {Color:Red}element {Color:White}quickly,\nI'm going to turn into a hatsicle!!\n{Sound:00:92}Hurry up, {Player}!\n",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 24,
+  "en": "{Sound:00:91}It may be the Royal Crypt, but graves\nare creepy, no matter whose they are!\nWhere are we supposed to go to meet\nthis {Color:Green}King Gustaf{Color:White} anyway?\nI'm not so sure I even want to anymore!\nCan we just go somewhere less creepy?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 25,
+  "en": "{Sound:00:8D}What an irritation! We find our way to\nthe very tops of the clouds...\nAnd now we have to go even higher\nto find a floating palace?\nI can't believe what a long way we've\ncome. And look how high we are!\nDon't look down, {Player}! And watch\nyour step! It's a long fall from here!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 26,
+  "en": "{Sound:00:91}How much farther do we have to go!?\nThis place goes on forever!\nAh, there's no point in complaining\nabout it. We must press onward!\nAfter all, how much more could there\nbe? Come on, {Player}! Let's go!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 27,
+  "en": "{Sound:00:8D}Whoa...!\n\nIs this really {Color:Green}Hyrule Castle{Color:White}? I can't\nbelieve it! What's happened here?\n{Color:Green}Vaati{Color:White}'s magic has grown more\npowerful than I'd imagined...\n{Sound:00:92}But the {Color:Green}king{Color:White} and {Color:Green}Zelda{Color:White} are in danger,\n{Player}! Let's go!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 28,
+  "en": "{Sound:00:92}These raindrops are like boulders of\nwater to us, kid! Watch out!\nIf one of them hits us, it'll sting\nsomething fierce!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 29,
+  "en": "{Sound:00:91}Hehehe! So, what do you think,\n{Player}?\n{01:0A}Pretty dark and spooky, isn't it?\nMakes you wanna cry, doesn't it?\n{01:01}What? You're...not scared?\nWell, good! Neither am I!\n{Sound:00:91}So, um... Come on, let's go...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 30,
+  "en": "{Sound:00:92}Wow! Look at the size of that waterfall!\nBeautiful! Simply beautiful, my boy!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 31,
+  "en": "{Sound:00:92}A stone door!\n\nSo! This was what they meant by all of\nthat \"{Color:Green}source of the flow{Color:White}\" business!\nWell, this waterfall certainly is the\nsource of all Hyrule's water.\nAccording to {Color:Green}King Gustaf{Color:White}, the final\n{Color:Red}element {Color:White}lies somewhere behind the falls.\nWe've dawdled long enough, {Player}!\nLet's go find that element!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 32,
+  "en": "{Sound:00:8D}What have we here? Some kind\nof vortex?\nWell, we seem to have hit a dead end...\nWhat shall we do from here?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 33,
+  "en": "{01:0A}... ...\n\n{01:01}Am I still alive?\n\n{01:0A}... ...\n... ...\n{01:01}{Sound:00:8D}{Player}!!\nWhat were you thinking, child!\nYou just reaped the whirlwind, as\nthey say! We could be dead right now!\n{01:0A}... ...\n... ...\n...{01:01}But I must admit, it did the trick!{Sound:00:8E}\nAre we...in the land above the clouds?\nThen {Color:Blue}there must be something{Color:White} here that\ncan lead us to the final {Color:Red}element{Color:White}!\nLet's go find it!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 34,
+  "en": "{Sound:00:8E}Now how do you build something\nlike this on top of a cloud?\nMaybe someone lives inside. If so,\nperhaps we could ask for the {Color:Red}element{Color:White}?\nIt's worth a shot, {Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 35,
+  "en": "{Sound:00:8E}So this perfectly normal-looking stone\nwas another {Color:Blue}portal{Color:White} to the Minish world!\nThere may be other {Color:Blue}rock portals{Color:White}. Keep\nyour eyes peeled, boy...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 36,
+  "en": "{Sound:00:8E}That's right! Even some human objects\nare {Color:Blue}portals{Color:White} to the Minish world!\nThose Minish may not look like much,\nbut they are quite crafty!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 37,
+  "en": "{Sound:00:8D}What? ...What is this?\nWhat's happened here!?\nThey've been turned to stone! All of\nthem! The minister...and the guards!\nEveryone in the castle, all just\nlike {Color:Green}Princess Zelda{Color:White}...\nThis can only be the work of that evil\nVaati! What cruelty. {Player}!\nWe must use the power of the sacred\n{Color:Red}Four Sword{Color:White} to {Color:Blue}undo this evil{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 38,
+  "en": "{Sound:00:92}Once you've pulled off their {Color:Blue}iron masks{Color:White},\nthose guys are no trouble whatsoever.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 39,
+  "en": "{Sound:00:92}Your sword won't make a dent in their\nthorny armor!\n{Color:Blue}Flip them over{Color:White} before you strike!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 40,
+  "en": "{Sound:00:8D}Don't panic, {Player}! {Color:Blue}Only one of\nthem is real!{Color:White} The rest are fakes!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 41,
+  "en": "{Sound:00:8D}With their {Color:Blue}stone masks{Color:White} on, these\nthings can put up quite a fight.\nIf you just unmask them, though, they\nwon't pose much of a threat.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 42,
+  "en": "{04:10:00}Hmn?! Hmmmmnnnn...\nAh, of course! How silly of me!{Sound:00:92}\nHey, my boy! {Color:Blue}Jump into that whirlwind{Color:White}\nover there for me!\nHeh heh heh... I wonder, is this a\ngreat idea or a terrible one?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 43,
+  "en": "{Sound:00:8D}Whoa! How about that?! Of all the\nplaces for them to hide a portal!\nYou've done well, my boy. Was that\nintuition? Or...just a lucky guess?{Sound:00:90}",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 44,
+  "en": "{Sound:00:90}Hmn? There's something fishy about\nthis area...\nI can't say exactly what, though...\nJust something weird in general...\nDon't you feel it?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 45,
+  "en": "{Sound:00:92}Whoa! So there WAS a portal\nhidden there!\nI knew I sensed something!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 46,
+  "en": "{Sound:00:8E}So, this must be {Color:Green}Castor Wilds{Color:White}...\n\nIt's a nasty, dank place, filled with\nswampland and mire...\nBut we know there's an {Color:Red}element{Color:White} waiting\nfor us somewhere in here, so...\nIn we go! Come on, {Player}!\nInto the muck with us!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 47,
+  "en": "{Sound:00:92}Now, that is one nasty-looking statue!\nThat {Color:Blue}eye{Color:White} has such an evil glower to it.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 48,
+  "en": "{Sound:00:92}There's only one thing to do here. Just\nbreak those pots that are in the way!\nStand in front of them and press {Key:Right}\nto {Color:Blue}lift them over your head{Color:White}.\nThen press it again to {Color:Blue}throw them{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 49,
+  "en": "{Sound:00:92}With this {Color:Red}small key{Color:White}, we should be able\nto open any locked door here!\nBut I should warn you, {Color:Blue}once you've\nused the key{Color:White}, {Color:Blue}it will vanish{Color:White} forever.\nTo use it, just stand in front of\na locked door and press {Key:Right}.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 50,
+  "en": "{Sound:00:92}Do you see that lever? I think you\nshould be able to {Color:Blue}pull it{Color:White}.\nJust stand in front of it and press {Key:Right}\nto grab it, then press {Key:DDown} to pull.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 51,
+  "en": "{Sound:00:92}Once you take hold of something with\n{Key:Right}, use {Key:Dpad} to {Color:Blue}push{Color:White} or {Color:Blue}pull{Color:White} it.\nThis is extremely important, so I hope\nyou take pains to remember it!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 52,
+  "en": "{Sound:00:92}Wow! Look at the size of that barrel!\n\nHm? Oh, right! Right! How silly of me!\nIt's not big{Symbol:16} {Color:Blue}we're just small{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 53,
+  "en": "{Sound:00:92}Wha--!? Hey, be careful, my lad!\n{Color:Blue}The barrel just moved{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 54,
+  "en": "{Sound:00:8E}What we need now is something to\nhold down this switch...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 55,
+  "en": "{Sound:00:90}Now what?\n\nUnless we find a way to travel by\nwater, we won't be going much farther.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 56,
+  "en": "{Sound:00:92}This must be what the humans who built\nthis mine used to get around in here.\nMaybe we should hop in.\n\nHm? What? After all this, you don't\nexpect me to believe you're scared!\nThere's nothing to be afraid of here!\nCome on, let's go!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 57,
+  "en": "{Sound:00:93}Sweet jumping jellyfish, that was awful!\nHey, kid, what are you smiling about?\nI knew it was madness to risk our lives\nin that rickety human contraption!\nFrom now on, let's just stick to our\nfeet! Well, I mean...your feet.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 58,
+  "en": "{Sound:00:91}Oh my! It looks really, REALLY\nhot in that lava!\nTrust me: falling into that would\nbe a bad idea. I'm sure you agree.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 59,
+  "en": "{Sound:00:8E}How interesting! So there was a {Color:Blue}portal{Color:White}\nhidden away in here, hm?\nWhenever you want me to shrink you\ndown, just hop up here and press {Key:Right}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 60,
+  "en": "{Sound:00:90}Phew...! We barely made it! I was\ncertain we'd run out of time!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 61,
+  "en": "{Sound:00:92}Hmn?! Did something just fall down,\nor was it just my imagination?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 62,
+  "en": "{Sound:00:91}What?! This floor is made out of ice!\n\nBe careful not to fall and freeze\nyour backside to the floor, {Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 63,
+  "en": "{Sound:00:92}Hm. It looks like something is frozen\ninside this block of ice...\n{Player}, why don't you go take a\nlook?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 64,
+  "en": "{Sound:00:92}Hey! The sunlight's shining through!\n\nAhhh... It's so nice and warm. I can\nfeel myself starting to defrost again.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 65,
+  "en": "{Sound:00:92}{04:10:00}Hey...!!\n\nWell done, {Player}!\nThis looks to be the {Color:Red}element{Color:White}, all right.\nBut what will we do?\n\nWe can't even touch it while it's\ntrapped in that ice...\nWe'll need to melt it off somehow...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 66,
+  "en": "{Sound:00:92}Of course! Sunlight! Once we get some\nsunlight in to melt the ice,\nthat {Color:Red}element {Color:White}will be as good as ours!\n",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 67,
+  "en": "{Sound:00:92}We did it, {Player}!\nNow we can take the {Color:Red}element{Color:White}!\nThat was a lot of trouble,\nbut we finally did it, and...\nWhat in blazes!?\n\nHey, something's not right here!!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 68,
+  "en": "{Sound:00:8D}What!? What's this?!\n\nThat stupid Octorok stole our {Color:Red}element{Color:White}!\n\nDon't just stand there! We've got to go\nget it! {Player}! Now!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 69,
+  "en": "{Sound:00:91}{Player}! Where are you?\nAre you still there under me?\nIt's so dark, I can't see my beak\nin front of my face!\nWatch your step! I don't want you\nto trip over anything...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 70,
+  "en": "{Sound:00:92}Oh my! There was a portal hidden\nin there?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 71,
+  "en": "{Sound:00:92}There's a fluffy cloud floating here.\nIt looks awfully comfortable.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 72,
+  "en": "{Sound:00:8E}That panel... I think if we stomped on\nit hard enough, it might flip over...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 73,
+  "en": "{Sound:00:92}There's a strong gale blowing here!\nTry not to get swept away!\nAnd hold on to your hat!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 74,
+  "en": "{Sound:00:92}Perhaps your sword could reflect the\nblasts coming from those statues.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 75,
+  "en": "{Sound:00:92}What in the world is that?!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 76,
+  "en": "{Sound:00:8E}Hmmm... Yes, yes... It certainly\ndoes look suspicious...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 77,
+  "en": "{Sound:00:91}Huh? Wha--? What in the world!?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 78,
+  "en": "{Sound:00:8F}My word! It's a treasure chest!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 79,
+  "en": "{Sound:00:8F}There seems to be a switch here!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 80,
+  "en": "{Sound:00:8F}Oh, a {Color:Red}Piece of Heart{Color:White}!\nWell, that IS useful.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 81,
+  "en": "{Sound:00:8E}So this is your house...\nWell, it seems like a nice place.\n...So, where's my room?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 82,
+  "en": "{Sound:00:90}So! This is your room? That makes it\nmy room, too, right?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 83,
+  "en": "{Sound:00:92}I sense something unusual here...\nIs it something hidden?\nI won't tell anyone, so come on!\nShow me!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 84,
+  "en": "{Sound:00:90}Why, this is the shopkeeper\nStockwell's house!\nYou can tell much about a person\nfrom the house he keeps, hm?\nIt's pretty unusual, even by Hyrulean\nstandards. It even has a pool!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 85,
+  "en": "{Sound:00:92}That mustachioed guy strikes me as\nsomewhat unreliable.\nThere's something fishy about this\nroom, too.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 86,
+  "en": "{Sound:00:90}Sniff sniff sniff! Mmmm, doesn't that\nsmell spectacular?\nPerhaps they give out free samples.\nI say, would you...ask for me?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 87,
+  "en": "{Sound:00:8E}There seem to be many interesting\nbooks in here...\n  {Color:Blue}Hyrule on 10 Rupees a Day{Color:White},\n  {Color:Blue}So Your Son Wants to Be a Hero{Color:White}...\n  {Color:Blue}It Could Be Verse!{Color:White}, by Percy, and\n  {Color:Blue}Rem's Anthology for Sleepless Nights{Color:White}.\nHmmm, they all look pretty good,\nbut which one to read first?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 88,
+  "en": "{Sound:00:92}Are you sure I look all right? I never\nknow what to wear to formal occasions.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 89,
+  "en": "{Sound:00:92}How tranquil...\nAnd those cows look so...delicious.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 90,
+  "en": "{Sound:00:92}Whoa! Did you see that cat looking\nat me?! I know it wants a piece of me!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 91,
+  "en": "{Sound:00:91}Waaah! That really startled me!\nEverything's scary when you're small!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 92,
+  "en": "{Sound:00:92}Hm? Whoa! It...blew up?\n\nHey, kid! Look at where that stone\nmarker used to be...\nThere's some strange {Color:Blue}symbol {Color:White}on the\nground.\nYes, of course{01:0A}... Why, this must be...\n\n{01:01}...Well, I haven't the foggiest, to be\nhonest. Hm...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 93,
+  "en": "{Sound:00:92}Hey! That stone marker crumbled! And\nthere's another of those {Color:Blue}symbols{Color:White}!\n...You know, no matter how many times\nI see that happen, it still rattles me.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 94,
+  "en": "{Sound:00:92}Hey! We've found another {Color:Blue}Wind Crest{Color:White}!\n\nNow we have one more point of travel\nwhen we use the {Color:Red}Ocarina of Wind{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 95,
+  "en": "{Sound:00:8E}Aha!! So that mysterious mark we've\nbeen seeing is a {Color:Blue}Wind Crest{Color:White}.\nIf you play the {Color:Red}Ocarina of Wind{Color:White}, Zeffa\ncomes to pick you up and fly you away.\nThat means we can have Zeffa carry us\nto any other {Color:Blue}Wind Crest{Color:White} we've seen.\nAre you following me, {Player}?\nDon't hurt your brain thinking about it.\nJust give it a try, and you'll see what\nI'm talking about.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 96,
+  "en": "{Sound:00:92}Hmn?!\nSay, look at that, {Player}!\nThere's a {Color:Red}book {Color:White}up on top of the\nbookcase!\nBut how are we going to get it? We\ncan't reach it, and we have no ladder.\nAnd I don't think just shaking the\nbookcase will make it fall, either.\nThis presents an interesting\nproblem, wouldn't you say?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 97,
+  "en": "{Sound:00:8D}Hey now! You can't just go waltzing\ninto people's homes like that!\nIf the owner isn't home, you'll just\nhave to come back later.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 98,
+  "en": "{Sound:00:92}Hm. This house appears to be empty...\nMaybe we shouldn't go in here.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 99,
+  "en": "{Sound:00:92}Hm? That's unfortunate...\nThey're not open yet.\nAh, well. We'll just have to come\nback later, won't we?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 100,
+  "en": "{Sound:00:8E}The door is shut.\nWe can't open it from this side{01:0A}...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 101,
+  "en": "{Sound:00:8D}Hey, you don't have any {Color:Red}Kinstone\npieces{Color:White}!\nHow can you fuse Kinstones if you\ndon't have any Kinstone pieces!?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 102,
+  "en": "{Sound:00:90}I don't think we can walk fast enough\nto cross this swamp.\nWe're going to have to find some way\nto get across safely...",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 104,
+  "en": "{Sound:00:92}Hey, kid! Why don't you take that {Color:Red}Cane\nof Pacci{Color:White} and fire it at that hole?\nI mean, you never know what'll happen\nuntil you try, right?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 106,
+  "en": "{Sound:00:91}Oooooog. I'm sure I've mentioned this\nbefore, but I'm no good with heights.\nWait, hold on... I think I see\nsomething down there!\nSigh... I guess that means we have to\ntake the plunge after all, hm?",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 107,
+  "en": "{Sound:00:92}Hmph! There's a {Color:Red}locked{Color:White} door here! See if\nyou can find a key to open it.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 108,
+  "en": "{Sound:00:92}That noise just now! What was that?\nSomething must have happened...\nBe careful, {Player}!!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 109,
+  "en": "{Sound:00:8E}Hmm! Yes, yes, yes! Why, it all makes\nsense now, doesn't it, boy?\n{Color:Green}Librari{Color:White} used these {Color:Red}flippers {Color:White}to swim to\nthe entrance to the {Color:Green}Temple of Droplets{Color:White}.\nSo, if you put these on, you should be\nable to swim, too! Remarkable!",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 110,
+  "en": "{Sound:00:8E}If I recall correctly, and I guarantee\nthat I do, my boy...\nI think Syrup said to stand in front of\na sleeping person and press {Key:Right}.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 111,
+  "en": "{Sound:00:8E}Now there's a puzzler...{01:0A}\n\n{01:01}I suspect there's not much more we can\ndo here right now. Let's press on.\nPerhaps we can work this from another\nangle later on.",
+  "cz": ""
+ },
+ {
+  "gi": 11,
+  "si": 112,
+  "en": "{Sound:00:8E}That hand is a real pain, {Player}.\n\nPerhaps one of those gizmos you carry\naround can do something to it!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 0,
+  "en": "{Sound:00:8D}What!? I haven't even had time to\nsettle in, and you're bothering me?\n{Color:Green}Deepwood Shrine{Color:White} lies, obviously enough,\ndeep in the heart of these woods!\nSo says my superior intuitive sense.\n{01:05}Now, get a move on!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 1,
+  "en": "{Sound:00:8E}This place is dangerous...\nThere are so many monsters.\n{01:06}Kid! Be careful!\n{01:05}You wouldn't want to let them hurt me!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 2,
+  "en": "{Sound:00:92}\"Check your surroundings to make\nsure there's nothing hidden!\"\nThat's the cardinal rule of\nadventuring! {01:07}So don't you forget it!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 3,
+  "en": "{Sound:00:92}Sometimes, a way will open for you\n{Color:Blue}when you are smaller{Color:White}.\nYou've got to try everything\nyou can, my boy!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 4,
+  "en": "{Sound:00:92}The {Color:Green}Minish {Color:White}are exceptionally tiny!\n\nThat means, when you're their size,\nyou can fit into some {Color:Blue}pretty tiny spots{Color:White}!\nThat includes places you couldn't\ngo at your normal size.\nThat's a pretty good tip, huh?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 5,
+  "en": "{Sound:00:8D}Hey, kid! Maybe now you'll have a little\nrespect for me, huh?\nThat's right! I can turn you tiny\nanytime you want!\n{01:0A}Well, that is, if there's a stump{01:01} or\nsome other kind of {Color:Blue}portal{Color:White} nearby...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 6,
+  "en": "{Sound:00:8E}Hm. We're not going to get anywhere\nif the Minish can't understand you{01:0A}...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 7,
+  "en": "{Sound:00:90}The {Color:Green}Minish {Color:White}certainly do seem to be\ncurious about the ways of humans...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 8,
+  "en": "{Sound:00:92}\"Don't ponder{Symbol:16} wander!\"\n\nDon't waste your time trying to\nthink things through too quickly.\nTake your time! Look around {Color:Green}Minish\nVillage{Color:White} and see what you can see!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 9,
+  "en": "{Sound:00:8E}A strange nut that will allow us to\nunderstand the Minish language{01:0A}...\n{01:01}The {Color:Red}Jingle Nut{Color:White}, did he say...?\nNo, wait... That's not it...\nAh, I remember now! It was the\n{Color:Red}Jabber Nut{Color:White}.\nThat's what it was... Come on, my boy!\nWe've got to find the {Color:Red}Jabber Nut{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 10,
+  "en": "{Sound:00:8E}So that {Color:Red}Jabber Nut{Color:White} was, uhh...\n\nYeah, the {Color:Green}Minish with\nglasses{Color:White} said,{01:0A} um...\nWas his name Feltari?\n\n{01:01}Anyway, we're supposed to go south\nuntil we find a house {Color:Blue}inside a barrel{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 11,
+  "en": "Once you've learned how to speak\nthe Minish language,\nwe'll be able to ask about the\n{Color:Red}sacred blade{Color:White}. {Sound:00:8D}Let's get to it!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 12,
+  "en": "{Sound:00:8E}Well? What are you waiting for? You\ncan understand their language, right?\nSo stop wasting time and find out\nabout that sacred blade!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 13,
+  "en": "{Sound:00:8E}So only the {Color:Green}Minish {Color:White}can repair\nthe {Color:Red}sword{Color:White}, hm?\nMaybe we should find out what the\nother {Color:Green}Minish {Color:White}know about that.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 14,
+  "en": "{Sound:00:8D}You've never actually seen the\n{Color:Green}Minish {Color:White}before, have you?\nAh, well, they are mostly good\nfolk. Yes{01:0A}...mostly...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 15,
+  "en": "{Sound:00:8E}If you have any hopes of reforging the\nsacred blade, do as the elder says.\nGo find the {Color:Red}Earth Element{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 16,
+  "en": "{Sound:00:8E}A Minish shrine filled with monsters?\n\n{Sound:00:8D}It sounds dangerous in there!{01:0A} We'd\nbetter be careful...\n{01:01}I mean, you'd better be careful!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 17,
+  "en": "{Sound:00:92}What? Don't tell me you're lost!\n\nListen, if you get lost, just {Color:Blue}examine\nyour surroundings{Color:White} closely...\nI'm sure you can find some kind\nof clue nearby.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 18,
+  "en": "{Sound:00:8E}We got through that monster-filled\nshrine and found the {Color:Red}Earth Element{Color:White}!\n{Sound:00:92}Great work, kid! You're doing a fine\njob! Thanks to my help, of course.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 19,
+  "en": "{Sound:00:8E}The Minish elder wanted us to speak\nwith him once we found that {Color:Red}element{Color:White}.\nThat's where we ought to go.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 20,
+  "en": "{Sound:00:8E}{01:0A}We need to learn how to reforge\nthe broken {Color:Red}sacred blade{Color:White}.\n{01:01}{Color:Green}We'll have to speak with the Minish\nelder {Color:White}about that, won't we?\n{Sound:00:8D}Well? What are you waiting for!? Evil\nwon't go vanquishing itself, you know!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 21,
+  "en": "{Sound:00:92}So we're supposed to meet a Minish\nblacksmith named {Color:Green}Melari{Color:White} on {Color:Green}Mt. Crenel{Color:White}?\nYou know, maybe we should stop in at\nthe town of Hyrule before leaving...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 22,
+  "en": "{Sound:00:8D}What's the matter? Are you lost?\n\nJust where do you think you're\ntaking us, anyway?\nLook at a {Color:Red}map {Color:White}or something! Just\npress START to see it.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 23,
+  "en": "{Sound:00:92}Have you ever visited Hyrule before?\n\nWhat? You have?\n...What's it like?\n{Sound:00:8D}Not that I... I mean, I've seen it\nbefore! Of course I have!\nI'm very well traveled. I just wanted\nto see...what you thought of it!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 24,
+  "en": "{Sound:00:8E}{Color:Green}Mount Crenel{Color:White} is a forbidding and\nrocky place with many steep cliffs.\nIt lies just west of {Color:Green}Hyrule Town{Color:White}.\n\nWe ought to equip ourselves in town\nbefore risking the journey.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 25,
+  "en": "{Sound:00:91}Aww...{01:0A}\n\n{01:01}I guess the festival that was going on\nhere in town has already ended.\nI really wanted to see that...{01:0A}\n\n{Sound:00:92}It must have looked quite different\nwhen the festival was going on, hm?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 26,
+  "en": "{Sound:00:92}Look at all these shops! This is so\ndifferent from {Color:Green}Minish Village{Color:White}!\nI-I-I... I can't decide where to\ngo next!\nCome on, my boy! Let's go shopping!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 27,
+  "en": "{Sound:00:92}Oh, don't tell me you've forgotten\nalready! What is WRONG with you?\nThe Minish elder told us to see {Color:Green}Melari{Color:White}\nup on {Color:Green}Mount Crenel{Color:White}.\n{Sound:00:90}But how do you suppose we're going to\nclimb that pile of rocks, anyway?{01:0A}",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 28,
+  "en": "{Sound:00:8E}Hmmm...{01:0A}\n\n{01:01}If the mountain is anything like those\nwoods, there will be monsters ahead.\n{Sound:00:90}I'm not really busting a seam to see\nthis {Color:Green}Melari{Color:White}, but...we have no choice.{01:0A}",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 29,
+  "en": "{Sound:00:8D}Oh, hey! I totally forgot!\n\nThat sword technique you learned from\nthe swordsman...\nThe {Color:Red}Spin Attack{Color:White}, that's what it's\ncalled, right? That is so incredible!\n{Sound:00:92}Do you think you could teach\nit to me sometime?\nHm?! Hey! Don't give me that look!\nI can do anything that you can do!\n{Sound:00:8D}Just give me some arms, and I'll\nshow you what's what!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 30,
+  "en": "{Sound:00:8E}A {Color:Blue}bean{Color:White} that {Color:Blue}grows{Color:White} when you {Color:Blue}pour water\n{Color:White}on it{01:0A}...\n{01:01}I guess it was a good idea to buy that\n{Color:Red}bottle{Color:White} from the Deku Scrub after all!\n{Sound:00:92}See, my boy? Listen to me,\nand you'll go far!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 31,
+  "en": "{Sound:00:90}Hrm... Where on {Color:Green}Mount Crenel {Color:White}is this\n{Color:Green}Melari {Color:White}the blacksmith, anyway?\n{Sound:00:92}Well, we know he's Minish, so try\nto keep your eyes peeled!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 32,
+  "en": "{Sound:00:92}Hey, kid! What's the matter?\nYou don't know which way to go?\nAt times like these, try everything you\ncan at spots that {Color:Blue}seem like dead ends{Color:White}!\nSometimes, you can find a way hidden in\nthe most unlikely of spots!\n...Um, sometimes.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 33,
+  "en": "{Sound:00:8E}Hmm... It seems there are {Color:Blue}two types of\nbean{Color:White} on Mount Crenel: blue and green.{01:0A}\n{01:01}If the color is different, I suppose how\nyou treat each one is different, too.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 34,
+  "en": "{Sound:00:92}Remember, we have to find our way to\nthe top of {Color:Green}Mount Crenel{Color:White}!\nOnce we're there, we'll start looking\nfor that {Color:Green}Melari{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 35,
+  "en": "{Sound:00:8D}Explain something to me, my boy...\nWhy are we just wandering around?\nWe're supposed to be scaling {Color:Green}Mount\nCrenel{Color:White} and looking for {Color:Green}Melari{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 36,
+  "en": "{Sound:00:92}Somewhere on {Color:Green}Mount Crenel{Color:White}, there's\na Minish blacksmith named {Color:Green}Melari{Color:White}!\nWe have to find him!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 37,
+  "en": "{Sound:00:8E}There are some strange creatures on\n{Color:Green}Mount Crenel{Color:White}...\nCreatures I've never seen before, and\nyour sword alone won't beat them!\nDon't give up hope, though! Try your\nother {Color:Red}items{Color:White} on them!\nWell...you don't need me to tell you\nhow to do your job.\nJust deal with those monsters, and\nI'll take care of everything else.{01:0A}",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 38,
+  "en": "{Sound:00:91}What?\nYou're lost again, aren't you?\nHave you bothered reading any of\nthose {Color:Blue}signs{Color:White} we've been seeing?\nYou really ought to study them. They\nmight have some useful information!\n...Not that I've been reading them\neither...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 39,
+  "en": "{Sound:00:92}Hey! Hurry up and find that {Color:Green}Melari{Color:White},\nso we can fix the sacred blade!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 40,
+  "en": "{Sound:00:8E}Have you noticed something odd about\nthe {Color:Green}Mountain Minish{Color:White}?\nThey're just a little different from\nthe Forest Minish, aren't they?\nThere seem to be many kinds of Minish,\njust as there are many kinds of human.\nAnd...many kinds of hat, too.\nMustn't forget the hats.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 41,
+  "en": "{Sound:00:92}These Mountain {Color:Green}Minish {Color:White}sure are\nhard workers!\nWe should work just as hard and sing\na spiffy little song, like they do!\nWhat do you think? Hey! Kid...?\nAre you still listening to me?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 42,
+  "en": "{Sound:00:8D}This isn't the time to idle about,\nyou lazy boy!\nWe have to go search for the {Color:Red}elements{Color:White}\nwhile Melari works on that sword!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 43,
+  "en": "{Sound:00:8E}So humans made this mine long ago?\n\nWell it's full of monsters now,\nkid, so watch your back!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 44,
+  "en": "{Sound:00:8E}Perhaps the humans who made this mine\nwill have left some things we can use...{01:0A}\n{01:01}After all, there's no reason to let\ngood wares go to waste.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 45,
+  "en": "{Sound:00:90}So we beat the fire monster and got\nthe second {Color:Red}element{Color:White}! Incredible!{01:0A}\n{01:01}Kid, you may just be some kind of\nhero or something!\n{Sound:00:8D}I knew I sensed potential in you!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 46,
+  "en": "{Sound:00:92}Oh, so I bet {Color:Green}Melari {Color:White}has finished with\nthat {Color:Red}sword{Color:White}. We should go pick it up!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 47,
+  "en": "{Sound:00:92}So how about that sword that {Color:Green}Melari{Color:White}\nfixed up for you, huh?\nI may be just a hat, but I can admire\ngood craftsmanship!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 48,
+  "en": "{Sound:00:8E}We must find the {Color:Green}elemental sanctuary{Color:White}\nto fill the sword with elemental power.\nI'd never have looked for the {Color:Green}elemental\nsanctuary{Color:White} in {Color:Green}Hyrule Castle{Color:White}, though!{01:0A}\n{01:01}You know how to get there, right?\nLet's go!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 49,
+  "en": "{Sound:00:92}So of the four {Color:Red}elements{Color:White}, we've got\nEarth and Fire...\nAnd now, we have the {Color:Red}White Sword{Color:White}\nto absorb their power!\nThat means the sacred blade's power\nhas almost been restored!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 50,
+  "en": "{Sound:00:91}Why do you look so confused? Don't you\nunderstand what's going on?{01:0A}\n{01:01}The {Color:Green}elemental sanctuary {Color:White}exists between\nthe human world and the Minish world.\nHere, let me explain with a little\nexample: in a ham sandwich...\nthe elemental sanctuary would be the\nham between the two slices of bread!\n...You've still got that look.\nDid I just make it more confusing?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 51,
+  "en": "{Sound:00:8D}So! We must infuse the {Color:Red}White Sword{Color:White}\nwith the {Color:Red}elemental power{Color:White}.{01:0A}\n{01:01}That means we must find the\n{Color:Green}elemental sanctuary{Color:White}.\nAnd the way we do that is... Um...\nWell, I'm sure we'll figure it out!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 52,
+  "en": "{Sound:00:92}I think that you and I may be the only\nones who can see the mystic doorway...\nWell, that's fine by me. That means\nno one will notice anything unusual!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 53,
+  "en": "{Sound:00:92}We just need to infuse the {Color:Red}sword{Color:White} with\nthe power of these two {Color:Red}elements{Color:White}.\nThen, the sacred blade will be\nnearly complete!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 54,
+  "en": "{Sound:00:92}Only two {Color:Red}elements{Color:White} remain!\n\nThey must be in the places marked on\nyour {Color:Red}map{Color:White} by the Minish elder!\nWhy don't we take another look at that\nmap? If memory serves me correctly...{01:0A}\n{01:01}There should be a mark out on the\nwesternmost edge of {Color:Green}Castor Wilds{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 55,
+  "en": "{Sound:00:92}So the {Color:Red}sacred blade{Color:White} has finally started\nto show us a portion of its power!\nIf we use this new skill of yours well,\nwe should be able to access new areas!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 56,
+  "en": "{Sound:00:92}If you're after the {Color:Red}elements{Color:White}, just\ncheck your {Color:Red}map{Color:White} by pressing START.\nI believe the elder of the Forest\nMinish marked the locations there.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 57,
+  "en": "{Sound:00:8E}Hrm... According to the map, we'll need\nto cross {Color:Green}Castor Wilds{Color:White}.{01:0A}\nThat unexplored region is where we\nmust go to find the next {Color:Red}element{Color:White}!{01:01}",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 58,
+  "en": "{Sound:00:90}The swamp covering {Color:Green}Castor Wilds{Color:White} looks\n{Color:Blue}impassable on foot{Color:White}. What will we do!?{01:0A}",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 59,
+  "en": "{Sound:00:92}{Player}, how long has it been since\nyou left home?\nYour grandfather must be worried.\nWhy don't you show your face at home?\nHe must have plenty of news to share\nwith you by now.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 60,
+  "en": "{Sound:00:90}Hnyaaaawn...{01:0A}\n\n{01:01}Mmmmnumumummm...\nEven I'm getting tired now...{01:0A}\nI guess I need a {Color:Red}wake-up mushroom{Color:White}\nor something to perk me up!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 61,
+  "en": "{Sound:00:92}Hoho! Well...\n\n{Sound:00:8E}The big lake spreading out to the west\nof Hyrule is {Color:Green}Lake Hylia{Color:White}.\nThe rich water that flows from it has\nfed the {Color:Green}Minish Woods{Color:White} for millennia.\nEvery day, you learn something new,\ndon't you, {Player}?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 62,
+  "en": "{Sound:00:8E}Well, I say! There seem to be a lot of\nMinish living in town, too...\nEven if they can't be seen, I'm sure the\nMinish make their presence known...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 63,
+  "en": "{Sound:00:92}So, about that {Color:Red}wake-up mushroom{Color:White} you\njust bought... It kind of, um...smells.\nCOUGH! COUGH!\n\n{Sound:00:91}I suppose that awful stink could pull\nanyone from the deepest slumber!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 64,
+  "en": "{Sound:00:90}Hey, {Player}. I've been up here for\na while, and I've been wondering...\nI know about hats now, but I don't\nknow much about Hyrulean shoes...\nWhere could we go to learn a little\nmore about that?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 65,
+  "en": "{Sound:00:8E}So about that old lady in the woods\nnamed {Color:Green}Syrup{Color:White} or something...\nDidn't she strike you as a little\nbit, well, strange?\nI'm confident that her {Color:Red}potions{Color:White} work\nas advertised, though.\nShe looks like someone who could whip\nup a mean magic brew...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 66,
+  "en": "{Sound:00:92}Once we cross {Color:Green}Castor Wilds{Color:White}, the\n{Color:Red}element{Color:White} should be easy to find.\nIf you forget where to go, just take\na look at your {Color:Red}map{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 67,
+  "en": "{Sound:00:8D}When you're crossing a swamp, you\nwant to be as swift as the wind...\nThere's no point in stopping to look\naround. Sightseeing is right out!\nWhat I'm trying to say is that I don't\nmuch relish the thought of a mud bath!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 68,
+  "en": "{Sound:00:92}That {Color:Blue}one-eyed stone{Color:White} statue in {Color:Green}Castor\nWilds{Color:White} looks like it's staring at us!\n...That eye really creeps me out.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 69,
+  "en": "{Sound:00:8E}Creepy {Color:Green}ruins{Color:White} standing on the far side\nof {Color:Green}Castor Wilds{Color:White}...{01:0A}\n{01:01}Maybe that's where the ancient people\nwho guarded the {Color:Red}element{Color:White} used to live.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 70,
+  "en": "{Sound:00:92}That {Color:Red}element {Color:White}is sure to be protected by\ntraps inside those ancient ruins!\n{Player}, be careful!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 71,
+  "en": "{Sound:00:8D}Don't just wander around aimlessly...\nThat's the quickest way to get lost!\nIf you do get lost, look at your {Color:Red}map{Color:White}\nimmediately to get your bearings.\nYou will find your way only if you know\nwhere you are AND where you're going.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 72,
+  "en": "{Sound:00:92}The next {Color:Red}element{Color:White} is near {Color:Green}Lake Hylia{Color:White}.\nNow, how are we going to get there?\nI wonder who might be able to help\nus out with something like that...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 73,
+  "en": "{Sound:00:8D}All we have to do is use the {Color:Red}Ocarina of\nWind{Color:White} to call Zeffa!\nIf we stand on a {Color:Blue}Wind Crest{Color:White} and call\nhim, he'll take us where we want to go!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 74,
+  "en": "{Sound:00:8D}Well, now that we've got this {Color:Red}Ocarina\nof Wind{Color:White}, shouldn't we try to use it?\nEven places we've seen before may hold\nnew surprises if we try flying there...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 75,
+  "en": "{Sound:00:8E}Well, I'd never have suspected it of\nthat {Color:Green}Minish elder{Color:White} in the {Color:Green}library{Color:White}...\nTo think he was an adventurer! And\nthat he visited the {Color:Green}Temple of Droplets{Color:White}!\nMaybe we should look up that {Color:Green}Librari{Color:White}\nand hear what he has to say.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 76,
+  "en": "{Sound:00:92}Hm. Now, how did {Color:Green}Librari{Color:White} get into\nthe {Color:Green}Temple of Droplets{Color:White}?\nI guess we'll just have to go visit\nhim at the library and ask.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 77,
+  "en": "{Sound:00:92}So, where in the library would any\nMinish folk live, anyway?\nMaybe those people who say the Minish\nexist \"{Color:Blue}only in stories{Color:White}\" might be right!\nHey! {Player}! What's that look for?\nDon't tell me you were one of...them?\nYou're kidding me! You're wearing a\nMinish person on your head, you oaf!\nI certainly hope you believe in us now!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 78,
+  "en": "{Sound:00:91}How did we get roped into running all\nover creation returning library books?\nI understand it's all just to learn\nhow to enter the {Color:Green}Temple of Droplets{Color:White},\n{Sound:00:8D}but this is hardly the sort of duty\nworthy of a great adventurer!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 79,
+  "en": "{Sound:00:8E}Minish people are very interested in\nhuman ways.\nI think they watch the people in\ntown very closely.\nThey've probably been watching you,\ntoo, without your knowing it.\nHey, {Player}, careful what you say\nand do when you think you're alone!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 80,
+  "en": "{Sound:00:8D}So there are three books that we're\nsupposed to return, right?\n{Player}, I'm sure you can handle it!\nDon't get me wrong! I'd love to help!\nBut I'm a great Minish sage! I don't\nunderstand your big, human ways!\n{Sound:00:8D}So...I'm counting on you!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 81,
+  "en": "{Sound:00:91}This really is starting to take valuable\ntime from our search for the {Color:Red}element{Color:White}!\n{Sound:00:92}But buck up, kiddo! We're almost\ndone, {Player}!!!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 82,
+  "en": "{Sound:00:92}I just can't figure out how {Color:Green}Librari{Color:White}\ngot into the {Color:Green}Temple of Droplets{Color:White}.\nI'm going crazy with curiosity!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 83,
+  "en": "{Sound:00:8E}You know, even these Minish living in\nthe town still have their own troubles.\nI feel like I've learned a lot here.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 84,
+  "en": "{Sound:00:92}The {Color:Green}Temple of Droplets{Color:White} holds the last of\nthe {Color:Red}elements{Color:White}, like the Minish elder said.\n{Sound:00:8D}So let's brace ourselves and do this!\nAre you ready, {Player}?!\n... ...{01:0A}\n{01:01}What?! What's that face for?\nYou don't want to brace yourself?! All\nright, fine! No bracing! Let's just go!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 85,
+  "en": "{Sound:00:92}Did you know the {Color:Red}flippers{Color:White} Librari gave\nyou let you {Color:Blue}dive {Color:White}as well as {Color:Blue}swim{Color:White}?\nThey're good for avoiding things when\nyou're in the water...\nAnd let's face it, if something hits you\nin the head while you're swimming...\nI'm going to be the one who gets\nthe worst of it.\nSo please, remember that. For my sake,\n{Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 86,
+  "en": "{Sound:00:92}Don't just wander around aimlessly...\nThat's the quickest way to get lost!\nIf you do get lost, look at your {Color:Red}map{Color:White}\nimmediately to get your bearings.\nYou will find your way only if you know\nwhere you are AND where you're going.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 87,
+  "en": "{Sound:00:92}That phantom we saw earlier... He said\nhe was {Color:Green}an ancient king of Hyrule{Color:White}.{01:0A}\n{01:01}What else do we know? The {Color:Red}element{Color:White} was\nnowhere to be seen in the {Color:Green}Wind Ruins{Color:White}.\nI guess we'll just have to go to\nthe place marked on our {Color:Red}map{Color:White}...\nBut first, you should infuse your\n{Color:Red}sword{Color:White} with that {Color:Red}element{Color:White}.\nWe must head for the {Color:Green}elemental\nsanctuary{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 88,
+  "en": "{Sound:00:92}It seems the king and the guards are\nnot be able to see it...\nBut the entrance to the {Color:Green}elemental\nsanctuary {Color:White}MUST be inside {Color:Green}Hyrule Castle{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 89,
+  "en": "{Sound:00:8D}{Player}! Aren't you forgetting\na little something?\nWe need to infuse your {Color:Red}sword{Color:White} with the\n{Color:Red}element {Color:White}that we worked so hard to get!\nAfter all, we certainly worked hard\nenough to get it. We ought to use it!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 90,
+  "en": "{Sound:00:8E}I suppose we'll have to try going\nto the point marked on the {Color:Red}map{Color:White}...\nWe have no other clues leading us to\nthe remaining {Color:Red}element{Color:White}, that's for sure.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 91,
+  "en": "{Sound:00:92}{Player}, there's only one\n{Color:Red}element{Color:White} remaining!\nOnce you've used the {Color:Red}sacred blade{Color:White} to\nfree Princess Zelda from her curse,\nperhaps you can ask her out on\na date or something.\n{Sound:00:8D}Don't worry, I'll be right there with you!\nYou will need my advice, after all!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 92,
+  "en": "{Sound:00:8E}Did you see that?\n{Color:Green}King Gustaf{Color:White} was calling us...{01:0A}\n{01:01}Perhaps we ought to visit the point\nmarked on our {Color:Red}map{Color:White}.\nIt may have been a dream, but I'm sure\nit will make sense if we go there.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 93,
+  "en": "{Sound:00:91}Uhh... Don't tell me the new path leads\nus {Color:Green}into a grave{Color:White}...?{01:0A}\n{01:01}That means {Color:Green}King Gustaf{Color:White} must really\nhave been a...a...\n{Sound:00:90}Whoa! I just got a chill down my seam!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 94,
+  "en": "{Sound:00:90}I haven't mentioned it up to now, but\nghosts and stuff like that...{01:0A}\n{01:01}{Sound:00:91}They really give me the heebie-jeebies.\n\nSo I'd rather not go into that grave if\nwe can avoid it at all...\nBut, {Player}, this doesn't seem\nto bother you very much...\nEither you're very much in control of\nyour fear...\nOr you haven't really registered what's\ngoing on here...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 95,
+  "en": "{Sound:00:92}Fine, fine!! {Color:Green}King Gustaf{Color:White} is waiting for\nus inside that crypt!\nAnd remember, it IS the Royal Crypt, so\nshow a little respect in there!\nGot that, {Player}?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 96,
+  "en": "{Sound:00:91}Sooo... Meeting a dead king means...{01:0A}\n\n{01:01}He must have had unfinished business\nin the world of the living.\nHe seemed awfully polite for a ghost.\nI expected...spookier, I suppose.\nWhat do you suppose he meant by all\nthat \"{Color:Green}source of the flow{Color:White}\" business?{01:0A}",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 97,
+  "en": "{Sound:00:92}\"{Color:Green}The source of the flow{Color:White}\"...\n\nIn other words, a place that the water\ncomes from, wouldn't you say?\nNow, ask yourself: {Color:Blue}where does all the\nwater{Color:White} in Hyrule {Color:Blue}come from{Color:White}?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 98,
+  "en": "{Sound:00:92}We only need to find one more {Color:Red}element{Color:White}.\n\nAnd while we don't know exactly where it\nis, we've got a good lead to follow!\nI'm sure we'll be on the right track if\nwe find Gustaf's \"{Color:Green}source of the flow{Color:White}\"!\n{Sound:00:8D}Let's go, {Player}!!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 99,
+  "en": "{Sound:00:90}Of course! The {Color:Green}source of the flow{Color:White}!\nHe meant {Color:Green}Veil Springs{Color:White}!\nI wonder what lies up ahead...\n\n{Sound:00:8D}Well, we know it's connected to the\n{Color:Red}element{Color:White}, so let's go, {Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 100,
+  "en": "What's happening to the {Color:Green}source\nof the water{Color:White}?\nThere shouldn't be anything but\nblue sky up there!\nWell, no point sitting around thinking\nabout it!\n... ...{01:0A}\n\n{01:01}Hey, I just realized something.{01:0A}\n\n{01:01}I'm starting to think...and talk...\na lot like you lately! What's with that?{01:0A}\n{01:01}{Sound:00:8D}I need to get my head straight!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 101,
+  "en": "{Sound:00:92}There must be {Color:Blue}something{Color:White} just beyond\n{Color:Green}Veil Springs{Color:White} that leads to the {Color:Red}element{Color:White}.\nWe're just one step away from being\nable to lift {Color:Green}Princess Zelda{Color:White}'s curse!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 102,
+  "en": "{Sound:00:8E}A world of clouds high above\nthe ground...\nI feel like I've seen it all now!\n\n{Player}, perhaps it would be\nbest if you didn't look down.\nOne false step and...{01:0A}\n{01:01}{Sound:00:90}I don't even want to think about it!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 103,
+  "en": "{Sound:00:92}Nothing but clouds, as far as the eye\ncan see!\nBut there's got to be a clue to the\nfinal {Color:Red}element{Color:White}'s location somewhere!\nKeep those eyes peeled, {Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 104,
+  "en": "{Sound:00:92}That tornado near {Color:Green}Veil Springs {Color:White}took us\nto this cloud world! Can you believe it?\nI don't know what awaits us next, \nbut I can't wait to find out!\n... ...{01:0A}\n{01:01}Hm? Hey, {Player}!!\n{Sound:00:8D}Don't get all scared on me now!\nShow me some spirit, lad!\nLet's enjoy ourselves!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 105,
+  "en": "{Sound:00:8E}The people who live on the clouds must\nknow something of the last {Color:Red}element{Color:White}!\nWe should certainly ask, at any rate!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 106,
+  "en": "{Sound:00:92}What is it, {Player}?\n\nWeren't we going to ask the wind folk\nhere about that last element?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 107,
+  "en": "{Sound:00:8E}We come all this way to the clouds, and\nwe have ANOTHER building to explore?\nAnd what's holding that thing up\nin the first place?\n{Sound:00:92}{Player}, walk very carefully up\nhere, you got that!?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 108,
+  "en": "{Sound:00:90}Wow, a {Color:Green}Palace of Winds{Color:White} atop a\nfield of clouds... How elegant.\nBut that's not our first concern.\nThe monsters here are pretty tough.\nWatch your footing, and make sure\nyou don't fall!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 109,
+  "en": "{Sound:00:92}So the last {Color:Red}element{Color:White} is in the deepest\nrecesses of the {Color:Green}Palace of Winds{Color:White}...\nWe've finally done it, {Player}!\n{Sound:00:8D}You know what you have to do now!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 110,
+  "en": "{Sound:00:92}Whoa!\n\nMaybe fighting the flow isn't what we're\nsupposed to be doing here...\nPerhaps we should just let it carry\nus along for a bit.\nIf you can't beat 'em, join 'em, right?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 111,
+  "en": "{Sound:00:92}{Player}! I'm overcome!\nWe've got all the {Color:Red}elements{Color:White} now!\nNow we can revive the {Color:Red}sacred blade{Color:White}!\n\nYou'll have {Color:Green}Princess Zelda{Color:White} back to\nnormal in no time!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 112,
+  "en": "{Sound:00:8D}This will go down in legend!\n\nTo think that I will witness the\nrebirth of the {Color:Red}sacred blade{Color:White}!\nI can barely contain myself! Quickly!\nQuickly! To the {Color:Green}elemental sanctuary{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 113,
+  "en": "{Sound:00:8E}The king and the guards must not be\nable to see it...\nBut the entrance to the {Color:Green}elemental\nsanctuary {Color:White}is right in the courtyard!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 114,
+  "en": "{Sound:00:8D}How...could he?! {Color:Green}Vaati {Color:White}will pay for this!{01:0A}\n\n{01:01}{Sound:00:92}{Player}! Now is the time to use the\ntrue power of the sacred {Color:Red}Four Sword{Color:White}!!\nYou can {Color:Blue}lift the curse{Color:White} from each of\nthese people, one by one!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 115,
+  "en": "{Sound:00:92}{Color:Green}Hyrule Castle{Color:White} has fallen into darkness.\n\nThis place is a den of evil for {Color:Green}Vaati{Color:White}\nand his beast minions now...\nI understand your haste, but it may\nbe wise to retreat for now...\nJust until we've prepared ourselves to\nface this challenge anew!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 116,
+  "en": "{Sound:00:8E}{Color:Green}Hyrule Castle{Color:White} has become a castle of\ndarkness now, and I fear for the {Color:Green}king{Color:White}.\n{Player}! You are the only one in all\nof Hyrule who can save those people!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 117,
+  "en": "{Sound:00:92}If Vaati is after the {Color:Red}light force{Color:White}, he\nwon't stop until he's drained {Color:Green}Zelda{Color:White}!\nI doubt she will be able to survive the\nextraction process...\n{Sound:00:8D}{Player}! We must hurry to the roof\nof {Color:Green}Hyrule Castle{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 118,
+  "en": "{Sound:00:92}We will get through this!\n\nWe have all of the techniques and\npower you've gained in your journey!\n{Sound:00:8D}And we have your wisdom and courage\nas well! {Player}! I believe in you!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 119,
+  "en": "{Sound:00:91}Hyrule Castle has grown dark...\nPerhaps this repulsive scene...\nis just a reflection of the evil lurking\nin the heart of my former student.\n... ...{01:0A}\n{01:01}Ah, what have I created?\nBut don't worry about me, {Player}!\n{Sound:00:8D}I know what we must do!!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 120,
+  "en": "{Sound:00:8D}We have no time!!\nWe must get to Princess Zelda!!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 121,
+  "en": "{Sound:00:8D}What are you doing talking to me!!\nWe have no time for this!!\nLet's go, {Player}!!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 122,
+  "en": "{Sound:00:8D}{Color:Green}Princess Zelda{Color:White}!\n{Player} and I are on the way!!\nWait for us! We're coming!!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 123,
+  "en": "{Sound:00:92}Well done, {Player}!\nI knew you could do it!!\nNow! Let's {Color:Blue}remove that curse{Color:White}\nfrom {Color:Green}Princess Zelda{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 124,
+  "en": "{Sound:00:92}Hold on just a little longer, Your\nHighness!\nCome on, {Player}! Hurry up and\nreturn {Color:Green}Princess Zelda{Color:White} to normal!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 125,
+  "en": "{Sound:00:92}It's been a long road, but we're\nalmost there. After all...\nThe sacred {Color:Red}Four Sword{Color:White} that you carry\nmust be able to remove the curse!\n{Color:Green}Princess Zelda{Color:White} will be restored!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 126,
+  "en": "{Sound:00:8D}It's dangerous here!\n{Player}!\nLet's get the princess to the\n{Color:Green}elemental sanctuary{Color:White} quickly!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 127,
+  "en": "{Sound:00:8E}Now that Vaati's power is fading,\nthis place is crumbling!\n{Sound:00:92}{Player}!! {Color:Green}Princess Zelda{Color:White}!!\nWatch your footing!!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 128,
+  "en": "{Sound:00:92}As soon as we take care of one\nproblem, another one comes up!\n{Player}, I'm sorry to have to\nsay this...\nBut you'll have to save your joyful\nreunion with {Color:Green}Zelda{Color:White} for another time.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 129,
+  "en": "{Sound:00:8E}It's nice taking in the view from up\nhere and all, but...\nI'm thinking maybe I should be a\nlittle higher up by now...\nWhat I'm trying to say here, kid, is...\nhave you been drinking your milk?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 130,
+  "en": "{Sound:00:8D}Hey, kid! Kid!\nSlow down a little!\nYou seem to have completely forgotten\nthat I'm on top of your head here!\nMan, I hate to think of how this is\ngoing to play out...{01:0A}",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 131,
+  "en": "{01:06}{Sound:00:90}ZZZZZ.......\n{01:02}Huh? Whuzza--! What?!\n{Sound:00:8D}What are you talking about?!\nMe? Sleeping? That's crazy!\n{01:06}{Sound:00:90}Mmmmnumumummm...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 132,
+  "en": "{Sound:00:92}Yes? What's the matter, m'boy?\n\nWhat? You were just checking up on\nme? What's that about!?!\nYou think I just sit on your head,\nwaiting at your beck and call?\n{Sound:00:8D}I can't believe it! Grumble, grumble...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 133,
+  "en": "{Sound:00:8D}Hey, kid! Could you lend me a hand?\n\n{Sound:00:8D}I've got a nasty back itch, and I can't\nreach it with my beak.\nCould you please scratch me\nright there?\nNo, up! Up! OK, now to the left!\nI said left!\n... ...{01:0A}\n{Sound:00:90}{01:02}{Color:Blue}Ohhh, sweet mercy!{Symbol:0B}{01:03}{01:04}{01:05}{01:04}{01:03}{01:02}{Color:White}\nThat's the stuff!\n{Sound:00:92}{01:01}Thanks, buddy! I owe you one!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 134,
+  "en": "{Sound:00:8D}Hey! Hey! Stop twirling around like that!\nYou're giving me the spins, kid!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 135,
+  "en": "{Sound:00:8E}Man, I could really go for a nice,\nhot bath right now...\n{Sound:00:92}Huh?! What's that?!\n{Color:Blue}You'd send me to the cleaners!?{Color:White}\n{Sound:00:8D}What makes you think you can treat\nme like common laundry, huh?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 136,
+  "en": "Mmmmnumumummm...\n\nCome on, please...\n{Color:Blue}Just five more minutes...{Color:White}\n{Sound:00:90}I promise I'll get up in five minutes...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 137,
+  "en": "{Sound:00:90}Mnyawwwn... I don't know why\nI'm so tired...\nI guess I just get a little bored sitting\nup here, watching you wander around.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 138,
+  "en": "{Sound:00:8D}Do you have to ask me about every\nsingle little thing?!\nJust figure it out for yourself,\nyou big baby!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 139,
+  "en": "{Sound:00:8D}Oh, NOW you need me?\n\nI was starting to think you'd forgotten\nthat I was even up here!\n...I was starting to get a little lonely.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 140,
+  "en": "{Sound:00:90}Mmmmnumumummm...\n\n{Sound:00:8E}Oh, I couldn't eat another bite...\nLet's take the rest home...\nWha--! Oh my! Was I talking in my\nsleep or something?\nHow odd...\n{Sound:00:90}Mmmmnumumummm...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 141,
+  "en": "{Sound:00:92}Ahem! You know, I don't take students\nvery often or anything...\nBut for you, I figured I could make an\nexception! Just a little one, you know.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 142,
+  "en": "{Sound:00:90}So hungry...\n\nRrrrrumble rumble...\n\n!!!\n{Sound:00:8D}That wasn't my stomach!!\nIt must have been the wind\nor something!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 143,
+  "en": "{Sound:00:8E}You're so energetic all the time...\n\nNot that I'm saying you're hyperactive\nor anything! I meant it as a compliment!\nLike...you've got a special talent for\nbeing WAY too peppy or something.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 144,
+  "en": "{Sound:00:92}Hmn? Huh?\n\nStrange... I thought a woman was\ncalling out to me just now...\nMaybe it was just my imagination.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 145,
+  "en": "{Sound:00:8E}What's up, {Player}?\nWhat can I do for yo--GURRK!\n{Sound:01:E4}Owowowow... I jutht bit my thung!\nDon't make me thpeak...\n{Sound:00:91}Jutht thort it out yourthelf!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 146,
+  "en": "You know...{01:0A}\n\n{01:01}{Sound:00:8E}I'm really suffering from lack of\nexercise up here...and I had an idea.\n{Sound:00:92}{Player}, why don't you climb onto\nmy head for a while?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 147,
+  "en": "{Sound:00:92}Hey, {Player}, why don't we just take\nthe rest of the day off?\nI'm just beat, I tell you...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 148,
+  "en": "{Sound:00:92}Hm?! Sniff sniff! Sniff sniff!\nDo you smell something...weird?\nOh! Oh my! I'm sorry, {Player}!\nYou see, I... I...\nI hid a little eggy snack in your hair\nabout a month ago, and...\nI completely forgot about it!\n{Sound:00:91}Oh, dear... It's quite disgusting!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 149,
+  "en": "{Sound:00:8E}You know, {Player}, your sword work\nreally has come a long way.\nYou remind me of a young me. When I\nwas your age, I was quite a swordsman!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 150,
+  "en": "{Sound:00:92}You know, your hair's always really\nmessy... A real rat's nest...\nAs long as I'm up here, no one will ever\nneed to know. You can thank me later.\nBut I recommend seeing your stylist\nbefore you next meet {Color:Green}Princess Zelda{Color:White}!\nMust look good for the ladies!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 151,
+  "en": "{Sound:00:90}Mmmmnumumummm...\n\nMnn? A test? Oh, no! I forgot to study!\n\nOh, wow! {Sound:00:8D}What time is it?! And what\nwas I dreaming about just now?\nMaybe I should go back to sleep and\ntry to figure it out...\n{Sound:00:90}Mmmmnumumummm...",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 152,
+  "en": "{Sound:00:8E}La lala lala!{Symbol:0B}\nWhat do you think, {Player}?{Sound:00:90}\nNice melody, isn't it?\n\nI just wrote it myself. I call it\n\"{Color:Blue}Live Long, Love Long{Color:White}\"!\nIt's just exploding with fiery romance!\nMakes your heart soar, doesn't it?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 153,
+  "en": "{Sound:00:8E}La lala lala!{Symbol:0B}\nWhat do you think, {Player}?{Sound:00:90}\nNice melody, isn't it?\n\nI just wrote it myself. I call it\n\"{Color:Blue}Live Long, Love Long{Color:White}\"!\nIt's just exploding with fiery romance!\nMakes your heart soar, doesn't it?",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 154,
+  "en": "{Sound:00:92}Well, it's almost time to bring all of this\nto a close, isn't it? I'm ready!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 155,
+  "en": "{Sound:00:92}{Player}! What's the matter?\nAre you nervous? That's no good!\nWe need you relaxed and ready! Take a\ndeep breath and exhale slowwwwly...\nJust stick to what you know, and I'm\nsure we'll come out just fine.",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 156,
+  "en": "{Sound:00:8E}{Player}, I know this may not be\na great time for it, but...\nI wanted to say thanks for everything\nyou've done. I'm very grateful for--\nHm? What? You're freaked out?\nYou're not used to me being nice!?\n{Sound:00:92}Fine, then! Forget I said anything!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 157,
+  "en": "{Sound:00:92}Hm... You know, I hadn't noticed,\nbecause I'm with you all the time...\nBut you've grown to be quite a powerful\nyoung lad.\n{Sound:00:8D}I just wanted you to know... Anyway,\nlet's get moving, {Player}!!",
+  "cz": ""
+ },
+ {
+  "gi": 12,
+  "si": 158,
+  "en": "{Sound:00:8E}We make a fine team, don't we? Why,\nI might just stay up here forever!\nAfter all, I've grown quite used to my\nlittle \"ringside seat\" to all the action!\nAnd you'd never have to worry about\ncombing that mess of a hairdo again!\n{Sound:00:92}What do you say to that, {Player}?",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 0,
+  "en": "{Sound:02:03}I planted a bean near my house,\nbut it just doesn't want to grow...",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 1,
+  "en": "{Sound:01:FA}Oh, did you want to {Color:Blue}fuse Kinstones{Color:White}?",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 2,
+  "en": "{Sound:01:FA}You're ready to quit? Well, OK...",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 3,
+  "en": "{Sound:01:F8}Hey, our Kinstones fit! I have a\nfeeling something good will happen.",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 4,
+  "en": "{Sound:02:03}Did you see that? Man, that {Color:Blue}bean{Color:White}\nis really something, isn't it?",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 5,
+  "en": "{Sound:01:F6}There's an old lady living out in the\n{Color:Green}woods{Color:White} who absolutely loves {Color:Red}mushrooms{Color:White}.\nAnyway, I hear she's working on some\nspecial kind of {Color:Red}potion{Color:White} or something.",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 6,
+  "en": "{Sound:01:F7}Wanna {Color:Blue}fuse Kinstones{Color:White}?\nLet's do it!",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 7,
+  "en": "{Sound:01:F6}Not interested...?\nWell, maybe next time!",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 8,
+  "en": "{Sound:02:05}We did it! Wow! I just know my luck's\ngonna turn around now!",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 9,
+  "en": "{Sound:01:FC}So I hear that {Color:Green}mushroom lady {Color:White}finished\nher new {Color:Red}potion{Color:White}. It's bright red.\nThat is one seriously nasty color\nfor a {Color:Red}potion{Color:White}. I'm not touching it!",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 10,
+  "en": "{Sound:01:FB}Have you seen that watery spot down\nto the south a bit?\nIs it just me, or is there something\nreally suspicious about that place?\nI can't quite put my finger on it,\nbut it weirds me out...",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 11,
+  "en": "{Sound:01:FD}What, you wanna {Color:Blue}fuse Kinstones{Color:White}?",
+  "cz": ""
+ },
+ {
+  "gi": 13,
+  "si": 12,
+  "en": "{Sound:01:FE}No? All right, then.\nWhatever.",
+  "cz": ""
+ }
+]

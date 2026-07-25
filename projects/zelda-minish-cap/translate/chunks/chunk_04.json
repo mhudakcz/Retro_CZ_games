@@ -1,0 +1,2186 @@
+[
+ {
+  "gi": 18,
+  "si": 82,
+  "en": "DEMO{Symbol:1F}2{Symbol:1F}02{Symbol:1F}022",
+  "cz": ""
+ },
+ {
+  "gi": 18,
+  "si": 83,
+  "en": "Ting along, tong along!{Symbol:0B}",
+  "cz": ""
+ },
+ {
+  "gi": 18,
+  "si": 92,
+  "en": "{Sound:02:0C}{04:10:00}Wow! That was fast work! But not so\nfast that I didn't finish your sword!\nHere, take a look! I call this new\nblade the {Color:Red}White Sword{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 18,
+  "si": 93,
+  "en": "Once you {Color:Blue}infuse it with the power of the\nelements{Color:White}, it will become a {Color:Red}sacred blade{Color:White}!\nThe forest elder no doubt told you\nthis part, but...\nIf you want to infuse the sword, you\nmust go to the {Color:Green}elemental sanctuary{Color:White}.\nThe {Color:Green}sanctuary{Color:White} is a strange realm,\ntrapped between two worlds.\nIt is the bridge between the Minish\nworld and the human world.\nThe doorway to the {Color:Green}sanctuary {Color:White}opens\nonly once every hundred years!\nYou'll find that door hidden\nwithin {Color:Green}Hyrule Castle{Color:White}.\nOnce the blade has been filled with\nthe power of the four {Color:Red}elements{Color:White},\nyou should be able to break the\ncurse on your princess.\nI know you can do it. After all, you\nmade short work of that human mine.\nLet me tell you about a shortcut you\ncan use to get down from the mountain.\nYou'll find it right in front of the\nentrance of the mine you just explored.\nJust follow that, and you'll be down\nin no time. Good luck!",
+  "cz": ""
+ },
+ {
+  "gi": 18,
+  "si": 94,
+  "en": "There's a simple way to get back to the\nfoot of the mountain...\nAll you have to do is go out through\nhere and jump off the cliff!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 1,
+  "en": "{04:10:07}{Sound:00:9B}Interesting. You're the last person\nI expected to find here.\nAnd just as I was wondering who could\nbe behind this, I find my old master...",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 2,
+  "en": "{Sound:01:E7}{Color:Green}Vaati{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 3,
+  "en": "{Sound:01:E9}And, as always, you are dressed in...\nheh heh heh...the shabbiest of rags.\nMy {Color:Blue}curses{Color:White} are not to be mocked. The\none I cast on you is most powerful.\nNo matter what power you wield, you\nwill never break it.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 4,
+  "en": "You haven't changed in the slightest.\n\nI should never have created that {Color:Red}cap{Color:White}.\nIt only fueled your insane desires!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 5,
+  "en": "Fool! A hat that grants the wishes of\nits wearer is a spectacular creation!\nThanks to you, I have gone from being\na meek, miniscule nothing to...\nthe greatest sorcerer alive!\n\nYou cannot stop me now, and\nI have you to thank for it!\nAccept this small gesture\nof gratitude from me.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 6,
+  "en": "Wait! {Color:Green}Vaati{Color:White}, wait!!!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 12,
+  "en": "That foul {Color:Green}Vaati{Color:White}! What could he be\nscheming now?\n{Player}... I feel I owe you an\nexplanation of what has happened.\nYou see, Vaati and I are both {Color:Green}Minish{Color:White}.\n\nI was once a famous sage and a\nrenowned {Color:Green}Minish {Color:White}craftsman.\nVaati was only a boy when I took him\non as my apprentice.\nBut...he became enchanted by the\nwickedness in the hearts of men.\nOne day, Vaati took a hat I made for\nthe humans--my pride and joy.\nIt granted the wishes of its wearer.\nHe put it on without permission...",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 13,
+  "en": "{Sound:01:E7}{04:10:07}Oh! What a vile form you've taken!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 14,
+  "en": "{Sound:00:9B}Vile? I am a sorcerer now, and my\npower is beyond compare!\nNo longer will I tire away as your\napprentice!\nNow, all shall call ME master!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 15,
+  "en": "{04:10:06}Why, Vaati? What are you plotting?",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 16,
+  "en": "This year, on the day that comes but\nonce a century, the portal opens.\nAnd when it does, I shall claim the\n{Color:Red}light force {Color:White}as my own.\nI will be transformed, perfect, and\nthere will be none who can stop me...",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 17,
+  "en": "GAAAAAA!!!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 18,
+  "en": "{04:10:07}Ah ha ha ha ha ha ha ha!\n\nTell me, how does it feel,\nmy {Color:Blue}sorcerer's curse{Color:White}?\nDo you see, Ezlo? I am truly your\nmaster now, and you cannot stop me.\nAnd with that, I must be leaving.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 19,
+  "en": "Wait! Wait, I tell you!\n{Color:Green}Vaati{Color:White}!!!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 20,
+  "en": "You know the legends, of course. The\ngifts the Picori gave the humans...\nWhat you call the {Color:Red}Picori Blade{Color:White} was\nthe first of those gifts. The second...\nWell, you call it {Color:Red}light force{Color:White}, but it is\na source of limitless magical power.\nIf {Color:Green}Vaati {Color:White}were to get it now, it would\nbe devastating.\nI came to the world of men hoping to\nstop Vaati, and I met you in the woods.\nBut it seems we won't be breaking\nthe curse on me anytime soon.\nHowever, with the sacred blade, we can\ncertainly restore {Color:Green}Princess Zelda{Color:White}.\nI'm sorry. All that has happened has\nbeen due to my own pride. My folly.\nI must rely on you, on your power,\nuntil we've put an end to Vaati.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 21,
+  "en": "Well, {Player}, enough fairy tales!\nWe must search for the next {Color:Red}element{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 22,
+  "en": "Vaati! What are you doing?",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 24,
+  "en": "Eh? What a strange feeling. I sensed\nsomething from the castle's direction.\nOr...was it just me?",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 25,
+  "en": "{Sound:00:A3}Hm? Who's there?!?\n\nWhat? Vaati! How did you get in here!?",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 26,
+  "en": "Uhn... What are you doing?!?",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 27,
+  "en": "{Sound:00:9B}Ah ha ha ha ha ha ha ha ha!{Sound:00:A7}",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 28,
+  "en": "{Sound:00:A9}It looks like you're all here. Very well.\nThe king of Hyrule has words for you.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 29,
+  "en": "{Sound:00:A3}You all know of the power the Picori\ngave to mankind, do you not?\nThe golden {Color:Red}light force{Color:White} of limitless\nmagical power...\nI want it!!! It is somewhere here in\nHyrule! Go now, and bring me this power!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 30,
+  "en": "Waste no time! Go forth at once, and\nbring me the {Color:Red}light force{Color:White}!\nFling anyone who refuses into the\ndungeon! Him and his family, too!\nI will tolerate no disobedience!\n\nNow, search high and low throughout\nthe lands of Hyrule!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 31,
+  "en": "Hmm... Maybe it's just the wind...\nBut I hope nothing bad has happened.\nAnyway, we need to look for the next\n{Color:Red}element{Color:White}.\nThe map says it should be\naround here somewhere...",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 32,
+  "en": "{Sound:00:AA}By the order of the king,\nnone shall pass!!\nNow! Begone with you!!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 33,
+  "en": "{Sound:00:AA}Hey, you!!\n\nNone may enter!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 34,
+  "en": "{Sound:00:AA}I have heard that this castle has\na {Color:Blue}secret entrance{Color:White}...\nIf you ever have need of it, you should\nlook for that {Color:Blue}entrance {Color:White}sometime...",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 36,
+  "en": "We are the {Color:Green}Tribe of the Winds{Color:White}.\n\nLong have we lived with the winds. We\nhave mastered them. Now, we join them.\nTogether, with the great winds at our\nbacks, we head for the skies.\nThose who come seeking our power must\nplay the {Color:Blue}notes{Color:White} Zeffa teaches.\nMay they lead you onward to\nthe power that you seek.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 37,
+  "en": "{Sound:00:91}I do believe this is where the\n{Color:Green}Tribe of the Winds{Color:White} once lived.\nHm... So they've left for the heavens,\nand taken their {Color:Red}element{Color:White} with them.\nIt looks like the {Color:Red}Wind Element {Color:White}is beyond\nour reach for the time being.\nWe have no choice but to press on.\nLet's get out of here.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 38,
+  "en": "{Sound:00:A3}Oh! {Player}! You have returned!\nAnd have you found the Picori?\nI see. And they want you to gather\nthe {Color:Red}four elements{Color:White}?\nWell, it seems I must rely on you once\nmore if we are to restore Zelda.\nPlease, you must forge the\nsacred blade anew, and quickly!\nI am counting on you, {Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 39,
+  "en": "{Sound:00:A9}Oh! {Player}! Tell me, have you\nbeen taking care of yourself?",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 40,
+  "en": "{Sound:00:AA}What's that, {Player}? His Majesty\nis in the room in back.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 41,
+  "en": "{Sound:00:A3}Oh! {Player}? You have returned!\nWelcome. Did you gather the elements?\nWhat? A {Color:Green}sanctuary{Color:White}, you say? Why, I've\nheard of no such thing in my castle!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 42,
+  "en": "{Sound:00:A9}Hmmm... A {Color:Green}sanctuary{Color:White}...\n\nYou know, I do recall a story my\ngrandmother once told me long ago.\nShe said she saw a {Color:Blue}doorway{Color:White} appear in\nthe {Color:Blue}palace courtyard{Color:White} as a child.\nIf this door does indeed open only once\na century, it may be open even now!\nAs with the Picori themselves, the door\nis visible only to the eyes of a child.\nWe might have walked past it recently\nand never even known it was there...",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 43,
+  "en": "{Sound:00:AA}A {Color:Green}sanctuary{Color:White}? No, I think I'd have seen\nsomething like that in the castle...",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 44,
+  "en": "{Sound:00:AA}A {Color:Green}sanctuary{Color:White}? Hm... The {Color:Green}minister{Color:White}'s fairy\ntales mention a sanctuary, I think...",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 45,
+  "en": "{Sound:00:92}{Player}, look!\nSee how that doorway glows?\nCould that be the door that\nleads to the {Color:Green}sanctuary{Color:White}?\nNobody in the castle seems able\nto see it but you and me...\nLet's go! Quickly!",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 46,
+  "en": "{Sound:00:A3}The doorway to the {Color:Green}elemental\nsanctuary{Color:White} is in the castle courtyard?\nAll we adults see is just another\nordinary wall... Incredible!\nPlease, just gather the remaining two\n{Color:Red}elements{Color:White} and repair the {Color:Red}sacred sword{Color:White}.\nI'm counting on you, {Player}.\nNever forget that.",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 47,
+  "en": "{Sound:00:A9}Oh, ho! The doorway was indeed in the\ngarden? My grandmother was right!\nWell, my family has always been known\nfor its honesty above all else.\nBut I still can't understand...\n\nWhy is it that children can see the\nPicori and the doorway, but I cannot?",
+  "cz": ""
+ },
+ {
+  "gi": 19,
+  "si": 48,
+  "en": "{04:10:07}{Color:Green}Vaati{Color:White}! What are you doing there?",
+  "cz": ""
+ },
+ {
+  "gi": 20,
+  "si": 1,
+  "en": "Wh-wh-what?!?",
+  "cz": ""
+ },
+ {
+  "gi": 20,
+  "si": 2,
+  "en": "{Sound:02:0E}{Color:Blue}...   ...   \n\nO young one...\n\nChild who seeks to aid\nthe princess of Hyrule...\nMy name is Gustaf...\n\nI was king of Hyrule, countless\nages ago.\nStand before me...\n\nOnly then will the path open\nto you.",
+  "cz": ""
+ },
+ {
+  "gi": 20,
+  "si": 3,
+  "en": "Hmph! Was that...just a dream?\nHe said he was a king of Hyrule.\nWait! Look at your {Color:Red}map{Color:White}, {Player}.\nThere's some kind of mark on it.\nHm. I guess that means it wasn't\na dream!\nWe should head there once we've\ninfused your sword with that {Color:Red}element{Color:White}.\nTo the {Color:Green}elemental sanctuary{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 21,
+  "si": 1,
+  "en": "{Sound:00:8E}Hmm-hmm... Let's see if I can't\nread that tablet for you...\n{Color:Blue}Fill your sword with power and walk\nover the glowing tile...{Color:White}\nHm... Perhaps it refers to those\n{Color:Blue}flashing spots on the floor {Color:White}around you.\nWell? What are you waiting\nfor? Try it, {Player}!",
+  "cz": ""
+ },
+ {
+  "gi": 21,
+  "si": 2,
+  "en": "{Sound:00:92}Hmm-hmm...\n\nIt seems that forging the {Color:Red}sacred blade{Color:White}\nsomehow opened the doorway!\nIt must lead to the room that holds\nthe secret of the {Color:Red}light force{Color:White}!\n{Player}, we must go inside!",
+  "cz": ""
+ },
+ {
+  "gi": 21,
+  "si": 3,
+  "en": "{Sound:00:92}So, when that {Color:Blue}beam hits those who have\nturned to stone, it will turn them back{Color:White}.\nYou've done it, {Player}!\nNow, you can rescue {Color:Green}Princess Zelda{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 21,
+  "si": 4,
+  "en": "{Sound:00:8E}So this is the {Color:Green}elemental sanctuary{Color:White},\nthen...\nThis is where we can {Color:Blue}infuse your blade\nwith the power of the elements{Color:White}...\nYes, there seems to be a pedestal for\nyour sword right in the middle there.",
+  "cz": ""
+ },
+ {
+  "gi": 21,
+  "si": 5,
+  "en": "{Sound:00:92}Whoa! You just {Color:Blue}split in two{Color:White}! So this\nis the {Color:Blue}power of the White Sword{Color:White}!\nI guess you can double yourself like\nthat anytime you see those panels...",
+  "cz": ""
+ },
+ {
+  "gi": 21,
+  "si": 6,
+  "en": "{Sound:00:8E}Hmmmm...\nThis inscription... It says...\n{Color:Blue}Focus power in your blade and\nstand on the glowing tile...",
+  "cz": ""
+ },
+ {
+  "gi": 21,
+  "si": 7,
+  "en": "{Sound:00:8D}Hey, where are you going, {Player}?!\nWe must go through the door we opened!",
+  "cz": ""
+ },
+ {
+  "gi": 21,
+  "si": 8,
+  "en": "{Sound:00:8D}Hey, {Player}, you've gone too far!\nJust step on those glowing panels!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 1,
+  "en": "{Sound:00:8E}Hmmm... How interesting... Look at the\nimages on the stained glass...\nI bet those pictures show us where\nthe {Color:Red}light force{Color:White} is hidden...",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 2,
+  "en": "{Sound:01:E8}{04:10:0E}Ah ha ha haaaa...\nEzlo, you really are too kind.\nFirst, you give me my {Color:Red}magic cap{Color:White},\nand then you guide me here!\nYou've been far too generous, but\nnow, I no longer have any use for you.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 3,
+  "en": "{Sound:01:E8}{04:10:0E}He ha ha ha ha... At last, I finally\nknow the location of the {Color:Red}light force{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 4,
+  "en": "{Sound:00:92}{Player}! Wake up! Can't you\nwake up, {Player}!?",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 5,
+  "en": "{Sound:00:8E}{Color:Green}Vaati {Color:White}disguised himself as the king\nto search for the {Color:Red}light force{Color:White}.\nWhen he learned of this place, he\nwaited for us to reforge the blade.\nIf that stained glass is accurate,\n{Color:Blue}Princess Zelda holds the light force{Color:White}!\nVaati will do whatever it takes to\nsteal that power from her!\nIf he succeeds, we may never be able\nto return the princess to normal!\nWe've wasted too much time, {Player}!\nWe must stop Vaati!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 12,
+  "en": "{Sound:01:E8}Ha ha ha!\nYou ARE persistent, aren't you?",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 13,
+  "en": "Heh heh heh heh heh heh...\n\nSo, you've come to stop my little\nceremony. Well, you're too late.\nA mere {Color:Blue}three more chimes of the bell{Color:White}\nwill bring the ceremony to its end!\nAnd with the third toll of the bell,\nI will become like a {Color:Green}god{Color:White}!\nAnd your precious {Color:Green}Princess Zelda{Color:White} will\nbe nothing more than cold, dead stone.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 14,
+  "en": "{Sound:00:92}There's no time! Quickly, {Player},\nto the roof!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 23,
+  "en": "{Sound:00:92}Did you hear that, {Player}?\nHurry! There are {Color:Blue}only two chimes left{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 34,
+  "en": "{Sound:00:92}Another bell has tolled...\n\n{Color:Blue}Just one more chime{Color:White}, and all our\nwork will have been for naught!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 37,
+  "en": "{Sound:00:8D}{Player}! No, it can't be! The bell has\nrung for a third time!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 45,
+  "en": "{Sound:01:E8}Hmph! Just a few more moments, and the\nceremony would have been complete.\nYou really are obsessed with stopping\nme, aren't you? Ah, very well.\nI have not yet drained all of the {Color:Red}light\nforce{Color:White} housed in Princess Zelda.\nBut what I have should suffice...\nI shall be transformed! Unstoppable!\nBut let me first attend to the pesky\nworms who would trifle with me...",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 46,
+  "en": "Hmph!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 47,
+  "en": "{04:10:00}{Sound:01:E9}I will have no more of you interfering\nwith my plans!\nLet me show you true power!!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 50,
+  "en": "{04:10:0E}{Sound:00:9B}Well, you seem to have some fight in\nyou. I commend your bravery.\nBut you will not survive...THIS!!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 52,
+  "en": "{04:10:0E}{Sound:00:9B}Grrrrr.....\nI am filled with a power that you cannot\nbegin to understand! Do you think that\npuny sword will save you from ME?!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 56,
+  "en": "{Sound:00:92}You did it! Impressive! Now, quickly!\nWe must break the curse on {Color:Green}Zelda{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 57,
+  "en": "What... What is this madness?\n\nI have the power of a god!\n\nI have unstoppable might!!!\n\nHow could I lose to a child?!?",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 67,
+  "en": "{Sound:01:E3}{Player}, thank you so much for\nsaving me.\nWhen I was turned to stone, I saw\nvisions of you, as if in a dream.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 68,
+  "en": "{Sound:01:DF}Oh! That {Color:Red}shield{Color:White}! I...remember it...\n\nYou still have it? That's so sweet!\nI knew I could count on you.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 69,
+  "en": "{Sound:00:90}It looks like the curse has been\nbroken. I'm glad we made it in time.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 70,
+  "en": "{Sound:00:8D}No! The castle's collapsing!\n\nIt's too dangerous here. Quickly!\nWe must escape from the castle!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 71,
+  "en": "{Sound:00:8D}Hrmm... The door is blocked! We have no\nchoice... Head back to the {Color:Green}sanctuary{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 72,
+  "en": "{Sound:00:8D}So, {Player}! Now that you have the\npower of the {Color:Red}Four Sword{Color:White}...\nyou must return {Color:Green}Princess Zelda {Color:White}to\nnormal!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 78,
+  "en": "{Sound:00:9B}{Player}! And you, Ezlo!\n\nI will not let you escape this place\nalive...\nWitness the power of Vaati's Wrath!\nI have transcended! I am all there is!\nAllow me to give you a taste of pure\npower, of unstoppable might!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 79,
+  "en": "{Sound:01:E8}Heh heh heh heh...\nYou will not escape, boy.\nNow, you will see the true power of\nthe {Color:Red}light force{Color:White}...\nFor I have become Vaati,\nthe master of this world!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 81,
+  "en": "{04:10:07}Fool! I... But the {Color:Red}light force{Color:White}...\nMy power... I had such power...",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 89,
+  "en": "{Sound:01:E3}{Player}, thank goodness you're\nsafe...\nYou defeated Vaati...\nYou were so brave!\nBut we've lost so much...\nThe castle... All those people...",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 90,
+  "en": "{Sound:01:E7}What's this?\n\nThe curse... Defeating Vaati seems to\nhave broken the curse he cast upon me!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 91,
+  "en": "{Sound:01:E6}Allow me to introduce myself\nto you, Princess Zelda.\nMy name is {Color:Green}Ezlo{Color:White}, master of Minish\nlore and sorcery.\nThe mage's cap was my creation.\n\nBut its limitless power has caused\nnothing but trouble for your kind.\nIs there any way you can forgive me?\n\nI know many have fallen, and much of\nthe castle has been destroyed...\nBut it is too soon to give\nin to despair.\nThe curse on me is broken, and Zelda\nstill possesses some of the light force.\nPerhaps, together, we can do\nsomething to make things right.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 92,
+  "en": "{Sound:01:E6}If one with a just heart wears this\ncap, things can be made right again.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 93,
+  "en": "{Sound:01:E5}Princess Zelda!\nLet your wishes be made real!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 94,
+  "en": "{Sound:01:E6}Hmm-hmm!\n\nThe hat is falling apart. It's\noverflowing with the power of life!\nThe hat has the power to turn the\nthoughts of its wearer into reality.\nVaati's heart was filled with evil, and\nthat was reflected in what he became.\nBut it seems that Zelda's pure heart,\ncoupled with the hat's power...\n...has created a miracle!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 95,
+  "en": "{Sound:01:E6}Hmm... It looks like the time for us\nto part has come.\nThe Minish Door opens but once every\ncentury, and soon, it must close.\nI must leave you both now and return\nto my homeland.\nI know I've caused you much suffering,\nbut the evil one's power has withered.\nThe power of Princess Zelda herself\nhas restored the light to Hyrule.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 96,
+  "en": "{04:10:00}Well, {Player}, my journey with you\nhas been exciting, to say the least.\nIn fact, I'm...more than just a little\nsad that we must part ways now.",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 97,
+  "en": "{04:10:00}Please, accept this...",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 98,
+  "en": "Heh... You know, I've never actually\nseen you wearing a cap until now!{09:78}\n{Sound:01:E6}It suits you, little hero.\n{09:78}",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 99,
+  "en": "Take care...\n{09:78}",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 100,
+  "en": "{Sound:01:E0}{04:10:0E}Look! The castle! All the people who\nhad been turned to stone!\nThey're all back to normal!",
+  "cz": ""
+ },
+ {
+  "gi": 22,
+  "si": 101,
+  "en": "Farewell, my friend...\n{09:78}",
+  "cz": ""
+ },
+ {
+  "gi": 23,
+  "si": 1,
+  "en": "{Sound:02:0E}...   ...\n\n{Color:Blue}O young one...\n\nChild who seeks to rescue my\ndescendant, Zelda...\nWelcome...\n\nMy name is {Color:Green}Gustaf{Color:Blue}. I was king of\nHyrule countless ages ago...",
+  "cz": ""
+ },
+ {
+  "gi": 23,
+  "si": 2,
+  "en": "{Color:Blue}I grant to you this {Color:Red}Kinstone{Color:Blue}...\n\nSeek the {Color:Green}source of the flow {Color:Blue}in Hyrule...\n\nOnly then will your path open...\n\nSave {Color:Green}Zelda{Color:Blue}...\n\nAll of Hyrule is counting on you...",
+  "cz": ""
+ },
+ {
+  "gi": 23,
+  "si": 3,
+  "en": "{Sound:00:8E}Hmm... Fascinating! An ancient\nking of Hyrule? How strange...\nAnd the {Color:Green}source of the flow{Color:White}?\nWhat do you suppose that could mean?",
+  "cz": ""
+ },
+ {
+  "gi": 23,
+  "si": 5,
+  "en": "Let fools tarry here while\nthe true hero moves forward...\nThe truth is not seen by the eye,\nyet it makes itself known.",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 2,
+  "en": "I love working in my garden. It makes\nme feel so close to nature...\nAnd sometimes, just sometimes, I dig up\na {Color:Red}Kinstone {Color:White}from the ground!",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 3,
+  "en": "What's up there, bud? You sayin' you\nwanna match {Color:Red}Kinstone pieces{Color:White}?",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 4,
+  "en": "What? Not interested?\nAll right, that's cool.",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 5,
+  "en": "Well, look at that! A perfect fit!",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 6,
+  "en": "Hmn? Hey, did you just feel\nthe earth move?",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 7,
+  "en": "Thanks, pal! I feel like a lean,\nmean, earth-tillin' machine!",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 13,
+  "en": "Rock and roll! I dug up another\n{Color:Red}Kinstone piece {Color:White}from my field!\nThat rocks!",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 14,
+  "en": "Wanna {Color:Blue}fuse Kinstone pieces{Color:White}?\nYeah, rock n' roll!",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 15,
+  "en": "Boo! You know what you get for\nquitting on me? You get a BOOO!",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 16,
+  "en": "Fits like a chip off the ol' rock!\nOh, rock and rolllll!",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 17,
+  "en": "Rock, rock, rock and roll!",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 24,
+  "en": "Welcome to Mount Crenel.\nI am the {Color:Green}Great Butterfly Fairy{Color:White}.\nI shall increase the size of the\n{Color:Red}wallet{Color:White} you carry.",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 25,
+  "en": "Welcome to Mount Crenel. I am the\n{Color:Green}Great Mayfly Fairy{Color:White}.\nI shall increase the size of the \n{Color:Red}bomb bag{Color:White} you carry.",
+  "cz": ""
+ },
+ {
+  "gi": 26,
+  "si": 26,
+  "en": "Welcome to Mount Crenel. I am the\n{Color:Green}Great Dragonfly Fairy{Color:White}.\nI shall increase the capacity of the\n{Color:Red}quiver{Color:White} you carry.",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 2,
+  "en": "The name's {Color:Green}Mutoh{Color:White}. I'm head carpenter\n'round these parts.\nThe king of Hyrule has entrusted me\nwith the town's reconstruction.\nThis area you're standing in right\nnow? It's a work zone!\nIt's way too dangerous for a little\nkid like you.",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 3,
+  "en": "{Sound:00:B5}The name's {Color:Green}Mutoh{Color:White}. I'm head carpenter\n'round these parts.\nThe king of Hyrule himself has\nentrusted me with this project.\nSee, that sorcerer's attack tore\nthings up pretty bad around here.\nYou know, kid, you shouldn't be playing\nanywhere near the construction zone.",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 5,
+  "en": "So, that Picori Blade was just a lock\nkeeping those monsters in that chest?\nThe rumor is that Vaati was looking for\nsomething inside the chest...\nI mean, something other than monsters.\nBut nobody knows for sure what it is.\nI tell you, he sure has been nothing\nbut a big headache to the rest of us.",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 6,
+  "en": "We've taken care of most of the\nmonsters out here.\nBe careful around {Color:Green}Minish Woods{Color:White},\nthough. The woods are thick with 'em.",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 13,
+  "en": "{Sound:00:CA}Hooo! I'm busy, kid!\n\nThe boss always makes sure we've got\nour noses to the ol' grindstone.",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 14,
+  "en": "{Sound:00:CA}Ahh! No time to talk, kid!\n\nThe boss has us working our fingers to\nthe bone! No time for a break, even!",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 24,
+  "en": "{Sound:00:C0}There have been a lot of creatures on\nthe rampage lately.\nAs a result, we're in a bit of a rush\nto get things repaired around here.",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 25,
+  "en": "{Sound:00:C0}That sorcerer was something else!\n\nHe really tore up the town, so we've\ngot a serious backlog of work to do.",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 35,
+  "en": "{Sound:00:CA}Creepy... It's like all these monsters\njust appeared out of nowhere...",
+  "cz": ""
+ },
+ {
+  "gi": 27,
+  "si": 38,
+  "en": "{Sound:00:C0}I'm so busy! So busy!\n\nGotta finish here, so I can go\nrepair the steps next!",
+  "cz": ""
+ },
+ {
+  "gi": 28,
+  "si": 1,
+  "en": "Ah, we've got the {Color:Red}Earth Element{Color:White}!\nYou must go tell the {Color:Green}elder{Color:White} at once!",
+  "cz": ""
+ },
+ {
+  "gi": 28,
+  "si": 2,
+  "en": "Oh, that was hot! It was so hot,\nI thought my fibers would catch fire!\nAh, but it's over now! I suppose we\nshould go back and speak to {Color:Green}Melari{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 28,
+  "si": 3,
+  "en": "The element was not here, but at least\nwe now have a clue to its whereabouts.\nYou must use the {Color:Red}Ocarina of Wind{Color:White} to\nopen a new path.\nWell, there's no point in standing\naround! Go get that last element!",
+  "cz": ""
+ },
+ {
+  "gi": 28,
+  "si": 4,
+  "en": "Brrrrrrrrr... I almost froze my\nbeak off in there!",
+  "cz": ""
+ },
+ {
+  "gi": 28,
+  "si": 5,
+  "en": "At last, we've got all four elements!\nLet's go revive the {Color:Red}sacred blade{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 0,
+  "en": "{Sound:01:B8}MYAAAAWWWN!!\n\n{Sound:01:B7}What a nap!!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 1,
+  "en": "{Sound:01:B9}Welcome. Goro.\nOh, what a tiny Goron you are...\nYou make this big Goron happy with this\nunexpected visit to my distant home.\nAnd yes, if you should ever accomplish\nsome major feat...\nWell, then you should come back and\nvisit me again...\nDon't forget.",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 2,
+  "en": "{Sound:01:B8}Welcome. Goro.\nOh, what a tiny Goron you are...\nYou make this big Goron happy with this\nunexpected visit to my distant home.\nTell me, little one, what do you know\nabout {Color:Red}shields{Color:White}?\nWell, among us Gorons, who know well\nthe taste of steel...\nThey are considered a fine delicacy.\nAh, yes...\nJust once, I should like to taste\na fine, fresh shield...",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 3,
+  "en": "{Sound:01:B9}Thank you for the delicious {Color:Red}shield {Color:White}you\ngave me last time you came.\nI think of that flavor even now... ...\n... ... ... ... ... ... ... ... ... ...\n... ... ... ... ... ... ... ... ... ...\n... ... ... ... ... ... ... ... ... ...\n... ... ... ... ... ... ... ... ... ...\n... ... ... ... ... ... ... ... ... ...\nSigh... Even thinking about it takes me\nto faraway places.\nIf you ever find another such shield,\nyou must let me taste it, please!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 4,
+  "en": "{Sound:01:BA}Welcome. Goro.\nOh, what a tiny Goron you are...\nYou make this big Goron happy with this\nunexpected visit to my distant home.\nOh! Oh, what is that you have there?\nIs that by any chance a {Color:Red}shield{Color:White}?\nWell, among us Gorons, who know well\nthe taste of steel...\nThey are considered a fine delicacy.\nLittle Goron! Please, goro!\nLet me just nibble on the corner,\nwould you?\nI will give it back to you just as soon\nas I've had the tiniest taste.\nWon't you please just let me have\na bite, a lick, a tiny crumb?\n  {Choice:1D:06}OK!    {Choice:1D:07}No! Gross!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 5,
+  "en": "{Sound:01:B7}Welcome. Goro.\nOh, what a tiny Goron you are...\nOh! What's this!?\nYou have another {Color:Red}shield{Color:White}?\nWill you let me taste this one also?\n  {Choice:1D:06}OK!    {Choice:1D:07}No! That's sick!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 6,
+  "en": "{Sound:01:B8}But, little one, if I eat it, you will no\nlonger have a shield. Do you mind?\n  {Choice:FF}No, it's fine!    {Choice:1D:07}Uh, just a little...",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 7,
+  "en": "{Sound:01:B7}I see, goro. Then I will not taste your\ndelicious shield.",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 8,
+  "en": "{Sound:01:BA}Really, goro!? Thank you! GORO!\n\nI'll dig right in!!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 9,
+  "en": "{Sound:01:B8}Nummnummnumm! Slurp, slurp!\nOh, delicious!\nIt has a deep, rich taste surpassing\neven the great praise I have heard!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 10,
+  "en": "{Sound:01:B8}Nummnumm! Slurp, slurp! Oh, delicious!\nOh, just a few more bites, please!!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 11,
+  "en": "{Sound:01:B8}Nummnumm! Slurp, slurp! Oh, delicious!\nThat was excellent!\nThank you so much. Now, I finally know\nthe legendary taste of a shield!\nAnd I will happily fulfill my promise!\n\nLet me just spit your {Color:Red}shield {Color:White}back\nout again!",
+  "cz": ""
+ },
+ {
+  "gi": 29,
+  "si": 12,
+  "en": "{Sound:01:B7}Goro goro...?!\n\nIt-It seems your shield has changed\n{Color:Blue}shape {Color:White}a little as I was chewing on it...\nOh, but it's fine!\n\nIt is still a shield after all, just a\nslightly differently shaped one!\nI think...\nWell, I have to go now! Good-bye, goro!",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 1,
+  "en": "{Sound:01:FB}Green clothes? And a mystical hat?!?\n\nSir! Would you by chance be {Player},\nthe one who found the {Color:Red}Earth Element{Color:White}?\nSurely you are! I have heard so many\ntales about you.\nI am {Color:Green}Belari{Color:White}, researcher of antiquities.\nI am also, well, a bit of an inventor.\nYou know, you won't be able to get\nback to town, due to all the debris...\nHere, I have something that might\ncome in handy.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 2,
+  "en": "Let me know if you find it useful.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 3,
+  "en": "So you like those {Color:Red}bombs{Color:White}, huh?\nI still have some, so here you go.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 4,
+  "en": "I don't suppose you know where the\nhot springs are, do you?\nMy current experiment requires\n{Color:Blue}mineral-rich spring water{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 5,
+  "en": "Eh? Did you bring me some {Color:Red}Mt. Crenel \nMineral Water{Color:White}?\nThank you! At last, I can complete my\nexperiment! I must reward you!",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 7,
+  "en": "Well, back to my research.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 8,
+  "en": "Wouldn't it be handy to have a bomb\nthat blew up only when you wanted?",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 9,
+  "en": "I'm sorry, but I already gave you all\nthe bombs I have.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 10,
+  "en": "You've brought a {Color:Red}Kinstone{Color:White}, haven't\nyou? Let's see if we can {Color:Blue}fuse {Color:White}ours.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 11,
+  "en": "Excellent! A perfect match! And I\nsuspect this might result in an item!",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 12,
+  "en": "You know, we really ought to try\nfusing Kinstones sometime.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 14,
+  "en": "At last, it's complete! The {Color:Red}Remote\nBomb{Color:White}! It blows up whenever you want!\nIf you ever need normal {Color:Red}bombs {Color:White}again,\njust trade me back for them. So...\nWant to trade for {Color:Red}Remote Bombs{Color:White}?\n   {Choice:FF}Sure   {Choice:1F:10}No, thanks",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 15,
+  "en": "You traded for {Color:Red}Remote Bombs{Color:White}.\n\nPress the button to use a bomb, then\npress the button again to detonate it.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 16,
+  "en": "If you ever need a {Color:Red}Remote Bomb{Color:White}, just\nsay the word.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 17,
+  "en": "You want to use normal {Color:Red}bombs {Color:White}again?\nJust trade back those {Color:Red}Remote Bombs{Color:White}.\nWant to trade for normal {Color:Red}bombs{Color:White}?\n   {Choice:FF}Sure   {Choice:1F:13}Maybe later",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 18,
+  "en": "You traded for normal {Color:Red}bombs{Color:White}!\n\nIf you ever want to use {Color:Red}Remote Bombs{Color:White}\nagain, just come see me.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 19,
+  "en": "If you ever want to use normal {Color:Red}bombs{Color:White}\nagain, just come see me.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 20,
+  "en": "Tell me if you want to swap for\n{Color:Red}Remote Bombs{Color:White}.\nI can trade with you if you like.\n   {Choice:FF}Sure   {Choice:1F:10}No, thanks",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 22,
+  "en": "{Sound:01:E5}Hm... I've never seen an outfit like\nthat before. Are you a...human?\nOh, my! It's been quite some time\nsince any humans came here.\nMy name is {Color:Green}Festari{Color:White}. I watch the abbey,\nas well as the shrine to the north.\nYou...seem to be having some trouble\nwith our language, don't you?\nYou could use a {Color:Red}Jabber Nut{Color:White}. It will\nallow you to understand our tongue.\nYou should be able to find one in\nthe barrel house just south of here.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 23,
+  "en": "{Sound:01:E5}You wish to go to the {Color:Green}shrine{Color:White}?\nVery well. This way...",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 24,
+  "en": "Vile beasts have settled in recently.\nBe careful: it is quite dangerous.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 25,
+  "en": "{Sound:01:E5}You retrieved the {Color:Red}Earth Element {Color:White}from\nthat fiend-infested shrine?\nIncredible!\n\nHumans are amazing creatures.\nThe elder is sure to be amazed, too.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 26,
+  "en": "{Sound:01:E5}So you're on a quest to restore the\nsacred blade so you can save the\nprincess? Yeah, I'm sure you'll\nmanage...",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 27,
+  "en": "{Sound:01:E5}So you've eaten the {Color:Red}Jabber Nut{Color:White},\nand now you can understand us?\n...\n\n{07:1F:1C}",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 28,
+  "en": "Sorry, but I know little about {Color:Red}swords{Color:White}.\nI'm sure the {Color:Green}elder{Color:White} can help you.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 31,
+  "en": "Oh, {Player}.\n\nThis must be the {Color:Red}Jabber Nut {Color:White}Festari\ntold you about.\nWell, you'd better eat it if you plan\non making any progress at all.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 34,
+  "en": "{Sound:02:03}Pico riki poko ti po!",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 35,
+  "en": "{Sound:02:03}So you've eaten the {Color:Red}Jabber Nut{Color:White} and\nnow you can understand us...\nThe {Color:Green}elder {Color:White}said that humans can no\nlonger see us as they once could.\nIt's amazing that you can see us.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 36,
+  "en": "{Sound:02:03}This is where we cultivate {Color:Blue}Pico Blooms{Color:White}.\n\nThe {Color:Red}Picolyte {Color:White}sold in the human town is\nmade from the {Color:Blue}nectar of our plants{Color:White}.\nWe sneak into town at night and leave\nit there for the humans to find.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 37,
+  "en": "South of here, there's a house\nshaped like a barrel.\nInside, you will find a {Color:Red}Jabber Nut{Color:White}.\n\nIf you eat this {Color:Red}Jabber Nut{Color:White}, you will be\nable to understand the Minish tongue.",
+  "cz": ""
+ },
+ {
+  "gi": 31,
+  "si": 50,
+  "en": "We sneak our {Color:Blue}Pico Blooms{Color:White} to areas\nnear where the humans live.\nJust having some of it makes\nyou incredibly lucky.\nWe're preparing for our next delivery\nright now.",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 8,
+  "en": "Ruff! Ruff!",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 9,
+  "en": "{Sound:02:1A}Honestly! Where did Dad go this time?!?\n\nI leave for just a few minutes, and he\nlocks up the ranch and takes off!",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 10,
+  "en": "I lost my key, and I can't get inside.\nAnd the {Color:Red}spare key{Color:White}'s inside the house!",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 11,
+  "en": "{Sound:02:1A}What a pain. And I was thinking of\ngoing into town to sell {Color:Red}Lon Lon Milk{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 12,
+  "en": "Oh! Our one and only spare key!\n\nI don't know how you got this, but\nI can't thank you enough!\nTell me your name, sonny.\n\n{04:12}{Player}? That's a great name.\n\nIf you ever need to go to {Color:Green}Lake Hylia{Color:White},\nfeel free to cut through our house.",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 13,
+  "en": "You really helped me out, sonny.\n\nIf you ever want to go to {Color:Green}Lake Hylia{Color:White},\nuse the shortcut out behind our ranch.",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 14,
+  "en": "{Sound:02:1A}Thank you, {Player}. Now, I can\nfinally get back into my house.\nWell, I'd better be going. I have a\nlot to do before I can leave town.",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 15,
+  "en": "Nayhayhayyyy...",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 17,
+  "en": "Well! If it isn't {Player}! I just\nfinished milking our pride and joy.\nI'll tell you what, {Player}... Because\nyou did us such a big favor...\nI'll sell you some milk at our special,\nfriends-only price.\nIf you ever need a {Color:Blue}quick burst of\nstrength{Color:White}, just drink it up!\nAnd if you run out, just bring\nyour empty bottle back for a refill!\nBuy some {Color:Red}Lon Lon Milk {Color:White}for 30 Rupees?\n   {Choice:FF}Sure   {Choice:20:14}No, thanks",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 18,
+  "en": "Here you go! Have some freshly\nsqueezed {Color:Red}Lon Lon Milk{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 19,
+  "en": "Here you go! Have some...\n\nWhoops!! You don't have an {Color:Red}empty\nbottle{Color:White}! Too bad...",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 20,
+  "en": "Drop in for a visit the next time\nyou're in the neighborhood.",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 22,
+  "en": "{Sound:02:1A}Thank you very much, {Player}.\nCome visit us again!",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 23,
+  "en": "Bray-hey-hey-hey-hey...",
+  "cz": ""
+ },
+ {
+  "gi": 32,
+  "si": 24,
+  "en": "Moooo!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 1,
+  "en": "{Sound:02:04}We forest {Color:Green}Minish{Color:Red} {Color:White}are good at\ngrowing plants and making tools.\nThe {Color:Red}Minish Berries{Color:White} we grow here often\ncontain items that please the humans.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 2,
+  "en": "{Sound:01:F9}There's a weird guy outside the village\nwho {Color:Blue}invents all kinds of tools{Color:White}.\nHe came to the village a while ago. We\nthought maybe he was back for good.\nBut all he said was {Color:Blue}\"Got any {Color:Red}milk{Color:Blue}?\"{Color:White}\nMaybe he was thirsty or something.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 3,
+  "en": "{Sound:01:FE}There's a weird guy outside the village\nwho {Color:Blue}invents all kinds of tools{Color:White}.\nHe came to the village a while ago. We\nthought maybe he was back for good.\nBut all he said was {Color:Blue}\"Got any {Color:Red}blue\npotions{Color:Blue}?\" {Color:White}Maybe he caught a cold...",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 6,
+  "en": "{Sound:01:F7}Sometimes it's a flower seed, and\nsometimes it's a stone.\nWe hide our lucky items in all sorts of\nunexpected places.\nBut the real trick is making it tough\nfor humans to notice!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 7,
+  "en": "{Sound:02:03}Sometimes it's a flower seed, and\nsometimes it's a stone.\nWe hide our lucky items in all sorts of\nunexpected places.\nBut the real trick is making it tough\nfor humans to notice!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 8,
+  "en": "{Sound:01:FD}I've been getting better at disguising\nthings so that humans won't notice 'em!\nI love my job!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 14,
+  "en": "{Sound:02:05}Wow! Good job finding this place! There\naren't many people who visit me here.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 15,
+  "en": "{Sound:01:FE}Hehhe! Great! Let's fuse now!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 16,
+  "en": "{Sound:01:FF}Hehe! That's why I can't get enough\nof Kinstone fusion!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 17,
+  "en": "{Sound:01:FD}Awww... Really?",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 21,
+  "en": "{Sound:01:F8}You've heard of travelers who find a\n{Color:Red}Kinstone {Color:White}and get really lucky?\nWell, that's all thanks to items made\nby us {Color:Green}Minish{Color:White}!\nYou see, we thrive on making humans\nhappy. It gives us energy.\nBut we only do it in secret!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 22,
+  "en": "{Sound:01:F8}You've heard of travelers who pick up a\nstone and find something under it?\nWell, those items were actually left\nthere by us {Color:Green}Minish{Color:White}!\nYou see, we thrive on making humans\nhappy. It gives us energy.\nBut we only do it in secret!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 23,
+  "en": "{Sound:01:F8}You've heard of travelers who pick up a\nstone and find something under it?\nWell, those items were actually left\nthere by us {Color:Green}Minish{Color:White}!\nWe live for making humans happy, but\nwe only do it in secret!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 26,
+  "en": "{Sound:01:FB}Our ancestors, the ancient {Color:Green}Minish{Color:White},\nused the portal between our worlds.\nIt brought them into the human world,\nand they settled in this forest.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 27,
+  "en": "{Sound:01:FB}Our ancestors, the ancient {Color:Green}Minish{Color:White},\nused the portal between our worlds.\nIt brought them here, into the human\nworld, and they settled in this forest.\nThe {Color:Green}elder {Color:White}says our cultures have\nchanged much since those old days.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 31,
+  "en": "{Sound:02:03}If you want to reforge that sword, you\nwill need the help of an expert smith!\n{Color:Green}Master Melari{Color:White} and his seven\napprentices can help you.\nThey live in the mountains, where they\ncan find all the ore they need.\nI'm sure the {Color:Green}elder {Color:White}would tell you about\nhim if you asked.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 32,
+  "en": "{Sound:02:03}If you want that sword reforged, you\nshould see {Color:Green}Melari{Color:White}.\nHe and his apprentices are skilled in\nthe arts of metalworking.\nThat's why they live in the mountain:\nso they can be close to the ore!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 33,
+  "en": "{Sound:01:FA}So how was old {Color:Green}Melari{Color:White}?\n\nAnd were his apprentices singing their\nusual work song?",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 34,
+  "en": "Pico ricopi picoco copi!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 36,
+  "en": "{Sound:01:F9}There are so many monsters around\nthese woods lately!\nThe elder said that even the {Color:Green}shrine {Color:White}to\nthe north is filled with monsters now!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 37,
+  "en": "{Sound:02:00}You fought all the monsters and took\nthe {Color:Red}Earth Element{Color:White} from the altar?\nYou humans are amazing.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 38,
+  "en": "{Sound:02:00}You fought the monsters all the way to\nthe altar to get the {Color:Red}Earth Element{Color:White}?\nWow, humans are amazing!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 41,
+  "en": "{Sound:02:02}Do you know about {Color:Red}Kinstone pieces{Color:White}?\nThey're all the rage among humans now.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 42,
+  "en": "{Sound:02:02}Do you know about {Color:Red}Kinstone pieces{Color:White}?\nThey're all the rage among humans now.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 43,
+  "en": "{Sound:02:02}Do you know about {Color:Red}Kinstone pieces{Color:White}?\nThey're all the rage among humans now.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 46,
+  "en": "{Sound:01:F8}Hey, nice clothes...\nI want to wear human clothes, too!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 47,
+  "en": "{Sound:01:F9}I was born and raised here, so I don't\nknow much about the outside world.\nI hear there are HUGE green monsters\nout there in the woods.\nI can't believe you made it through\nthere alive! You must be really brave!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 48,
+  "en": "{Sound:01:F9}That's it! I've decided!\n\nWhen I grow up, I'm going to be human!\n...I wonder how I'll do that...",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 49,
+  "en": "{Sound:01:FA}I'm getting set to leave for town and\nvisit some of my Minish friends there.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 51,
+  "en": "{Sound:01:FB}We {Color:Green}Minish {Color:White}live in Hyrule Town and other\nplaces, too--not just in these woods.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 52,
+  "en": "{Sound:01:FC}Had you never seen any {Color:Green}Minish {Color:White}before\nyou came here?\nReally? That's so strange.\nWe Minish live all over the place!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 53,
+  "en": "{Sound:01:FE}We {Color:Green}Minish {Color:White}live in Hyrule Town and other\nplaces, too--not just in these woods.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 56,
+  "en": "{Sound:02:03}You probably haven't noticed, but lots\nof {Color:Green}Minish {Color:White}live right in {Color:Green}Hyrule Town{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 57,
+  "en": "{Sound:02:02}Maybe I should just get out of this\nsleepy little town and move to the city.\nOr maybe I should go to the mountains.\nThe folks out there seem to have fun!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 58,
+  "en": "{Sound:01:FB}I received a letter from my friend who\nlives in the town library!\nI wish I could live in town, too...",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 61,
+  "en": "{Sound:02:05}Hello!\n\nWe're doing cutting-edge research on\nPico Blooms here.\nYou see that plant with the little bud?\nWe're working on ways to improve it!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 62,
+  "en": "{Sound:02:02}I need {Color:Red}milk {Color:White}to continue my improvements\non this Pico Bloom.\nI wish someone would bring me some.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 63,
+  "en": "{Sound:01:FD}Wow, thanks!\nNow I can continue my research!\nCome on back when this\nflower blossoms!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 64,
+  "en": "{Sound:02:02}My new Pico Bloom hasn't blossomed yet.\nCome back soon, though.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 65,
+  "en": "{Sound:01:FF}Look! I succeeded in growing a {Color:Blue}Yellow\nPico Bloom{Color:White}! It's all thanks to you!\nI'm so grateful for all your help!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 66,
+  "en": "{Sound:01:FC}I am working on my next Pico Bloom\nenhancement...\nAll I need is some {Color:Red}Mt. Crenel Mineral\nWater{Color:White} to complete it.\nBut the mountain is so far away, and I\ndon't know how to get any.\nI wish someone would bring me some.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 67,
+  "en": "{Sound:01:FD}Wow, thanks! This is just what I\nneeded to complete my research!\nCome back when the bud blossoms!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 69,
+  "en": "{Sound:01:FF}Look! I succeeded in growing a {Color:Blue}Blue\nPico Bloom{Color:White}! It's all thanks to you!\nI'm so grateful for all your help!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 70,
+  "en": "{Sound:01:FC}I am working on my next Pico Bloom\nenhancement...\nBut I need a {Color:Red}red potion{Color:White} to finish. If\nonly I knew where some could be found.\nI wish someone would bring me some.",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 71,
+  "en": "{Sound:01:FD}Wow, thanks! This is just what I needed\nto make that bud blossom!\nCome back and see how it turns out!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 73,
+  "en": "{Sound:01:FF}Look! I succeeded in growing an\n{Color:Blue}Orange Pico Bloom{Color:White}, thanks to your help!\nI'm so grateful to you!",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 74,
+  "en": "{Sound:01:FA}I'm taking a break from my research,\nbut I have lots of good ideas.\nSuper Pico Bloom...\nHyper Pico Bloom...\nCyber Pico Bloom...\nWhich one should I work on first?",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 75,
+  "en": "{Sound:01:FB}Hey! What've you got there?\nIs that {Color:Red}Lon Lon Milk{Color:White}?\nDid you bring it for me?\n{Choice:FF}Yes   {Choice:21:4E}No",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 76,
+  "en": "{Sound:01:FB}Hey! What've you got there?\nIs that {Color:Red}Mt. Crenel Mineral Water{Color:White}?\nDid you bring it for me?\n{Choice:FF}Yes   {Choice:21:4E}No",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 77,
+  "en": "{Sound:01:FB}Hey! What've you got there?\nIs that a {Color:Red}red potion{Color:White}?\nDid you bring it for me?\n{Choice:FF}Yes   {Choice:21:4E}No",
+  "cz": ""
+ },
+ {
+  "gi": 33,
+  "si": 78,
+  "en": "{Sound:02:01}Oh, sorry then... If you change your\nmind, do let me know.",
+  "cz": ""
+ },
+ {
+  "gi": 34,
+  "si": 1,
+  "en": "There should be some {Color:Green}Minish{Color:White} living here\nin this forest.\nEh? Who are the {Color:Green}Minish{Color:White}? Ah, yes,\nhow silly of me!\nYou humans call them \"{Color:Green}Picori{Color:White},\" but they\nrefer to themselves as the {Color:Green}Minish{Color:White}!\nStrange how, in the world of humans,\nonly this forest has kept the name...\nAnyhow, deep in the forest they built a\ntiny village, where many now live.\nBut if we're to enter the village, we'll\nhave to make you a touch smaller first.\nLook for a tree stump. Then, I can\nshrink you to the size of the \"{Color:Green}Picori{Color:White}.\"",
+  "cz": ""
+ },
+ {
+  "gi": 34,
+  "si": 2,
+  "en": "{Sound:00:92}{04:10:00}Hold on for a moment, my boy! We've\nstumbled across something important!\nThe world of the {Color:Green}Minish{Color:White} is very small.\nYou're far too big to meet them now.\nEh? Who are the {Color:Green}Minish{Color:White}? Ah, yes! Silly\nme! Allow me to explain...\nYou humans call them \"{Color:Green}Picori{Color:White},\" but they\nrefer to themselves as the {Color:Green}Minish{Color:White}!\nStrange how, in the world of humans,\nonly this forest has kept that name...\nAnyhow, deep in the forest they built a\ntiny village, where many now live.\nBut if we're to enter the village, we'll\nhave to make you a touch smaller first.\nLook at that. At first glance, it\nappears to be a mere stump, yes?\nNo! That stump is a {Color:Blue}portal{Color:White} used by\npeople long ago to adjust their size!\nWith my help, you can use it to {Color:Blue}shrink\ndown to Minish size{Color:White}.\nJust stand on the stump and press {Key:Right}\nto shrink.\nTo return to normal, stand next to the\nstump and press {Key:Right}.\nGet me up there, and we'll give\nit a try.",
+  "cz": ""
+ },
+ {
+  "gi": 34,
+  "si": 3,
+  "en": "Welcome to the world through the\neyes of the Minish!\nNow, aren't you glad you saved me?\nNo need to thank me, though!\nPortals that reduce your size are {Color:Blue}all\naround, in different shapes and sizes{Color:White}.{Color:Blue}\n{Color:White}If you want to return to normal, stand\nnext to a portal and press {Key:Right}.\nBut there is one thing you must know:\n{Color:Blue}being Minish-sized is full of dangers{Color:White}!\nMere puddles at your normal size\nare bottomless swamps to the Minish.\nAnd as your companion, if anything bad\nhappens to you, it happens to me, too!\nSo proceed with caution, my lad! If not\nfor your sake, then for my own!",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 2,
+  "en": "The swamp in {Color:Green}Castor Wilds{Color:White} is\nbottomless...I say.\nTo get across that swamp, you'll need\nto {Color:Blue}run as swiftly as the wind blows{Color:White}...",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 3,
+  "en": "A dark room settles my soul...I say.\nDo not turn on the lights...I say.",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 4,
+  "en": "Oh, dear. You found me out!\nDon't tell anyone!",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 12,
+  "en": "Hello. I am Percy, poet laureate\nof Hyrule.\nAnd you are {Player}? Oh, no,\nno! The pleasure is mine!\nI travel all over the realm, writing\nverse wherever I go.\nBut here I am, returning after a long\nabsence only to find the road blocked.\nIt wouldn't feel like such a waste if\nI hadn't lost half of my {Color:Red}Kinstone{Color:White}!\nWhen misfortune rains down upon\nmy head, it pours in torrents!\nI think {Color:Blue}I may have dropped it in the\ninn{Color:White} I stayed at last night...\nI see no other course than to put\nthese tragic events to verse.\n  {Color:Blue}I see stars beyond the rainbow,\n  But I cannot reach them.\n  Though the stone I lost is small,\n  Large was its place in my heart.",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 13,
+  "en": "My way home is blocked. Alas!\n\nAnd making matters worse, I lost one of\nmy {Color:Red}stone fragments{Color:White} in my travels.\nWhen misfortune rains down upon\nmy head, it pours in torrents!\nI wonder if I dropped that stone\nfragment {Color:Blue}in the inn{Color:White} last night.\nI see no other course than to put\nthese tragic events to verse.\n  {Color:Blue}I see stars beyond the rainbow,\n  But I cannot reach them.\n  Though the stone I lost is small,\n  Large was its place in my heart.",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 14,
+  "en": "Unfortunately, I only have one\n{Color:Red}fragment{Color:White}. I'm sorry.",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 15,
+  "en": "Oh, my! That {Color:Red}fragment{Color:White} looks just like\nmine! They might even fit together!",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 16,
+  "en": "Oh, perfect! They fit!\n\nThat's it! I've got it now!\nThe perfect verse!\n  {Color:Blue}Apart or whole,\n  These two are one.\n  Two lost and broken halves,\n  Like me and my beloved.",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 17,
+  "en": "Oh, dear! {Player}!\nWon't you listen to my verse?\nWhen I finally returned to my home,\nsweet home, a stranger was there!\nI'm an extremely shy person, and I just\ncan't talk to someone I don't know!\nSo...I had to put my feelings to verse!\n\n  {Color:Blue}While I was gone, did you break in\n  To practice your thieving art?\n  Even if you rob my home,\n  You can never steal my heart.",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 18,
+  "en": "Oh, my! {Player}! Thanks to you, I can\nfinally go back in my house.\nIt's been totally rearranged, but I\nthink it's a good look!\nI've put my feelings of gratitude\nto verse...\n  {Color:Blue}The way made safe, I came back home\n  To find me inside, all alone.\n  In my chest, my poor heart aches,\n  But for you I feel the deepest thanks!",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 19,
+  "en": "What? You're going to quit?\nWell, come again.",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 20,
+  "en": "Oh, {Player}!\n\nDid you come all the way here just to\n{Color:Blue}fuse Kinstones{Color:White} with me?",
+  "cz": ""
+ },
+ {
+  "gi": 35,
+  "si": 21,
+  "en": "Oh, just a moment...\n\nMy dresser is entirely stuffed full\nof these icky blue seashells.\nWould you clean them out for me?\nThey're so...smelly. Please?",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 1,
+  "en": "Oh! Oh, thank you! You're the one who\nreturned me to normal, aren't you?\nI don't know how you did it, but\nI can't thank you enough...\nListen... Have you seen how strange\nthe {Color:Green}king {Color:White}has been lately?\nThat's because it's not the king at all!\nIt's {Color:Green}Vaati{Color:White}! He's taken over the castle!\nOne by one, he turned us all to stone.\nEveryone, cursed by his evil magic...\nThen, the monsters arrived. Even\nparalyzed, I saw it all...\nI only pray it's not too late to undo\nhis evil...",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 2,
+  "en": "{Player}! We need your help!\n\n{Color:Green}Vaati {Color:White}took our petrified princess to\nthe roof of the castle...\nHe must be planning something fiendish.\nYou must stop him!",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 3,
+  "en": "The real {Color:Green}king of Hyrule {Color:White}must be locked\nup somewhere in the castle...\nPlease find him. As soon as we've\nrecovered, we'll start looking, too.",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 4,
+  "en": "Oh! Thank you for restoring me.\nI feel so much better now!\nDon't worry about me. I'll be fine.\nNow, go help the others!",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 5,
+  "en": "Leave this to us!\nYou go save {Color:Green}Princess Zelda{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 6,
+  "en": "Don't worry--we'll protect the king.\nYou have to go save {Color:Green}Princess Zelda{Color:White}!",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 7,
+  "en": "Gah! I hate to admit it, but we're\njust no match for those beasts!",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 12,
+  "en": "Oh! {Player}!\n\nAre you the one who broke the\ncurse and returned me to normal?\nYou've grown quite brave since\nI last saw you, I must say.\nBut, oh, how this castle has suffered\nwhile I was under {Color:Green}Vaati{Color:White}'s curse...\nIs this all the work of one man?\n\nAs {Color:Green}king of Hyrule{Color:White}, I must do\nsomething about this villain...\nBut... Ah, I'm old, and I would only\nhold you back.\n{Player}, you have the {Color:Red}sacred blade{Color:White}\nnow. We must rely on you.\nPlease! You must find a way to rescue\nmy {Color:Green}Zelda{Color:White}.\nTake this key. You can use it to get\nout of the castle from the basement.",
+  "cz": ""
+ },
+ {
+  "gi": 36,
+  "si": 13,
+  "en": "If I were to join you, I fear I would\nonly be a hindrance.\nPlease, {Player}, you must find a way\nto save my daughter.",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 1,
+  "en": "Here we are, {Player}!\nDoesn't it look fun?\n{07:25:02}",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 2,
+  "en": "Come on! Let's look around!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 3,
+  "en": "{Player}, there's a storyteller here!\nWe should stop and listen to--\nOh! I wonder what's over there...",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 4,
+  "en": "So the {Color:Green}Picori {Color:White}ARE real! My father\nalways told me they were.\nOh! Look at that!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 5,
+  "en": "Say, wasn't there going to be a {Color:Blue}sword-\nfighting tournament{Color:White} at the castle?\nI wonder who won this year...\n\nOh, wow! Over here!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 6,
+  "en": "{Player}! Where are you going?\nOver here! This way!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 12,
+  "en": "Welcome to the {Color:Blue}Picori Festival{Color:White}!\n\nThey say that, every hundred years,\nthe Picori come to Hyrule...\nAnd this is the 100th year, to the day,\nsince the last time the Picori were here!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 13,
+  "en": "Long, long ago, and then even longer\nbefore that...\nEvil creatures appeared in the world\nof humans.\nThey were powerful, frightening\nbeasts, and they created such trouble!\nBut then the {Color:Green}Picori{Color:White} came from the sky,\nbringing humans powerful magic.\nWith the magic light force and the\nPicori Blade, the beasts were repelled.\nAnd the world of humans once more\nknew peace, thanks to the Picori.\nSo as not to forget our gratitude, we\nhold this festival each year.\nNow, remember, little ones... The Picori\nonly appear before good little children.\nIf you only do bad deeds, you will\nnever get to see them! So be good!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 14,
+  "en": "I don't believe in the Picori!\n\nI'm not a kid anymore! I'm too old to\nbelieve in any stupid old fairy tales!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 15,
+  "en": "Do you think I'll really see the Picori\nif I'm on my best behavior all the time?",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 16,
+  "en": "Come on up! Come one, come all!\nGather round and have a look-see!\nI'm having a huge sale on all manner\nof delicious and festive vegetables!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 17,
+  "en": "Oh, hi! Are you enjoying the festival?\nIt's so much fun!\nI'm so happy to be here! And my fresh\nfruits are just delicious! Buy some!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 18,
+  "en": "Come one! Come all! Try your luck,\nand win incredible prizes!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 19,
+  "en": "Hey, guy, have you ever seen the\nPicori? I saw one just the other day!\nIt wore a red cone-shaped hat, and\nit was really small...\nAnd it was standing inside my dad's\nshoe! I really saw it! I swear!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 20,
+  "en": "So, so, so... I've been good all year?\nLike, all year long?\nAnd you know how the Picori only\nshow themselves if you've been good?\nAnd so, so, so I'm just waiting for\nthe Picori to come and play with me.",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 21,
+  "en": "Only once every hundred years does\nthe mystic doorway open.\nThis is the door that links the human\nworld to the world of the {Color:Green}Picori{Color:White}.\nWhen this door opens, the {Color:Green}Picori{Color:White} can\nenter our world. And guess what!\nThis marks the hundredth year\nsince they last appeared here!\nI'm sure something wonderful is\ngoing to happen at this festival!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 22,
+  "en": "Each year, there is a sword-fighting\ntournament at the {Color:Blue}Picori Festival{Color:White}.\nThis year's tournament is already over.\nI couldn't believe how fast it went!\nI hear {Color:Green}the victor was a mysterious\nman dressed entirely in black{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 23,
+  "en": "They say the Picori bring happiness\nto all the humans they meet...\nI wonder when they will bring\nhappiness to me...",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 24,
+  "en": "Are you enjoying yourself, {Player}?\nThis is the biggest festival in {Color:Green}Hyrule{Color:White}!\nIf you don't stop to enjoy it,\nyou'll miss out on all the fun!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 25,
+  "en": "I've been on the road for a while.\nI came back in time for the festival.\nIt feels wonderful to be back in Hyrule\nagain, in this joyous time!\nI... I must put these feelings\ninto verse!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 26,
+  "en": "I love festivals. It's like seeing your\ntown transform into another world!\nIt really gives you a chance to think\nabout how well we have it here...",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 27,
+  "en": "People from all over the place come to\nHyrule Town for the {Color:Blue}Picori Festival{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 28,
+  "en": "You're the boy from old Master\nSmith's place, right?\nI'm sure you know this, but he's the\nbest swordsmith Hyrule's ever seen!\nEvery year, I enter the tournament\ntrying to win that sword of his.\nI haven't won yet, and maybe I never\nwill, but the tournament was awesome!\nThe winner this year was a new face.\nI've been wondering where he's from.\nHe used some incredible techniques and\nwon the whole tourney in record time!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 29,
+  "en": "I've been dispatched from {Color:Green}Hyrule Castle{Color:White}\nup north to watch over the festivities.",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 30,
+  "en": "I've never seen the {Color:Green}Picori {Color:White}before...",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 31,
+  "en": "You two must be great friends!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 32,
+  "en": "I'm going to look for {Color:Green}Picori{Color:White}! Mom said\nthere'd be {Color:Green}Picori {Color:White}at the festival!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 33,
+  "en": "I saw it! There was a {Color:Green}Picori {Color:White}here\njust a second ago! No, really!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 34,
+  "en": "This is my first ever {Color:Blue}Picori Festival{Color:White}!\nSo...where are all the {Color:Green}Picori{Color:White}, anyway?",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 35,
+  "en": "Day and night, he's going on and on\nabout Picori this and Picori that!\nDoesn't he know they're nothing but a\nsilly fairy tale to make kids behave?",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 36,
+  "en": "I'm just on my way back from seeing\nthe tournament at {Color:Green}Hyrule Castle{Color:White}.\nLet me tell you! Watching all those\nsword fights made me hungry!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 37,
+  "en": "Phew... Preparing for the festival left\nme absolutely exhausted...\nStill, I'm just enjoying watching\npeople have fun.",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 38,
+  "en": "Hey, hey! Come on up!\nTake a shot! Win a prize!",
+  "cz": ""
+ },
+ {
+  "gi": 37,
+  "si": 39,
+  "en": "My sister and I came a long way to see\nthe {Color:Blue}Picori Festival{Color:White} this year.\nIs it true the festival's named after\ntiny people the size of my thumb?\nI want to see what they look like! Do\nyou know where I can go to see them?",
+  "cz": ""
+ },
+ {
+  "gi": 39,
+  "si": 1,
+  "en": "Hmph! So, a guardian is protecting the\ntreasure? Take care while fighting it.",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 1,
+  "en": "My name's Dampé. I'm the\n{Color:Green}gravedigger{Color:White} here.\nWhat's that? You were called here by\nthe ghost of a king?\nThat'd be the ancient king of Hyrule\nwho rests here. I've seen him myself.\nWell, if the king has called you, I can't\nsee any reason not to let you in...\nHere, take this {Color:Red}graveyard key{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 2,
+  "en": "What? A crow took the key and flew\noff into a tree?\nWell, don't just stand around!\nThe crow'll get away!\nCharge at him and give that tree\nhe's in a rattle if you want it back!",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 3,
+  "en": "I'll open the gate for you.\nBe careful in there.",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 4,
+  "en": "{Color:Blue}Left{Color:White}, {Color:Blue}left{Color:White}, {Color:Blue}left{Color:White}... {Color:Blue}Up{Color:White}, {Color:Blue}up{Color:White}, {Color:Blue}up{Color:White}...\nDang! What's that last turn?",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 5,
+  "en": "You want to {Color:Blue}fuse Kinstones{Color:White} with me?\n",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 6,
+  "en": "Wow! Hey! Look at that! They fused!\n\nI hope that means business will\nbe booming from now on.",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 7,
+  "en": "Hey, come back if you find another\n{Color:Red}Kinstone piece{Color:White}.",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 8,
+  "en": "My name's Dampé. I'm the {Color:Green}gravedigger{Color:White}\nhere. What can I do for you?\nWhat's that? You say you were called\nhere by the ghost of a king?\nThat'd be the ancient king of Hyrule\nwho rests here. I've seen him myself.",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 9,
+  "en": "What's with that crow? He up and\nflew off with the {Color:Red}graveyard key{Color:White}!\nCharge after him and get that key!",
+  "cz": ""
+ },
+ {
+  "gi": 40,
+  "si": 10,
+  "en": "So, you managed to get the key back?\nKeep a tighter grip on it this time!\nAt least now, you can get into the\ngraveyard...",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 1,
+  "en": "So, what do you say, huh?\n  {Choice:FF}Sure {Choice:29:05}No, thanks",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 2,
+  "en": "Thanks a lot!",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 3,
+  "en": "You don't have enough {Color:Red}Rupees{Color:White}!\nCome back later!",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 4,
+  "en": "You can't hold no more stuff.\nCome back later.",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 5,
+  "en": "Pfeh!\nThen get lost!",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 11,
+  "en": "OK, ya got me!\n\nI'll make it up to you by selling\nyou {Color:Red}bombs{Color:White}! 10 of 'em for {Var:1} Rupees!\n{07:29:01}",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 12,
+  "en": "OK, ya got me!\nLet me make it up to ya!\nThis fabulous {Color:Red}Grip Ring {Color:White}is just perfect\nfor a young mountaineer like yourself!\nClimb in style for only {Var:1} Rupees!\nWhat a bargain!\n{07:29:01}",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 13,
+  "en": "OK, ya got me!\n\nI'll make it up to you by selling you\na {Color:Red}Kinstone piece {Color:White}for {Var:1} Rupees!\n{07:29:01}",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 14,
+  "en": "OK, ya got me!\n\nI'll make it up to you by selling\nyou {Color:Red}arrows{Color:White}! 30 of 'em for {Var:1} Rupees!\n{07:29:01}",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 15,
+  "en": "I wanna sell you {Color:Red}arrows{Color:White}, but you don't\nhave a {Color:Red}bow{Color:White}! Come back later!",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 16,
+  "en": "OK, ya got me!\nLet me make it up to ya!\nYou can have this most deluxe of all\n{Color:Red}bottles{Color:White} for only {Var:1} Rupees!\n{07:29:01}",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 17,
+  "en": "I ain't got nothin' ta sell!",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 18,
+  "en": "OK, ya got me!\n\nI'll make it up to you by\ntelling you something good!\n{07:29:13}",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 19,
+  "en": "A friend of mine in a {Color:Green}cave just east of\nhere, in Trilby Highlands{Color:White}, has an item.\nIf you're planning on going up {Color:Green}Mount\nCrenel{Color:White}, I think you might need it.\nIt won't get you to the top, but\nit might just give you a start.",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 20,
+  "en": "OK, ya got me!\n\nI'll make it up to you by fusing\nKinstones with you for {Var:1} Rupees!\n{07:29:15}",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 21,
+  "en": "You wanna?\n  {Choice:29:02}Yes {Choice:29:05}No",
+  "cz": ""
+ },
+ {
+  "gi": 41,
+  "si": 22,
+  "en": "You don't wanna?",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 1,
+  "en": "Oh, that {Color:Red}Red Picolyte{Color:White} will make your\nquest so much easier!\nIt makes it a cinch for you to\nfind hearts! Care to buy some?\n{07:2B:0F}",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 2,
+  "en": "Oh, that {Color:Red}White Picolyte{Color:White} is for people\nwho want to get lucky!\nIt makes it easier for you to find\nKinstone pieces. Care to buy it?\n{07:2B:0F}",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 3,
+  "en": "Oh, that {Color:Red}Green Picolyte{Color:White} is for only the\nmost serious of collectors!\nIt will make it easier for you to find\nMysterious Shells! Care to buy it?\n{07:2B:0F}",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 4,
+  "en": "Oh, that {Color:Red}Yellow Picolyte{Color:White} makes it\neasier for you to find Rupees!\nIt practically pays for itself!\nCare to buy it?\n{07:2B:0F}",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 5,
+  "en": "Oh, that {Color:Red}Blue Picolyte{Color:White} is amazing stuff!\n\nIt helps you find items!\nCare to buy it?\n{07:2B:0F}",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 6,
+  "en": "Oh, that {Color:Red}Orange Picolyte{Color:White} really makes\ntraveling easy!\nIt helps you find fairies everywhere!\nCare to buy it?\n{07:2B:0F}",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 7,
+  "en": "All right! I'll put it into your bottle!",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 8,
+  "en": "Really?\nWell, keep looking!",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 9,
+  "en": "Oh, I'm sorry!\nYou don't have enough Rupees.",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 10,
+  "en": "Oh, I'm sorry! You need to have an\nempty bottle. Come back when you do!",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 11,
+  "en": "Oh, I'm sorry! You already have some\nof that kind of Picolyte!",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 12,
+  "en": "I made a sale! Oh, thank you! \nPlease, do come again!",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 13,
+  "en": "I sell all kinds of Picolyte!\n\nI just put it in your bottle, and good\nstuff happens when you drink it!{Symbol:0B}",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 14,
+  "en": "That's an empty bottle.\n\nIf I ever find a new kind of Picolyte,\nI'll put it in there!",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 15,
+  "en": "It's {Var:1} Rupees. Care to buy some?\n{Choice:FF}Buy  {Choice:2B:08}Don't buy",
+  "cz": ""
+ },
+ {
+  "gi": 43,
+  "si": 16,
+  "en": "Why, hello there!\nThanks for coming by!",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 1,
+  "en": "{Sound:01:F4}Ah, yes, yes. Welcome, welcome!\nPlease, feel free to browse!",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 2,
+  "en": "Only {Var:1} Rupees for a {Color:Red}shield{Color:White}!\nYou simply won't find a better deal!\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 3,
+  "en": "Only {Var:1} Rupees for {Color:Red}10 bombs{Color:White}. Such\nbargains are unheard of elsewhere!\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 4,
+  "en": "Only {Var:1} Rupees for a {Color:Red}wallet{Color:White}. It\ncan hold a king's ransom in Rupees!\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 5,
+  "en": "Only {Var:1} Rupees for {Color:Red}30 Mysterious\nShells{Color:White}. Great for buying figurines!\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 6,
+  "en": "{Sound:01:F4}Hey, when did you come back here? Did\nyou come back here just to get that?\nMy, my, my! You sure do like bottles.\n\nI had no intentions of selling it, but\nyou DO seem desperate.\nI'll tell you what... I'll sell you\nthat {Color:Red}bottle {Color:White}for {Var:1} Rupees!\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 7,
+  "en": "Oh, the {Color:Red}quiver{Color:White}? Yes, it's {Var:1} Rupees!\nIt holds many {Color:Red}arrows{Color:White}, as you can see.\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 8,
+  "en": "{Color:Red}10 arrows{Color:White} for {Var:1} Rupees.\nAn astounding bargain, you'll agree.\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 9,
+  "en": "{Color:Red}30 bombs{Color:White} for {Var:1} Rupees! Yes,\nfor you, I give you my bulk rate!\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 10,
+  "en": "{Color:Red}30 arrows {Color:White}for {Var:1} Rupees!\nYou can't beat that with a stick!\n{07:2C:14}",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 11,
+  "en": "You {Color:Blue}already have a fine shield{Color:White}!\nHonestly, who needs TWO {Color:Red}shields{Color:White}?!",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 12,
+  "en": "{Sound:01:F4}Ah, my friend, you're far too clever by\nhalf, but you won't be haggling with me!",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 13,
+  "en": "Why do you bother shopping if you're\nnot going to have enough Rupees?\nWhen you have more money, perhaps\nwe can discuss this further.",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 14,
+  "en": "You don't seem to have enough room\nfor anything more. Hm. A pity.",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 15,
+  "en": "{Sound:01:F4}Much obliged, my good lad! Please,\ndo not hesitate to stop by again!",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 16,
+  "en": "{Sound:01:F4}Well! You ARE a big spender,\naren't you? Thank you!",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 17,
+  "en": "{Sound:01:F4}Have I told you how much I appreciate\nyour continued patronage?\nBecause I do.",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 18,
+  "en": "{Sound:01:F4}Hello! Is anyone back there?\nNo? Ah, well... I guess not.\nHow odd.",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 19,
+  "en": "{Sound:01:F4}Egad! I knew there was someone here!\nWhen did you find your way back here?\nThis area is for employees only. That is\nto say, me and me alone!",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 20,
+  "en": "Will you buy it?\n{Choice:FF}Buy {Choice:2C:0C}Don't buy",
+  "cz": ""
+ },
+ {
+  "gi": 44,
+  "si": 22,
+  "en": "{Sound:01:F4}I'm sorry, my good lad, but\nthat is not for sale!\nThat bottle contains food\nfor my dear little dog, Fifi...\nWhat? You just want the {Color:Red}bottle{Color:White}?\nThat's highly unusual...\nWell, fine. If you feed Fifi, then\nI guess {Color:Blue}you can have the bottle{Color:White}.\nHow does that sound?\n  {Choice:FF}I'll do it {Choice:2C:17}No, thanks",
+  "cz": ""
+ }
+]

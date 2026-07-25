@@ -1,0 +1,2186 @@
+[
+ {
+  "gi": 5,
+  "si": 48,
+  "en": "{04:10:0E}You got {Color:Red}Farore's Charm{Color:White}! Your power and\nguard will be boosted for a while!",
+  "cz": "{04:10:0E}Mas {Color:Red}Faroreuv amulet{Color:White}! Tva sila a\nobrana budou na chvili posileny!"
+ },
+ {
+  "gi": 5,
+  "si": 49,
+  "en": "{04:10:0E}You got {Color:Red}Din's Charm{Color:White}! Your strength will\nbe boosted for a while!",
+  "cz": "{04:10:0E}Mas {Color:Red}Dinin amulet{Color:White}! Tva sila bude\nna chvili posilena!"
+ },
+ {
+  "gi": 5,
+  "si": 52,
+  "en": "{04:10:0E}You accepted the {Color:Red}Smith's Sword{Color:White}!\n\nMake sure you don't lose this extremely\nimportant delivery!",
+  "cz": "{04:10:0E}Prevzal jsi {Color:Red}Smithuv mec{Color:White}!\n\nDavej pozor, at neztratis tuhle\nnesmirne dulezitou zasilku!"
+ },
+ {
+  "gi": 5,
+  "si": 53,
+  "en": "{04:10:0C}You accepted the {Color:Red}Broken Picori Blade{Color:White}!\n\nThis is part of the sword needed to\nreforge the sacred sword. Don't lose it!",
+  "cz": "{04:10:0C}Prevzal jsi {Color:Red}Zlomenou Picori cepel{Color:White}!\n\nJe to cast mece potrebna k vykovani\nposvatneho mece. Neztrat ji!"
+ },
+ {
+  "gi": 5,
+  "si": 54,
+  "en": "{04:10:0E}You got {Color:Red}a bottle of dog food{Color:White}!\nNow, head out on your errand!",
+  "cz": "{04:10:0E}Mas {Color:Red}lahev psiho zraniva{Color:White}!\nA ted vyraz na svuj ukol!"
+ },
+ {
+  "gi": 5,
+  "si": 55,
+  "en": "{04:10:0E}You got the {Color:Red}Lon Lon Ranch key{Color:White}!\nNow you can open the ranch door!",
+  "cz": "{04:10:0E}Mas {Color:Red}klic od ranche Lon Lon{Color:White}!\nTed muzes otevrit dvere ranche!"
+ },
+ {
+  "gi": 5,
+  "si": 56,
+  "en": "{04:10:0E}You got a {Color:Red}wake-up mushroom{Color:White}! Its nasty\nstench chases away the sleepies!",
+  "cz": "{04:10:0E}Mas {Color:Red}probouzeci hribek{Color:White}! Jeho\noskliva vune zazene spanek!"
+ },
+ {
+  "gi": 5,
+  "si": 57,
+  "en": "{04:10:0E}You got a library book called\n{Color:Red}A Hyrulean Bestiary{Color:White}!",
+  "cz": "{04:10:0E}Mas knihu z knihovny zvanou\n{Color:Red}Hyrulsky bestiar{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 58,
+  "en": "{04:10:0E}You got a library book called\n{Color:Red}Legend of the Picori{Color:White}!",
+  "cz": "{04:10:0E}Mas knihu z knihovny zvanou\n{Color:Red}Legenda o Picori{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 59,
+  "en": "{04:10:0E}You got a library book called\n{Color:Red}A History of Masks{Color:White}!",
+  "cz": "{04:10:0E}Mas knihu z knihovny zvanou\n{Color:Red}Historie masek{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 60,
+  "en": "{04:10:0E}You got the {Color:Red}graveyard key{Color:White}! Now, you\ncan open the graveyard gate!",
+  "cz": "{04:10:0E}Mas {Color:Red}klic od hrbitova{Color:White}! Ted muzes\notevrit branu hrbitova!"
+ },
+ {
+  "gi": 5,
+  "si": 61,
+  "en": "{04:10:0E}You got the {Color:Red}graveyard key {Color:White}back! Now,\nyou can open the graveyard gate!",
+  "cz": "{04:10:0E}Mas {Color:Red}klic od hrbitova {Color:White}zpet! Ted\nmuzes otevrit branu hrbitova!"
+ },
+ {
+  "gi": 5,
+  "si": 62,
+  "en": "You got a {Color:Red}Mysterious Shell{Color:White}! Don't know\nwhat it's for, but hang on to it anyway!",
+  "cz": "Mas {Color:Red}Tajemnou ulitu{Color:White}! Nevim, k cemu\nje, ale radsi si ji nech!"
+ },
+ {
+  "gi": 5,
+  "si": 63,
+  "en": "You've got {Var:1} {Color:Red}Mysterious Shells{Color:White}!\n\nI'm not sure what they're for, but\nlet's just hold on to them for now.",
+  "cz": "Mas {Var:1} {Color:Red}Tajemnych ulit{Color:White}!\n\nNejsem si jisty, k cemu jsou, ale\nzatim si je ponechej."
+ },
+ {
+  "gi": 5,
+  "si": 64,
+  "en": "{04:10:0E}You got the {Color:Red}Earth Element{Color:White}!\n\nThe power of the earth is the\nsource of all living things.\nThe {Color:Red}Earth Element{Color:White} is the embodiment\nof that power.",
+  "cz": "{04:10:0E}Mas {Color:Red}Element zeme{Color:White}!\n\nSila zeme je zdrojem\nveskereho zivota.\n{Color:Red}Element zeme{Color:White} je ztelesnenim\nteto sily."
+ },
+ {
+  "gi": 5,
+  "si": 65,
+  "en": "{04:10:00}You got the{Color:Red} Fire Element{Color:White}!\n\nFlames bring light to darkness and\nwarmth to all.\nThe {Color:Red}Fire Element{Color:White} is the embodiment\nof that power.",
+  "cz": "{04:10:00}Mas{Color:Red} Element ohne{Color:White}!\n\nPlameny prinaseji svetlo do tmy\na teplo vsem.\n{Color:Red}Element ohne{Color:White} je ztelesnenim\nteto sily."
+ },
+ {
+  "gi": 5,
+  "si": 66,
+  "en": "{04:10:0E}You got the{Color:Red} Water Element{Color:White}!\n\nWater quenches thirst, ends drought,\nand nourishes life.{Color:Blue}\n{Color:White}The {Color:Red}Water Element{Color:White} is the embodiment of\nthat power.",
+  "cz": "{04:10:0E}Mas{Color:Red} Element vody{Color:White}!\n\nVoda uhasi zizen, konci sucho\na zivi zivot.{Color:Blue}\n{Color:White}{Color:Red}Element vody{Color:White} je ztelesnenim\nteto sily."
+ },
+ {
+  "gi": 5,
+  "si": 67,
+  "en": "{04:10:0E}You got the{Color:Red} Wind Element{Color:White}!\n\nThe wind carries the seeds of flowers,\nscattering life across the land.\nThe {Color:Red}Wind Element{Color:White} is the embodiment of\nthat power.",
+  "cz": "{04:10:0E}Mas{Color:Red} Element vetru{Color:White}!\n\nVitr nese semena kvetin\na rozsiva zivot po cele zemi.\n{Color:Red}Element vetru{Color:White} je ztelesnenim\nteto sily."
+ },
+ {
+  "gi": 5,
+  "si": 68,
+  "en": "{04:10:0E}You got the{Color:Red} Grip Ring{Color:White}!\n\nNow, you can easily climb cliffs that\nyou could not scale before.",
+  "cz": "{04:10:0E}Mas{Color:Red} Prsten uchopu{Color:White}!\n\nTed snadno vylezes na utesy,\nktere jsi predtim nezvladl."
+ },
+ {
+  "gi": 5,
+  "si": 69,
+  "en": "{04:10:0E}You got the{Color:Red} Power Bracelets{Color:White}! You're\nfilled with strength, even while tiny!",
+  "cz": "{04:10:0E}Mas{Color:Red} Naramky sily{Color:White}! Jsi\nplny sily, i kdyz jsi maly!"
+ },
+ {
+  "gi": 5,
+  "si": 70,
+  "en": "You got the {Color:Red}flippers{Color:White}! Press {Key:A} to glide\nthrough the water and {Key:B} to dive!",
+  "cz": "Mas {Color:Red}plovaci blany{Color:White}! Stiskni {Key:A} pro\nklouzani vodou a {Key:B} pro potapeni!"
+ },
+ {
+  "gi": 5,
+  "si": 71,
+  "en": "{04:10:0E}You got a {Color:Red}map of Hyrule{Color:White}!\nNow, you'll never get lost!",
+  "cz": "{04:10:0E}Mas {Color:Red}mapu Hyrule{Color:White}!\nTed uz nikdy nezabloudis!"
+ },
+ {
+  "gi": 5,
+  "si": 72,
+  "en": "{04:10:0E}You learned the secret {Color:Red}Spin Attack{Color:White}\nfighting technique!\nThis is the first sword technique you've\nlearned from Master Swiftblade!",
+  "cz": "{04:10:0E}Naucil ses tajny utok {Color:Red}Vir mecem{Color:White}!\nTo je prvni technika mece, kterou\njsi se naucil od Mistra Swiftbladea!"
+ },
+ {
+  "gi": 5,
+  "si": 73,
+  "en": "{04:10:0E}You learned the secret {Color:Red}Roll Attack{Color:White}\nfighting technique!\nSlay with one stroke! Aim and release!",
+  "cz": "{04:10:0E}Naucil ses tajny utok {Color:Red}Kotoulovy utok{Color:White}!\nZabij jednou ranou! Zacil a uvolni!"
+ },
+ {
+  "gi": 5,
+  "si": 74,
+  "en": "{04:10:0E}You learned the{Color:Red} {Color:White}secret {Color:Red}Dash Attack{Color:White}\nfighting technique!\nRun like the wind and attack!",
+  "cz": "{04:10:0E}Naucil ses{Color:Red} {Color:White}tajny utok {Color:Red}Vypadovy utok{Color:White}!\nBez jako vitr a utoc!"
+ },
+ {
+  "gi": 5,
+  "si": 75,
+  "en": "{04:10:0E}You learned the secret {Color:Red}Rock Breaker{Color:White}\nfighting technique!\nShatter pots and pulverize boulders\nwith a single blow!",
+  "cz": "{04:10:0E}Naucil ses tajny utok {Color:Red}Drtic skal{Color:White}!\nRozbij hrnce a roztris balvany\njednou ranou!"
+ },
+ {
+  "gi": 5,
+  "si": 76,
+  "en": "{04:10:0E}You learned the{Color:Red} {Color:White}secret {Color:Red}Sword Beam{Color:White}\nfighting technique!\nFire beams from the tip of your blade!\n\nYou can only do this when your life\nenergy is full.",
+  "cz": "{04:10:0E}Naucil ses{Color:Red} {Color:White}tajny utok {Color:Red}Paprsek mece{Color:White}!\nVystreluj paprsky ze spicky cepele!\n\nFunguje to jen, kdyz je tvoje\nzivotni energie plna."
+ },
+ {
+  "gi": 5,
+  "si": 77,
+  "en": "{04:10:0E}You learned the{Color:Red} {Color:White}secret {Color:Red}Great Spin\nAttack {Color:White}fighting technique!\nThis is it! At last! The ultimate sword\ntechnique!",
+  "cz": "{04:10:0E}Naucil ses{Color:Red} {Color:White}tajny utok {Color:Red}Velky vir\nmecem{Color:White}!\nUz je to tady! Konecne! Nejvyssi\ntechnika mece!"
+ },
+ {
+  "gi": 5,
+  "si": 78,
+  "en": "{04:10:0E}You learned the secret {Color:Red}Down Thrust{Color:White}\nfighting technique!\nThrust down with your blade from\nmidair with this mighty attack!",
+  "cz": "{04:10:0E}Naucil ses tajny utok {Color:Red}Bodnuti dolu{Color:White}!\nBodni cepeli dolu ze vzduchu\ntimto mocnym utokem!"
+ },
+ {
+  "gi": 5,
+  "si": 79,
+  "en": "{04:10:0E}You learned the{Color:Red} {Color:White}secret {Color:Red}Peril Beam{Color:White}\nfighting technique!\nRelease a mighty beam from the tip of\nyour blade! Use it in dire moments!",
+  "cz": "{04:10:0E}Naucil ses{Color:Red} {Color:White}tajny utok {Color:Red}Paprsek nouze{Color:White}!\nVypust mocny paprsek ze spicky\ncepele! Pouzij ho v krajni nouzi!"
+ },
+ {
+  "gi": 5,
+  "si": 80,
+  "en": "{04:10:0E}You found a{Color:Red} dungeon map{Color:White}!\nCheck it on your {Color:Blue}Map screen{Color:White}.\nLighter rooms are ones you've visited.\nThe blinking room is your location.\nPress Up or Down on {Key:Dpad} to\ncheck different floors.",
+  "cz": "{04:10:0E}Nasel jsi{Color:Red} mapu dungeonu{Color:White}!\nProhlizej ji na {Color:Blue}obrazovce Mapy{Color:White}.\nSvetlejsi mistnosti jsi navstivil.\nBlikajici mistnost je tva pozice.\nStiskni Nahoru nebo Dolu na {Key:Dpad}\npro prohlizeni dalsich pater."
+ },
+ {
+  "gi": 5,
+  "si": 81,
+  "en": "You got the {Color:Red}compass{Color:White}! Use it to find the\nlocations of hidden items.{Color:Blue}\n{Color:White}Press START and then {Key:Left} or {Key:Right} to\nview the Map screen.",
+  "cz": "Mas {Color:Red}kompas{Color:White}! Pouzij ho k nalezeni\nschovanych predmetu.{Color:Blue}\n{Color:White}Stiskni START a pak {Key:Left} nebo {Key:Right}\npro zobrazeni mapy."
+ },
+ {
+  "gi": 5,
+  "si": 82,
+  "en": "You got the {Color:Red}Big Key{Color:White}!\nUse it to open big doors!",
+  "cz": "Mas {Color:Red}velky klic{Color:White}!\nPouzij ho k otevreni velkych dveri!"
+ },
+ {
+  "gi": 5,
+  "si": 83,
+  "en": "You got a {Color:Red}small key{Color:White}!\n\nUse it to open locked doors and blocks.\nYou can use it only in this dungeon.",
+  "cz": "Mas {Color:Red}maly klic{Color:White}!\n\nPouzij ho k otevreni zamcenych\ndveri a bloku. Funguje jen tady."
+ },
+ {
+  "gi": 5,
+  "si": 84,
+  "en": "You got {Color:Red}1 Rupee{Color:White}. It's green! Don't\nspend it all in one place!",
+  "cz": "Mas {Color:Red}1 rupii{Color:White}. Je zelena!\nNeutrat ji vsechnu na jednom miste!"
+ },
+ {
+  "gi": 5,
+  "si": 85,
+  "en": "You got {Color:Red}5 Rupees{Color:White}! That's kind of nice.",
+  "cz": "Mas {Color:Red}5 rupii{Color:White}! To je pekne."
+ },
+ {
+  "gi": 5,
+  "si": 86,
+  "en": "You got {Color:Red}20 Rupees{Color:White}!\nThat's great.",
+  "cz": "Mas {Color:Red}20 rupii{Color:White}!\nTo je skvele."
+ },
+ {
+  "gi": 5,
+  "si": 87,
+  "en": "You got {Color:Red}50 Rupees{Color:White}!\nYou must be very happy!",
+  "cz": "Mas {Color:Red}50 rupii{Color:White}!\nUrcite mas velkou radost!"
+ },
+ {
+  "gi": 5,
+  "si": 88,
+  "en": "You got {Color:Red}100 Rupees{Color:White}!\nHow exciting!",
+  "cz": "Mas {Color:Red}100 rupii{Color:White}!\nTo je vzrusujici!"
+ },
+ {
+  "gi": 5,
+  "si": 89,
+  "en": "You got {Color:Red}200 Rupees{Color:White}!\nYour face is beaming!",
+  "cz": "Mas {Color:Red}200 rupii{Color:White}!\nTva tvar zari!"
+ },
+ {
+  "gi": 5,
+  "si": 91,
+  "en": "{04:10:0E}You ate the{Color:Red} Jabber Nut{Color:White}! Now you can\nunderstand the language of the {Color:Green}Minish{Color:White}.",
+  "cz": "{04:10:0E}Snedl jsi{Color:Red} Drbavy orisek{Color:White}! Ted rozumis\njazyku {Color:Green}Minish{Color:White}."
+ },
+ {
+  "gi": 5,
+  "si": 92,
+  "en": "You got a {Color:Red}Kinstone piece{Color:White}! These mystic\nstones are said to bring happiness.",
+  "cz": "Mas {Color:Red}kus Kamene osudu{Color:White}! Rika se,\nze tyto mysticke kameny prinaseji stesti."
+ },
+ {
+  "gi": 5,
+  "si": 93,
+  "en": "You got 5 {Color:Red}bombs{Color:White}! Store them in your\nbomb bag!",
+  "cz": "Mas 5 {Color:Red}bomb{Color:White}! Uloz si je do\npytle na bomby!"
+ },
+ {
+  "gi": 5,
+  "si": 94,
+  "en": "You got 5 {Color:Red}arrows{Color:White}!\nStore them in your quiver.",
+  "cz": "Mas 5 {Color:Red}sipu{Color:White}!\nUloz si je do toulce."
+ },
+ {
+  "gi": 5,
+  "si": 95,
+  "en": "You got a {Color:Red}heart{Color:White}! These replenish\nyour life energy a little bit.",
+  "cz": "Mas {Color:Red}srdce{Color:White}! Doplnuje ti\nzivotni energii o kousek."
+ },
+ {
+  "gi": 5,
+  "si": 96,
+  "en": "You found a {Color:Red}fairy{Color:White}. This reliable ally\nwill replenish your life energy!",
+  "cz": "Nasel jsi {Color:Red}vilu{Color:White}. Tato spolehliva\nspojenkyne ti doplni zivotni energii!"
+ },
+ {
+  "gi": 5,
+  "si": 98,
+  "en": "You got a {Color:Red}Heart Container{Color:White}!\n\nYour life energy has increased and\nbeen replenished!",
+  "cz": "Mas {Color:Red}Nadobu srdce{Color:White}!\n\nTvoje zivotni energie se zvysila\na byla doplnena!"
+ },
+ {
+  "gi": 5,
+  "si": 99,
+  "en": "You got a {Color:Red}big bomb bag{Color:White}! Now you can\ncarry more bombs!",
+  "cz": "Mas {Color:Red}velky pytel na bomby{Color:White}! Ted\nmuzes nosit vice bomb!"
+ },
+ {
+  "gi": 5,
+  "si": 100,
+  "en": "You got a {Color:Red}big wallet{Color:White}! Now, you can\ncarry more Rupees!",
+  "cz": "Mas {Color:Red}velkou penezenku{Color:White}! Ted muzes\nnosit vice rupii!"
+ },
+ {
+  "gi": 5,
+  "si": 101,
+  "en": "{04:10:00}You got a {Color:Red}bigger bomb bag{Color:White}!\n\nNow, you can carry more bombs!\nLet's blow up everything!",
+  "cz": "{04:10:00}Mas {Color:Red}vetsi pytel na bomby{Color:White}!\n\nTed muzes nosit jeste vice bomb!\nPojdme vsechno vyhodit do vzduchu!"
+ },
+ {
+  "gi": 5,
+  "si": 102,
+  "en": "You got a {Color:Red}large quiver{Color:White}! Now, you can\ncarry more arrows!",
+  "cz": "Mas {Color:Red}velky toulec{Color:White}! Ted muzes\nnosit vice sipu!"
+ },
+ {
+  "gi": 5,
+  "si": 103,
+  "en": "{04:10:0E}You got a {Color:Red}Kinstone bag{Color:White}! You can now\ncarry {Color:Red}Kinstone pieces {Color:White}with you.\nPress START to view its contents from\nyour Quest Status screen.",
+  "cz": "{04:10:0E}Mas {Color:Red}pytel na Kameny osudu{Color:White}! Ted\nu sebe muzes mit {Color:Red}kusy Kamene osudu{Color:White}.\nStiskni START pro prohlizeni obsahu\nv obrazovce Stav vypravy."
+ },
+ {
+  "gi": 5,
+  "si": 104,
+  "en": "You bought a {Color:Red}brioche{Color:White}! It looks so\ncrusty and delicious!",
+  "cz": "Koupil jsi {Color:Red}briosku{Color:White}! Vypada\nkrupave a chutne!"
+ },
+ {
+  "gi": 5,
+  "si": 105,
+  "en": "You bought a {Color:Red}croissant{Color:White}! It looks so\nbuttery and delicious!",
+  "cz": "Koupil jsi {Color:Red}kroasan{Color:White}! Vypada\nmaslove a chutne!"
+ },
+ {
+  "gi": 5,
+  "si": 106,
+  "en": "You bought a {Color:Red}slice of pie{Color:White}! One bite,\nand you're in heaven!",
+  "cz": "Koupil jsi {Color:Red}kousek kolace{Color:White}! Jedno\nsousto a jsi v nebi!"
+ },
+ {
+  "gi": 5,
+  "si": 107,
+  "en": "You bought a {Color:Red}slice of cake{Color:White}!\nTime to get your snack on!",
+  "cz": "Koupil jsi {Color:Red}kousek dortu{Color:White}!\nCas na svacinu!"
+ },
+ {
+  "gi": 5,
+  "si": 108,
+  "en": "You bought 10{Color:Red} bombs{Color:White}!\nStore them in your bomb bag!",
+  "cz": "Koupil jsi 10{Color:Red} bomb{Color:White}!\nUloz si je do pytle na bomby!"
+ },
+ {
+  "gi": 5,
+  "si": 109,
+  "en": "You bought 30{Color:Red} bombs{Color:White}!\nStore them in your bomb bag!",
+  "cz": "Koupil jsi 30{Color:Red} bomb{Color:White}!\nUloz si je do pytle na bomby!"
+ },
+ {
+  "gi": 5,
+  "si": 110,
+  "en": "You bought 10 {Color:Red}arrows{Color:White}!\nStore them in your quiver!",
+  "cz": "Koupil jsi 10 {Color:Red}sipu{Color:White}!\nUloz si je do toulce!"
+ },
+ {
+  "gi": 5,
+  "si": 111,
+  "en": "You bought 30{Color:Red} arrows{Color:White}!\nStore them in your quiver!",
+  "cz": "Koupil jsi 30{Color:Red} sipu{Color:White}!\nUloz si je do toulce!"
+ },
+ {
+  "gi": 5,
+  "si": 112,
+  "en": "You caught a {Color:Red}Joy Butterfly{Color:White}! You can\nnow shoot arrows faster than before.",
+  "cz": "Chytil jsi {Color:Red}Motyla radosti{Color:White}! Ted\numis strilet sipy rychleji nez driv."
+ },
+ {
+  "gi": 5,
+  "si": 113,
+  "en": "You caught a {Color:Red}Joy Butterfly{Color:White}! You can\nnow dig faster than before!",
+  "cz": "Chytil jsi {Color:Red}Motyla radosti{Color:White}! Ted\numis kopat rychleji nez driv!"
+ },
+ {
+  "gi": 5,
+  "si": 114,
+  "en": "You caught a {Color:Red}Joy Butterfly{Color:White}! You can\nnow swim faster than before!",
+  "cz": "Chytil jsi {Color:Red}Motyla radosti{Color:White}! Ted\numis plavat rychleji nez driv!"
+ },
+ {
+  "gi": 5,
+  "si": 115,
+  "en": "This is it! You {Color:Red}sped up your\nGreat Spin Attack charge{Color:White}!\nYou won't have to hold the button\ndown as long anymore!",
+  "cz": "Je to tady! {Color:Red}Zrychlil jsi nabijeni\nVelkeho viru mecem{Color:White}!\nUz nebudes muset drzet tlacitko\ntak dlouho!"
+ },
+ {
+  "gi": 5,
+  "si": 116,
+  "en": "This is it! Your {Color:Red}Split Gauge {Color:White}has\nbeen {Color:Red}sped up{Color:White}!\nYour sword gauge will fill with power\nmore quickly!",
+  "cz": "Je to tady! Tvuj {Color:Red}Ukazatel mece {Color:White}byl\n{Color:Red}zrychlen{Color:White}!\nUkazatel mece se ti naplni silou\nrychleji!"
+ },
+ {
+  "gi": 5,
+  "si": 117,
+  "en": "This is it! Your {Color:Red}Great Spin Attack\nrotation time {Color:White}has {Color:Red}increased{Color:White}!\nSpin around and smash enemies to bits!",
+  "cz": "Je to tady! Tvuj cas rotace\n{Color:Red}Velkeho viru mecem {Color:White}se {Color:Red}prodlouzil{Color:White}!\nToc se a roztris nepratele na kusy!"
+ },
+ {
+  "gi": 5,
+  "si": 118,
+  "en": "You got {Var:1} {Color:Red}Mysterious Shells{Color:White}!",
+  "cz": "Mas {Var:1} {Color:Red}Tajemnych ulit{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 119,
+  "en": "You got a {Color:Red}Mysterious Shell{Color:White}!",
+  "cz": "Mas {Color:Red}Tajemnou ulitu{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 120,
+  "en": "Your {Color:Red}shield{Color:White} was stolen!\n",
+  "cz": "Tvuj {Color:Red}stit{Color:White} byl ukraden!\n"
+ },
+ {
+  "gi": 5,
+  "si": 121,
+  "en": "You recovered your {Color:Red}shield{Color:White}!\n",
+  "cz": "Ziskal jsi zpet svuj {Color:Red}stit{Color:White}!\n"
+ },
+ {
+  "gi": 5,
+  "si": 123,
+  "en": "{04:10:0E}Welcome to the adventurer's spring...\n\nI have need of many Rupees... Please,\nthrow all of yours into the spring.\n{Choice:05:7C}Sure  {Choice:05:7D}No way",
+  "cz": "{04:10:0E}Vitej u pramene dobrodruhu...\n\nPotrebuji mnoho rupii... Prosim,\nhod vsechny sve do pramene.\n{Choice:05:7C}Jasne  {Choice:05:7D}V zadnem pripade"
+ },
+ {
+  "gi": 5,
+  "si": 124,
+  "en": "{04:10:0E}{04:10:0E}Really?\n\nYou know that, if you do this, you will\nhave absolutely no Rupees left, right?\nWill you really throw them all in?\n{Choice:05:7E}Yes  {Choice:05:7D}No",
+  "cz": "{04:10:0E}{04:10:0E}Opravdu?\n\nVis, ze pokud to udelas, nezbude ti\nuplne zadna rupie, ze?\nFakt je tam vsechny hodis?\n{Choice:05:7E}Ano  {Choice:05:7D}Ne"
+ },
+ {
+  "gi": 5,
+  "si": 125,
+  "en": "{04:10:0E}{04:10:0E}I see. Then I will wait for the next\nadventurer who comes my way...",
+  "cz": "{04:10:0E}{04:10:0E}Chapu. Pak pockam na dalsiho\ndobrodruha, ktery se sem dostane..."
+ },
+ {
+  "gi": 5,
+  "si": 126,
+  "en": "{04:10:0E}You are most kind. I do not\nreally need your Rupees.\nBut I must reward such a kind\nadventurer with some of my power.",
+  "cz": "{04:10:0E}Jsi velmi laskavy. Vlastne\ntve rupie nepotrebuji.\nMusim ale tak laskaveho dobrodruha\nodmenit casti sve moci."
+ },
+ {
+  "gi": 5,
+  "si": 127,
+  "en": "{04:10:0E}May light shine on your quest...",
+  "cz": "{04:10:0E}At svetlo zari na tvou vypravu..."
+ },
+ {
+  "gi": 5,
+  "si": 128,
+  "en": "{04:10:0E}Welcome to the adventurer's spring...\n\nDid you throw the {Color:Red}Golden Bomb{Color:White} into\nthe spring? Or the {Color:Red}Silver Bomb{Color:White}?\n{Choice:05:81}Golden Bomb    {Choice:05:81}Silver Bomb\n{Choice:05:82}Neither",
+  "cz": "{04:10:0E}Vitej u pramene dobrodruhu...\n\nHodil jsi do pramene {Color:Red}Zlatou bombu{Color:White}?\nNebo {Color:Red}Stribrnou bombu{Color:White}?\n{Choice:05:81}Zlatou bombu    {Choice:05:81}Stribrnou bombu\n{Choice:05:82}Ani jednu"
+ },
+ {
+  "gi": 5,
+  "si": 129,
+  "en": "{04:10:0E}You're lying, aren't you?\n\nAs punishment for your lie, I will reduce\nyour number of bombs to zero.",
+  "cz": "{04:10:0E}Lzes, ze?\n\nJako trest za tvou lez ti snizim\npocet bomb na nulu."
+ },
+ {
+  "gi": 5,
+  "si": 130,
+  "en": "{04:10:0E}You are honest.\n\nI must reward such an honest\nadventurer with some of my power.",
+  "cz": "{04:10:0E}Jsi upimny.\n\nMusim tak upimneho dobrodruha\nodmenit casti sve moci."
+ },
+ {
+  "gi": 5,
+  "si": 131,
+  "en": "{04:10:0E}Welcome to the adventurer's spring.\n\nWould you tell me of the things you've\nseen on your adventures?\n{Choice:FF}Yes  {Choice:FF}Not now",
+  "cz": "{04:10:0E}Vitej u pramene dobrodruhu.\n\nReknes mi o tom, co jsi videl\nna svych dobrodruzstvich?\n{Choice:FF}Ano  {Choice:FF}Ted ne"
+ },
+ {
+  "gi": 5,
+  "si": 132,
+  "en": "{04:10:0E}The first element you found was the\nFire Element, was it not?\n{Choice:05:8A}Yes  {Choice:05:8C}No",
+  "cz": "{04:10:0E}Prvni element, ktery jsi nasel, byl\nElement ohne, je to tak?\n{Choice:05:8A}Ano  {Choice:05:8C}Ne"
+ },
+ {
+  "gi": 5,
+  "si": 133,
+  "en": "{04:10:0E}Your grandfather's name is Smee,\nisn't it?\n{Choice:05:8A}Yes  {Choice:05:8D}No",
+  "cz": "{04:10:0E}Tvuj dedecek se jmenuje Smee,\nje to tak?\n{Choice:05:8A}Ano  {Choice:05:8D}Ne"
+ },
+ {
+  "gi": 5,
+  "si": 134,
+  "en": "{04:10:0E}Melari of Mount Crenel has seven\napprentices, does he not?\n{Choice:05:8E}Yes  {Choice:05:8A}No",
+  "cz": "{04:10:0E}Melari z hory Crenel ma sedm\nucnu, je to tak?\n{Choice:05:8E}Ano  {Choice:05:8A}Ne"
+ },
+ {
+  "gi": 5,
+  "si": 135,
+  "en": "{04:10:0E}The Blabber Nut gives one the ability\nto understand the Minish, does it not?\n{Choice:05:8A}Yes  {Choice:05:8F}No",
+  "cz": "{04:10:0E}Drbavy orisek dava schopnost\nrozumet Minish, je to tak?\n{Choice:05:8A}Ano  {Choice:05:8F}Ne"
+ },
+ {
+  "gi": 5,
+  "si": 136,
+  "en": "{04:10:0E}The robe of the current king of Hyrule,\nDaltus, is white, is it not?\n{Choice:05:8A}Yes  {Choice:05:8B}No",
+  "cz": "{04:10:0E}Plast soucasneho krale Hyrule,\nDaltuse, je bily, je to tak?\n{Choice:05:8A}Ano  {Choice:05:8B}Ne"
+ },
+ {
+  "gi": 5,
+  "si": 137,
+  "en": "{04:10:0E}Thank you. Then please just\nanswer my questions.\n{07:05:84}",
+  "cz": "{04:10:0E}Dekuji. Pak prosim jen\nodpovez na me otazky.\n{07:05:84}"
+ },
+ {
+  "gi": 5,
+  "si": 138,
+  "en": "{04:10:0E}You have lied to me.\n\nAs punishment for your lie, I will reduce\nyour number of arrows to zero.",
+  "cz": "{04:10:0E}Lhal jsi mi.\n\nJako trest za tvou lez ti snizim\npocet sipu na nulu."
+ },
+ {
+  "gi": 5,
+  "si": 139,
+  "en": "{04:10:0E}I see. Thank you for telling me about\nyour quest. You remember it all so well.\nSuch a faithful memory should be\nrewarded with some of my power.",
+  "cz": "{04:10:0E}Chapu. Dekuji, ze jsi mi povedel\no sve vyprave. Tak dobre si vse pamatujes.\nTak verna pamet by mela byt\nodmenena casti me moci."
+ },
+ {
+  "gi": 5,
+  "si": 140,
+  "en": "{04:10:0E}Yes, I see.\nNow for the next question.\n{07:05:85}",
+  "cz": "{04:10:0E}Ano, chapu.\nA ted dalsi otazka.\n{07:05:85}"
+ },
+ {
+  "gi": 5,
+  "si": 141,
+  "en": "{04:10:0E}Yes, I see.\nNow for the next question.\n{07:05:86}",
+  "cz": "{04:10:0E}Ano, chapu.\nA ted dalsi otazka.\n{07:05:86}"
+ },
+ {
+  "gi": 5,
+  "si": 142,
+  "en": "{04:10:0E}Yes, I see.\nNow for the next question.\n{07:05:87}",
+  "cz": "{04:10:0E}Ano, chapu.\nA ted dalsi otazka.\n{07:05:87}"
+ },
+ {
+  "gi": 5,
+  "si": 143,
+  "en": "{04:10:0E}Yes, I see.\nNow for the next question.\n{07:05:88}",
+  "cz": "{04:10:0E}Ano, chapu.\nA ted dalsi otazka.\n{07:05:88}"
+ },
+ {
+  "gi": 5,
+  "si": 144,
+  "en": "{04:10:0E}Welcome to the adventurer's spring...\nLet me rest your weary body.",
+  "cz": "{04:10:0E}Vitej u pramene dobrodruhu...\nNech me odpocinout tve unavene telo."
+ },
+ {
+  "gi": 5,
+  "si": 145,
+  "en": "You bought 10{Color:Red} bombs{Color:White}!",
+  "cz": "Koupil jsi 10{Color:Red} bomb{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 146,
+  "en": "You bought 30{Color:Red} bombs{Color:White}!",
+  "cz": "Koupil jsi 30{Color:Red} bomb{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 147,
+  "en": "You bought 10 {Color:Red}arrows{Color:White}!",
+  "cz": "Koupil jsi 10 {Color:Red}sipu{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 148,
+  "en": "You bought 30 {Color:Red}arrows{Color:White}!",
+  "cz": "Koupil jsi 30 {Color:Red}sipu{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 149,
+  "en": "You got the {Color:Red}Tingle Trophy{Color:White}!",
+  "cz": "Mas {Color:Red}Tingle trofej{Color:White}!"
+ },
+ {
+  "gi": 5,
+  "si": 150,
+  "en": "You got the {Color:Red}Carlov Medal{Color:White}!",
+  "cz": "Mas {Color:Red}Carlovovu medaili{Color:White}!"
+ },
+ {
+  "gi": 6,
+  "si": 1,
+  "en": "{Symbol:07}  Hyrule Castle",
+  "cz": "{Symbol:07}  hrad Hyrule"
+ },
+ {
+  "gi": 6,
+  "si": 2,
+  "en": "{Symbol:07}  Hyrule Castle\n{Symbol:09}  Hyrule Town     {Symbol:0A}  Minish Woods",
+  "cz": "{Symbol:07}  hrad Hyrule\n{Symbol:09}  mesto Hyrule     {Symbol:0A}  Minish Lesy"
+ },
+ {
+  "gi": 6,
+  "si": 3,
+  "en": "Crenel Wall\n(Watch out for falling rocks)",
+  "cz": "Stena Crenelu\n(Pozor na padajici kameni)"
+ },
+ {
+  "gi": 6,
+  "si": 4,
+  "en": "Dangerous - No Climbing",
+  "cz": "Nebezpeci - Zakaz lezeni"
+ },
+ {
+  "gi": 6,
+  "si": 5,
+  "en": "Syrup the Witch's Hut",
+  "cz": "Chyse carodejnice Syrup"
+ },
+ {
+  "gi": 6,
+  "si": 6,
+  "en": "No bomb throwing!",
+  "cz": "Zakaz hazeni bomb!"
+ },
+ {
+  "gi": 6,
+  "si": 7,
+  "en": "{Symbol:07}  Hyrule Town\n{Symbol:09}  Castor Wilds  {Symbol:0A}  Minish Woods",
+  "cz": "{Symbol:07}  mesto Hyrule\n{Symbol:09}  Castor Wilds  {Symbol:0A}  Minish Lesy"
+ },
+ {
+  "gi": 6,
+  "si": 8,
+  "en": "Hyrule Town",
+  "cz": "mesto Hyrule"
+ },
+ {
+  "gi": 6,
+  "si": 9,
+  "en": "{Symbol:07}  Royal Valley\n{Symbol:09}  Mount Crenel",
+  "cz": "{Symbol:07}  Kralovske udoli\n{Symbol:09}  Mt. Crenel"
+ },
+ {
+  "gi": 6,
+  "si": 10,
+  "en": "{Symbol:07}  Castor Wilds             Danger!\nDon't forget your Pegasus Boots!",
+  "cz": "{Symbol:07}  Castor Wilds             Nebezpeci!\nNezapomen na Pegasovy boty!"
+ },
+ {
+  "gi": 6,
+  "si": 11,
+  "en": "{Symbol:07}  Veil Falls\n{Symbol:08}  Minish Woods     {Symbol:0A}  Lake Hylia",
+  "cz": "{Symbol:07}  Veil Falls\n{Symbol:08}  Minish Lesy     {Symbol:0A}  Jezero Hylia"
+ },
+ {
+  "gi": 6,
+  "si": 12,
+  "en": "{Symbol:07}  Crenel Wall\n{Symbol:0A}  Crenel Mines",
+  "cz": "{Symbol:07}  Stena Crenelu\n{Symbol:0A}  Doly Crenel"
+ },
+ {
+  "gi": 6,
+  "si": 13,
+  "en": "{Symbol:07}  Crenel Mines\n{Symbol:09}  Crenel Wall",
+  "cz": "{Symbol:07}  Doly Crenel\n{Symbol:09}  Stena Crenelu"
+ },
+ {
+  "gi": 6,
+  "si": 14,
+  "en": "{Symbol:07}  Hyrule Castle    {Symbol:08}  Hyrule Town\n{Symbol:09}  Mount Crenel     {Symbol:0A}  Lake Hylia",
+  "cz": "{Symbol:07}  hrad Hyrule    {Symbol:08}  mesto Hyrule\n{Symbol:09}  Mt. Crenel     {Symbol:0A}  Jezero Hylia"
+ },
+ {
+  "gi": 6,
+  "si": 15,
+  "en": "Lon Lon Ranch",
+  "cz": "Ranc Lon Lon"
+ },
+ {
+  "gi": 6,
+  "si": 16,
+  "en": "{Symbol:07}  Crenel Mines\n{Symbol:0A}  Shortcut to bottom",
+  "cz": "{Symbol:07}  Doly Crenel\n{Symbol:0A}  Zkratka dolu"
+ },
+ {
+  "gi": 6,
+  "si": 17,
+  "en": "{Symbol:08}  Shortcut to bottom",
+  "cz": "{Symbol:08}  Zkratka dolu"
+ },
+ {
+  "gi": 6,
+  "si": 18,
+  "en": "{Symbol:09}  Mount Crenel",
+  "cz": "{Symbol:09}  Mt. Crenel"
+ },
+ {
+  "gi": 6,
+  "si": 19,
+  "en": "{Symbol:0A}  Lake Hylia\n{Symbol:08}  Syrup the Witch's Hut",
+  "cz": "{Symbol:0A}  Jezero Hylia\n{Symbol:08}  Chyse carodejnice Syrup"
+ },
+ {
+  "gi": 6,
+  "si": 20,
+  "en": "Percy's House",
+  "cz": "Percyho dum"
+ },
+ {
+  "gi": 6,
+  "si": 21,
+  "en": "{Symbol:09}  Royal Valley",
+  "cz": "{Symbol:09}  Kralovske udoli"
+ },
+ {
+  "gi": 6,
+  "si": 22,
+  "en": "{Symbol:08}  This way to Mayor Hagen's\n        Lakeside Cabin",
+  "cz": "{Symbol:08}  Tudy ke chate starosty\n        Hagena u jezera"
+ },
+ {
+  "gi": 6,
+  "si": 23,
+  "en": "{Symbol:07}  Syrup the Witch's Hut\n{Symbol:0A}  Mayor Hagen's Lakeside Cabin",
+  "cz": "{Symbol:07}  Chyse carodejnice Syrup\n{Symbol:0A}  Chata starosty Hagena u jezera"
+ },
+ {
+  "gi": 6,
+  "si": 27,
+  "en": "Dear Mom,\nI'll be next door if you need me.",
+  "cz": "Mila mami,\nbudu vedle, kdybys me potrebovala."
+ },
+ {
+  "gi": 6,
+  "si": 28,
+  "en": "This week's top titles:\n\n{Symbol:10}3   Learn to Like Your Like Like:\n     A Good Guide to a Bad Pet\n{Symbol:10}2   Gorman's Guide to Good Grub\n\n{Symbol:10}1   Married to the Moblin",
+  "cz": "Tento tyden nejlepsi tituly:\n\n{Symbol:10}3   Nauc se mit rad sveho Like Like:\n     Dobry pruvodce spatnym mazlickem\n{Symbol:10}2   Gormanuv pruvodce dobrym zranim\n\n{Symbol:10}1   Vdana za Moblina"
+ },
+ {
+  "gi": 6,
+  "si": 29,
+  "en": "Hagen's Words of Wisdom\n\nIf you can't solve a problem, just ram\nheadlong into it. BAM!",
+  "cz": "Hagenova slova moudrosti\n\nKdyz nemuzes vyresit problem, tak\ndo nej vraz hlavou. PRAC!"
+ },
+ {
+  "gi": 6,
+  "si": 31,
+  "en": "{Symbol:0A}  Mayor Hagen's Lakeside Cabin\nAll digging absolutely prohibited!",
+  "cz": "{Symbol:0A}  Chata starosty Hagena u jezera\nVeskere kopani prisne zakazano!"
+ },
+ {
+  "gi": 6,
+  "si": 32,
+  "en": "Under construction.\nAll digging strictly prohibited!",
+  "cz": "Ve vystavbe.\nVeskere kopani prisne zakazano!"
+ },
+ {
+  "gi": 6,
+  "si": 33,
+  "en": "Beware crumbling walls!\nBlasting strictly prohibited.",
+  "cz": "Pozor na drolici se zdi!\nOdstreloani prisne zakazano."
+ },
+ {
+  "gi": 6,
+  "si": 61,
+  "en": "Up",
+  "cz": "Nahoru"
+ },
+ {
+  "gi": 6,
+  "si": 62,
+  "en": "Left",
+  "cz": "Vlevo"
+ },
+ {
+  "gi": 6,
+  "si": 63,
+  "en": "Same as before",
+  "cz": "Stejne jako predtim"
+ },
+ {
+  "gi": 6,
+  "si": 64,
+  "en": "Same as the beginning",
+  "cz": "Stejne jako na zacatku"
+ },
+ {
+  "gi": 6,
+  "si": 65,
+  "en": "Right",
+  "cz": "Vpravo"
+ },
+ {
+  "gi": 6,
+  "si": 66,
+  "en": "Same as two before",
+  "cz": "Stejne jako dvakrat predtim"
+ },
+ {
+  "gi": 6,
+  "si": 67,
+  "en": "Down",
+  "cz": "Dolu"
+ },
+ {
+  "gi": 6,
+  "si": 71,
+  "en": "The truth about the {Color:Red}light force{Color:White} within{Color:Red}\n{Color:Green}Princess Zelda{Color:White} is depicted here.",
+  "cz": "Pravda o {Color:Red}sile svetla{Color:White} v{Color:Red}\n{Color:Green}princezne Zelde{Color:White} je zde zobrazena."
+ },
+ {
+  "gi": 6,
+  "si": 87,
+  "en": "The way forward is hidden\nin the bottom of the pot.",
+  "cz": "Cesta vpred je skryta\nve dne hrnce."
+ },
+ {
+  "gi": 7,
+  "si": 1,
+  "en": "You've finally fused all of the {Color:Red}Kinstone\npieces{Color:White}! Go speak to {Color:Green}Grandpa Smith{Color:White}!",
+  "cz": "Konecne jsi spojil vsechny {Color:Red}kusy\nKamene osudu{Color:White}! Jdi za {Color:Green}dedeckem Smithem{Color:White}!"
+ },
+ {
+  "gi": 7,
+  "si": 2,
+  "en": "The two {Color:Red}Kinstone pieces {Color:White}fit perfectly!\nMaybe something good will happen!",
+  "cz": "Ty dva {Color:Red}kusy Kamene osudu {Color:White}do sebe\nperfektne zapadly! Mozna se neco dobreho stane!"
+ },
+ {
+  "gi": 7,
+  "si": 4,
+  "en": "{04:13}Travel to this Wind Crest?\n{04:13}{Choice:FF}Yes     {Choice:FF}No{08:FF}",
+  "cz": "{04:13}Cestovat k tomuto Hrebenu vetru?\n{04:13}{Choice:FF}Ano     {Choice:FF}Ne{08:FF}"
+ },
+ {
+  "gi": 7,
+  "si": 11,
+  "en": "Mt. Crenel",
+  "cz": "Mt. Crenel"
+ },
+ {
+  "gi": 7,
+  "si": 12,
+  "en": "Mt. Crenel's Base",
+  "cz": "Upati Mt. Crenel"
+ },
+ {
+  "gi": 7,
+  "si": 13,
+  "en": "Castor Wilds",
+  "cz": "Castor Wilds"
+ },
+ {
+  "gi": 7,
+  "si": 14,
+  "en": "Wind Ruins",
+  "cz": "Ruiny vetru"
+ },
+ {
+  "gi": 7,
+  "si": 15,
+  "en": "Royal Valley",
+  "cz": "Kralovske udoli"
+ },
+ {
+  "gi": 7,
+  "si": 16,
+  "en": "Trilby Highlands",
+  "cz": "Trilby vrchovina"
+ },
+ {
+  "gi": 7,
+  "si": 17,
+  "en": "Western Wood",
+  "cz": "Zapadni les"
+ },
+ {
+  "gi": 7,
+  "si": 18,
+  "en": "Hyrule Castle Garden",
+  "cz": "Zahrada hradu Hyrule"
+ },
+ {
+  "gi": 7,
+  "si": 19,
+  "en": "North Hyrule Field",
+  "cz": "Severni pole Hyrule"
+ },
+ {
+  "gi": 7,
+  "si": 20,
+  "en": "Hyrule Town",
+  "cz": "mesto Hyrule"
+ },
+ {
+  "gi": 7,
+  "si": 21,
+  "en": "South Hyrule Field",
+  "cz": "Jizni pole Hyrule"
+ },
+ {
+  "gi": 7,
+  "si": 22,
+  "en": "Veil Springs",
+  "cz": "Veil prameny"
+ },
+ {
+  "gi": 7,
+  "si": 23,
+  "en": "Veil Falls",
+  "cz": "Veil Falls"
+ },
+ {
+  "gi": 7,
+  "si": 24,
+  "en": "Lon Lon Ranch",
+  "cz": "Ranc Lon Lon"
+ },
+ {
+  "gi": 7,
+  "si": 25,
+  "en": "Eastern Hills",
+  "cz": "Vychodni kopce"
+ },
+ {
+  "gi": 7,
+  "si": 26,
+  "en": "Cloud Tops",
+  "cz": "Mraky"
+ },
+ {
+  "gi": 7,
+  "si": 27,
+  "en": "Lake Hylia",
+  "cz": "Jezero Hylia"
+ },
+ {
+  "gi": 7,
+  "si": 28,
+  "en": "Minish Woods",
+  "cz": "Minish Lesy"
+ },
+ {
+  "gi": 7,
+  "si": 29,
+  "en": "Elemental Sanctuary",
+  "cz": "Svatyne elementu"
+ },
+ {
+  "gi": 7,
+  "si": 30,
+  "en": "Minish Village",
+  "cz": "Minish vesnice"
+ },
+ {
+  "gi": 7,
+  "si": 31,
+  "en": "Melari's Mines",
+  "cz": "Melariho doly"
+ },
+ {
+  "gi": 7,
+  "si": 32,
+  "en": "Deepwood Shrine",
+  "cz": "Svatyne Hlubokeho lesa"
+ },
+ {
+  "gi": 7,
+  "si": 33,
+  "en": "Cave of Flames",
+  "cz": "Jeskyne plamenu"
+ },
+ {
+  "gi": 7,
+  "si": 34,
+  "en": "Fortress of Winds",
+  "cz": "Pevnost vetru"
+ },
+ {
+  "gi": 7,
+  "si": 35,
+  "en": "Temple of Droplets",
+  "cz": "Chram kapek"
+ },
+ {
+  "gi": 7,
+  "si": 36,
+  "en": "Royal Crypt",
+  "cz": "Kralovska krypta"
+ },
+ {
+  "gi": 7,
+  "si": 37,
+  "en": "Palace of Winds",
+  "cz": "Palac vetru"
+ },
+ {
+  "gi": 7,
+  "si": 38,
+  "en": "Hyrule Castle",
+  "cz": "hrad Hyrule"
+ },
+ {
+  "gi": 7,
+  "si": 39,
+  "en": "Dark Hyrule Castle",
+  "cz": "Temny hrad Hyrule"
+ },
+ {
+  "gi": 7,
+  "si": 40,
+  "en": "Biggoron's Dungeon",
+  "cz": "Biggoronuv dungeon"
+ },
+ {
+  "gi": 8,
+  "si": 0,
+  "en": "{04:15}{Var:1}{04:14}:{07:08:00}",
+  "cz": "{04:15}{Var:1}{04:14}:{07:08:00}"
+ },
+ {
+  "gi": 8,
+  "si": 1,
+  "en": "Capless {Player}",
+  "cz": "{Player} bez cepice"
+ },
+ {
+  "gi": 8,
+  "si": 2,
+  "en": "Ezlo and {Player}",
+  "cz": "Ezlo a {Player}"
+ },
+ {
+  "gi": 8,
+  "si": 3,
+  "en": "Princess Zelda",
+  "cz": "Princezna Zelda"
+ },
+ {
+  "gi": 8,
+  "si": 4,
+  "en": "Ezlo (Cap)",
+  "cz": "Ezlo (cepice)"
+ },
+ {
+  "gi": 8,
+  "si": 5,
+  "en": "Sorcerer Vaati",
+  "cz": "Carodej Vaati"
+ },
+ {
+  "gi": 8,
+  "si": 6,
+  "en": "King Daltus",
+  "cz": "kral Daltus"
+ },
+ {
+  "gi": 8,
+  "si": 7,
+  "en": "Minister Potho",
+  "cz": "Ministr Potho"
+ },
+ {
+  "gi": 8,
+  "si": 8,
+  "en": "Smith",
+  "cz": "Smith"
+ },
+ {
+  "gi": 8,
+  "si": 9,
+  "en": "Mayor Hagen",
+  "cz": "Starosta Hagen"
+ },
+ {
+  "gi": 8,
+  "si": 10,
+  "en": "Marcy",
+  "cz": "Marcy"
+ },
+ {
+  "gi": 8,
+  "si": 11,
+  "en": "Stamp",
+  "cz": "Stamp"
+ },
+ {
+  "gi": 8,
+  "si": 12,
+  "en": "Rem",
+  "cz": "Rem"
+ },
+ {
+  "gi": 8,
+  "si": 13,
+  "en": "Dr. Left",
+  "cz": "Dr. Left"
+ },
+ {
+  "gi": 8,
+  "si": 14,
+  "en": "Carlov",
+  "cz": "Carlov"
+ },
+ {
+  "gi": 8,
+  "si": 15,
+  "en": "Borlov",
+  "cz": "Borlov"
+ },
+ {
+  "gi": 8,
+  "si": 16,
+  "en": "Stockwell",
+  "cz": "Stockwell"
+ },
+ {
+  "gi": 8,
+  "si": 17,
+  "en": "Simon",
+  "cz": "Simon"
+ },
+ {
+  "gi": 8,
+  "si": 18,
+  "en": "Gorman",
+  "cz": "Gorman"
+ },
+ {
+  "gi": 8,
+  "si": 19,
+  "en": "Anju",
+  "cz": "Anju"
+ },
+ {
+  "gi": 8,
+  "si": 20,
+  "en": "Brocco",
+  "cz": "Brocco"
+ },
+ {
+  "gi": 8,
+  "si": 21,
+  "en": "Pina",
+  "cz": "Pina"
+ },
+ {
+  "gi": 8,
+  "si": 22,
+  "en": "Beedle",
+  "cz": "Beedle"
+ },
+ {
+  "gi": 8,
+  "si": 23,
+  "en": "Postman",
+  "cz": "Postak"
+ },
+ {
+  "gi": 8,
+  "si": 24,
+  "en": "Crenel Hermit",
+  "cz": "Crenelsky poustevnik"
+ },
+ {
+  "gi": 8,
+  "si": 25,
+  "en": "Monster Lady",
+  "cz": "Pani prisera"
+ },
+ {
+  "gi": 8,
+  "si": 26,
+  "en": "Dampé",
+  "cz": "Dampe"
+ },
+ {
+  "gi": 8,
+  "si": 27,
+  "en": "Gustaf, Royal Spirit",
+  "cz": "Gustaf, kralovsky duch"
+ },
+ {
+  "gi": 8,
+  "si": 28,
+  "en": "Syrup",
+  "cz": "Syrup"
+ },
+ {
+  "gi": 8,
+  "si": 29,
+  "en": "Great Butterfly Fairy",
+  "cz": "Velka motyli vila"
+ },
+ {
+  "gi": 8,
+  "si": 30,
+  "en": "Great Mayfly Fairy",
+  "cz": "Velka jepici vila"
+ },
+ {
+  "gi": 8,
+  "si": 31,
+  "en": "Great Dragonfly Fairy",
+  "cz": "Velka vazcina vila"
+ },
+ {
+  "gi": 8,
+  "si": 32,
+  "en": "Percy",
+  "cz": "Percy"
+ },
+ {
+  "gi": 8,
+  "si": 33,
+  "en": "Nayru",
+  "cz": "Nayru"
+ },
+ {
+  "gi": 8,
+  "si": 34,
+  "en": "Farore",
+  "cz": "Farore"
+ },
+ {
+  "gi": 8,
+  "si": 35,
+  "en": "Din",
+  "cz": "Din"
+ },
+ {
+  "gi": 8,
+  "si": 36,
+  "en": "Joy Butterfly",
+  "cz": "Motyl radosti"
+ },
+ {
+  "gi": 8,
+  "si": 37,
+  "en": "Gina",
+  "cz": "Gina"
+ },
+ {
+  "gi": 8,
+  "si": 38,
+  "en": "Festari",
+  "cz": "Festari"
+ },
+ {
+  "gi": 8,
+  "si": 39,
+  "en": "Gentari",
+  "cz": "Gentari"
+ },
+ {
+  "gi": 8,
+  "si": 40,
+  "en": "Forest Picori",
+  "cz": "Lesni Picori"
+ },
+ {
+  "gi": 8,
+  "si": 41,
+  "en": "Librari",
+  "cz": "Librari"
+ },
+ {
+  "gi": 8,
+  "si": 42,
+  "en": "Town Picori",
+  "cz": "Mestsky Picori"
+ },
+ {
+  "gi": 8,
+  "si": 43,
+  "en": "Melari",
+  "cz": "Melari"
+ },
+ {
+  "gi": 8,
+  "si": 44,
+  "en": "Mountain Picori",
+  "cz": "Horsky Picori"
+ },
+ {
+  "gi": 8,
+  "si": 45,
+  "en": "Goron",
+  "cz": "Goron"
+ },
+ {
+  "gi": 8,
+  "si": 46,
+  "en": "Minish Vaati",
+  "cz": "Minish Vaati"
+ },
+ {
+  "gi": 8,
+  "si": 47,
+  "en": "Vassals",
+  "cz": "Vazalove"
+ },
+ {
+  "gi": 8,
+  "si": 48,
+  "en": "Library",
+  "cz": "Knihovna"
+ },
+ {
+  "gi": 8,
+  "si": 49,
+  "en": "Blade Brothers",
+  "cz": "Bratri cepele"
+ },
+ {
+  "gi": 8,
+  "si": 50,
+  "en": "Wheaton {Symbol:0D} Pita",
+  "cz": "Wheaton {Symbol:0D} Pita"
+ },
+ {
+  "gi": 8,
+  "si": 51,
+  "en": "Funday School",
+  "cz": "Zabavna skola"
+ },
+ {
+  "gi": 8,
+  "si": 52,
+  "en": "Mama's Cafe",
+  "cz": "Mamcina kavarna"
+ },
+ {
+  "gi": 8,
+  "si": 53,
+  "en": "Happy Hearth Inn",
+  "cz": "Hostinec Stastny krb"
+ },
+ {
+  "gi": 8,
+  "si": 54,
+  "en": "Zill and Friends",
+  "cz": "Zill a pratele"
+ },
+ {
+  "gi": 8,
+  "si": 55,
+  "en": "The Carpenters",
+  "cz": "Truhlari"
+ },
+ {
+  "gi": 8,
+  "si": 56,
+  "en": "Young Couple",
+  "cz": "Mlady par"
+ },
+ {
+  "gi": 8,
+  "si": 57,
+  "en": "Peaceful Hyrule 1",
+  "cz": "Mirumilovne Hyrule 1"
+ },
+ {
+  "gi": 8,
+  "si": 58,
+  "en": "Peaceful Hyrule 2",
+  "cz": "Mirumilovne Hyrule 2"
+ },
+ {
+  "gi": 8,
+  "si": 59,
+  "en": "Peaceful Hyrule 3",
+  "cz": "Mirumilovne Hyrule 3"
+ },
+ {
+  "gi": 8,
+  "si": 60,
+  "en": "Cucco!",
+  "cz": "Cucco!"
+ },
+ {
+  "gi": 8,
+  "si": 61,
+  "en": "At Lon Lon Ranch",
+  "cz": "Na ranci Lon Lon"
+ },
+ {
+  "gi": 8,
+  "si": 62,
+  "en": "The Wind Tribe",
+  "cz": "Kmen vetru"
+ },
+ {
+  "gi": 8,
+  "si": 63,
+  "en": "Gregal {Symbol:0D} the Ghost",
+  "cz": "Gregal {Symbol:0D} duch"
+ },
+ {
+  "gi": 8,
+  "si": 64,
+  "en": "Tingle Siblings?",
+  "cz": "Tingle sourozenci?"
+ },
+ {
+  "gi": 8,
+  "si": 65,
+  "en": "Eenie {Symbol:0D} Meenie",
+  "cz": "Eenie {Symbol:0D} Meenie"
+ },
+ {
+  "gi": 8,
+  "si": 66,
+  "en": "Goron Merchant",
+  "cz": "Goron obchodnik"
+ },
+ {
+  "gi": 8,
+  "si": 67,
+  "en": "Spookter {Symbol:0D} Spekter",
+  "cz": "Spookter {Symbol:0D} Spekter"
+ },
+ {
+  "gi": 8,
+  "si": 68,
+  "en": "Sluggula",
+  "cz": "Sluggula"
+ },
+ {
+  "gi": 8,
+  "si": 69,
+  "en": "Scissors Beetle",
+  "cz": "Nuzkovy brouk"
+ },
+ {
+  "gi": 8,
+  "si": 70,
+  "en": "Moldworm",
+  "cz": "Moldworm"
+ },
+ {
+  "gi": 8,
+  "si": 71,
+  "en": "Spiked Beetle",
+  "cz": "Ostnaty brouk"
+ },
+ {
+  "gi": 8,
+  "si": 72,
+  "en": "Eyegore Statue",
+  "cz": "Socha Eyegore"
+ },
+ {
+  "gi": 8,
+  "si": 73,
+  "en": "Business Scrub",
+  "cz": "Obchodni Scrub"
+ },
+ {
+  "gi": 8,
+  "si": 74,
+  "en": "Armos",
+  "cz": "Armos"
+ },
+ {
+  "gi": 8,
+  "si": 75,
+  "en": "Keese",
+  "cz": "Keese"
+ },
+ {
+  "gi": 8,
+  "si": 76,
+  "en": "Keaton",
+  "cz": "Keaton"
+ },
+ {
+  "gi": 8,
+  "si": 77,
+  "en": "Ghini",
+  "cz": "Ghini"
+ },
+ {
+  "gi": 8,
+  "si": 78,
+  "en": "Gibdo",
+  "cz": "Gibdo"
+ },
+ {
+  "gi": 8,
+  "si": 79,
+  "en": "Rollobite",
+  "cz": "Rollobite"
+ },
+ {
+  "gi": 8,
+  "si": 80,
+  "en": "Spark",
+  "cz": "Jiskra"
+ },
+ {
+  "gi": 8,
+  "si": 81,
+  "en": "Dark Nut",
+  "cz": "Dark Nut"
+ },
+ {
+  "gi": 8,
+  "si": 82,
+  "en": "Red Dark Nut",
+  "cz": "Cerveny Dark Nut"
+ },
+ {
+  "gi": 8,
+  "si": 83,
+  "en": "Chaser",
+  "cz": "Pronasledovatel"
+ },
+ {
+  "gi": 8,
+  "si": 84,
+  "en": "Rock Chuchu",
+  "cz": "Kamenny Chuchu"
+ },
+ {
+  "gi": 8,
+  "si": 85,
+  "en": "Moldorm",
+  "cz": "Moldorm"
+ },
+ {
+  "gi": 8,
+  "si": 86,
+  "en": "Door Mimic",
+  "cz": "Dvere napodobitel"
+ },
+ {
+  "gi": 8,
+  "si": 87,
+  "en": "Peahat",
+  "cz": "Peahat"
+ },
+ {
+  "gi": 8,
+  "si": 88,
+  "en": "Helmasaur",
+  "cz": "Helmasaur"
+ },
+ {
+  "gi": 8,
+  "si": 89,
+  "en": "Wall Master",
+  "cz": "Pan zdi"
+ },
+ {
+  "gi": 8,
+  "si": 90,
+  "en": "Floor Master",
+  "cz": "Pan podlahy"
+ },
+ {
+  "gi": 8,
+  "si": 91,
+  "en": "Acro-Bandits",
+  "cz": "Akro-banditi"
+ },
+ {
+  "gi": 8,
+  "si": 92,
+  "en": "Bob-omb",
+  "cz": "Bob-omb"
+ },
+ {
+  "gi": 8,
+  "si": 93,
+  "en": "Bombarossa",
+  "cz": "Bombarossa"
+ },
+ {
+  "gi": 8,
+  "si": 94,
+  "en": "Like Like",
+  "cz": "Like Like"
+ },
+ {
+  "gi": 8,
+  "si": 95,
+  "en": "Rupee Like",
+  "cz": "Rupii Like"
+ },
+ {
+  "gi": 8,
+  "si": 96,
+  "en": "Rope",
+  "cz": "Rope"
+ },
+ {
+  "gi": 8,
+  "si": 97,
+  "en": "Boulder",
+  "cz": "Balvan"
+ },
+ {
+  "gi": 8,
+  "si": 98,
+  "en": "Ball {Symbol:0D} Chain Soldier",
+  "cz": "Vojak s koul. retez."
+ },
+ {
+  "gi": 8,
+  "si": 99,
+  "en": "Spiny Beetle",
+  "cz": "Ostnaty brouk"
+ },
+ {
+  "gi": 8,
+  "si": 100,
+  "en": "Spear Moblin",
+  "cz": "Moblin s kopim"
+ },
+ {
+  "gi": 8,
+  "si": 101,
+  "en": "Bow Moblin",
+  "cz": "Moblin s lukem"
+ },
+ {
+  "gi": 8,
+  "si": 102,
+  "en": "Cloud Piranha",
+  "cz": "Mracna pirana"
+ },
+ {
+  "gi": 8,
+  "si": 103,
+  "en": "Mulldozer",
+  "cz": "Mulldozer"
+ },
+ {
+  "gi": 8,
+  "si": 104,
+  "en": "Pesto",
+  "cz": "Pesto"
+ },
+ {
+  "gi": 8,
+  "si": 105,
+  "en": "Puffstool",
+  "cz": "Puffstool"
+ },
+ {
+  "gi": 8,
+  "si": 106,
+  "en": "Wizzrobe",
+  "cz": "Wizzrobe"
+ },
+ {
+  "gi": 8,
+  "si": 107,
+  "en": "Fire Wizzrobe",
+  "cz": "Ohnivy Wizzrobe"
+ },
+ {
+  "gi": 8,
+  "si": 108,
+  "en": "Ice Wizzrobe",
+  "cz": "Ledovy Wizzrobe"
+ },
+ {
+  "gi": 8,
+  "si": 109,
+  "en": "Wisp",
+  "cz": "Wisp"
+ },
+ {
+  "gi": 8,
+  "si": 110,
+  "en": "Octorok",
+  "cz": "Octorok"
+ },
+ {
+  "gi": 8,
+  "si": 111,
+  "en": "Golden Octorok",
+  "cz": "Zlaty Octorok"
+ },
+ {
+  "gi": 8,
+  "si": 112,
+  "en": "Golden Tektite",
+  "cz": "Zlaty Tektite"
+ },
+ {
+  "gi": 8,
+  "si": 113,
+  "en": "Golden Rope",
+  "cz": "Zlate Rope"
+ },
+ {
+  "gi": 8,
+  "si": 114,
+  "en": "Crow {Symbol:0D} Takkuri",
+  "cz": "Vrana {Symbol:0D} Takkuri"
+ },
+ {
+  "gi": 8,
+  "si": 115,
+  "en": "Lakitu",
+  "cz": "Lakitu"
+ },
+ {
+  "gi": 8,
+  "si": 116,
+  "en": "Stalfos",
+  "cz": "Stalfos"
+ },
+ {
+  "gi": 8,
+  "si": 117,
+  "en": "Beetle",
+  "cz": "Brouk"
+ },
+ {
+  "gi": 8,
+  "si": 118,
+  "en": "Chuchu",
+  "cz": "Chuchu"
+ },
+ {
+  "gi": 8,
+  "si": 119,
+  "en": "Tektite",
+  "cz": "Tektite"
+ },
+ {
+  "gi": 8,
+  "si": 120,
+  "en": "Trap",
+  "cz": "Past"
+ },
+ {
+  "gi": 8,
+  "si": 121,
+  "en": "Leever",
+  "cz": "Leever"
+ },
+ {
+  "gi": 8,
+  "si": 122,
+  "en": "Madderpillar",
+  "cz": "Madderpillar"
+ },
+ {
+  "gi": 8,
+  "si": 123,
+  "en": "Spiny Chuchu",
+  "cz": "Ostnaty Chuchu"
+ },
+ {
+  "gi": 8,
+  "si": 124,
+  "en": "Big Octorok",
+  "cz": "Velky Octorok"
+ },
+ {
+  "gi": 8,
+  "si": 125,
+  "en": "Gyorg Pair",
+  "cz": "Gyorg par"
+ },
+ {
+  "gi": 8,
+  "si": 126,
+  "en": "Biggoron",
+  "cz": "Biggoron"
+ },
+ {
+  "gi": 8,
+  "si": 127,
+  "en": "Big Green Chuchu",
+  "cz": "Velky zeleny Chuchu"
+ },
+ {
+  "gi": 8,
+  "si": 128,
+  "en": "Gleerok",
+  "cz": "Gleerok"
+ },
+ {
+  "gi": 8,
+  "si": 129,
+  "en": "Mazaal",
+  "cz": "Mazaal"
+ },
+ {
+  "gi": 8,
+  "si": 130,
+  "en": "Big Blue Chuchu",
+  "cz": "Velky modry Chuchu"
+ },
+ {
+  "gi": 8,
+  "si": 131,
+  "en": "Zelda {Symbol:0D} {Player}",
+  "cz": "Zelda {Symbol:0D} {Player}"
+ },
+ {
+  "gi": 8,
+  "si": 132,
+  "en": "Minish Ezlo",
+  "cz": "Minish Ezlo"
+ },
+ {
+  "gi": 8,
+  "si": 133,
+  "en": "Black Knight",
+  "cz": "Cerny rytir"
+ },
+ {
+  "gi": 8,
+  "si": 134,
+  "en": "Vaati Reborn",
+  "cz": "Vaati znovuzrozeny"
+ },
+ {
+  "gi": 8,
+  "si": 135,
+  "en": "Vaati Transfigured",
+  "cz": "Vaati promeneny"
+ },
+ {
+  "gi": 8,
+  "si": 136,
+  "en": "Vaati's Wrath",
+  "cz": "Vaatiho hnev"
+ },
+ {
+  "gi": 8,
+  "si": 137,
+  "en": "- - - - - - - - -",
+  "cz": "- - - - - - - - -"
+ },
+ {
+  "gi": 9,
+  "si": 0,
+  "en": "Caption",
+  "cz": "Popisek"
+ },
+ {
+  "gi": 9,
+  "si": 1,
+  "en": "A young boy who lives in Hyrule. He is\nclose friends with Princess Zelda.",
+  "cz": "Mlady chlapec, ktery zije v Hyrule.\nJe blizkym pritelem princezny Zeldy."
+ },
+ {
+  "gi": 9,
+  "si": 2,
+  "en": "A young boy on a quest with Ezlo to\nrestore the Four Sword.\nWith the sword's power, he hopes to\nremove the curse on Princess Zelda.",
+  "cz": "Mlady chlapec, ktery s Ezlem vyrazil\nobnovit Ctyrmec.\nSilou mece doufa, ze zlomi\nkletbu na princezne Zelde."
+ },
+ {
+  "gi": 9,
+  "si": 3,
+  "en": "A bright and cheery princess from\nHyrule's royal family.\nShe loves to sneak out of the castle\nto visit her good friend, {Player}.",
+  "cz": "Bystra a vesela princezna\nz kralovske rodiny Hyrule.\nRada se vyplizi z hradu, aby\nnavstivila sveho pritele {Player}."
+ },
+ {
+  "gi": 9,
+  "si": 4,
+  "en": "A strange creature that looks at first\nlike a cap. He speaks roughly and\ntreats {Player} like a child, but he\nactually really likes {Player}.",
+  "cz": "Podivny tvor, ktery na prvni pohled\nvypada jako cepice. Mluvi hrube a\nzachazi s {Player} jako s ditetem,\nale ve skutecnosti ho ma rad."
+ },
+ {
+  "gi": 9,
+  "si": 5,
+  "en": "When the young Minish donned Ezlo's\nmagic cap, he took this evil form. Now,\nhe searches for the light force in his\nquest to become all-powerful.",
+  "cz": "Kdyz mlady Minish nasadil Ezloovu\nkouzelnou cepici, ziskal tuto zlou\npodobu. Hleda silu svetla, aby se\nstal vsemocnym."
+ },
+ {
+  "gi": 9,
+  "si": 6,
+  "en": "The king of Hyrule. Reported to have\nbeen a fine swordsman, he appeared in\nthe Picori Festival tournament as a\nyouth and fought to a draw with Smith.",
+  "cz": "Kral Hyrule. Pry byl vyborny sermir,\nv mladi se objevil na turnaji\nFestivalu Piccoru a remizoval\nse Smithem."
+ },
+ {
+  "gi": 9,
+  "si": 7,
+  "en": "The supporting pillar of Hyrule. He\nis also in charge of Princess Zelda's\neducation, so when she goes missing,\nhe gets frustrated.",
+  "cz": "Nosny pilir Hyrule. Ma na starosti\nvychovu princezny Zeldy, takze\nkdyz zmizi, dostane se do\nfrustrace."
+ },
+ {
+  "gi": 9,
+  "si": 8,
+  "en": "The finest swordsmith in Hyrule. As a\nyoung man, he was a great swordsman.\nHe and King Daltus are friends and\nenjoyed a pleasant rivalry as youths.",
+  "cz": "Nejlepsi mecir v Hyrule. Jako mlady\nbyl skvelym sermirem. S kralem\nDaltusem jsou pratele a v mladi\nspolu meli pratelskou rivalitu."
+ },
+ {
+  "gi": 9,
+  "si": 9,
+  "en": "The mayor of the town of Hyrule. He's a\nbig collector of odd masks. He's built a\nshelter into his garden just in case\nmonsters ever attack Hyrule.",
+  "cz": "Starosta mesta Hyrule. Velky sberatel\npodivnych masek. Postavil si v\nzahrade kryt pro pripad, ze by\nnekdy zautocily prisery."
+ },
+ {
+  "gi": 9,
+  "si": 10,
+  "en": "Second in command at Hyrule's post\noffice. She's mellow and laid-back,\nentirely unlike the high-strung and\neasily excitable Stamp.",
+  "cz": "Druha v poradi na poste Hyrule.\nJe klidna a uvolnena, naprosto\njina nez nervozni a snadno\nrozculitelny Stamp."
+ },
+ {
+  "gi": 9,
+  "si": 11,
+  "en": "A busy, hardworking postal employee,\nalthough he can be a touch edgy.\nThe stamp he uses is his own personal\none, so please don't borrow it. Thanks.",
+  "cz": "Zaneprazdneny, pracovity zamestnanec\nposty, i kdyz muze byt trochu\nnervozni. Razitko, ktere pouziva,\nje jeho vlastni, takze si ho neber."
+ },
+ {
+  "gi": 9,
+  "si": 12,
+  "en": "The proprietor of {Color:Blue}Rem's Shoe Store{Color:White}.\nUsing his \"secret technique,\" he makes\nshoes in his sleep. Princess Zelda is\nhis single biggest source of income.",
+  "cz": "Majitel {Color:Blue}Remova obchodu s botami{Color:White}.\nDiky svemu \"tajnemu triku\" vyrabi\nboty ve spanku. Princezna Zelda\nje jeho nejvetsim zdrojem prijmu."
+ },
+ {
+  "gi": 9,
+  "si": 13,
+  "en": "A gruff-talking academic type who is\nobsessed with studying the Picori.\nHe doesn't seem to be aware that they\nare actually living in his own house.",
+  "cz": "Drsne mluvici akademicky typ, ktery\nje posedly studiem Picori.\nZda se, ze netusi, ze ve skutecnosti\nziji v jeho vlastnim dome."
+ },
+ {
+  "gi": 9,
+  "si": 14,
+  "en": "A sculptor of finely crafted {Color:Blue}figurines{Color:White}.\nMany consider him the best sculptor\nin all of Hyrule. He enjoys collecting\n{Color:Blue}Mysterious Shells{Color:White}.",
+  "cz": "Socha jemne vyrabenych {Color:Blue}figurek{Color:White}.\nMnozi ho povazuji za nejlepsiho\nsochare v cele Hyrule. Rad sbira\n{Color:Blue}Tajemne ulity{Color:White}."
+ },
+ {
+  "gi": 9,
+  "si": 15,
+  "en": "Owner of the {Color:Blue}Chest Mini-Game Shop{Color:White}.\nCarlov's younger brother. He detests\ngambling, but he has made the biggest\ngamble of all: entrepreneurship.",
+  "cz": "Majitel {Color:Blue}obchodu s mini-hrou truhel{Color:White}.\nMladsi bratr Carlova. Hazardni hry\nnenavidi, ale udelal nejvetsi\nsazku ze vsech: podnikani."
+ },
+ {
+  "gi": 9,
+  "si": 16,
+  "en": "The handy neighborhood gear seller,\nalso called {Color:Blue}Stockwell the Well-Stocked{Color:White}.\nHe complains that he's been too busy\nlately to see his dog, Fifi.",
+  "cz": "Sikovny sousedsky prodejce vybaveni,\ntake zvany {Color:Blue}Stockwell Dobre Zasobeny{Color:White}.\nStezuje si, ze je posledni dobou\nprilis zaneprazdnen na svou fenku Fifi."
+ },
+ {
+  "gi": 9,
+  "si": 17,
+  "en": "His mysterious {Color:Blue}dungeon-simulation\ngame{Color:White} is very popular in Hyrule. It gives\nplayers the illusion of fighting real\nmonsters in real dungeons.",
+  "cz": "Jeho zahadna {Color:Blue}hra simulace dungeonu{Color:White}\nje v Hyrule velmi oblibena. Da\nhracum iluzi boje se skutecnymi\npriserami v opravdovych dungeonech."
+ },
+ {
+  "gi": 9,
+  "si": 18,
+  "en": "He wants to rent out his house in town,\nbut he's too overbearing to attract\na tenant. He doesn't even seem to\nrealize what the problem is...",
+  "cz": "Chce pronajmout svuj dum ve meste,\nale je prilis dotery, aby prilakal\nnajemnika. Zda se, ze ani neuvedomuje,\nv cem je problem..."
+ },
+ {
+  "gi": 9,
+  "si": 19,
+  "en": "This young woman tends to her cuccos\nin Hyrule Town.\nIf you help her gather her loose\ncuccos, she'll give you a reward.",
+  "cz": "Tato mlada zena se stara o sva\ncucca v meste Hyrule.\nPokud ji pomuzes posbirat utekla\ncucca, da ti odmenu."
+ },
+ {
+  "gi": 9,
+  "si": 20,
+  "en": "Hyrule's vegetable vendor. He sells fine\nproduce. He also argues constantly\nwith the fruit vendor, Pina, over\nthe health benefits of vegetables.",
+  "cz": "Hyrulsky prodejce zeleniny. Prodava\nkvalitni produkty. Take se neustale\nhada s prodejkyni ovoce Pinou\no zdravotnich vyhodach zeleniny."
+ },
+ {
+  "gi": 9,
+  "si": 21,
+  "en": "Hyrule's fruit vendor. She hates\nvegetables, so she won't even sell\ntomatoes, even though they\ntechnically ARE fruits. Freak.",
+  "cz": "Hyrulska prodejkyne ovoce. Nesnasi\nzeleninu, takze ani neprodava\nrajcata, i kdyz technicky\nJSOU ovocem. Podivinka."
+ },
+ {
+  "gi": 9,
+  "si": 22,
+  "en": "Though he is an adult, he is very good\nat finding Picolyte made by the Minish.\nAnd he is very, VERY convincing about\ntheir healthful properties.",
+  "cz": "Prestoze je dospely, je vyborny\nv hledani Picolytu od Minish.\nA je velmi, VELMI presvedcivy o\njejich zdravotnich vlastnostech."
+ },
+ {
+  "gi": 9,
+  "si": 23,
+  "en": "A very serious mail deliveryman.\nHe continues to make every delivery\nright on time every day.",
+  "cz": "Velmi vazny donaska posty.\nKazdy den pokracuje v dorucovani\nvsech zasilek presne na cas."
+ },
+ {
+  "gi": 9,
+  "si": 24,
+  "en": "A hermit who lives on Mount Crenel.\nHe has lots of Kinstone pieces.\nHe brags that he won the festival \ntournament when he was younger.",
+  "cz": "Poustevnik, ktery zije na Mt. Crenel.\nMa hodne kusu Kamene osudu.\nChlubi se, ze vyhral turnaj\nfestivalu, kdyz byl mladsi."
+ },
+ {
+  "gi": 9,
+  "si": 25,
+  "en": "A weird old lady living in Percy's\nhouse without his permission.\nShe doesn't want you to turn on the\nlights. She might actually be a...",
+  "cz": "Podivna stara pani bydli v Percyho\ndome bez jeho povoleni.\nNechce, abys rozsvitil svetla.\nMozna je ve skutecnosti..."
+ },
+ {
+  "gi": 9,
+  "si": 26,
+  "en": "The gravedigger at the cemetery.\nThey say he has the power to speak\nwith the dead. He fuses the Kinstones\nhe digs up with the local ghosts.",
+  "cz": "Hrobnik na hrbitove.\nRikaji, ze ma moc mluvit s\nmrtvymi. Spojuje Kameny osudu,\nktere vykopal, s mistnimi duchy."
+ },
+ {
+  "gi": 9,
+  "si": 27,
+  "en": "The spirit of an ancient king of Hyrule\nwho wishes to secure peace in his land\nfrom beyond the grave. He was very\nfond of the people of the Wind Tribe.",
+  "cz": "Duch starovekeho krale Hyrule, ktery\nsi preje zajistit mir ve sve zemi\ni za hrobem. Velmi si oblibil\nlidi z Kmene vetru."
+ },
+ {
+  "gi": 9,
+  "si": 28,
+  "en": "A wizard who lives in the Minish Woods.\nShe sells magic items with odd powers.\nShe's looking for an apprentice to whom\nshe can teach her mystic spells.",
+  "cz": "Carodejka, ktera zije v Minish Lesich.\nProdava magicke predmety s podivnymi\nsilami. Hleda ucnice, ktere by\nmohla naucit sva mysticka kouzla."
+ },
+ {
+  "gi": 9,
+  "si": 29,
+  "en": "The Great Butterfly Fairy of Minish\nWoods. She provides you with a\nlarger wallet, allowing you to carry\nmore Rupees with you.",
+  "cz": "Velka motyli vila z Minish Lesu.\nDa ti vetsi penezenku, diky ktere\nmuzes nosit vice rupii."
+ },
+ {
+  "gi": 9,
+  "si": 30,
+  "en": "The Great Mayfly Fairy of Mount\nCrenel. She provides you with a larger\nbomb bag, allowing you to carry more\nbombs with you.",
+  "cz": "Velka jepici vila z Mt. Crenel.\nDa ti vetsi pytel na bomby,\ndiky kteremu muzes nosit\nvice bomb."
+ },
+ {
+  "gi": 9,
+  "si": 31,
+  "en": "The Great Dragonfly Fairy of Royal\nValley. She gives you a larger\nquiver, allowing you to carry\nmore arrows with you.",
+  "cz": "Velka vazcina vila z Kralovskeho\nudoli. Da ti vetsi toulec,\ndiky kteremu muzes nosit\nvice sipu."
+ },
+ {
+  "gi": 9,
+  "si": 32,
+  "en": "A poet who lives in Western Wood.\nHe comes home from a long journey to\nfind his house occupied by an unwanted\nguest. Poor guy...",
+  "cz": "Basnik, ktery zije v Zapadnim lese.\nVraci se domu z dlouhe cesty a\nzjisti, ze jeho dum obsadil\nnezvany host. Chudak..."
+ },
+ {
+  "gi": 9,
+  "si": 33,
+  "en": "She's looking for a house in Hyrule\nto move into. She is descended from\na line of oracles in the land of\nLabrynna.",
+  "cz": "Hleda dum v Hyrule, kam by se\nnastehovala. Pochazi z rodu\norakulu ze zeme\nLabrynna."
+ },
+ {
+  "gi": 9,
+  "si": 34,
+  "en": "She's looking for a house in Hyrule to\nmove into. She's a very helpful person,\nbut people take advantage of her kind\nnature. This really bothers her.",
+  "cz": "Hleda dum v Hyrule, kam by se\nnastehovala. Je velmi ochotna,\nale lide zneuzivaji jeji\nlaskave povahy. To ji vadi."
+ },
+ {
+  "gi": 9,
+  "si": 35,
+  "en": "She's looking for a house in Hyrule to\nmove into. She is a famous dancer from\nthe land of Holodrum.",
+  "cz": "Hleda dum v Hyrule, kam by se\nnastehovala. Je slavnou tanecnici\nze zeme Holodrum."
+ },
+ {
+  "gi": 9,
+  "si": 36,
+  "en": "A rare butterfly said to bring\nhappiness to those who catch it.\nIf you see one on your journeys,\ntry to grab it!",
+  "cz": "Vzacny motyl, o kterem se rika,\nze prinese stesti tem, kdo ho\nchyti. Pokud ho na svych cestach\nuvidis, zkus ho chytit!"
+ },
+ {
+  "gi": 9,
+  "si": 37,
+  "en": "A strange Ghini who wants to fuse\nKinstone pieces, which is somewhat\npeculiar for a monster. She has a lot\nof pieces, so keep on fusing!",
+  "cz": "Podivny Ghini, ktery chce spojovat\nkusy Kamene osudu, coz je na priseru\ndost neobvykle. Ma hodne kusu,\ntak spojuj dal!"
+ },
+ {
+  "gi": 9,
+  "si": 38,
+  "en": "A Minish living in Minish Village. He\nspeaks some human languages. He sees\nthat {Player} is human with one look.\nHe's a bit of a human enthusiast.",
+  "cz": "Minish zijici v Minish vesnici.\nMluvi nekolika lidskymi jazyky. Na\nprvni pohled pozna, ze {Player} je\nclovek. Je trochu nadsenec do lidi."
+ },
+ {
+  "gi": 9,
+  "si": 39,
+  "en": "The elder of the Forest Minish. He has\nlived among humans for a long time. He\nknows where the four elements are. He\nhas a twin brother in Hyrule's library.",
+  "cz": "Starsi z Lesnich Minish. Dlouho\nzil mezi lidmi. Vi, kde jsou\nctyri elementy. Ma dvojceci bratra\nv knihovne Hyrule."
+ },
+ {
+  "gi": 9,
+  "si": 40,
+  "en": "Not visible to the eyes of adults, they\ndelight in making humans happy by\nhiding helpful items and Rupees under\ngrass and rocks all over the world.",
+  "cz": "Neviditelni pro oci dospelych, baveni\nje delani lidi stastnymi tim, ze\nskryvaji uzitecne predmety a rupie\npod travou a kameny po celem svete."
+ },
+ {
+  "gi": 9,
+  "si": 41,
+  "en": "This Town Minish elder is Gentari's\ntwin brother. Those large wings that he\nis so proud of are trophies from a duel\nwith a cucco as a young Minish.",
+  "cz": "Tento starsi Mestskych Minish je\nGentariho dvojce. Ta velka kridla,\nna ktera je tak hrdy, jsou trofeje\nze souboje s cuccem v mladi."
+ },
+ {
+  "gi": 9,
+  "si": 42,
+  "en": "These Minish like humans so much that\nthey moved from Minish Village into\nHyrule itself! They try to make humans\nhappy, but it sometimes backfires.",
+  "cz": "Tito Minish maji lidi tak radi, ze\nse prestehovali z Minish vesnice\npriamo do Hyrule! Snazi se delat\nlidi stastnymi, ale obcas to selze."
+ },
+ {
+  "gi": 9,
+  "si": 43,
+  "en": "He lives with his seven apprentices in\nMount Crenel, which contains all the\nmineral riches they will ever need.\nHe seems gruff, but he's trustworthy.",
+  "cz": "Zije se svymi sedmi ucni na\nMt. Crenel, ktery obsahuje vsechno\nmineralni bohatstvi, ktere kdy budou\npotrebovat. Pusobi drsne, ale je verny."
+ },
+ {
+  "gi": 9,
+  "si": 44,
+  "en": "These seven students followed Melari\nfrom Minish Village to Mount Crenel.\nTheir song is actually a sign that they\nare full-fledged Mountain Minish now.",
+  "cz": "Techto sedm zaku nasledovalo Melariho\nz Minish vesnice na Mt. Crenel.\nJejich pisen je vlastne znamenim, ze\nuz jsou plnohodnotnymi Horskymi Minish."
+ },
+ {
+  "gi": 9,
+  "si": 45,
+  "en": "These rock- and iron-eaters once\nlived on Mount Crenel in Western\nHyrule. Now their numbers are few, and\nthey live quietly in a cave.",
+  "cz": "Tito pozirace kamene a zeleza kdysi\nzili na Mt. Crenel v Zapadnim\nHyrule. Ted je jich malo a tise\nziji v jeskyni."
+ },
+ {
+  "gi": 9,
+  "si": 46,
+  "en": "Before he became a sorcerer, he was\na simple Minish. He had always been\nentranced by the evil that lives in\nthe hearts of men...",
+  "cz": "Nez se stal carodejem, byl prostym\nMinish. Vzdy byl uchvacen zlem,\nktere zije v srdcich lidi..."
+ },
+ {
+  "gi": 9,
+  "si": 47,
+  "en": "These vassals serve the king of\nHyrule. They are loyal and diligent.\nLike the king himself, they are\ncourteous yet frank.",
+  "cz": "Tito vazalove slouzi krali Hyrule.\nJsou verni a pilni. Stejne jako\nsam kral jsou zdvorili, ale\nupimni."
+ },
+ {
+  "gi": 9,
+  "si": 48,
+  "en": "The Royal Hyrule Library. Although\nthe library is well loved, many forget\nto return their books, causing no end\nof trouble for the librarians.",
+  "cz": "Kralovska knihovna Hyrule. Prestoze\nje knihovna velmi oblibena, mnozi\nzapominaji vracet knihy, coz\nzpusobuje knihovnikum potize."
+ },
+ {
+  "gi": 9,
+  "si": 49,
+  "en": "All of these self-trained swordsmen\nhave won the fighting tournament at\nthe Picori Festival before. They see\ngreat potential in {Player}.",
+  "cz": "Vsichni tito sermiri-samouci uz\nv minulosti vyhrali bojovy turnaj\nna Festivalu Piccoru. Vidi v\n{Player} velky potencial."
+ },
+ {
+  "gi": 9,
+  "si": 50,
+  "en": "This couple bakes bread in Hyrule.\nTheir tasty pastries hold a secret...\nIf you're extra lucky, there'll\nbe a helpful item hidden inside!",
+  "cz": "Tento par peče chleba v Hyrule.\nJejich chutne peciva skryvaji\ntajemstvi... Kdyz mas stesti,\nuvnitr bude uzitecny predmet!"
+ },
+ {
+  "gi": 9,
+  "si": 51,
+  "en": "This is where all the children of Hyrule\nlearn. {Player} and Princess Zelda\nstudied here, too. The two teachers\nare twins named Tina and Dina.",
+  "cz": "Tady se uci vsechny deti Hyrule.\n{Player} a princezna Zelda se zde\ntake ucili. Obe ucitelky jsou\ndvojcata jmenem Tina a Dina."
+ },
+ {
+  "gi": 9,
+  "si": 52,
+  "en": "This is the best place in town to relax.\nYou can also pick up some good tips,\nfrom the latest gossip to observations\nabout the world.",
+  "cz": "Toto je nejlepsi misto ve meste\nk odpocinku. Muzes zde take ziskat\nuzitecne tipy, od nejnovejsich drbu\npo pozorovani sveta."
+ },
+ {
+  "gi": 9,
+  "si": 53,
+  "en": "This generous inn gives a gift to\nevery guest who stays the night.\nGuests can unwind in the lobby on\nthe second floor.",
+  "cz": "Tento stedry hostinec dava dar\nkazdemu hostovi, ktery prespi.\nHoste mohou odpocivat v hale\nve druhem patre."
+ },
+ {
+  "gi": 9,
+  "si": 54,
+  "en": "Zill's the one with the drippy nose. He\nlikes to wander around town with his\nfriends. He knows a lot about Hyrule,\nand he might even give you some tips!",
+  "cz": "Zill je ten s kapajicim nosem. Rad\nse toula po meste se svymi prateli.\nVi hodne o Hyrule a mozna ti\ndokonce da nejake tipy!"
+ },
+ {
+  "gi": 9,
+  "si": 55,
+  "en": "These carpenters may be rough around\nthe edges, but they do good work.\nThey may seem tough, but they're\nin touch with their feminine side.",
+  "cz": "Tito truhlari mohou byt drsni,\nale delaji dobrou praci.\nMohou vypadat tvrde, ale jsou\nv kontaktu se svou jemnou strankou."
+ },
+ {
+  "gi": 9,
+  "si": 56,
+  "en": "Romio and Julietta grew up next door\nto one another. They're dating now,\nbut they plan to marry once they get\ntheir pets' approval.",
+  "cz": "Romio a Julietta vyrustali vedle\nsebe. Ted spolu chodi, ale planuji\nse vzit, az dostanou souhlas\nod svych mazlicku."
+ }
+]
