@@ -1,0 +1,662 @@
+[
+ {
+  "idx": 0,
+  "en": "Map10",
+  "cz": ""
+ },
+ {
+  "idx": 1,
+  "en": "Design Maps",
+  "cz": ""
+ },
+ {
+  "idx": 2,
+  "en": "War Room",
+  "cz": ""
+ },
+ {
+  "idx": 3,
+  "en": "4P Maps",
+  "cz": ""
+ },
+ {
+  "idx": 4,
+  "en": "3P Maps",
+  "cz": ""
+ },
+ {
+  "idx": 5,
+  "en": "Pre-Deployed",
+  "cz": ""
+ },
+ {
+  "idx": 6,
+  "en": "Vs.",
+  "cz": ""
+ },
+ {
+  "idx": 7,
+  "en": "Special",
+  "cz": ""
+ },
+ {
+  "idx": 8,
+  "en": "Campaign",
+  "cz": ""
+ },
+ {
+  "idx": 9,
+  "en": "Field Training",
+  "cz": ""
+ },
+ {
+  "idx": 10,
+  "en": "Edit 3",
+  "cz": ""
+ },
+ {
+  "idx": 11,
+  "en": "Edit 2",
+  "cz": ""
+ },
+ {
+  "idx": 12,
+  "en": "Edit 1",
+  "cz": ""
+ },
+ {
+  "idx": 13,
+  "en": "Rivals!",
+  "cz": ""
+ },
+ {
+  "idx": 14,
+  "en": "The Final Battle!",
+  "cz": ""
+ },
+ {
+  "idx": 15,
+  "en": "Enigma",
+  "cz": ""
+ },
+ {
+  "idx": 16,
+  "en": "Andy Times Two!",
+  "cz": ""
+ },
+ {
+  "idx": 17,
+  "en": "Battle Mystery!",
+  "cz": ""
+ },
+ {
+  "idx": 18,
+  "en": "Wings of Victory!",
+  "cz": ""
+ },
+ {
+  "idx": 19,
+  "en": "Naval Clash!",
+  "cz": ""
+ },
+ {
+  "idx": 20,
+  "en": "Captain Drake!",
+  "cz": ""
+ },
+ {
+  "idx": 21,
+  "en": "Sonja's Goal!",
+  "cz": ""
+ },
+ {
+  "idx": 22,
+  "en": "Sami Marches On!",
+  "cz": ""
+ },
+ {
+  "idx": 23,
+  "en": "Divide & Conquer!",
+  "cz": ""
+ },
+ {
+  "idx": 24,
+  "en": "Kanbei's Error?",
+  "cz": ""
+ },
+ {
+  "idx": 25,
+  "en": "Mighty Kanbei!",
+  "cz": ""
+ },
+ {
+  "idx": 26,
+  "en": "Kanbei Arrives!",
+  "cz": ""
+ },
+ {
+  "idx": 27,
+  "en": "Sami's Debut!",
+  "cz": ""
+ },
+ {
+  "idx": 28,
+  "en": "History Lesson!",
+  "cz": ""
+ },
+ {
+  "idx": 29,
+  "en": "Blizzard Battle!",
+  "cz": ""
+ },
+ {
+  "idx": 30,
+  "en": "Sniper!",
+  "cz": ""
+ },
+ {
+  "idx": 31,
+  "en": "Olaf's Sea Strike!",
+  "cz": ""
+ },
+ {
+  "idx": 32,
+  "en": "Olaf's Navy",
+  "cz": ""
+ },
+ {
+  "idx": 33,
+  "en": "Max's Folly?",
+  "cz": ""
+ },
+ {
+  "idx": 34,
+  "en": "Max Strikes!",
+  "cz": ""
+ },
+ {
+  "idx": 35,
+  "en": "Air Ace!",
+  "cz": ""
+ },
+ {
+  "idx": 36,
+  "en": "Gunfighter!",
+  "cz": ""
+ },
+ {
+  "idx": 37,
+  "en": "It's War!",
+  "cz": ""
+ },
+ {
+  "idx": 38,
+  "en": "Special Intel",
+  "cz": ""
+ },
+ {
+  "idx": 39,
+  "en": "Fog of War",
+  "cz": ""
+ },
+ {
+  "idx": 40,
+  "en": "Climate Status",
+  "cz": ""
+ },
+ {
+  "idx": 41,
+  "en": "Naval Forces",
+  "cz": ""
+ },
+ {
+  "idx": 42,
+  "en": "Dogfights",
+  "cz": ""
+ },
+ {
+  "idx": 43,
+  "en": "Air Defense",
+  "cz": ""
+ },
+ {
+  "idx": 44,
+  "en": "Air Assault",
+  "cz": ""
+ },
+ {
+  "idx": 45,
+  "en": "Copter Tactics",
+  "cz": ""
+ },
+ {
+  "idx": 46,
+  "en": "Tank Ops",
+  "cz": ""
+ },
+ {
+  "idx": 47,
+  "en": "APC ABCs",
+  "cz": ""
+ },
+ {
+  "idx": 48,
+  "en": "Unit Repair",
+  "cz": ""
+ },
+ {
+  "idx": 49,
+  "en": "Base Capture",
+  "cz": ""
+ },
+ {
+  "idx": 50,
+  "en": "Terrain Intel",
+  "cz": ""
+ },
+ {
+  "idx": 51,
+  "en": "Troop Orders",
+  "cz": ""
+ },
+ {
+  "idx": 52,
+  "en": "Last Mission",
+  "cz": ""
+ },
+ {
+  "idx": 53,
+  "en": "Ring Islands",
+  "cz": ""
+ },
+ {
+  "idx": 54,
+  "en": "Rivers Four",
+  "cz": ""
+ },
+ {
+  "idx": 55,
+  "en": "Stamp Islands",
+  "cz": ""
+ },
+ {
+  "idx": 56,
+  "en": "Terra Maw",
+  "cz": ""
+ },
+ {
+  "idx": 57,
+  "en": "Egg Islands",
+  "cz": ""
+ },
+ {
+  "idx": 58,
+  "en": "Dire Range",
+  "cz": ""
+ },
+ {
+  "idx": 59,
+  "en": "Twin Isle",
+  "cz": ""
+ },
+ {
+  "idx": 60,
+  "en": "Toil Ferry",
+  "cz": ""
+ },
+ {
+  "idx": 61,
+  "en": "Bounty River",
+  "cz": ""
+ },
+ {
+  "idx": 62,
+  "en": "Mial's Hope",
+  "cz": ""
+ },
+ {
+  "idx": 63,
+  "en": "Ridge Island",
+  "cz": ""
+ },
+ {
+  "idx": 64,
+  "en": "Point Stormy",
+  "cz": ""
+ },
+ {
+  "idx": 65,
+  "en": "Kita Straight",
+  "cz": ""
+ },
+ {
+  "idx": 66,
+  "en": "Land's End",
+  "cz": ""
+ },
+ {
+  "idx": 67,
+  "en": "Pivot Isle",
+  "cz": ""
+ },
+ {
+  "idx": 68,
+  "en": "Sole Harbor",
+  "cz": ""
+ },
+ {
+  "idx": 69,
+  "en": "Duo Falls",
+  "cz": ""
+ },
+ {
+  "idx": 70,
+  "en": "Moji Island",
+  "cz": ""
+ },
+ {
+  "idx": 71,
+  "en": "Spann Island",
+  "cz": ""
+ },
+ {
+  "idx": 72,
+  "en": "Glory Islands",
+  "cz": ""
+ },
+ {
+  "idx": 73,
+  "en": "South Cape",
+  "cz": ""
+ },
+ {
+  "idx": 74,
+  "en": "Fable Hills",
+  "cz": ""
+ },
+ {
+  "idx": 75,
+  "en": "Traitor River",
+  "cz": ""
+ },
+ {
+  "idx": 76,
+  "en": "Alakule",
+  "cz": ""
+ },
+ {
+  "idx": 77,
+  "en": "Island X",
+  "cz": ""
+ },
+ {
+  "idx": 78,
+  "en": "Tatter River",
+  "cz": ""
+ },
+ {
+  "idx": 79,
+  "en": "Spring Lakes",
+  "cz": ""
+ },
+ {
+  "idx": 80,
+  "en": "Chain Canal",
+  "cz": ""
+ },
+ {
+  "idx": 81,
+  "en": "Jay Islands",
+  "cz": ""
+ },
+ {
+  "idx": 82,
+  "en": "Cap Narrows",
+  "cz": ""
+ },
+ {
+  "idx": 83,
+  "en": "Web River",
+  "cz": ""
+ },
+ {
+  "idx": 84,
+  "en": "Patriot Cove",
+  "cz": ""
+ },
+ {
+  "idx": 85,
+  "en": "Islas Five",
+  "cz": ""
+ },
+ {
+  "idx": 86,
+  "en": "Plus Canal",
+  "cz": ""
+ },
+ {
+  "idx": 87,
+  "en": "Loop Road",
+  "cz": ""
+ },
+ {
+  "idx": 88,
+  "en": "Rival Islands",
+  "cz": ""
+ },
+ {
+  "idx": 89,
+  "en": "Tween Isle",
+  "cz": ""
+ },
+ {
+  "idx": 90,
+  "en": "Crop River",
+  "cz": ""
+ },
+ {
+  "idx": 91,
+  "en": "Rocket Cape",
+  "cz": ""
+ },
+ {
+  "idx": 92,
+  "en": "Four Corners",
+  "cz": ""
+ },
+ {
+  "idx": 93,
+  "en": "Thorn Islands",
+  "cz": ""
+ },
+ {
+  "idx": 94,
+  "en": "Jab Peninsula",
+  "cz": ""
+ },
+ {
+  "idx": 95,
+  "en": "Eel Channels",
+  "cz": ""
+ },
+ {
+  "idx": 96,
+  "en": "Atlas River",
+  "cz": ""
+ },
+ {
+  "idx": 97,
+  "en": "Nail Canal",
+  "cz": ""
+ },
+ {
+  "idx": 98,
+  "en": "Liar's Cove",
+  "cz": ""
+ },
+ {
+  "idx": 99,
+  "en": "Shear Port",
+  "cz": ""
+ },
+ {
+  "idx": 100,
+  "en": "Devil's Inlet",
+  "cz": ""
+ },
+ {
+  "idx": 101,
+  "en": "Glass Heights",
+  "cz": ""
+ },
+ {
+  "idx": 102,
+  "en": "Gem Creek",
+  "cz": ""
+ },
+ {
+  "idx": 103,
+  "en": "Peril Maze",
+  "cz": ""
+ },
+ {
+  "idx": 104,
+  "en": "Shield Hills",
+  "cz": ""
+ },
+ {
+  "idx": 105,
+  "en": "Ink Canal",
+  "cz": ""
+ },
+ {
+  "idx": 106,
+  "en": "Channel City",
+  "cz": ""
+ },
+ {
+  "idx": 107,
+  "en": "Mantis River",
+  "cz": ""
+ },
+ {
+  "idx": 108,
+  "en": "Fork River",
+  "cz": ""
+ },
+ {
+  "idx": 109,
+  "en": "Keyhole Cove",
+  "cz": ""
+ },
+ {
+  "idx": 110,
+  "en": "Clover Keys",
+  "cz": ""
+ },
+ {
+  "idx": 111,
+  "en": "Bead Islands",
+  "cz": ""
+ },
+ {
+  "idx": 112,
+  "en": "Pyramid Cape",
+  "cz": ""
+ },
+ {
+  "idx": 113,
+  "en": "Battle Cube",
+  "cz": ""
+ },
+ {
+  "idx": 114,
+  "en": "Leaf Haven",
+  "cz": ""
+ },
+ {
+  "idx": 115,
+  "en": "Coil Range",
+  "cz": ""
+ },
+ {
+  "idx": 116,
+  "en": "Blue Lake",
+  "cz": ""
+ },
+ {
+  "idx": 117,
+  "en": "Poem Cape",
+  "cz": ""
+ },
+ {
+  "idx": 118,
+  "en": "Delta Heights",
+  "cz": ""
+ },
+ {
+  "idx": 119,
+  "en": "Liaison Wood",
+  "cz": ""
+ },
+ {
+  "idx": 120,
+  "en": "Pointing River",
+  "cz": ""
+ },
+ {
+  "idx": 121,
+  "en": "Scarab Road",
+  "cz": ""
+ },
+ {
+  "idx": 122,
+  "en": "Bundle City",
+  "cz": ""
+ },
+ {
+  "idx": 123,
+  "en": "Rapid Ferry",
+  "cz": ""
+ },
+ {
+  "idx": 124,
+  "en": "Wrench Island",
+  "cz": ""
+ },
+ {
+  "idx": 125,
+  "en": "Jewel Canal",
+  "cz": ""
+ },
+ {
+  "idx": 126,
+  "en": "Mint Plateau",
+  "cz": ""
+ },
+ {
+  "idx": 127,
+  "en": "Moon Isle",
+  "cz": ""
+ },
+ {
+  "idx": 128,
+  "en": "River Range",
+  "cz": ""
+ },
+ {
+  "idx": 129,
+  "en": "Brace Range",
+  "cz": ""
+ },
+ {
+  "idx": 130,
+  "en": "Go Islands",
+  "cz": ""
+ },
+ {
+  "idx": 131,
+  "en": "Swan Cove",
+  "cz": ""
+ }
+]

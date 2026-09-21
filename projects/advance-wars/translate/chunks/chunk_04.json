@@ -1,0 +1,662 @@
+[
+ {
+  "idx": 528,
+  "en": "Nell?\\rWhat is it?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 529,
+  "en": "Your Power Meter is full!\\fAndy's CO Power lets you\\rrepair all damaged units, right?\\fDo you know when it's best to\\ruse it?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 530,
+  "en": "Um... No, I don't.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 531,
+  "en": "Well, I guess I'll have to tell you.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 532,
+  "en": "Since you're able to repair all of your\\runits, you should use your Power\\fwhen you have damaged units.\\rOh, and one more thing.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 533,
+  "en": "When you use your Power, all\\rof your units will be a little stronger\\ffor that turn. Don't forget what\\rI just told you, OK?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 534,
+  "en": "Is that clear?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 535,
+  "en": "I lost again!\\fWho in the world are you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 536,
+  "en": "Hey, grandpa. Who are you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 537,
+  "en": "Who am I, you ask?\\fThroughout Orange Star I\\rwas known as...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 538,
+  "en": "Nell's papa?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 539,
+  "en": "That's right, Nell's... What? No!\\fThat's what I get for being nice\\rto children! No respect!\\fGrrr... You just watch yourself,\\rlittle boy!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 540,
+  "en": "Olaf's Power isn't fair, is it?\\fIt's almost impossible to move\\rwhen it starts snowing.\\fI suggest moving in groups\\rin the snow.\\fKeep up the good work!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 541,
+  "en": "What's up, Nell?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 542,
+  "en": "Well, um...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 543,
+  "en": "Oh, my. Well, let's go through it again.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 544,
+  "en": "First, place the cursor on a base and\\rpress the A Button.\\fA list of units will then be displayed.\\rUse the + Control Pad to scroll\\fthrough the list, and press the\\rA Button to select the unit you want\\fto deploy. Units that you can't afford\\rwill appear in gray. Don't forget that.\\fEach day, you'll receive funds from\\rall of the bases you hold. You'll\\fhave to make do with that amount.\\rRemember, you can't deploy new units\\fand move them on the same turn.\\rHope you got all of that. Good luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 545,
+  "en": "Yeah, Nell. We're here.\\rWhat's going on?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 546,
+  "en": "We've learned that Grit is\\rthe opposing CO!\\fGrit is an indirect-fire expert whose\\rattack range is larger than normal.\\fPlus, his range gets even bigger\\rwhen he uses his CO Power!\\fMake sure you check Grit's attack\\rrange throughout the battle.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 547,
+  "en": "Understood. Hey, Nell...\\fHow do you know so much\\rabout this guy?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 548,
+  "en": "Well...we used to be...friends.\\fUm,  that's all I had to tell you.\\rNell out.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 549,
+  "en": "Huh? Nell was sure in a hurry.\\rI wonder what was wrong?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 550,
+  "en": "Possum spit! This area wasn't\\rBlue Moon's to begin with.\\fBlue Moon is just plain greedy.\\rThat's what it is.\\fFightin' for these folks just\\rdon't sit well with me.\\fWell, I guess I'll just mosey on out\\rand see what happens.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 551,
+  "en": "Stop calling me Junior!\\fI have a name! It's Andy!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 552,
+  "en": "Well now! That's the spirit!\\fY'all are new to the Orange\\rStar Army, right?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 553,
+  "en": "Yeah, so?\\fHey! How'd you know that?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 554,
+  "en": "Grit's indirect fire abilities increase\\rwhen he uses his CO Power.\\fSo, you should try and take out his\\rindirect combat units before his Power\\fMeter fills up. His direct combat units\\raren't very strong, so you shouldn't\\fworry about them too much.\\rGood luck on the next battle!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 555,
+  "en": "Didn't Nell say this area was empty?\\rAs in, no enemies?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 556,
+  "en": "Nell!\\rThere are hostile forces here!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 557,
+  "en": "You're too late, Nell.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 558,
+  "en": "What? Does that mean\\ryou're already under attack?\\fWell... Um... Good luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 559,
+  "en": "Nell left us! She ran away...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 560,
+  "en": "I... I lost?\\fHuh? It's you! Andy!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 561,
+  "en": "Yeah, but...who are you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 562,
+  "en": "Don't play dumb with me, boy!\\fI'll never forget what you've done!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 563,
+  "en": "Huh?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 564,
+  "en": "So, continuing to feign\\rignorance, eh?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 565,
+  "en": "Very well, but the next time we\\rmeet will be our last!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 566,
+  "en": "Hey! Wait up!\\fHe's gone.\\fWhat was that all about?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 567,
+  "en": "Cripes! I can't believe I have to be a\\rnanny to this little kid...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 568,
+  "en": "I'm not a little kid! I'm a CO in\\rthe Orange Star Army!\\fAnd I don't need a nanny!\\r...Whatever that is.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 569,
+  "en": "Uh-huh.\\fOK, little man, why don't you tell me\\rhow to use the bases on this map?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 570,
+  "en": "No problem!\\rYou use the naval base to deploy\\fnaval units and the air base\\rto deploy air units.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 571,
+  "en": "Not bad! I'm surprised you know\\rthat much.\\fBut if a CO doesn't have guts,\\rhe's got nothin'.\\fShow me what you can do, kid.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 572,
+  "en": "Ha ha ha ha ha!\\rBehold! Gaze upon my beautiful army!\\fOrange Star may match me in\\rnumbers, but I have so\\fmuch more power!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 573,
+  "en": "But you're not very well balanced...\\fWhat if the enemy send its subs\\runder? That'll stop you cold.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 574,
+  "en": "Battleships at sea!\\fMd Tanks on land!\\fIs there anything more I need?\\rNo! Nothing at all!\\fAttack! Attack! Attack!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 575,
+  "en": "Well, as long as you're happy, Boss.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 576,
+  "en": "See? I told you!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 577,
+  "en": "Hey! Not bad, kid. Not bad at all.\\f'Course, I woulda finished that up\\ra bit quicker, but...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 578,
+  "en": "What did you say?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 579,
+  "en": "Huh? You wanna piece of me?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 580,
+  "en": "Knock it off, both of you!\\fMax, this is hardly the mature\\rbehavior I was expecting from you!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 581,
+  "en": "But he started...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 582,
+  "en": "Max!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 583,
+  "en": "Hee, hee!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 584,
+  "en": "If you keep this up, you're going to\\rhave your heads handed to you!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 585,
+  "en": "Blast!\\fGrit's troops are all around me!\\fIf I stay put, I'll be blasted to\\rsmithereens. If I retreat, our HQ\\fwill be captured... How am I\\rgonna get out of this?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 586,
+  "en": "Ya...Yahoo!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 587,
+  "en": "You're awful beat up to\\rbe celebratin'.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 588,
+  "en": "Well...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 589,
+  "en": "Yeah, exactly. You know, Maxie,\\ryou never were any good at indirect\\fcombat. Why, if you'd have just used\\rthose big boys a little more, you\\fwouldn't have taken such a poundin'.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 590,
+  "en": "Um...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 591,
+  "en": "And long as I'm givin' you what-for,\\rwhat's up with you and the kid?\\fHe ain't got your particular\\rshortcomings, so give him a break!\\fHe's pretty darn good, and you know\\rit. C'mon Maxie, what do you say?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 592,
+  "en": "Yeah...I guess you're right.\\fHey! Andy!\\rSorry for being such a jerk.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 593,
+  "en": "Huh?\\fAs long as you're cool,\\rI'm cool.\\fHey, Grit!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 594,
+  "en": "What's up, Junior?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 595,
+  "en": "How many times do I have\\rto tell you to stop calling me Junior?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 596,
+  "en": "Whoa! I hear you, I hear you.\\rMy apologies.\\fWell now, look at the time.\\rGotta go, boys!\\fSee y'all later! Take care, Junior.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 597,
+  "en": "Fog of War...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 598,
+  "en": "Good memory!\\fI guess there's no need for any\\rspecial explanation, then.\\fLet's get started!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 599,
+  "en": "The things I do for my country... (sigh)\\fThis gray stuff that's blocking our\\rvision, that's Fog of War.\\fAs you can imagine, the enemy\\ris out there, hidden.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 600,
+  "en": "Wow, that's creepy.\\fSo, how do we find the bad guys?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 601,
+  "en": "Hm hm hm...\\fHee hee hee...\\fHa ha ha ha ha!\\fBehold!\\rOlaf's Navy is here!\\fIt's no longer just battleships, I've\\rassembled a complete armada!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 602,
+  "en": "Um... Pardon me, Your Stoutness,\\fbut if the enemy heads inland, your\\rnaval powerhouse'll be useless.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 603,
+  "en": "Now it's my turn!\\fMy fleet will crush those detestable\\rOrange Star fools!\\fHa ha ha ha ha!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 604,
+  "en": "But you don't even have a single\\rinfantry or mech unit deployed, and...\\fMan, he ain't even listenin'.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 605,
+  "en": "Grrr... I... I lost again...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 606,
+  "en": "This will be such a disservice to...\\rhim...if things continue this way.\\fGrit!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 607,
+  "en": "Yep.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 608,
+  "en": "Get out there and stop\\rthe Orange Star Army!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 609,
+  "en": "That's easy to say, Boss.\\rBut you left me nothin' to work with.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 610,
+  "en": "Don't get saucy! Just rally the\\rtroops and do something!\\fI must go and pay...him...my respects.\\fI'll return later.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 611,
+  "en": "Well, well, he's finally off to visit\\rthe mystery man.\\fThink I'll just tag along and see\\rwhat I can see.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 612,
+  "en": "Inconceivable!\\fMy beautiful navy has\\rbeen destroyed!\\fYou... You villains!\\fNow you'll have to face\\rOlaf's Sea Strike!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 613,
+  "en": "Olaf's Navy was as strong\\ras we expected.\\fYou went head to head with him, but...\\fYou should have moved all\\rof your troops inland.\\fIf you're away from the sea, you're\\rout of the battleships' attack range!\\fThen you could've concentrated on\\rcapturing the enemy HQ.\\fOh, well. Better luck next time.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 614,
+  "en": "Gimme a break!\\rNot this guy again.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 615,
+  "en": "What's wrong, Max?\\rDon't you like Olaf?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 616,
+  "en": "That's probably the safest way to\\rweather a storm.\\fAnyway, let's move out!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 617,
+  "en": "Get moving!\\fYeah! Right there!\\fGet 'em!\\fHa ha ha ha ha!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 618,
+  "en": "Grrr... Another defeat!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 619,
+  "en": "He will not be pleased with me\\rif this losing streak continues.\\fGrit!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 620,
+  "en": "Yep.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 621,
+  "en": "Get out there and stop that\\rcursed Orange Star Army!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 622,
+  "en": "Easier said than done, Boss. You\\rdidn't leave me anything to work with.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 623,
+  "en": "Don't get saucy!\\rRally the troops and do something!\\fI have to go and pay...him...my respects.\\fDon't fail me, Grit!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 624,
+  "en": "Well, well, well...\\fOlaf's finally off to see his\\rmysterious benefactor.\\fThink I'll just tag along behind and\\rsee what I can see.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 625,
+  "en": "Well, Max. You're here to help, too?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 626,
+  "en": "How you doin', Nell?\\fNow that I'm here, what's the\\rkid gonna do?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 627,
+  "en": "Oh, Max. You haven't changed a bit.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 628,
+  "en": "But I must tell you, Andy's\\rquite a capable CO.\\fIf you're not careful,\\rhe may just pass you up.\\fSee you later. Good luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 629,
+  "en": "How's that? What do you think\\rof that power?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 630,
+  "en": "Cool! There's no way I could do\\rthat much damage.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 631,
+  "en": "Yeah! That's right!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 632,
+  "en": "As long as I didn't use\\rmy indirect combat units, that is.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 633,
+  "en": "Oooh...you...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 634,
+  "en": "That's exactly right.\\fMax doesn't use indirect combat units\\rbecause he's clumsy.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 635,
+  "en": "And your range of fire is small, too.\\rThat's life threatening, isn't it?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 636,
+  "en": "Ha!\\fI'll do just fine without relying\\ron those units.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 637,
+  "en": "I wonder about that.\\fAnyway, excellent work, Max!\\fNow, you two work together\\rand try to get along.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 638,
+  "en": "You heard the lady. Let's\\rstop fighting and do this, Andy.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 639,
+  "en": "I think she was talking to you, Max.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 640,
+  "en": "Each CO has his or\\rher own CO Power.\\fDo you think it might\\rbe a good idea to try another CO?\\fBest of luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 641,
+  "en": "Fog of War...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 642,
+  "en": "What's \"Fog of War\"?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 643,
+  "en": "Please tell me you're joking.\\fSee that gray stuff blocking your\\rvision? That's Fog of War.\\fNow, I wonder where the enemy\\rtroops are hidden.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 644,
+  "en": "How do we find 'em?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 645,
+  "en": "Boy, that seems pretty simple.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 646,
+  "en": "You just don't know enough to\\rrealize the danger, Andy.\\fIf we can hide units in the woods,\\rthen so can our opponent.\\fIf we're not careful, hidden units\\rwill blow us away!\\fAll right. Let's move out!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 647,
+  "en": "Howdy Max. Long time, no see.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 648,
+  "en": "Grit? Is that you?\\fI was wondering why I hadn't seen you\\raround lately, and now I know.\\fYou're working for Blue Moon!\\rYou traitorous piece of gar--\\f",
+  "cz": ""
+ },
+ {
+  "idx": 649,
+  "en": "Aww, Maxie. Don't be like that.\\fI got my reasons for doin' what\\rI do, you know?\\fMan, I'm getting out of here before\\ryou get started preachin' again.\\fSee y'all down the road!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 650,
+  "en": "Hold it, Grit!\\fDang! He got away.\\fBut what's he doing\\rwith Blue Moon?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 651,
+  "en": "Grit's going to hide some units in\\rthe woods.\\fIt's important that you remember that\\rand advance with the utmost caution.\\fBetter luck next time.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 652,
+  "en": "What is it, Nell?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 653,
+  "en": "I've learned that this is a vital\\rdeployment point for Olaf.\\fIf we can drive him from the region,\\rwe may just cripple his army!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 654,
+  "en": "Really? This may be where we can\\rend this conflict with Olaf!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 655,
+  "en": "That's right!\\fYou just need to capture as much\\rproperty as possible, and fast!\\fThe first army to secure twelve\\rproperties will win this battle!\\fStay alert and good luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 656,
+  "en": "Let's see... Yep, we've got\\rbases for deploying troops, and...\\fOK! Understood. Let's go!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 657,
+  "en": "Grrr... Not again!\\fHe will not be pleased with me\\rif this losing streak continues.\\fGrit!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 658,
+  "en": "Yep.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 659,
+  "en": "Get out there and stop that\\rcursed Orange Star Army!\\f",
+  "cz": ""
+ }
+]

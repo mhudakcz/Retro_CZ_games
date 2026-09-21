@@ -1,0 +1,662 @@
+[
+ {
+  "idx": 264,
+  "en": "UNIT  C0  C1",
+  "cz": ""
+ },
+ {
+  "idx": 265,
+  "en": "PSQ(%1d)",
+  "cz": ""
+ },
+ {
+  "idx": 266,
+  "en": "ASQ(%1d)",
+  "cz": ""
+ },
+ {
+  "idx": 267,
+  "en": "USQ(%1d)",
+  "cz": ""
+ },
+ {
+  "idx": 268,
+  "en": "CPT(%1d)",
+  "cz": ""
+ },
+ {
+  "idx": 269,
+  "en": "This is where you can\\rdesign your own maps!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 270,
+  "en": "If you need instructions,\\rchoose Help from the menu.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 271,
+  "en": "Press SELECT and\\rthen choose Help.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 272,
+  "en": "Help contains control explanations, as\\rwell as rules and instructions for\\fplaying on the maps you create.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 273,
+  "en": "Enjoy!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 274,
+  "en": "Map Conditions :",
+  "cz": ""
+ },
+ {
+  "idx": 275,
+  "en": "At least two armies, with an HQ",
+  "cz": ""
+ },
+ {
+  "idx": 276,
+  "en": "and one or more units or factories each.",
+  "cz": ""
+ },
+ {
+  "idx": 277,
+  "en": "How to Play :",
+  "cz": ""
+ },
+ {
+  "idx": 278,
+  "en": "Maps can be used for play in",
+  "cz": ""
+ },
+ {
+  "idx": 279,
+  "en": "Vs. Mode or Link Mode.",
+  "cz": ""
+ },
+ {
+  "idx": 280,
+  "en": "Place the terrain or unit.",
+  "cz": ""
+ },
+ {
+  "idx": 281,
+  "en": "Select the terrain or unit.",
+  "cz": ""
+ },
+ {
+  "idx": 282,
+  "en": "Open the unit selection menu.",
+  "cz": ""
+ },
+ {
+  "idx": 283,
+  "en": "Open the terrain selection menu.",
+  "cz": ""
+ },
+ {
+  "idx": 284,
+  "en": "Display overhead map.",
+  "cz": ""
+ },
+ {
+  "idx": 285,
+  "en": "There's no data.",
+  "cz": ""
+ },
+ {
+  "idx": 286,
+  "en": "There's no data.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 287,
+  "en": "Design Map 1",
+  "cz": ""
+ },
+ {
+  "idx": 288,
+  "en": "Design Map 2",
+  "cz": ""
+ },
+ {
+  "idx": 289,
+  "en": "Design Map 3",
+  "cz": ""
+ },
+ {
+  "idx": 290,
+  "en": "Sea",
+  "cz": ""
+ },
+ {
+  "idx": 291,
+  "en": "Plain",
+  "cz": ""
+ },
+ {
+  "idx": 292,
+  "en": "Mtn",
+  "cz": ""
+ },
+ {
+  "idx": 293,
+  "en": "Wood",
+  "cz": ""
+ },
+ {
+  "idx": 294,
+  "en": "You must really like doing\\rthat over and over.\\fKeep it up.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 295,
+  "en": "Mech",
+  "cz": ""
+ },
+ {
+  "idx": 296,
+  "en": "Md Tank",
+  "cz": ""
+ },
+ {
+  "idx": 297,
+  "en": "Tank",
+  "cz": ""
+ },
+ {
+  "idx": 298,
+  "en": "Recon",
+  "cz": ""
+ },
+ {
+  "idx": 299,
+  "en": "APC",
+  "cz": ""
+ },
+ {
+  "idx": 300,
+  "en": "Artlry",
+  "cz": ""
+ },
+ {
+  "idx": 301,
+  "en": "Rockets",
+  "cz": ""
+ },
+ {
+  "idx": 302,
+  "en": "A-Air",
+  "cz": ""
+ },
+ {
+  "idx": 303,
+  "en": "Fighter",
+  "cz": ""
+ },
+ {
+  "idx": 304,
+  "en": "Bomber",
+  "cz": ""
+ },
+ {
+  "idx": 305,
+  "en": "B Cptr",
+  "cz": ""
+ },
+ {
+  "idx": 306,
+  "en": "T Cptr",
+  "cz": ""
+ },
+ {
+  "idx": 307,
+  "en": "B Ship",
+  "cz": ""
+ },
+ {
+  "idx": 308,
+  "en": "Cruiser",
+  "cz": ""
+ },
+ {
+  "idx": 309,
+  "en": "Lander",
+  "cz": ""
+ },
+ {
+  "idx": 310,
+  "en": "Sub",
+  "cz": ""
+ },
+ {
+  "idx": 311,
+  "en": "M Gun",
+  "cz": ""
+ },
+ {
+  "idx": 312,
+  "en": "Bazooka",
+  "cz": ""
+ },
+ {
+  "idx": 313,
+  "en": "Cannon",
+  "cz": ""
+ },
+ {
+  "idx": 314,
+  "en": "Rockets",
+  "cz": ""
+ },
+ {
+  "idx": 315,
+  "en": "Vulcan",
+  "cz": ""
+ },
+ {
+  "idx": 316,
+  "en": "Cannon",
+  "cz": ""
+ },
+ {
+  "idx": 317,
+  "en": "Cannon",
+  "cz": ""
+ },
+ {
+  "idx": 318,
+  "en": "Missiles",
+  "cz": ""
+ },
+ {
+  "idx": 319,
+  "en": "Missiles",
+  "cz": ""
+ },
+ {
+  "idx": 320,
+  "en": "Missiles",
+  "cz": ""
+ },
+ {
+  "idx": 321,
+  "en": "Bombs",
+  "cz": ""
+ },
+ {
+  "idx": 322,
+  "en": "Torps",
+  "cz": ""
+ },
+ {
+  "idx": 323,
+  "en": "A-Air Gun",
+  "cz": ""
+ },
+ {
+  "idx": 324,
+  "en": "None",
+  "cz": ""
+ },
+ {
+  "idx": 325,
+  "en": "Plain",
+  "cz": ""
+ },
+ {
+  "idx": 326,
+  "en": "River",
+  "cz": ""
+ },
+ {
+  "idx": 327,
+  "en": "Mt",
+  "cz": ""
+ },
+ {
+  "idx": 328,
+  "en": "Wood",
+  "cz": ""
+ },
+ {
+  "idx": 329,
+  "en": "Road",
+  "cz": ""
+ },
+ {
+  "idx": 330,
+  "en": "City",
+  "cz": ""
+ },
+ {
+  "idx": 331,
+  "en": "Sea",
+  "cz": ""
+ },
+ {
+  "idx": 332,
+  "en": "HQ",
+  "cz": ""
+ },
+ {
+  "idx": 333,
+  "en": "Arprt",
+  "cz": ""
+ },
+ {
+  "idx": 334,
+  "en": "Port",
+  "cz": ""
+ },
+ {
+  "idx": 335,
+  "en": "Brdg",
+  "cz": ""
+ },
+ {
+  "idx": 336,
+  "en": "Shoal",
+  "cz": ""
+ },
+ {
+  "idx": 337,
+  "en": "Base",
+  "cz": ""
+ },
+ {
+  "idx": 338,
+  "en": "Reef",
+  "cz": ""
+ },
+ {
+  "idx": 339,
+  "en": "Exit Map",
+  "cz": ""
+ },
+ {
+  "idx": 340,
+  "en": "These orange units are yours.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 341,
+  "en": "These blue units are the enemy.\\rThey belong to the Blue Moon Army.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 342,
+  "en": "Defeat the enemy forces to\\rcomplete this mission successfully.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 343,
+  "en": "Well, let's issue some orders.\\fThe cursor is used to give commands.\\fThe + Control Pad\\rmoves the cursor.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 344,
+  "en": "No, not there.\\fPlace the cursor here\\rand press the A Button.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 345,
+  "en": "The action you just completed\\ris called selecting.\\fYou'll see this term often,\\rso do your best to remember it.\\fWhen you select a unit, the area\\raround it will become highlighted.\\fThis area represents the selected\\runit's range of movement.\\fFirst, let's approach\\rthe enemy with this unit.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 346,
+  "en": "Try moving the unit to this space.\\fMove the cursor here and\\rpress the A Button.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 347,
+  "en": "That's not quite right.\\fTry moving the unit again, please.\\fPlace the cursor here and\\rpress the A Button.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 348,
+  "en": "The unit's color changed, right?\\fThis indicates that the unit can't\\rreceive any more orders this turn.\\fDon't worry--you'll be able to use it\\ragain on your next turn.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 349,
+  "en": "Select this unit, please.\\fRemember to press the A Button.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 350,
+  "en": "Eh? Orange Star Army units have\\rmoved into the Alara region?\\fHah! They won't last long.\\fMy troops there will\\rmake short work of them!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 351,
+  "en": "You scored damage on the enemy!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 352,
+  "en": "What are those fools doing?\\fIf I were in the field, they wouldn't\\rbe suffering such humiliation!\\fCursed Orange Star Army!\\rI will defeat it! I will!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 353,
+  "en": "It's your turn again.\\fYou have a two-to-one advantage.\\fThis battle is yours to win!\\fBut, wait a minute.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 354,
+  "en": "This unit took damage in\\rthe last battle, didn't it?\\fUnits lose some of their\\rfirepower when damaged.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 355,
+  "en": "This is how the A Button is used\\rto select units and issue commands.\\fIf you make a mistake and want\\rto change orders, use the B Button.\\fIt's key that you remember this.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 356,
+  "en": "You've defeated all\\rof the enemy units!\\fYour mission is a success!\\fKeep up the good work!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 357,
+  "en": "What? Inconceivable!\\fThat land was mine! How did\\rthey lose it so easily?\\fGrrr... Next time,\\rvictory will be mine!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 358,
+  "en": "Excellent!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 359,
+  "en": "You know, if you don't move here,\\ryou won't be able to attack.\\fWould you please move here?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 360,
+  "en": "You attacked the enemy\\rfrom the mountains, right?\\fDefensive cover in the mountains\\ris this number here... a four.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 361,
+  "en": "The defensive cover\\ron the plains is a one.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 362,
+  "en": "took less damage\\rthan the other.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 363,
+  "en": "Do you know why?\\fIt's because of superior defensive\\rcover. Remembering this is vital.\\fYou should also keep in mind that\\rmovement cost differs between units.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 364,
+  "en": "Oh, one more thing.\\fIf at any point during the battle you\\rneed to stop, there's a way to save.\\fSaving will prevent you from having\\rto start the same mission over again.\\fPlease go to the Map Menu now.\\fPlace the cursor on an empty\\rspace and press the A Button.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 365,
+  "en": "Excuse me, could you please\\rdisplay the Map Menu now?\\fPress the A Button when the\\rcursor's on an empty space.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 366,
+  "en": "You've done it!\\fThese units really were\\ron a covert operation.\\fThanks to your planning, our\\rtroops took minimal damage.\\fKeep up the good work!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 367,
+  "en": "Aargh! Another failure!\\fAfter all of my careful planning,\\ranother botched mission!\\fGrrr... Next time, I will prevail!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 368,
+  "en": "Would you move it here?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 369,
+  "en": "Move it here using the\\rcursor and the A Button.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 370,
+  "en": "Move the unit to this position, please.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 371,
+  "en": "When you don't have any immediate\\rgoals, it's best to move close to cities.\\fSo, move to this space, please.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 372,
+  "en": "It's your turn.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 373,
+  "en": "You may lose the battle if you\\rforget to finish securing cities.\\fAlways start your turn by having\\runits complete previous orders.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 374,
+  "en": "Now, this city is yours!\\fIt's the same color as your troops,\\rright? You can now use it as a base.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 375,
+  "en": "So, now you can see that\\rthese cities are under enemy control.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 376,
+  "en": "By the way, gray\\rcities are neutral.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 377,
+  "en": "Now, here's a problem for you.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 378,
+  "en": "Yes, that's the correct choice!\\fOf course, capturing either one\\rof these cities is a plus for you.\\fBut if you secure the enemy city,\\ryou also reduce your foe's funds.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 379,
+  "en": "Oh, yes. There's one more thing\\ryou need to know.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 380,
+  "en": "Really?\\fOk, but just one.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 381,
+  "en": "Outstanding!\\fYou've reclaimed the area and\\rforced Blue Moon to withdraw!\\fThere's one more thing\\rI have to tell you.\\fYou receive funds by\\rcapturing cities, right?\\fWell, once you clear a map,\\ryou lose those funds. Sorry!\\fGood luck on the next battle!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 382,
+  "en": "Oh, no!\\rYou've been defeated...\\fRegroup and try again.\\rGood luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 383,
+  "en": "Olaf has his bases covered.\\fIt looks like he understands the\\rimportance of holding this area.\\fAlmost all of our units heading for\\rLost Fortress have been eliminated.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 384,
+  "en": "To repair a unit, just move it to an\\rallied city or a secure base.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 385,
+  "en": "If you don't move the unit into a city,\\rit won't regain any HP.\\fWould you move it here, please?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 386,
+  "en": "If you leave it out there next\\rto the enemy, it's done for.\\fLet's move it to a safe place.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 387,
+  "en": "I'd like to repair this unit now, but\\rthere's no safe place within\\fits movement range. There's\\rnothing we can do about that.\\fLet's get it as close to a city as\\rpossible and begin repairs next turn.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 388,
+  "en": "Would you move it here, please?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 389,
+  "en": "I'm sorry for the confusion.\\fWould you please move the unit here?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 390,
+  "en": "That's right. Thank you.\\fBut we can't stop there, can we?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 391,
+  "en": "Well, what to do now? How about\\rgiving it a little assistance?\\fLet's deploy other units around it to\\rprevent it from being attacked.\\fThis tactic is called building\\ra defensive wall.\\fOur available units are...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 392,
+  "en": "Move it here to create\\ra defensive wall.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 393,
+  "en": "At this point, our goal is to\\rprotect this unit.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 394,
+  "en": "So, we need to block the enemy's\\rapproach with one of our other units.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 395,
+  "en": "There! Now the unit is safe\\rfrom enemy attack.\\fEnemy units can't cross allied\\rlines and vice-versa.\\fYou can see why a defensive wall is\\rsuch an effective strategic tool.\\f",
+  "cz": ""
+ }
+]

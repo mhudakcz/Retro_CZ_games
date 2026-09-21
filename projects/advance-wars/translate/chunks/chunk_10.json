@@ -1,0 +1,662 @@
+[
+ {
+  "idx": 1320,
+  "en": "This mission focuses\\ron defensive terrain cover.",
+  "cz": ""
+ },
+ {
+  "idx": 1321,
+  "en": "Enemy forces have been\\rspotted in the Alara Mountains.\\fTheir HQ is in another area, so\\rwe believe this is a covert attack.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1322,
+  "en": "A covert attack...that sounds like\\rsomething Olaf would try.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1323,
+  "en": "I think that creep Olaf... I mean CO\\rOlaf is starting to take us seriously.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1324,
+  "en": "But all of our commanders are\\rcaught up in other campaigns.\\fSo there's no one available to lead\\rthe Orange Star Army against him.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1325,
+  "en": "Let me brief you on\\rthe current mission.\\fOur troops en route to the Lost\\rFortress have been waylaid by Olaf.\\fIt's up to you to join up with them,\\rbeat back Olaf and secure the area.\\fWe need the Lost Fortress!\\rMove out!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1326,
+  "en": "But, it sounds like it's seen a lot of\\raction on the front lines, and...\\fWell, I guess we'll get a look at it when\\rwe reach the battlefield.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1327,
+  "en": "This one is fresh from the factory,\\rso don't worry about its condition.\\fOK! Let's get moving!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1328,
+  "en": "This is a chance for you to show me\\rwhat you've learned. Are you ready?",
+  "cz": ""
+ },
+ {
+  "idx": 1329,
+  "en": "An entire company doing recon in the\\rCoral Lagoon area has been lost.\\fThe Coral Fortress is surrounded by\\rmountains, so it's hard to imagine that\\fthere are many enemy units there.\\rStill, an entire company is gone, so...\\fThe point is, we can't afford to lose\\rthat territory.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1330,
+  "en": "Time to get going!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1331,
+  "en": "It's time to introduce air units.",
+  "cz": ""
+ },
+ {
+  "idx": 1332,
+  "en": "Nevertheless, let's make good\\ruse of them.\\fI'll give you more details once we\\rreach the staging area.\\fLet's move out!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1333,
+  "en": "This mission deals with air units, fuel\\rconsumption and anti-air defenses.",
+  "cz": ""
+ },
+ {
+  "idx": 1334,
+  "en": "No, that's not possi...\\rForget it. It's nothing.\\fI'm sure I'm just reading\\rtoo much into the situation.\\fWell, time to get moving!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1335,
+  "en": "It seems that the enemy always has\\rsuperior units deployed. I apologize.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1336,
+  "en": "Anyway, it's time to move out!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1337,
+  "en": "I wonder how fast you can clear this\\rair and indirect combat unit section?",
+  "cz": ""
+ },
+ {
+  "idx": 1338,
+  "en": "You've only got them for\\rthis mission, but...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1339,
+  "en": "It seems Olaf's troops have appeared\\ron the far shore.\\fYour job is to get over there and\\rtake them out in one fell swoop!\\fLet's get moving!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1340,
+  "en": "Naval units are the topic\\rof this briefing.",
+  "cz": ""
+ },
+ {
+  "idx": 1341,
+  "en": "The mission focuses on climate\\rand CO Powers.",
+  "cz": ""
+ },
+ {
+  "idx": 1342,
+  "en": "Before we move out, I need to brief\\ryou in detail on CO Olaf.\\fOlaf used to be a CO in\\rthe Orange Star Army.\\fIn fact, he was my superior.\\fHis strong character and skill with the\\rtroops make him an invaluable CO.\\fThis is what brought him to\\rBlue Moon's attention.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1343,
+  "en": "Not only did he switch allegiances,\\rbut then he attacked Orange Star...\\fHe's a complete wretch!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1344,
+  "en": "Just a little more, and the Blue Moon\\rArmy will be forced to retreat!\\fLet's go get 'em!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1345,
+  "en": "Fog of War is the topic of\\rthis briefing.",
+  "cz": ""
+ },
+ {
+  "idx": 1346,
+  "en": "Finally, we've arrived.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1347,
+  "en": "What a surprise! Are you here\\rfor my Special Intel briefing?",
+  "cz": ""
+ },
+ {
+  "idx": 1348,
+  "en": "This lesson is for commanders who\\rwant a little extra knowledge.\\fThis is special intel that may just\\rgive you the edge in combat.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1349,
+  "en": "Let's get started!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1350,
+  "en": "Please enter your name.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1351,
+  "en": "Name your map, please.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1352,
+  "en": "Welcome to Advance Wars!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1353,
+  "en": "I'm a CO in the Orange\\rStar Army.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1354,
+  "en": "Very well, let me explain\\ra few things briefly.\\fThere are several different\\rmodes of game play.\\fThe Vs. Mode is for multiplayer\\rbattle on one Game Boy Advance.\\fTo play Advance Wars on multiple\\rsystems, link up with friends and\\ftry the Link Mode.\\fAnd then there's Field Training.\\fIf you're playing for the first time,\\ryou should start in Field Training.\\fWould you choose Field Training\\ron the Mode Select Menu, please?\\fIn Field Training, I can\\rinstruct you on game controls\\fand overall battle strategy.\\fOnce in Field Training, please\\rcomplete the missions in order\\ffrom top to bottom.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1355,
+  "en": "The first lesson is on Troop Orders.\\rLet's start here!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1356,
+  "en": "I think that's for the best!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1357,
+  "en": "You can get to Field Training\\rfrom the Mode Select Menu.\\fAlso on the Mode Select Menu is\\rVs. Mode, a multiplayer mode for\\fa single Game Boy Advance.\\fPlus, there's Link Mode, a multiplayer\\rmode for multiple game systems.\\fNext is Field Training. Please enter\\rand complete the missions\\fin order from top to bottom.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1358,
+  "en": "The first lesson is on Troop Orders.\\rGood luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1359,
+  "en": "Very well, let me explain\\ra few things briefly.\\fThere are several different\\rmodes of game play.\\fVs. Mode is for multiplayer\\rbattle on one Game Boy Advance.\\fTo play Advance Wars on multiple\\rsystems, link up with friends\\fand try Link Mode.\\fThen there's the Field Training,\\rwhere I give game\\fand strategy instructions.\\fYou must at least clear the final Field\\rTraining mission, Fog of War.\\fOnce you clear it, other modes\\rwill open up for game play.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1360,
+  "en": "Move out and good luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1363,
+  "en": "Hone your tactical skills.\\rHow high can you score?",
+  "cz": ""
+ },
+ {
+  "idx": 1364,
+  "en": "Lessons in the art of war.\\rI'll be your instructor.",
+  "cz": ""
+ },
+ {
+  "idx": 1365,
+  "en": "Shop here with\\ryour hard-earned coins.",
+  "cz": ""
+ },
+ {
+  "idx": 1366,
+  "en": "One to four players can\\rplay a single game system.",
+  "cz": ""
+ },
+ {
+  "idx": 1367,
+  "en": "Begin a new\\rVs. Mode battle.",
+  "cz": ""
+ },
+ {
+  "idx": 1368,
+  "en": "Continue a previous\\rVs. Mode battle.",
+  "cz": ""
+ },
+ {
+  "idx": 1369,
+  "en": "Start the Campaign Mode\\rfrom the beginning.",
+  "cz": ""
+ },
+ {
+  "idx": 1370,
+  "en": "Continue the Campaign\\rin progress.",
+  "cz": ""
+ },
+ {
+  "idx": 1371,
+  "en": "Start an Advance\\rCampaign!",
+  "cz": ""
+ },
+ {
+  "idx": 1372,
+  "en": "Continue the Advance\\rCampaign in progress.",
+  "cz": ""
+ },
+ {
+  "idx": 1373,
+  "en": "Link multiple systems\\rfor multiplayer battle!",
+  "cz": ""
+ },
+ {
+  "idx": 1374,
+  "en": "Single-Pak Link.\\rFor up to four players.",
+  "cz": ""
+ },
+ {
+  "idx": 1375,
+  "en": "Multi-Pak Link.\\rFor up to four players.",
+  "cz": ""
+ },
+ {
+  "idx": 1376,
+  "en": "Link up and trade\\rmaps with friends!",
+  "cz": ""
+ },
+ {
+  "idx": 1377,
+  "en": "Congratulations! You've received\\rsome Advance Wars coins!\\fYou can use these coins\\rto shop at Battle Maps.\\fGo to Battle Maps and talk\\rto Hachi for more information.\\fYou can find Battle Maps on the\\rMode Select Menu. Check it out.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1378,
+  "en": "Come on in!\\fWelcome to Battle Maps.\\rIf you've got Advance Wars coins,\\fthis is the place to spend 'em.\\fMostly I deal in maps.\\fOnce you own a map,\\ryou can fight on it, you see?\\fOh, and I also have map cases.\\fYou need a case to\\rhold your Vs. Maps in.\\fLet me explain... Well, nah, just\\rbuy something. You'll figure it out.\\fWhoa, hold up there. There's\\rsomething else I need to tell you.\\fNew COs will become available after\\rmeeting certain game conditions.\\fYou'll have to figure out those\\rconditions on your own, though.\\fBut if you stop by again, I might\\rshare a few secrets with you.\\fWell, that's enough gabbing. Time\\rfor business. What do you need?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1379,
+  "en": "Back again?\\fWhat can I do for you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1380,
+  "en": "I'm outta everything.\\rThe shelves are bare.\\fIt's a sign of my\\rconsummate salesmanship.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1381,
+  "en": "Came back, eh?\\rI've got everything you need.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1382,
+  "en": "What do you need now, Ne...\\fOh, you're not...\\fUm... What do you want?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1383,
+  "en": "What a beautiful day!\\fThink I'll close up and...\\fWhat? A customer?\\fDon't you worry, I'm\\rnot going anywhere.\\fLet's get down to business!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1384,
+  "en": "Well, now! You're back again!\\fThat means you must've made some\\rmoney in War Room or Campaign Mode.\\fWhat'll it be today?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1385,
+  "en": "Oh, its you again!\\fHave you picked up\\ra map case yet?\\fGet one and you can increase\\ryour Vs. Map collection.\\fSo, come on! Buy something!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1386,
+  "en": "Hey there, soldier!\\fWhich CO have you been using?\\fJust between me and you, there's\\ra way you can enlist new COs.\\fYou just have to... Well,\\ractually, I can't tell you!\\fYou may learn something\\rin the Campaign Mode, though.\\fSo, you need anything?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1387,
+  "en": "Look who's here!\\fHey, listen. Even if you buy all\\rthe maps in stock, come back again.\\fI'm always getting new stock.\\fGo ahead and take a\\rlook at what I've got in today.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1388,
+  "en": "I hear you're doing a good job. Don't\\rforget to take a rest now and then.\\fHave you been back to Field Training\\rsince you cleared it?\\fAll right, time for business.\\rSee anything you like?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1389,
+  "en": "Come on in!\\fHey, have you cleared\\rthe Campaign Mode?\\fThere's more to it than\\rjust clearing it once, you know.\\fRumor has it that there's\\ranother, harder campaign...\\fAh, I'm talking too much!\\fAre you going to buy anything today?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1390,
+  "en": "Hey! If you're coming in,\\rcome in and shut the door!\\fBy the way, which CO\\rhave you been using?\\fUsing the same CO over\\rand over isn't very impressive.\\fIf you want to reach a higher score,\\ryou should try someone new.\\fEnough of that,\\rwhat'll it be today?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1391,
+  "en": "Well, back again, are you?\\fSay, have you tried\\rthe Advance Campaign?\\fAll you need to do is\\rpress and hold SELECT when\\fyou start the Campaign Mode.\\fThe Advance Campaign is just\\rthe challenge you need, soldier!\\fIt'll toughen you up, and the\\rpayoff is bigger, too!\\fIf you're ever short of funds,\\rgive the Advance Mode a shot.\\fSo, go make some cash and\\rspend it all here! Heh, heh, heh!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1392,
+  "en": "Hey! It's my favorite soldier!\\fAre you getting the most\\rout of your special CO power?\\fAndy's power is to repair\\runits and restore HP, right?\\fHis units' overall power also grows\\ron the day he uses Hyper Repair!\\fSo, you can use Andy's power to\\rattack with more success, too!\\fNow, to the business at hand!\\rYou are buying something, right?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1393,
+  "en": "Welcome!\\fHave you ever tried\\rusing Sami as your CO?\\fDo you think she's difficult to\\ruse or that she's a weak CO?\\fThat's ridiculous!\\fYou DO know that her infantry and\\rmech units capture bases faster\\fthan other COs' units do, don't you?\\fPlus, her troop transports can move\\rfarther than other COs' transports!\\fWhen it comes to capturing the\\renemy's HQ, Sami's the best!\\fSure, she's a bit weak in direct\\rcombat, but there's nothing wrong\\fwith her long distance firepower.\\fTry luring the enemy into range with\\rher foot soldiers and then blast them\\ffrom a distance!\\fOh yeah, and another thing. Sami's\\rCO power builds up quickly.\\fYou should use it\\ras often as you can!\\fI've done it again! Chatting when I\\rshould be selling! Bad for business!\\fSo, what's it going to be?\\rStart buying stuff, will you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1394,
+  "en": "Look who's here!\\fTell me, have you been using Max?\\fHe's strong as an ox,\\rbut kind of clumsy!\\fIf you're looking to get ahead with\\rhim, you've got to be strategic.\\fMax is pretty ineffective\\rat anything but direct attacks.\\fIf you try battling in a confined area\\ryou'll get whipped! With Max, you\\fneed some wide, open space.\\fYou know, when I was younger...\\rAhh, forget those old stories.\\fWhat can I get for you today?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1395,
+  "en": "Hello, there! You winning?\\fHow much do you know\\rabout Blue Moon CO Olaf?\\fIf you're thinking that all he can do\\ris make it snow, you're dead wrong!\\fOlaf is a very well-balanced CO\\rwith no real weaknesses!\\fHe can battle anywhere, and that\\rmakes him a dangerous enemy.\\fWell, OK, he's not\\rso good in the rain.\\fYou should try using him occasionally.\\rI guarantee he'll show you something.\\fWhy, I remember when he used to...\\rOops! Getting sidetracked again.\\fAll right, back to business!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1396,
+  "en": "My favorite soldier's back again!\\fHow familiar are you with Grit?\\fHe's an expert marksman, you know!\\rWhen it comes to distance attacks,\\fthe man has no equal!\\fBut because he's so good, he's\\rnever polished his direct combat\\fskills, and that's his weakness.\\fIt's best to use him in\\rbattles where you can protect\\fhis long distance units.\\fOK, time for business!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1397,
+  "en": "Come on in!\\fSay, have you heard much about\\rYellow Comet's little genius, Sonja?\\fTo be honest, I think\\rshe's tough to manage.\\fIt's because her strengths aren't\\ras easily recognizable as other COs.\\fFor some reason, she's unlucky,\\rand her troops don't always do\\fas much damage as they should.\\fI guess the best time to use her\\ris when Fog of War is involved.\\fEnough about Sonja!\\rLet's talk business!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1398,
+  "en": "So, you want to enlist Nell, right?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1399,
+  "en": "You can now enlist Olaf!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1400,
+  "en": "Do you want to enlist Grit?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1401,
+  "en": "You're enlisting Kanbei, right?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1402,
+  "en": "You can now enlist Sonja!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1403,
+  "en": "So, you want to enlist Drake?\\rWell, let's go get him!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1404,
+  "en": "Eagle?\\rYou aim high, don't you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1405,
+  "en": "Don't tell anyone, but\\ryou can now enlist Sturm!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1406,
+  "en": "This map case is for Vs. Maps. Buy\\rit, and I'll throw in some maps, too!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1407,
+  "en": "This map case is for old maps.\\rAnd what do you know, it's full!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1408,
+  "en": "You'll be able to use the\\rWar Room Maps in Vs. Mode!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1409,
+  "en": "This map case is for 3P Vs. Maps.\\rI'll throw in some maps, too!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1410,
+  "en": "This goes in a Vs. Maps case.\\rIf you buy it, that's where it goes.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1411,
+  "en": "This goes in a Special Maps case.\\rIf you buy it, that's where it goes.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1412,
+  "en": "This goes in a War Room case.\\rIf you buy it, that's where it goes.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1413,
+  "en": "This goes in a 3P Vs. case.\\rIf you buy it, that's where it goes.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1414,
+  "en": "This goes in a 4P Vs. case.\\rIf you buy it, that's where it goes.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1415,
+  "en": "This goes in a Pre-Deployed case.\\rIf you buy it, that's where it goes.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1416,
+  "en": "This is a blank map! You\\rcan use it in Design Maps Mode!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1417,
+  "en": "After you buy this, try pressing\\rand holding SELECT\\fwhile starting a campaign.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1418,
+  "en": "Thanks for coming in!\\rDon't forget your stuff.\\e\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1419,
+  "en": "You don't have enough\\rAdvance Wars coins! You're\\fnot buying this from me.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1420,
+  "en": "Well, how about something else?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1421,
+  "en": "Darn!\\rI'm out of everything!\\fI guess I'll close up\\rshop for the day.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1422,
+  "en": "Come back again!\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1423,
+  "en": "Don't be discouraged!\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1424,
+  "en": "Keep up the good work!\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1425,
+  "en": "Orange Star forces?\\fHere so soon?\\fBut, wait... something's\\rnot right here.\\fNell wouldn't leave Orange Star's\\rcapital city unguarded.\\fWhich means...\\rA new commanding officer?\\fHa, ha, ha! Excellent!\\fI've lost a few battles lately,\\rbut no more!\\fAn Orange Star Army without\\rNell is no match for me!\\fTime to teach this raw recruit\\rwhat war's all about!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1426,
+  "en": "Empty.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1427,
+  "en": "Empty.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1428,
+  "en": "I win!",
+  "cz": ""
+ },
+ {
+  "idx": 1429,
+  "en": "Dummy.",
+  "cz": ""
+ },
+ {
+  "idx": 1430,
+  "en": "Dummy.",
+  "cz": ""
+ },
+ {
+  "idx": 1431,
+  "en": "Grit! Grit!\\rWhere's Grit?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1432,
+  "en": "Easy there! I heard you the first\\rtime, O bearded one.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1433,
+  "en": "Bearded one?\\rWhy you...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1434,
+  "en": "A slip of the tongue. My\\rapologies, commander.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1435,
+  "en": "What? You want me to go\\rpersonally? Like, in person?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1436,
+  "en": "Why you lazy, no-good... What do\\ryou think a commanding officer does?\\fIf you don't get moving...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1437,
+  "en": "All right. Keep your beard on. I don't\\rmuch like the idea, but I'm going.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1438,
+  "en": "Gone at last...\\fHe's an impudent rogue, but he's also\\rthe best marksman I've ever seen.\\fThose Orange Star fools will never\\rknow what hit them. Perfect!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1439,
+  "en": "Ha, ha, ha, ha, ha!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1440,
+  "en": "Empty.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1441,
+  "en": "Empty.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1442,
+  "en": "Stop calling me Junior!",
+  "cz": ""
+ },
+ {
+  "idx": 1443,
+  "en": "Dummy.",
+  "cz": ""
+ },
+ {
+  "idx": 1444,
+  "en": "Dummy.",
+  "cz": ""
+ },
+ {
+  "idx": 1445,
+  "en": "Hmmm... What have we here?\\fOrange Star forces, if I'm not\\rmistaken. And, of course, I never am.\\fI had heard that the Blue Moon Army\\rruined them, but...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1446,
+  "en": "How interesting. I think I'll\\rentertain them for a while.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1447,
+  "en": "Empty.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1448,
+  "en": "Empty.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1449,
+  "en": "Who in the world is that?",
+  "cz": ""
+ },
+ {
+  "idx": 1450,
+  "en": "Dummy.",
+  "cz": ""
+ },
+ {
+  "idx": 1451,
+  "en": "Dummy.",
+  "cz": ""
+ },
+ {
+  "idx": 1452,
+  "en": "Sorry to keep you waiting!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1453,
+  "en": "Who are you?\\f",
+  "cz": ""
+ }
+]

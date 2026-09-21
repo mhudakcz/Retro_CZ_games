@@ -1,0 +1,662 @@
+[
+ {
+  "idx": 1188,
+  "en": "You shouldn't expect\\rmachine guns to do\\rmuch damage against\\rnon-infantry units.",
+  "cz": ""
+ },
+ {
+  "idx": 1189,
+  "en": "Bazookas are effective\\ragainst non-infantry\\rground units. They're\\requal to tank rounds.",
+  "cz": ""
+ },
+ {
+  "idx": 1190,
+  "en": "M guns get used when\\rbazooka ammo runs out.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1191,
+  "en": "M guns get used when\\rcannon ammo runs out.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1192,
+  "en": "The cannon is fairly\\reffective against ships.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1193,
+  "en": "Machine guns get used\\ron non-infantry ground\\runits when cannon\\rammo runs out.",
+  "cz": ""
+ },
+ {
+  "idx": 1194,
+  "en": "Rockets work very well\\ragainst foot soldiers.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1195,
+  "en": "Rockets are powerful\\ragainst these units.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1196,
+  "en": "The symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1197,
+  "en": "The Vulcan cannon\\rhas overpowering\\rfirepower against\\rfoot soldiers.",
+  "cz": ""
+ },
+ {
+  "idx": 1198,
+  "en": "The Vulcan cannon is\\radequate against non-\\rinfantry units and weak\\ragainst tank units.",
+  "cz": ""
+ },
+ {
+  "idx": 1199,
+  "en": "The Vulcan cannon is\\rstrong against copters.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1200,
+  "en": "Bombs can generally\\rdestroy entire units of\\rfoot soldiers regardless\\rof defensive cover.",
+  "cz": ""
+ },
+ {
+  "idx": 1201,
+  "en": "Bombs cause immense\\rdamage to non-\\rinfantry units, too.",
+  "cz": ""
+ },
+ {
+  "idx": 1202,
+  "en": "M guns get used when\\rmissiles run out.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1203,
+  "en": "The cannon is strong\\ragainst foot soldiers.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1204,
+  "en": "The cannon has a high\\rfirepower rating\\ragainst non-infantry\\rground units.",
+  "cz": ""
+ },
+ {
+  "idx": 1205,
+  "en": "This cannon is extremely\\rstrong against ships.\\rThe symbol on the unit\\rshows hit potential.",
+  "cz": ""
+ },
+ {
+  "idx": 1206,
+  "en": "This is the unit's\\rmovement range. It can\\rcover most terrain at a\\rmovement cost of one.",
+  "cz": ""
+ },
+ {
+  "idx": 1207,
+  "en": "This unit travels on\\rtires. This is its\\rmovement range.",
+  "cz": ""
+ },
+ {
+  "idx": 1208,
+  "en": "This unit travels on\\rtreads. This is its\\rmovement range.",
+  "cz": ""
+ },
+ {
+  "idx": 1209,
+  "en": "This is an air unit.\\rTerrain does not\\raffect its movement\\rrange.",
+  "cz": ""
+ },
+ {
+  "idx": 1210,
+  "en": "This is a naval unit.\\rThis is its movement\\rrange across open\\rwater and reefs.",
+  "cz": ""
+ },
+ {
+  "idx": 1211,
+  "en": "This is a transport\\runit's movement\\rrange. These units\\rcan move over reefs. ",
+  "cz": ""
+ },
+ {
+  "idx": 1212,
+  "en": "This is the unit's\\rvision range. This\\rincreases when the\\runit climbs a mountain.",
+  "cz": ""
+ },
+ {
+  "idx": 1213,
+  "en": "This is the unit's\\rvision range. ",
+  "cz": ""
+ },
+ {
+  "idx": 1214,
+  "en": "This is the current fuel\\ramount. The unit can no\\rlonger move when all the\\rfuel is used.",
+  "cz": ""
+ },
+ {
+  "idx": 1215,
+  "en": "This is the current fuel\\ramount. It's used at 5\\runits per turn. Units\\rcrash when out of fuel.",
+  "cz": ""
+ },
+ {
+  "idx": 1216,
+  "en": "This is the current fuel\\ramount. It's used at 2\\runits per turn. Units\\rcrash when out of fuel.",
+  "cz": ""
+ },
+ {
+  "idx": 1217,
+  "en": "This is the current fuel\\ramount. It's used at 1\\runit per turn. Units\\rsink when out of fuel.",
+  "cz": ""
+ },
+ {
+  "idx": 1218,
+  "en": "The symbol on the unit\\rindicates the\\rpotential to hit\\rthis unit type.",
+  "cz": ""
+ },
+ {
+  "idx": 1219,
+  "en": "The symbol on the unit\\rindicates the\\rpotential to hit\\rthis unit type.",
+  "cz": ""
+ },
+ {
+  "idx": 1220,
+  "en": "The symbol on the unit\\rindicates the\\rpotential to hit\\rthis unit type.",
+  "cz": ""
+ },
+ {
+  "idx": 1221,
+  "en": "The secondary weapon\\ris the machine gun.",
+  "cz": ""
+ },
+ {
+  "idx": 1222,
+  "en": "Here you must capture the enemy\\rHQ or defeat all the enemy units.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1223,
+  "en": "To win here, capture the enemy HQ\\ror defeat all the enemy troops.\\fGood luck and move out!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1224,
+  "en": "Survive for 5 days to win.\\fDon't let your units be destroyed or\\ryour HQ be captured during that time.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1225,
+  "en": "Win this battle by capturing the enemy\\rHQ or defeating all the enemy units.\\fDon't let Olaf win!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1226,
+  "en": "For victory, capture the enemy\\rHQ or defeat all the enemy units.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1227,
+  "en": "Defeat all the enemy forces or\\rcapture the enemy HQ to win here.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1228,
+  "en": "The army that captures 12\\rproperties first, wins! Get moving!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1229,
+  "en": "Capture the enemy HQ or defeat\\rall the enemy forces for victory!\\fGood luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1230,
+  "en": "Defeat all the enemy forces or\\rcapture the enemy HQ to win here.\\fEither way will work!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1231,
+  "en": "Capture the enemy HQ or vanquish\\rall the enemy troops to win.\\fIt'll be a tough battle,\\rbut you can do it!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1232,
+  "en": "The army that captures 15\\rproperties first, wins! Get moving!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1233,
+  "en": "The army that captures 16\\rproperties first, wins! Move out!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1234,
+  "en": "You need to capture a majority of\\rthe open properties to win.\\fLet's see... OK, you need 12\\rproperties. Get going!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1235,
+  "en": "Defeat all enemy forces or capture\\rthe enemy HQ to win here. Good luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1236,
+  "en": "You need to capture a majority of\\rthe open properties to win.\\fThat means you need to capture\\r15 properties.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1237,
+  "en": "You have fifteen days\\rto rout the enemy.\\fIf you can't do this within\\rthe time limit, you lose.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1238,
+  "en": "You can win by routing all the enemy\\runits or by capturing the enemy HQ.\\fGood luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1239,
+  "en": "To win, defeat all the enemy troops.\\rGo get 'em!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1240,
+  "en": "Rout all enemy units or capture the\\renemy HQ for victory.\\fThis is a tough opponent,\\rbut you can win!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1241,
+  "en": "Drake is a powerful opponent, but\\ryou can defeat him!\\fRout his forces or capture his HQ\\rfor victory.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1242,
+  "en": "Rout all the enemy units or capture\\rthe enemy HQ to win.\\fKeep up the good work.\\rI know you can win!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1243,
+  "en": "Capture the enemy HQ or defeat all\\rthe enemy units to win.\\fWork with your allies to rout Sturm!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1244,
+  "en": "You must rout all the enemy units or\\rcapture the enemy HQ to win.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1245,
+  "en": "   Yes     No",
+  "cz": ""
+ },
+ {
+  "idx": 1246,
+  "en": "The Orange Star Army has lost!\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1247,
+  "en": "The Blue Moon Army has lost!\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1248,
+  "en": "The Green Earth Army has lost!\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1249,
+  "en": "The Yellow Comet Army has lost!\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1250,
+  "en": "The Black Hole Army has lost!\\e\\e",
+  "cz": ""
+ },
+ {
+  "idx": 1251,
+  "en": "View battle and\\rcapture animation.",
+  "cz": ""
+ },
+ {
+  "idx": 1252,
+  "en": "View battle\\ranimation only. ",
+  "cz": ""
+ },
+ {
+  "idx": 1253,
+  "en": "View player battle\\ranimation only.",
+  "cz": ""
+ },
+ {
+  "idx": 1254,
+  "en": "No animation.",
+  "cz": ""
+ },
+ {
+  "idx": 1255,
+  "en": "You have 50 units deployed.\\rNo more units can be produced.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1256,
+  "en": "Andy",
+  "cz": ""
+ },
+ {
+  "idx": 1257,
+  "en": "Max",
+  "cz": ""
+ },
+ {
+  "idx": 1258,
+  "en": "Olaf",
+  "cz": ""
+ },
+ {
+  "idx": 1259,
+  "en": "Sami",
+  "cz": ""
+ },
+ {
+  "idx": 1260,
+  "en": "Grit",
+  "cz": ""
+ },
+ {
+  "idx": 1261,
+  "en": "Kanbei",
+  "cz": ""
+ },
+ {
+  "idx": 1262,
+  "en": "Sonja",
+  "cz": ""
+ },
+ {
+  "idx": 1263,
+  "en": "Eagle",
+  "cz": ""
+ },
+ {
+  "idx": 1264,
+  "en": "Drake",
+  "cz": ""
+ },
+ {
+  "idx": 1265,
+  "en": "Sturm",
+  "cz": ""
+ },
+ {
+  "idx": 1266,
+  "en": "Sturm",
+  "cz": ""
+ },
+ {
+  "idx": 1267,
+  "en": "Remaining",
+  "cz": ""
+ },
+ {
+  "idx": 1268,
+  "en": "Def",
+  "cz": ""
+ },
+ {
+  "idx": 1269,
+  "en": "Repair",
+  "cz": ""
+ },
+ {
+  "idx": 1270,
+  "en": "Free",
+  "cz": ""
+ },
+ {
+  "idx": 1271,
+  "en": "Neutral Bases",
+  "cz": ""
+ },
+ {
+  "idx": 1272,
+  "en": "Earned",
+  "cz": ""
+ },
+ {
+  "idx": 1273,
+  "en": "Total",
+  "cz": ""
+ },
+ {
+  "idx": 1274,
+  "en": "None",
+  "cz": ""
+ },
+ {
+  "idx": 1275,
+  "en": "An all-around\\rcompetent CO.\\rGood luck follows her\\rwherever she goes.",
+  "cz": ""
+ },
+ {
+  "idx": 1276,
+  "en": "\\rMay become even\\rluckier than normal.",
+  "cz": ""
+ },
+ {
+  "idx": 1277,
+  "en": "No real weaknesses.\\rReady to battle where-\\rever and whenever.",
+  "cz": ""
+ },
+ {
+  "idx": 1278,
+  "en": "\\rRestores 2 HP\\rto all units.",
+  "cz": ""
+ },
+ {
+  "idx": 1279,
+  "en": "Direct combat units\\rhave high firepower.\\rDistance units are\\rweak and have small\\rattack ranges.",
+  "cz": ""
+ },
+ {
+  "idx": 1280,
+  "en": "\\rIncreases all\\rabilities of direct\\rcombat units.",
+  "cz": ""
+ },
+ {
+  "idx": 1281,
+  "en": "Strong in the snow,\\rweak in the rain.\\rA solid CO of above-\\raverage ability.",
+  "cz": ""
+ },
+ {
+  "idx": 1282,
+  "en": "\\rCauses it to snow\\rcreating favorable\\rconditions for his units.",
+  "cz": ""
+ },
+ {
+  "idx": 1283,
+  "en": "Distance weapons have\\ran extended attack\\rrange. However, direct\\rcombat units are weak.",
+  "cz": ""
+ },
+ {
+  "idx": 1284,
+  "en": "\\rIncreases the range\\rand firepower of\\rdistance weapons.",
+  "cz": ""
+ },
+ {
+  "idx": 1285,
+  "en": "Strong offensive and\\rdefensive abilities.\\rDeployment costs\\rare very high.",
+  "cz": ""
+ },
+ {
+  "idx": 1286,
+  "en": "\\rIncreases firepower and\\rdefensive ratings\\rfor all units.",
+  "cz": ""
+ },
+ {
+  "idx": 1287,
+  "en": "Units have great range\\rof vision. Keeps unit HP\\rhidden from enemies.\\rIs plagued by constant\\rbad luck.",
+  "cz": ""
+ },
+ {
+  "idx": 1288,
+  "en": "Extends vision range of\\rall units. Shows enemy\\runits hidden in woods,\\rreefs and other areas.",
+  "cz": ""
+ },
+ {
+  "idx": 1289,
+  "en": "Strongest firepower\\rin the skies. But\\rflounders at sea.",
+  "cz": ""
+ },
+ {
+  "idx": 1290,
+  "en": "Non-infantry units\\rordered to wait can\\rmove again that turn.\\rHowever, their ratings\\rare lower than normal.",
+  "cz": ""
+ },
+ {
+  "idx": 1291,
+  "en": "The sea is his domain.\\rNaval units have top\\rfirepower and\\rmovement. Air units\\rare weak.",
+  "cz": ""
+ },
+ {
+  "idx": 1292,
+  "en": "\\rStrikes all enemy\\runits for damage.",
+  "cz": ""
+ },
+ {
+  "idx": 1293,
+  "en": "Well-balanced with no\\rweak points. Born\\runder a lucky star.",
+  "cz": ""
+ },
+ {
+  "idx": 1294,
+  "en": "Mechanical wizard\\rwith good all-around\\rskills.",
+  "cz": ""
+ },
+ {
+  "idx": 1295,
+  "en": "Gung-ho strongman.\\rTops at direct\\rcombat, weak\\rover distances.",
+  "cz": ""
+ },
+ {
+  "idx": 1296,
+  "en": "Easily affected by\\rthe climate. Strong\\rin snow, weak in rain.",
+  "cz": ""
+ },
+ {
+  "idx": 1297,
+  "en": "Infantry unit\\rspecialist. Has\\rtrouble with other\\rground troops.",
+  "cz": ""
+ },
+ {
+  "idx": 1298,
+  "en": "A master of distance\\rattacks. Dislikes\\rdirect combat.",
+  "cz": ""
+ },
+ {
+  "idx": 1299,
+  "en": "Superior overall unit\\rstrength, but\\rexpensive to deploy.",
+  "cz": ""
+ },
+ {
+  "idx": 1300,
+  "en": "Tactician who values\\rintel over everything.\\rTops in fog of war,\\rbut is often unlucky.",
+  "cz": ""
+ },
+ {
+  "idx": 1301,
+  "en": "King of the skies.\\rAir units are\\rmatchless, but has\\rweak naval units.",
+  "cz": ""
+ },
+ {
+  "idx": 1302,
+  "en": "Naval units rule the\\rseas, but has trouble\\rwith air units. Rain\\rseems to follow him.",
+  "cz": ""
+ },
+ {
+  "idx": 1303,
+  "en": "An all-around\\rpowerhouse. Units\\rcan cover any terrain\\rat low movement cost.",
+  "cz": ""
+ },
+ {
+  "idx": 1304,
+  "en": "A gentle, flowing\\rriver. Only infantry\\runits can\\rford rivers.",
+  "cz": ""
+ },
+ {
+  "idx": 1305,
+  "en": "A steep mountain.\\rInfantry units add\\r3 to their vision\\rrange from here.",
+  "cz": ""
+ },
+ {
+  "idx": 1306,
+  "en": "In Fog of War, units\\rhidden here can only\\rbe seen by adjacent\\runits and air units.",
+  "cz": ""
+ },
+ {
+  "idx": 1307,
+  "en": "A paved road.\\rEasy to traverse,\\rbut offers little\\rdefensive cover.",
+  "cz": ""
+ },
+ {
+  "idx": 1308,
+  "en": "A normal city.\\rGround units gain\\rsupplies and HP\\rin allied cities.",
+  "cz": ""
+ },
+ {
+  "idx": 1309,
+  "en": "A body of water.\\rOnly naval and\\rair units can\\rtraverse seas.",
+  "cz": ""
+ },
+ {
+  "idx": 1310,
+  "en": "The sky is\\rnot considered\\rterrain.",
+  "cz": ""
+ },
+ {
+  "idx": 1311,
+  "en": "An air base. Allied\\rbases deploy, supply\\rand restore HP\\rto air units.",
+  "cz": ""
+ },
+ {
+  "idx": 1312,
+  "en": "A naval base. Allied\\rbases deploy, supply\\rand restore HP\\rto naval units.",
+  "cz": ""
+ },
+ {
+  "idx": 1313,
+  "en": "A bridge allows\\runits to traverse\\rrivers, but offers\\rno terrain benefits.",
+  "cz": ""
+ },
+ {
+  "idx": 1314,
+  "en": "A base. Allied bases\\rdeploy, supply\\rand restore HP\\rto ground units.",
+  "cz": ""
+ },
+ {
+  "idx": 1315,
+  "en": "In Fog of War, units\\rhidden here can only\\rbe seen by adjacent\\runits and air units.",
+  "cz": ""
+ },
+ {
+  "idx": 1316,
+  "en": "First, let me brief you\\ron the situation.\\fWe're in this large nation\\rhere, Orange Star.\\fThe country to the\\reast is Blue Moon.\\fThe two countries have been\\rbitter rivals for years.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1317,
+  "en": "Border skirmishes had died down\\rrecently...until that madman Olaf...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1318,
+  "en": "Oh, excuse me. I mean, uhm...\\fThe Blue Moon CO, Olaf, suddenly\\rordered an invasion of Orange Star.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 1319,
+  "en": "So, the Alara region is now\\rheld by Blue Moon forces.\\f",
+  "cz": ""
+ }
+]

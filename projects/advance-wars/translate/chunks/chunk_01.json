@@ -1,0 +1,662 @@
+[
+ {
+  "idx": 132,
+  "en": "Hat Harbor",
+  "cz": ""
+ },
+ {
+  "idx": 133,
+  "en": "Piston Dam",
+  "cz": ""
+ },
+ {
+  "idx": 134,
+  "en": "Vision Bridge",
+  "cz": ""
+ },
+ {
+  "idx": 135,
+  "en": "Tribe Islands",
+  "cz": ""
+ },
+ {
+  "idx": 136,
+  "en": "Rail Strait",
+  "cz": ""
+ },
+ {
+  "idx": 137,
+  "en": "Rainy Haven",
+  "cz": ""
+ },
+ {
+  "idx": 138,
+  "en": "Ruby Keys",
+  "cz": ""
+ },
+ {
+  "idx": 139,
+  "en": "Switchback",
+  "cz": ""
+ },
+ {
+  "idx": 140,
+  "en": "Zero Wood",
+  "cz": ""
+ },
+ {
+  "idx": 141,
+  "en": "Cog Isle",
+  "cz": ""
+ },
+ {
+  "idx": 142,
+  "en": "Asphalt Maze",
+  "cz": ""
+ },
+ {
+  "idx": 143,
+  "en": "Sabre Range",
+  "cz": ""
+ },
+ {
+  "idx": 144,
+  "en": "Portal Bridge",
+  "cz": ""
+ },
+ {
+  "idx": 145,
+  "en": "Eon Springs",
+  "cz": ""
+ },
+ {
+  "idx": 146,
+  "en": "Star Islands",
+  "cz": ""
+ },
+ {
+  "idx": 147,
+  "en": "Beaker River",
+  "cz": ""
+ },
+ {
+  "idx": 148,
+  "en": "Sun Canal",
+  "cz": ""
+ },
+ {
+  "idx": 149,
+  "en": "Little Island",
+  "cz": ""
+ },
+ {
+  "idx": 150,
+  "en": "Royal Channel",
+  "cz": ""
+ },
+ {
+  "idx": 151,
+  "en": "Shark Strait",
+  "cz": ""
+ },
+ {
+  "idx": 152,
+  "en": "Mirror Islands",
+  "cz": ""
+ },
+ {
+  "idx": 153,
+  "en": "Cube Keys",
+  "cz": ""
+ },
+ {
+  "idx": 154,
+  "en": "Squash Island",
+  "cz": ""
+ },
+ {
+  "idx": 155,
+  "en": "Turtle Atoll",
+  "cz": ""
+ },
+ {
+  "idx": 156,
+  "en": "Volcano Isle",
+  "cz": ""
+ },
+ {
+  "idx": 157,
+  "en": "Lost River",
+  "cz": ""
+ },
+ {
+  "idx": 158,
+  "en": "Alara Range",
+  "cz": ""
+ },
+ {
+  "idx": 159,
+  "en": "Deer Harbor",
+  "cz": ""
+ },
+ {
+  "idx": 160,
+  "en": "Fist Peninsula",
+  "cz": ""
+ },
+ {
+  "idx": 161,
+  "en": "Puzzle Trio",
+  "cz": ""
+ },
+ {
+  "idx": 162,
+  "en": "Coral Lagoon",
+  "cz": ""
+ },
+ {
+  "idx": 163,
+  "en": "Ball Islands",
+  "cz": ""
+ },
+ {
+  "idx": 164,
+  "en": "Triangles",
+  "cz": ""
+ },
+ {
+  "idx": 165,
+  "en": "Crater Isle",
+  "cz": ""
+ },
+ {
+  "idx": 166,
+  "en": "Bean Island",
+  "cz": ""
+ },
+ {
+  "idx": 167,
+  "en": "BLACK HOLE",
+  "cz": ""
+ },
+ {
+  "idx": 168,
+  "en": "YELLOW COMET",
+  "cz": ""
+ },
+ {
+  "idx": 169,
+  "en": "GREEN EARTH",
+  "cz": ""
+ },
+ {
+  "idx": 170,
+  "en": "BLUE MOON",
+  "cz": ""
+ },
+ {
+  "idx": 171,
+  "en": "ORANGE STAR",
+  "cz": ""
+ },
+ {
+  "idx": 172,
+  "en": "NEUTRAL",
+  "cz": ""
+ },
+ {
+  "idx": 173,
+  "en": "DAY",
+  "cz": ""
+ },
+ {
+  "idx": 174,
+  "en": "OFF",
+  "cz": ""
+ },
+ {
+  "idx": 175,
+  "en": " MAP:%02d",
+  "cz": ""
+ },
+ {
+  "idx": 176,
+  "en": "SNOW:%s",
+  "cz": ""
+ },
+ {
+  "idx": 177,
+  "en": "SAKU:%s",
+  "cz": ""
+ },
+ {
+  "idx": 178,
+  "en": "R: SAKUTEKI  ON",
+  "cz": ""
+ },
+ {
+  "idx": 179,
+  "en": "R: SAKUTEKI  OFF",
+  "cz": ""
+ },
+ {
+  "idx": 180,
+  "en": "CP",
+  "cz": ""
+ },
+ {
+  "idx": 181,
+  "en": "VS",
+  "cz": ""
+ },
+ {
+  "idx": 182,
+  "en": "PAUSE",
+  "cz": ""
+ },
+ {
+  "idx": 183,
+  "en": "ORANGE STAR WIN",
+  "cz": ""
+ },
+ {
+  "idx": 184,
+  "en": "BLUE MOON WIN",
+  "cz": ""
+ },
+ {
+  "idx": 185,
+  "en": "SYUTO SENRYO",
+  "cz": ""
+ },
+ {
+  "idx": 186,
+  "en": "X SENRYO",
+  "cz": ""
+ },
+ {
+  "idx": 187,
+  "en": "SUDDEN DEATH",
+  "cz": ""
+ },
+ {
+  "idx": 188,
+  "en": "NEXT PHASE",
+  "cz": ""
+ },
+ {
+  "idx": 189,
+  "en": "PRESS A BUTTON",
+  "cz": ""
+ },
+ {
+  "idx": 190,
+  "en": "ABCDEFGHIKLMNOPRSTUVXYZ",
+  "cz": ""
+ },
+ {
+  "idx": 191,
+  "en": "ON",
+  "cz": ""
+ },
+ {
+  "idx": 192,
+  "en": "OFF",
+  "cz": ""
+ },
+ {
+  "idx": 193,
+  "en": "FLAG CONTROL",
+  "cz": ""
+ },
+ {
+  "idx": 194,
+  "en": "FLAG",
+  "cz": ""
+ },
+ {
+  "idx": 195,
+  "en": "  SAVEDATA",
+  "cz": ""
+ },
+ {
+  "idx": 196,
+  "en": "  FLAGALL",
+  "cz": ""
+ },
+ {
+  "idx": 197,
+  "en": "  COINS",
+  "cz": ""
+ },
+ {
+  "idx": 198,
+  "en": "  COIN",
+  "cz": ""
+ },
+ {
+  "idx": 199,
+  "en": "  MISSION",
+  "cz": ""
+ },
+ {
+  "idx": 200,
+  "en": "  TUTORIAL",
+  "cz": ""
+ },
+ {
+  "idx": 201,
+  "en": "  HISTORY",
+  "cz": ""
+ },
+ {
+  "idx": 202,
+  "en": "EDIT",
+  "cz": ""
+ },
+ {
+  "idx": 203,
+  "en": "  FLASH << DUMMY (L.R.SELECT)",
+  "cz": ""
+ },
+ {
+  "idx": 204,
+  "en": "  FLASH >> DUMMY (A BUTTON)",
+  "cz": ""
+ },
+ {
+  "idx": 205,
+  "en": "BACKUP UTL",
+  "cz": ""
+ },
+ {
+  "idx": 206,
+  "en": "OFF",
+  "cz": ""
+ },
+ {
+  "idx": 207,
+  "en": "YELLOW",
+  "cz": ""
+ },
+ {
+  "idx": 208,
+  "en": "GREEN",
+  "cz": ""
+ },
+ {
+  "idx": 209,
+  "en": "BLUE",
+  "cz": ""
+ },
+ {
+  "idx": 210,
+  "en": "RED",
+  "cz": ""
+ },
+ {
+  "idx": 211,
+  "en": "NEUT",
+  "cz": ""
+ },
+ {
+  "idx": 212,
+  "en": "HUMAN",
+  "cz": ""
+ },
+ {
+  "idx": 213,
+  "en": "NON",
+  "cz": ""
+ },
+ {
+  "idx": 214,
+  "en": "HEL",
+  "cz": ""
+ },
+ {
+  "idx": 215,
+  "en": "MOP",
+  "cz": ""
+ },
+ {
+  "idx": 216,
+  "en": "EAGL",
+  "cz": ""
+ },
+ {
+  "idx": 217,
+  "en": "ASKA",
+  "cz": ""
+ },
+ {
+  "idx": 218,
+  "en": "KIKU",
+  "cz": ""
+ },
+ {
+  "idx": 219,
+  "en": "BILY",
+  "cz": ""
+ },
+ {
+  "idx": 220,
+  "en": "DOMI",
+  "cz": ""
+ },
+ {
+  "idx": 221,
+  "en": "WHIP",
+  "cz": ""
+ },
+ {
+  "idx": 222,
+  "en": "MAX",
+  "cz": ""
+ },
+ {
+  "idx": 223,
+  "en": "RYO",
+  "cz": ""
+ },
+ {
+  "idx": 224,
+  "en": "CATH",
+  "cz": ""
+ },
+ {
+  "idx": 225,
+  "en": "NORMAL",
+  "cz": ""
+ },
+ {
+  "idx": 226,
+  "en": "FORCE   /",
+  "cz": ""
+ },
+ {
+  "idx": 227,
+  "en": "PLAY",
+  "cz": ""
+ },
+ {
+  "idx": 228,
+  "en": "MONEY",
+  "cz": ""
+ },
+ {
+  "idx": 229,
+  "en": "BREAK",
+  "cz": ""
+ },
+ {
+  "idx": 230,
+  "en": "TEAM",
+  "cz": ""
+ },
+ {
+  "idx": 231,
+  "en": "SYOGUN",
+  "cz": ""
+ },
+ {
+  "idx": 232,
+  "en": "SAKUTEKI",
+  "cz": ""
+ },
+ {
+  "idx": 233,
+  "en": "SORT",
+  "cz": ""
+ },
+ {
+  "idx": 234,
+  "en": "COLOR",
+  "cz": ""
+ },
+ {
+  "idx": 235,
+  "en": "METEOR STRIKE",
+  "cz": ""
+ },
+ {
+  "idx": 236,
+  "en": "TSUNAMI",
+  "cz": ""
+ },
+ {
+  "idx": 237,
+  "en": "LIGHTNING STRIKE",
+  "cz": ""
+ },
+ {
+  "idx": 238,
+  "en": "ENHANCED VISION",
+  "cz": ""
+ },
+ {
+  "idx": 239,
+  "en": "MORALE BOOST",
+  "cz": ""
+ },
+ {
+  "idx": 240,
+  "en": "SNIPE ATTACK",
+  "cz": ""
+ },
+ {
+  "idx": 241,
+  "en": "DOUBLE TIME",
+  "cz": ""
+ },
+ {
+  "idx": 242,
+  "en": "BLIZZARD",
+  "cz": ""
+ },
+ {
+  "idx": 243,
+  "en": "MAX FORCE",
+  "cz": ""
+ },
+ {
+  "idx": 244,
+  "en": "HYPER REPAIR",
+  "cz": ""
+ },
+ {
+  "idx": 245,
+  "en": "LUCKY STAR",
+  "cz": ""
+ },
+ {
+  "idx": 246,
+  "en": "Black Hole",
+  "cz": ""
+ },
+ {
+  "idx": 247,
+  "en": "Yellow Comet",
+  "cz": ""
+ },
+ {
+  "idx": 248,
+  "en": "Green Earth",
+  "cz": ""
+ },
+ {
+  "idx": 249,
+  "en": "Blue Moon",
+  "cz": ""
+ },
+ {
+  "idx": 250,
+  "en": "Orange Star",
+  "cz": ""
+ },
+ {
+  "idx": 251,
+  "en": "Neutral Bases",
+  "cz": ""
+ },
+ {
+  "idx": 252,
+  "en": "ATK",
+  "cz": ""
+ },
+ {
+  "idx": 253,
+  "en": "LEFTARMY",
+  "cz": ""
+ },
+ {
+  "idx": 254,
+  "en": "ARMY",
+  "cz": ""
+ },
+ {
+  "idx": 255,
+  "en": "SOLD",
+  "cz": ""
+ },
+ {
+  "idx": 256,
+  "en": "WEP",
+  "cz": ""
+ },
+ {
+  "idx": 257,
+  "en": "TER",
+  "cz": ""
+ },
+ {
+  "idx": 258,
+  "en": "JEN",
+  "cz": ""
+ },
+ {
+  "idx": 259,
+  "en": "HP",
+  "cz": ""
+ },
+ {
+  "idx": 260,
+  "en": "AHP",
+  "cz": ""
+ },
+ {
+  "idx": 261,
+  "en": "DEF",
+  "cz": ""
+ },
+ {
+  "idx": 262,
+  "en": "RIGHTARMY",
+  "cz": ""
+ },
+ {
+  "idx": 263,
+  "en": "WEATHER",
+  "cz": ""
+ }
+]

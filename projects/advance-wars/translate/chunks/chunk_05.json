@@ -1,0 +1,662 @@
+[
+ {
+  "idx": 660,
+  "en": "Easier said than done, Boss. You\\rdidn't leave me anything to work with.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 661,
+  "en": "Don't get saucy!\\rRally the troops and do something!\\fI have to go and pay him my respects.\\fDon't fail me, Grit!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 662,
+  "en": "Well, I'll be a... Olaf just tucked his\\rtail between his legs and ran away.\\fWhere does that leave me?\\fGuess I'll mosey on down and\\rclean up his mess.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 663,
+  "en": "Too bad. The enemy captured twelve\\rproperties first and won.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 664,
+  "en": "Reefs here, woods there,\\rhiding places everywhere...\\fMan, this place was made for Grit\\rand his indirect-combat units.\\fI really just want to rush in and\\rget to stompin', but...\\fThe smart thing to do is to use\\rthe terrain and creep up on 'em.\\fYep, that's the best plan.\\rLet's move out!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 665,
+  "en": "Well, here I am again.\\fThis whole thing don't sit well with me,\\rbut I guess I gotta stop foolin' around.\\fI figure the best way to stop these\\rboys is to take out their lander.\\fYeah, that'll keep 'em from movin'\\rthose ground troops around.\\fReckon I'd best get started.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 666,
+  "en": "OK, Grit! Now you're going to\\ranswer some questions!\\fWhy in blazes did you\\rgo over to Blue Moon?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 667,
+  "en": "Grit!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 668,
+  "en": "Nell? What are you doing here?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 669,
+  "en": "Hey there, Nell. It's been a long time.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 670,
+  "en": "Max. Would you please\\rleave us alone for a minute?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 671,
+  "en": "Yeah... Sure...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 672,
+  "en": "You look well. I was worried.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 673,
+  "en": "Yeah, I'm doin' all right.\\fHow about you?\\rYou and Max getting along all right?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 674,
+  "en": "So that's the reason you left\\rOrange Star.\\fYou sensed Max's feelings, and\\rbecause he's your friend, you...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 675,
+  "en": "Whoa! Hold on, now. Let me\\rset you straight.\\fI did what I did 'cause that's\\rwho I am, darlin'.\\fI go where I want to go, and stay\\rwhere I want to stay. That's it.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 676,
+  "en": "Oh, I...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 677,
+  "en": "See you later, Nell. Take care.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 678,
+  "en": "Grit...\\fGoodbye.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 679,
+  "en": "Those look like Green Earth troops.\\fI've heard they have an independent\\rbattalion around. Maybe this is it.\\fThey're supposed to be really tough.\\rEspecially the air units.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 680,
+  "en": "That's a Special Forces\\rcommander for you!\\fAlways up on the latest intel.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 681,
+  "en": "But how did you get this\\rintel, Andy?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 682,
+  "en": "I ran into 'em once, and...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 683,
+  "en": "Hey, you survived, didn't you?\\fThat's pretty impressive, Andy.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 684,
+  "en": "Yeah, Nice work, Andy.\\fAll right, let's roll!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 685,
+  "en": "The Orange Star Army...\\rAndy's troops.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 686,
+  "en": "This time, I won't be beaten\\rby Andy and his ilk.\\fI shall crush them with one stroke!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 687,
+  "en": "I, Eagle, beaten by Andy, again?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 688,
+  "en": "Who are you calling Andy?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 689,
+  "en": "Eh?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 690,
+  "en": "I think I'll take offense at your\\rmistake. Do I look like a boy to you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 691,
+  "en": "Who are you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 692,
+  "en": "The name's Sami.\\fI'm an Orange Star CO.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 693,
+  "en": "I... I lost to...a girl?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 694,
+  "en": "You're careless. That's why\\ryou keep losing!\\fI don't think you're ready for war.\\rYou need to go back to basic training!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 695,
+  "en": "Excuse me, Orange Star CO...Sami?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 696,
+  "en": "Yes?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 697,
+  "en": "I would like to apologize for my\\rbehavior. It was inappropriate.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 698,
+  "en": "Oh, OK...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 699,
+  "en": "I vow by my lucky goggles that the\\rnext time we meet, I will do better.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 700,
+  "en": "Now I will take my leave. Farewell.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 701,
+  "en": "Wait, wait a minute!\\fNo one said you could leave. Come...\\fHe's gone!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 702,
+  "en": "He seems like a pretty\\rdecent guy, after all.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 703,
+  "en": "I, Eagle, lost again?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 704,
+  "en": "Yeah, it sure looks like it!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 705,
+  "en": "You're the Orange Star CO?\\rWhere's Andy?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 706,
+  "en": "Andy? Listen up, pal. I'm Max.\\rThe best Orange Star has to offer!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 707,
+  "en": "I'd heard of a CO who was as strong\\ras a bull but a bit one-dimensional.\\fWho could have foreseen that\\rI would lose to him?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 708,
+  "en": "What? What did you say?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 709,
+  "en": "I don't think you're ready for war!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 710,
+  "en": "Who... Who are you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 711,
+  "en": "Hold it!\\rWhat about me is one-dimensional?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 712,
+  "en": "You stink at indirect combat.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 713,
+  "en": "Rrr...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 714,
+  "en": "Yes?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 715,
+  "en": "I would like to apologize for my\\rbehavior. It was inappropriate.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 716,
+  "en": "Oh, OK...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 717,
+  "en": "I vow by my lucky goggles that the\\rnext time we meet, I will do better.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 718,
+  "en": "Now I will take my leave. Farewell\\f",
+  "cz": ""
+ },
+ {
+  "idx": 719,
+  "en": "Wait! Wait a minute!\\rNo one said you could leave. Come...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 720,
+  "en": "He seems like a pretty\\rdecent guy after all.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 721,
+  "en": " I, Eagle, lost again?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 722,
+  "en": "Yeah. I don't think you're\\rready for war!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 723,
+  "en": "Who... Who are you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 724,
+  "en": "The name's Sami.\\fI'm an Orange Star CO!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 725,
+  "en": "I cannot believe I lost to\\rthis group of unseasoned...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 726,
+  "en": "You're careless! That's why\\ryou keep losing!\\fWe're an experienced group of\\rCOs here, you know!\\fYou need to go back to basic\\rtraining and start again.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 727,
+  "en": "Excuse me, Orange Star CO...Sami?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 728,
+  "en": "Yes?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 729,
+  "en": "I would like to apologize for my\\rbehavior. It was inappropriate.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 730,
+  "en": "Oh, OK...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 731,
+  "en": "I vow by my lucky goggles that the\\rnext time we meet, I will do better.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 732,
+  "en": "Now I will take my leave. Farewell.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 733,
+  "en": "Wait! Wait a minute!\\fNo one said you could leave. Come...\\fHe's gone!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 734,
+  "en": "He seems like a pretty\\rdecent guy after all.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 735,
+  "en": "Oh, no... I was just planning on\\rpassing through Yellow Comet, but...\\fKanbei's Imperial Forces spotted us\\rbefore we even crossed the border.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 736,
+  "en": "Kanbei's Imperial Forces?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 737,
+  "en": "Uh-huh. They're supposed to be\\rthe best-trained troops around.\\fThe high equipment costs and salaries\\rmust make them hard to maintain.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 738,
+  "en": "The best trained, huh?\\rThis should be fun!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 739,
+  "en": "I don't think you'll have any\\renergy left over for fun, Andy.\\fC'mon, show me what you can do!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 740,
+  "en": "Oh, no... I was just planning on\\rpassing through Yellow Comet, but...\\fKanbei's Imperial Forces spotted us\\rbefore we even crossed the border.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 741,
+  "en": "Kanbei's Imperial Forces?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 742,
+  "en": "Uh-huh. They're supposed to be\\rthe best-trained troops around.\\fThe high equipment costs and salaries\\rmust make them hard to maintain.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 743,
+  "en": "Oh, no... I was just planning on\\rpassing through Yellow Comet, but...\\fKanbei's Imperial Forces spotted us\\rbefore we even crossed the border.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 744,
+  "en": "Kanbei's Imperial Forces?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 745,
+  "en": "Uh-huh. They're supposed to be\\rthe best-trained troops around.\\fThe high equipment costs and salaries\\rmust make them hard to maintain.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 746,
+  "en": "The best trained, huh?\\fBoy, Sami, you have all the fun!\\rI wish I was going instead of you.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 747,
+  "en": "Preposterous!\\fKanbei's forces...defeated?\\fWithdraw!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 748,
+  "en": "Preposterous!\\fSo many of Kanbei's forces defeated\\rin such a short time?\\fWithdraw!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 749,
+  "en": "You'll have to take damage in order\\rto take out the indirect combat units.\\fAfter that, just stay within the\\rmountains and protect your position.\\fThe enemy will keep coming at you,\\rbut you just have to hold on.\\fDon't give up!\\rGood luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 750,
+  "en": "Hey!\\fWhere's the rest of the army?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 751,
+  "en": "I'm sorry, Andy.\\fThere was an error, and\\rpreparations weren't completed.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 752,
+  "en": "But there are bases for deployment.\\fYou know how to use them, right?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 753,
+  "en": "Sure, I'm OK!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 754,
+  "en": "Hey, Nell!\\fWhat's with this small battalion?\\fIt's like you're asking me to lose!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 755,
+  "en": "I'm sorry, Max.\\fThere was an error, and\\rpreparations weren't completed.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 756,
+  "en": "But there are bases for\\rdeployment, right there.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 757,
+  "en": "All right!\\fI've got permission to request\\rmy own units, right?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 758,
+  "en": "That's right.\\fYou can deploy any unit\\rthat you deem necessary.\\fDo you remember the procedure?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 759,
+  "en": "Hey! Don't treat me like a fool!\\fOf course I remember!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 760,
+  "en": "There aren't many units here.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 761,
+  "en": "But then, there must be some\\rbases around here. Right, Nell?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 762,
+  "en": "Right as always, Sami!\\rNothing gets by you.\\fI'm sure I don't have to tell\\ryou what to do, right?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 763,
+  "en": "No, I don't have any questions.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 764,
+  "en": "Where are all these enemy\\runits coming from?\\fWithdraw!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 765,
+  "en": "This is beyond comprehension!\\fRegardless of the odds, Kanbei\\rshould never lose this many units!\\fWithdraw!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 766,
+  "en": "Kanbei's got us surrounded!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 767,
+  "en": "On top of that, we have to\\rseize properties to win.\\fLooks like things are\\rgonna get rough.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 768,
+  "en": "But look! This time we have\\ran airport!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 769,
+  "en": "What's an airport, again?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 770,
+  "en": "Airports let us deploy air units!\\fPlus, damaged planes and copters\\rcan go there to recover HP.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 771,
+  "en": "Oh, OK. Got it!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 772,
+  "en": "That's cool, but isn't that Kanbei's\\rbase right there?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 773,
+  "en": "Oh, ho ho ho!\\fLook what I have found!\\rA base for Kanbei's troops!\\fI shall deploy a mountain\\rof troops!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 774,
+  "en": "By my sword!\\fWhat a horribly useless\\rbase that was!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 775,
+  "en": "Oh, Father!\\fYou know this is because you never\\rlet me finish what I'm trying to tell you!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 776,
+  "en": "But... But... Sonja, I...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 777,
+  "en": "And one more thing.\\fOrange Star's objective is not\\rto conquer Yellow Comet.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 778,
+  "en": "Are you mad, daughter?\\fThey were...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 779,
+  "en": "Father! Shooting first and asking\\rquestions later is not a good strategy.\\fIf you were suddenly attacked,\\ryou'd return fire, too!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 780,
+  "en": "Well, I...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 781,
+  "en": "If you leave them be, I'm sure\\rthey'll depart without any trouble.\\fNo more attacking, Father!\\rUnderstood?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 782,
+  "en": "Um...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 783,
+  "en": "Hmm... The Orange Star Army...\\fThey're not all that I imagined\\rthey would be.\\fAs that's the case...\\fit's up to me to act.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 784,
+  "en": "By my sword!\\fWhat a horribly useless\\rbase that was!\\fAnd I was defeated in such\\ra short time!\\fWas that base in a poor location?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 785,
+  "en": "You let fifteen properties get\\rcaptured, didn't you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 786,
+  "en": "Sami's comments were dead-on.\\fYou should've ignored that one base\\rand focused on capturing others.\\fIf you stay cool and calm,\\ryou'll be fine.\\fGood luck!\\f",
+  "cz": ""
+ },
+ {
+  "idx": 787,
+  "en": "Max, you have underdeveloped\\rindirect-combat skills.\\fYou compensate for this weakness\\rwith a predilection for direct combat.\\fIn areas where you can attack\\rwith multiple units, you're a titan.\\f",
+  "cz": ""
+ },
+ {
+  "idx": 788,
+  "en": "Wha...?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 789,
+  "en": "Who... Who are you?\\f",
+  "cz": ""
+ },
+ {
+  "idx": 790,
+  "en": "It's a pleasure to meet you.\\rMy name is Sonja.\\fI'm a Yellow Comet CO.\\fI've taken the liberty of separating\\ryou from your companions.\\fSo, now...\\f",
+  "cz": ""
+ },
+ {
+  "idx": 791,
+  "en": "Sweet dreams, Max.\\f",
+  "cz": ""
+ }
+]
