@@ -14,6 +14,10 @@ Komunitní české překlady retro herních klasik. Open-source meta-projekt zam
 | Hra | Platforma | Stav | Detail |
 |---|---|---|---|
 | [Pokémon Yellow](https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/) | GBC | v0.4 DONE | samostatný repo |
+| Pokémon FireRed | GBA | v0.2 | `projects/pokemon-firered/` |
+| Advance Wars | GBA | v0.1 beta | `projects/advance-wars/` |
+| Advance Wars 2 | GBA | v0.1 beta | `projects/advance-wars-2/` |
+| Zelda: The Minish Cap | GBA | v0.2 experimental | `projects/zelda-minish-cap/` |
 
 ## Pilot
 
@@ -21,7 +25,7 @@ Komunitní české překlady retro herních klasik. Open-source meta-projekt zam
 
 ## Aktuálně rozjíždíme
 
-- Pokémon FireRed (GBA) — viz `docs/games/pokemon-firered.html`
+- Fire Emblem 8: Sacred Stones (GBA) — texty vyextrahované, build zatím padá na linkeru
 
 ## Filozofie
 
