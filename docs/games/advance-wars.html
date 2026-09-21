@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Advance Wars CZ — Retro hry česky</title>
-<meta name="description" content="Český překlad hry Advance Wars pro GBA.">
+<meta name="description" content="Český překlad hry Advance Wars pro Game Boy Advance.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
@@ -14,32 +14,80 @@
 
 <header>
   <nav><a href="../index.html">← zpět na katalog</a></nav>
-  <div class="platform-tag">GBA · 2001 · Turn-based Strategy</div>
+  <div class="platform-tag">GBA · 2001 · Tahová strategie</div>
   <h1 class="crt">Advance Wars<br><span class="accent">česky</span></h1>
-  <p class="tagline">Tahová válka v cartoon obalu. Andy, Max, Sami a Orange Star vs. Blue Moon.</p>
-  <span class="badge status-planned">PLANNED</span>
+  <p class="tagline">Tahová válka v kreslené grafice. Andy, Max a Sami za Orange Star proti Olafovi, Kanbeiovi, Eaglovi — a nakonec proti Sturmovi.</p>
+  <span class="badge status-wip">v0.1 — beta</span>
 </header>
 
 <main>
 
 <section>
   <h2>O hře</h2>
-  <p>Advance Wars je tahová strategie od Intelligent Systems (autoři Fire Emblem). 30+ misí, briefingy mezi misemi, charisma CO (Commanding Officers). Dialogy nejsou tak hluboké jako u FE, ale jsou kompaktní a memorable. Tom Clancy/Hot Dog/USA charm.</p>
+  <p><strong>Advance Wars</strong> (Intelligent Systems, 2001) je tahová strategie od autorů Fire Emblem. Přes 30 misí, briefingy a hlášky velitelů (CO) mezi nimi, k tomu Field Training jako tutoriál a War Room jako výzvy navíc. Dialogy nejsou tak rozsáhlé jako ve Fire Emblem, ale jsou hutné a postavy si drží svůj hlas.</p>
 </section>
 
 <section>
   <h2>Jak na překlad</h2>
-  <p>Pro Advance Wars nejsou veřejné disassembly. Komunita má ale text editory a obecně se hra dá hackovat (Romhacking.net má pár translation patches do jiných jazyků). Workflow: extrakce textu z ROM → překlad → injekce → ověření v emulátoru.</p>
+  <p>Disassembly pro AW1 sice existuje (<a href="https://github.com/ketsuban/advancewars">ketsuban/advancewars</a>), ale je to raný IPS skelet s jediným <code>src/main.c</code> a míří navíc na jinou revizi ROM. Text jsem proto reverzoval <strong>přímo z binárky</strong>, stejnou cestou jako u <a href="advance-wars-2.html">Advance Wars 2</a>.</p>
+  <p>Formát je shodný s dvojkou:</p>
+  <ul>
+    <li><strong>ASCII</strong>, null-terminované stringy zarovnané na 4 bajty</li>
+    <li>4bajtové LE pointery <code>0x08000000</code> + offset</li>
+    <li>Řídicí kódy: <code>0x0D</code> (nový řádek), <code>0x0E</code> (scénový marker), <code>0x0F</code> (prompt / konec okna)</li>
+    <li>Text v regionech <code>0x080000</code> (menu), <code>0x280000</code>–<code>0x300000</code> (kampaň a tutoriály) a <code>0x3B0000</code></li>
+  </ul>
+  <p>Extraktor projde <strong>každé zarovnané slovo v ROM</strong>, ověří, jestli cíl vypadá jako string, a zahodí 64 KB bloky s jen pár nálezy — ty jsou náhodné shody uvnitř kódu. Výsledek: <strong>1869 stringů / 106,8 KB textu</strong>.</p>
+</section>
+
+<section>
+  <h2>Oříšek: v ROM není místo</h2>
+  <p>Tady se AW1 chová jinak než dvojka. Zatímco AW2 měl na konci ROM <strong>1,9 MB</strong> volného místa a stačilo tam český text přilepit a přepointovat, AW1 má volných jen <strong>33 KB</strong>. Čeština je přitom o zhruba 10–15 % delší než angličtina.</p>
+  <p>Injektor proto <strong>přebaluje každý souvislý blok textu na místě</strong>: string zůstává na původní adrese, dokud se před něj něco nerozroste — teprve pak se posune dopředu a přepíše se jeho pointer. Co se do bloku nevejde, jde do rozšíření ROM na 8 MB (běžná velikost GBA kartridge, adresní prostor sahá do 32 MB). Překlad tedy nemusí být kratší než originál.</p>
+  <p>Dva předpoklady jsem si ověřil skriptem: uvnitř bloků <strong>není žádný text, který by extraktor minul</strong>, a 30 stringů, na jejichž vnitřek ukazuje nějaký pointer, je zapíchnutých na místě.</p>
+  <p>Hlavní důkaz je ale round-trip — extrakce a zpětná injekce <strong>bez</strong> překladu vyrobí ROM bajt po bajtu shodnou s originálem:</p>
+  <pre><code>ROUND-TRIP OK: original 4194304 bytes are byte-identical to the source ROM</code></pre>
 </section>
 
 <section>
   <h2>Stav</h2>
-  <p>Zatím nezačato. Sleduj <a href="../index.html">katalog</a> nebo pilotní projekt <a href="https://mhudakcz.github.io/GBC_Pokemon_Yellow_AI_CZ/">Pokémon Yellow CZ</a>, který běží jako referenční implementace celého workflow.</p>
+  <div class="grid-2">
+    <div class="card">
+      <h3>HOTOVO (v0.1)</h3>
+      <ul>
+        <li><span class="check">✓</span> RE textového formátu z ROM</li>
+        <li><span class="check">✓</span> Round-trip ověřený bajt po bajtu</li>
+        <li><span class="check">✓</span> 1836 / 1869 stringů přeloženo</li>
+        <li><span class="check">✓</span> Kampaňové dialogy a briefingy</li>
+        <li><span class="check">✓</span> Field Training (tutoriál)</li>
+        <li><span class="check">✓</span> Menu, UI, hlášky velitelů</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>NÁSLEDUJE</h3>
+      <ul>
+        <li><span class="pending">…</span> Test v emulátoru, doladění šířky řádků</li>
+        <li><span class="pending">…</span> Diakritika (vyžaduje rozšíření fontu)</li>
+        <li><span class="pending">…</span> Názvy map zatím anglicky</li>
+        <li><span class="pending">…</span> Sjednotit terminologii s <a href="advance-wars-2.html">AW2</a></li>
+      </ul>
+    </div>
+  </div>
 </section>
 
 <section>
-  <h2>Repo a kontakt</h2>
-  <p>Repo dorazí, jakmile se dostaneme k aktivnímu překladu.</p>
+  <h2>Stáhnout v0.1</h2>
+  <p>Aplikováno na <em>Advance Wars (USA) (Rev 1)</em>. Text přebalen a přepointován, ROM rozšířena na 8 MB.</p>
+  <p style="margin-top:20px;">
+    <a class="cta" href="https://github.com/mhudakcz/Retro_CZ_games/raw/master/projects/advance-wars/roms/Advance_Wars_CZ_v0.1.gba">⬇ Advance_Wars_CZ_v0.1.gba (8 MB)</a>
+  </p>
+  <p style="font-size:18px; color:var(--ink-soft); margin-top:14px;">Bez diakritiky (ASCII). Jména frakcí a velitelů ponechána originální.</p>
+</section>
+
+<section>
+  <h2>Repo</h2>
+  <p>Pipeline + překlad: <a href="https://github.com/mhudakcz/Retro_CZ_games/tree/master/projects/advance-wars">Retro_CZ_games/projects/advance-wars/</a></p>
+  <p>Sesterský projekt: <a href="advance-wars-2.html">Advance Wars 2 CZ</a></p>
 </section>
 
 </main>

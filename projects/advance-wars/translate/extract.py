@@ -76,10 +76,24 @@ def meaningful(raw):
     return letters >= 2
 
 
+def is_string_start(off):
+    """A pointer target is a string start unless it lands inside another one.
+
+    Strings normally follow a terminator, but some sit directly behind a data
+    table (0x2807B8 'Welcome to Design Maps mode!' is preceded by 0x04), so
+    requiring a preceding null would miss them. A preceding *text* byte, on
+    the other hand, means the pointer aims into the middle of a longer string
+    - a suffix pointer, which must not become an entry of its own.
+    """
+    if off == 0:
+        return True
+    prev = rom[off - 1]
+    return prev == 0x00 or not is_text_byte(prev)
+
+
 entries = []
 for off in sorted(ptrs_by_off):
-    # A real string starts right after a terminator.
-    if off > 0 and rom[off - 1] != 0x00:
+    if not is_string_start(off):
         continue
     r = read_string(off)
     if not r:

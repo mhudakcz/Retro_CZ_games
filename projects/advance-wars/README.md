@@ -25,7 +25,7 @@ pointery ve tvaru `0x08000000 + offset`.
 | `0x0F` (`\f`) | prompt, konec okna |
 
 Text sedí v regionech `0x080000` (menu a UI), `0x110000`, `0x280000`–`0x300000`
-(kampaň, tutoriály) a `0x3B0000`. Celkem **1839 stringů / 106,6 KB**.
+(kampaň, tutoriály) a `0x3B0000`. Celkem **1869 stringů / 106,8 KB**.
 
 ## Pipeline
 
@@ -37,7 +37,11 @@ py -3 translate/split_json.py 14      # JSON     -> translate/chunks/chunk_NN.js
 py -3 translate/check_progress.py     # stav + kontrola šířky řádků
 py -3 translate/merge_json.py         # chunky   -> aw1_strings.json
 py -3 translate/inject.py baserom.gba roms/Advance_Wars_CZ_v0.1.gba
+py -3 translate/verify.py roms/Advance_Wars_CZ_v0.1.gba   # kontrola pointerů
 ```
+
+Když se změní extraktor, `port_translations.py` přenese hotové překlady do
+nově vyextrahovaného JSONu — páruje podle `str_off`, ne podle pořadí.
 
 `baserom.gba` je kopie originální ROM a **není v gitu**.
 
@@ -53,7 +57,7 @@ Přilepit češtinu na konec tedy nejde. `inject.py` proto:
 2. **Přetečené stringy relokuje.** Nejdřív do původních 33 KB, pak do
    rozšíření ROM na 8 MB (standardní velikost GBA kartridge, adresní prostor
    sahá do 32 MB). Stringy, které se nevejdou, se tak nemusí krátit.
-3. **Zapíchne 29 stringů**, na jejichž vnitřek ukazuje nějaký pointer — ty se
+3. **Zapíchne 30 stringů**, na jejichž vnitřek ukazuje nějaký pointer — ty se
    nesmí hnout. Pokud se do svého slotu český překlad nevejde, zůstane
    anglicky.
 4. Na závěr přepočítá komplementový checksum v hlavičce GBA.
