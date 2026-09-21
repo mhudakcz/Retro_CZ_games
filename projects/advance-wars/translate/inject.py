@@ -120,6 +120,7 @@ def payload(e):
 # -------------------------------------------------------------------- write
 n_cz = n_en = n_moved = n_relocated = n_shrunk_back = 0
 repoint = {}                                  # str_off -> new offset
+pinned_fallback = []      # pinned strings whose translation did not fit
 
 free_idx = 0
 free_pos = FREE_REGIONS[0][0]
@@ -154,6 +155,7 @@ for blk in blocks:
             if len(data) > e['slot']:
                 data, translated = encode(e['en']) + b'\x00', False
                 n_shrunk_back += 1
+                pinned_fallback.append(e['str_off'])
             rom[e['str_off']:e['str_off'] + len(data)] = data
             pos = e['str_off'] + e['slot']
         else:
@@ -219,6 +221,10 @@ print('ROM size: %d bytes (%.1f MB)' % (N, N / 1024 / 1024))
 os.makedirs(os.path.dirname(ROM_OUT) or '.', exist_ok=True)
 open(ROM_OUT, 'wb').write(rom)
 print('Wrote %s (%d bytes)' % (ROM_OUT, len(rom)))
+
+# verify.py needs to know which strings intentionally kept their English text.
+json.dump({'pinned_fallback': pinned_fallback},
+          open('translate/inject_report.json', 'w', encoding='utf-8'), indent=1)
 
 # Round-trip check when nothing is translated yet.
 if n_cz == 0:

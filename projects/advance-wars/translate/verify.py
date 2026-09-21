@@ -51,10 +51,18 @@ def encode(s):
     return bytes(out)
 
 
+try:
+    report = json.load(open('translate/inject_report.json', encoding='utf-8'))
+    pinned_fallback = set(report.get('pinned_fallback', []))
+except FileNotFoundError:
+    pinned_fallback = set()
+
 checked = bad = 0
 examples = []
 for e in entries:
     cz = e.get('cz', '').strip()
+    if e['str_off'] in pinned_fallback:
+        cz = ''            # injector kept English: the slot could not grow
     want = encode(cz if cz else e['en'])
     for p in e['ptrs']:
         if p + 4 > N:

@@ -2,661 +2,661 @@
  {
   "idx": 264,
   "en": "UNIT  C0  C1",
-  "cz": ""
+  "cz": "UNIT  C0  C1"
  },
  {
   "idx": 265,
   "en": "PSQ(%1d)",
-  "cz": ""
+  "cz": "PSQ(%1d)"
  },
  {
   "idx": 266,
   "en": "ASQ(%1d)",
-  "cz": ""
+  "cz": "ASQ(%1d)"
  },
  {
   "idx": 267,
   "en": "USQ(%1d)",
-  "cz": ""
+  "cz": "USQ(%1d)"
  },
  {
   "idx": 268,
   "en": "CPT(%1d)",
-  "cz": ""
+  "cz": "CPT(%1d)"
  },
  {
   "idx": 269,
   "en": "This is where you can\\rdesign your own maps!\\f",
-  "cz": ""
+  "cz": "Tady si muzes navrhnout\\rvlastni mapy!\\f"
  },
  {
   "idx": 270,
   "en": "If you need instructions,\\rchoose Help from the menu.\\f",
-  "cz": ""
+  "cz": "Potrebujes navod?\\rZvol Napoveda v menu.\\f"
  },
  {
   "idx": 271,
   "en": "Press SELECT and\\rthen choose Help.\\f",
-  "cz": ""
+  "cz": "Stiskni SELECT a\\rzvol Napoveda.\\f"
  },
  {
   "idx": 272,
   "en": "Help contains control explanations, as\\rwell as rules and instructions for\\fplaying on the maps you create.\\f",
-  "cz": ""
+  "cz": "Napoveda vysvetluje ovladani a take\\rpravidla a postup pro hrani\\fna mapach, ktere si vytvoris.\\f"
  },
  {
   "idx": 273,
   "en": "Enjoy!\\f",
-  "cz": ""
+  "cz": "Uzij si to!\\f"
  },
  {
   "idx": 274,
   "en": "Map Conditions :",
-  "cz": ""
+  "cz": "Podminky mapy :"
  },
  {
   "idx": 275,
   "en": "At least two armies, with an HQ",
-  "cz": ""
+  "cz": "Aspon dve armady, kazda s HQ"
  },
  {
   "idx": 276,
   "en": "and one or more units or factories each.",
-  "cz": ""
+  "cz": "a aspon jednou jednotkou ci zakladnou."
  },
  {
   "idx": 277,
   "en": "How to Play :",
-  "cz": ""
+  "cz": "Jak hrat :"
  },
  {
   "idx": 278,
   "en": "Maps can be used for play in",
-  "cz": ""
+  "cz": "Mapy lze hrat v rezimu"
  },
  {
   "idx": 279,
   "en": "Vs. Mode or Link Mode.",
-  "cz": ""
+  "cz": "Vs. Mode nebo Link Mode."
  },
  {
   "idx": 280,
   "en": "Place the terrain or unit.",
-  "cz": ""
+  "cz": "Umisti teren nebo jednotku."
  },
  {
   "idx": 281,
   "en": "Select the terrain or unit.",
-  "cz": ""
+  "cz": "Vyber teren nebo jednotku."
  },
  {
   "idx": 282,
   "en": "Open the unit selection menu.",
-  "cz": ""
+  "cz": "Otevre menu vyberu jednotek."
  },
  {
   "idx": 283,
   "en": "Open the terrain selection menu.",
-  "cz": ""
+  "cz": "Otevre menu vyberu terenu."
  },
  {
   "idx": 284,
   "en": "Display overhead map.",
-  "cz": ""
+  "cz": "Zobrazi celkovou mapu."
  },
  {
   "idx": 285,
   "en": "There's no data.",
-  "cz": ""
+  "cz": "Zadna data."
  },
  {
   "idx": 286,
   "en": "There's no data.\\f",
-  "cz": ""
+  "cz": "Zadna data.\\f"
  },
  {
   "idx": 287,
   "en": "Design Map 1",
-  "cz": ""
+  "cz": "Vlastni mapa 1"
  },
  {
   "idx": 288,
   "en": "Design Map 2",
-  "cz": ""
+  "cz": "Vlastni mapa 2"
  },
  {
   "idx": 289,
   "en": "Design Map 3",
-  "cz": ""
+  "cz": "Vlastni mapa 3"
  },
  {
   "idx": 290,
   "en": "Sea",
-  "cz": ""
+  "cz": "More"
  },
  {
   "idx": 291,
   "en": "Plain",
-  "cz": ""
+  "cz": "Plan"
  },
  {
   "idx": 292,
   "en": "Mtn",
-  "cz": ""
+  "cz": "Hory"
  },
  {
   "idx": 293,
   "en": "Wood",
-  "cz": ""
+  "cz": "Les"
  },
  {
   "idx": 294,
   "en": "You must really like doing\\rthat over and over.\\fKeep it up.\\f",
-  "cz": ""
+  "cz": "Asi te fakt bavi delat\\rto porad dokola.\\fJen tak dal.\\f"
  },
  {
   "idx": 295,
   "en": "Mech",
-  "cz": ""
+  "cz": "Mech"
  },
  {
   "idx": 296,
   "en": "Md Tank",
-  "cz": ""
+  "cz": "Tez.tank"
  },
  {
   "idx": 297,
   "en": "Tank",
-  "cz": ""
+  "cz": "Tank"
  },
  {
   "idx": 298,
   "en": "Recon",
-  "cz": ""
+  "cz": "Pruzkum"
  },
  {
   "idx": 299,
   "en": "APC",
-  "cz": ""
+  "cz": "APC"
  },
  {
   "idx": 300,
   "en": "Artlry",
-  "cz": ""
+  "cz": "Delo"
  },
  {
   "idx": 301,
   "en": "Rockets",
-  "cz": ""
+  "cz": "Rakety"
  },
  {
   "idx": 302,
   "en": "A-Air",
-  "cz": ""
+  "cz": "Protilet"
  },
  {
   "idx": 303,
   "en": "Fighter",
-  "cz": ""
+  "cz": "Stihacka"
  },
  {
   "idx": 304,
   "en": "Bomber",
-  "cz": ""
+  "cz": "Bombard"
  },
  {
   "idx": 305,
   "en": "B Cptr",
-  "cz": ""
+  "cz": "Boj.vrt"
  },
  {
   "idx": 306,
   "en": "T Cptr",
-  "cz": ""
+  "cz": "Tra.vrt"
  },
  {
   "idx": 307,
   "en": "B Ship",
-  "cz": ""
+  "cz": "Bit.lod"
  },
  {
   "idx": 308,
   "en": "Cruiser",
-  "cz": ""
+  "cz": "Krizik"
  },
  {
   "idx": 309,
   "en": "Lander",
-  "cz": ""
+  "cz": "Vysadka"
  },
  {
   "idx": 310,
   "en": "Sub",
-  "cz": ""
+  "cz": "Ponorka"
  },
  {
   "idx": 311,
   "en": "M Gun",
-  "cz": ""
+  "cz": "Kulomet"
  },
  {
   "idx": 312,
   "en": "Bazooka",
-  "cz": ""
+  "cz": "Bazuka"
  },
  {
   "idx": 313,
   "en": "Cannon",
-  "cz": ""
+  "cz": "Kanon"
  },
  {
   "idx": 314,
   "en": "Rockets",
-  "cz": ""
+  "cz": "Rakety"
  },
  {
   "idx": 315,
   "en": "Vulcan",
-  "cz": ""
+  "cz": "Vulcan"
  },
  {
   "idx": 316,
   "en": "Cannon",
-  "cz": ""
+  "cz": "Kanon"
  },
  {
   "idx": 317,
   "en": "Cannon",
-  "cz": ""
+  "cz": "Kanon"
  },
  {
   "idx": 318,
   "en": "Missiles",
-  "cz": ""
+  "cz": "Strely"
  },
  {
   "idx": 319,
   "en": "Missiles",
-  "cz": ""
+  "cz": "Strely"
  },
  {
   "idx": 320,
   "en": "Missiles",
-  "cz": ""
+  "cz": "Strely"
  },
  {
   "idx": 321,
   "en": "Bombs",
-  "cz": ""
+  "cz": "Bomby"
  },
  {
   "idx": 322,
   "en": "Torps",
-  "cz": ""
+  "cz": "Torpeda"
  },
  {
   "idx": 323,
   "en": "A-Air Gun",
-  "cz": ""
+  "cz": "PL kanon"
  },
  {
   "idx": 324,
   "en": "None",
-  "cz": ""
+  "cz": "Zadna"
  },
  {
   "idx": 325,
   "en": "Plain",
-  "cz": ""
+  "cz": "Plan"
  },
  {
   "idx": 326,
   "en": "River",
-  "cz": ""
+  "cz": "Reka"
  },
  {
   "idx": 327,
   "en": "Mt",
-  "cz": ""
+  "cz": "Hory"
  },
  {
   "idx": 328,
   "en": "Wood",
-  "cz": ""
+  "cz": "Les"
  },
  {
   "idx": 329,
   "en": "Road",
-  "cz": ""
+  "cz": "Silnice"
  },
  {
   "idx": 330,
   "en": "City",
-  "cz": ""
+  "cz": "Mesto"
  },
  {
   "idx": 331,
   "en": "Sea",
-  "cz": ""
+  "cz": "More"
  },
  {
   "idx": 332,
   "en": "HQ",
-  "cz": ""
+  "cz": "HQ"
  },
  {
   "idx": 333,
   "en": "Arprt",
-  "cz": ""
+  "cz": "Letiste"
  },
  {
   "idx": 334,
   "en": "Port",
-  "cz": ""
+  "cz": "Pristav"
  },
  {
   "idx": 335,
   "en": "Brdg",
-  "cz": ""
+  "cz": "Most"
  },
  {
   "idx": 336,
   "en": "Shoal",
-  "cz": ""
+  "cz": "Melcina"
  },
  {
   "idx": 337,
   "en": "Base",
-  "cz": ""
+  "cz": "Zaklad."
  },
  {
   "idx": 338,
   "en": "Reef",
-  "cz": ""
+  "cz": "Utes"
  },
  {
   "idx": 339,
   "en": "Exit Map",
-  "cz": ""
+  "cz": "Konec mapy"
  },
  {
   "idx": 340,
   "en": "These orange units are yours.\\f",
-  "cz": ""
+  "cz": "Tyto oranzove jednotky jsou vase.\\f"
  },
  {
   "idx": 341,
   "en": "These blue units are the enemy.\\rThey belong to the Blue Moon Army.\\f",
-  "cz": ""
+  "cz": "Tyto modre jednotky jsou nepratelske.\\rPatri armade Blue Moon.\\f"
  },
  {
   "idx": 342,
   "en": "Defeat the enemy forces to\\rcomplete this mission successfully.\\f",
-  "cz": ""
+  "cz": "Znicte nepratelske sily a splnite\\rtuto misi uspesne.\\f"
  },
  {
   "idx": 343,
   "en": "Well, let's issue some orders.\\fThe cursor is used to give commands.\\fThe + Control Pad\\rmoves the cursor.\\f",
-  "cz": ""
+  "cz": "Tak pojdme vydat nejake rozkazy.\\fRozkazy se zadavaji kurzorem.\\fOvladaci krizek\\rposouva kurzor.\\f"
  },
  {
   "idx": 344,
   "en": "No, not there.\\fPlace the cursor here\\rand press the A Button.\\f",
-  "cz": ""
+  "cz": "Ne, tam ne.\\fPresunte kurzor sem\\ra stisknete tlacitko A.\\f"
  },
  {
   "idx": 345,
   "en": "The action you just completed\\ris called selecting.\\fYou'll see this term often,\\rso do your best to remember it.\\fWhen you select a unit, the area\\raround it will become highlighted.\\fThis area represents the selected\\runit's range of movement.\\fFirst, let's approach\\rthe enemy with this unit.\\f",
-  "cz": ""
+  "cz": "Akce, kterou jste prave provedl,\\rse nazyva vyber.\\fTento pojem uslysite casto,\\rtak si ho dobre zapamatujte.\\fKdyz vyberete jednotku, okoli\\rkolem ni se zvyrazni.\\fTato plocha je dosah pohybu\\rvybrane jednotky.\\fNejprve se timto oddilem\\rpriblizme k nepriteli.\\f"
  },
  {
   "idx": 346,
   "en": "Try moving the unit to this space.\\fMove the cursor here and\\rpress the A Button.\\f",
-  "cz": ""
+  "cz": "Zkuste presunout jednotku sem.\\fPresunte kurzor sem a\\rstisknete tlacitko A.\\f"
  },
  {
   "idx": 347,
   "en": "That's not quite right.\\fTry moving the unit again, please.\\fPlace the cursor here and\\rpress the A Button.\\f",
-  "cz": ""
+  "cz": "To neni uplne spravne.\\fZkuste jednotku presunout znovu.\\fPresunte kurzor sem a\\rstisknete tlacitko A.\\f"
  },
  {
   "idx": 348,
   "en": "The unit's color changed, right?\\fThis indicates that the unit can't\\rreceive any more orders this turn.\\fDon't worry--you'll be able to use it\\ragain on your next turn.\\f",
-  "cz": ""
+  "cz": "Jednotka zmenila barvu, vidite?\\fZnamena to, ze uz nemuze v tomto\\rtahu prijmout dalsi rozkazy.\\fZadny strach, pouzijete ji zas\\rv pristim tahu.\\f"
  },
  {
   "idx": 349,
   "en": "Select this unit, please.\\fRemember to press the A Button.\\f",
-  "cz": ""
+  "cz": "Vyberte prosim tuto jednotku.\\fNezapomente stisknout tlacitko A.\\f"
  },
  {
   "idx": 350,
   "en": "Eh? Orange Star Army units have\\rmoved into the Alara region?\\fHah! They won't last long.\\fMy troops there will\\rmake short work of them!\\f",
-  "cz": ""
+  "cz": "Co? Jednotky Orange Star vtrhly\\rdo oblasti Alara?\\fHa! Dlouho tam nevydrzi.\\fMoje vojska si s nimi\\rporadi raz dva!\\f"
  },
  {
   "idx": 351,
   "en": "You scored damage on the enemy!\\f",
-  "cz": ""
+  "cz": "Zasadil jste nepriteli ranu!\\f"
  },
  {
   "idx": 352,
   "en": "What are those fools doing?\\fIf I were in the field, they wouldn't\\rbe suffering such humiliation!\\fCursed Orange Star Army!\\rI will defeat it! I will!\\f",
-  "cz": ""
+  "cz": "Co ti hlupaci vyvadeji?\\fKdybych tam byl ja, nezazivali by\\rtakove ponizeni!\\fProklata armado Orange Star!\\rPorazim te! Porazim!\\f"
  },
  {
   "idx": 353,
   "en": "It's your turn again.\\fYou have a two-to-one advantage.\\fThis battle is yours to win!\\fBut, wait a minute.\\f",
-  "cz": ""
+  "cz": "Zase jste na tahu.\\fMate prevahu dva na jednoho.\\fTuhle bitvu musite vyhrat!\\fAle moment.\\f"
  },
  {
   "idx": 354,
   "en": "This unit took damage in\\rthe last battle, didn't it?\\fUnits lose some of their\\rfirepower when damaged.\\f",
-  "cz": ""
+  "cz": "Tato jednotka utrpela v minulem\\rboji poskozeni, ze?\\fPoskozene jednotky ztraceji\\rcast sve palebne sily.\\f"
  },
  {
   "idx": 355,
   "en": "This is how the A Button is used\\rto select units and issue commands.\\fIf you make a mistake and want\\rto change orders, use the B Button.\\fIt's key that you remember this.\\f",
-  "cz": ""
+  "cz": "Takto se tlacitkem A vybiraji\\rjednotky a zadavaji rozkazy.\\fKdyz udelate chybu a chcete\\rrozkaz zmenit, pouzijte tlacitko B.\\fJe dulezite si to zapamatovat.\\f"
  },
  {
   "idx": 356,
   "en": "You've defeated all\\rof the enemy units!\\fYour mission is a success!\\fKeep up the good work!\\f",
-  "cz": ""
+  "cz": "Znicil jste vsechny\\rnepratelske jednotky!\\fMise je uspesna!\\fJen tak dal!\\f"
  },
  {
   "idx": 357,
   "en": "What? Inconceivable!\\fThat land was mine! How did\\rthey lose it so easily?\\fGrrr... Next time,\\rvictory will be mine!\\f",
-  "cz": ""
+  "cz": "Coze? Nemozne!\\fTa zeme byla moje! Jak ji mohli\\rtak snadno ztratit?\\fGrrr... Priste\\rbude vitezstvi me!\\f"
  },
  {
   "idx": 358,
   "en": "Excellent!\\f",
-  "cz": ""
+  "cz": "Vyborne!\\f"
  },
  {
   "idx": 359,
   "en": "You know, if you don't move here,\\ryou won't be able to attack.\\fWould you please move here?\\f",
-  "cz": ""
+  "cz": "Vite, kdyz se nepresunete sem,\\rnebudete moci zautocit.\\fPresunte se sem, prosim.\\f"
  },
  {
   "idx": 360,
   "en": "You attacked the enemy\\rfrom the mountains, right?\\fDefensive cover in the mountains\\ris this number here... a four.\\f",
-  "cz": ""
+  "cz": "Zautocil jste na nepritele\\rz hor, ze?\\fObranne kryti v horach je\\rtoto cislo tady... ctyri.\\f"
  },
  {
   "idx": 361,
   "en": "The defensive cover\\ron the plains is a one.\\f",
-  "cz": ""
+  "cz": "Obranne kryti\\rna planich je jedna.\\f"
  },
  {
   "idx": 362,
   "en": "took less damage\\rthan the other.\\f",
-  "cz": ""
+  "cz": "utrpel mensi poskozeni\\rnez ten druhy.\\f"
  },
  {
   "idx": 363,
   "en": "Do you know why?\\fIt's because of superior defensive\\rcover. Remembering this is vital.\\fYou should also keep in mind that\\rmovement cost differs between units.\\f",
-  "cz": ""
+  "cz": "Vite proc?\\fDiky lepsimu obrannemu kryti.\\rJe nutne si to pamatovat.\\fTake mejte na pameti, ze cena\\rpohybu se u jednotek lisi.\\f"
  },
  {
   "idx": 364,
   "en": "Oh, one more thing.\\fIf at any point during the battle you\\rneed to stop, there's a way to save.\\fSaving will prevent you from having\\rto start the same mission over again.\\fPlease go to the Map Menu now.\\fPlace the cursor on an empty\\rspace and press the A Button.\\f",
-  "cz": ""
+  "cz": "Jeste jedna vec.\\fKdyz budete potrebovat kdykoli behem\\rboje prestat, lze hru ulozit.\\fDiky ulozeni nebudete muset zacinat\\rstejnou misi znovu od zacatku.\\fPrejdete ted do menu mapy.\\fUmistete kurzor na prazdne pole\\ra stisknete tlacitko A.\\f"
  },
  {
   "idx": 365,
   "en": "Excuse me, could you please\\rdisplay the Map Menu now?\\fPress the A Button when the\\rcursor's on an empty space.\\f",
-  "cz": ""
+  "cz": "Prominte, mohl byste ted\\rotevrit menu mapy?\\fStisknete tlacitko A, kdyz je\\rkurzor na prazdnem poli.\\f"
  },
  {
   "idx": 366,
   "en": "You've done it!\\fThese units really were\\ron a covert operation.\\fThanks to your planning, our\\rtroops took minimal damage.\\fKeep up the good work!\\f",
-  "cz": ""
+  "cz": "Dokazal jste to!\\fTyto jednotky byly opravdu\\rna tajne operaci.\\fDiky vasemu planu utrpela nase\\rvojska minimalni ztraty.\\fJen tak dal!\\f"
  },
  {
   "idx": 367,
   "en": "Aargh! Another failure!\\fAfter all of my careful planning,\\ranother botched mission!\\fGrrr... Next time, I will prevail!\\f",
-  "cz": ""
+  "cz": "Aargh! Dalsi neuspech!\\fPo vsem tom peclivem planovani\\rzase zpackana mise!\\fGrrr... Priste zvitezim ja!\\f"
  },
  {
   "idx": 368,
   "en": "Would you move it here?\\f",
-  "cz": ""
+  "cz": "Presunete ji sem, prosim?\\f"
  },
  {
   "idx": 369,
   "en": "Move it here using the\\rcursor and the A Button.\\f",
-  "cz": ""
+  "cz": "Presunte ji sem kurzorem\\ra tlacitkem A.\\f"
  },
  {
   "idx": 370,
   "en": "Move the unit to this position, please.\\f",
-  "cz": ""
+  "cz": "Presunte jednotku na tuto pozici.\\f"
  },
  {
   "idx": 371,
   "en": "When you don't have any immediate\\rgoals, it's best to move close to cities.\\fSo, move to this space, please.\\f",
-  "cz": ""
+  "cz": "Kdyz nemate zadny bezprostredni\\rcil, je nejlepsi jit k mestum.\\fPresunte se tedy sem, prosim.\\f"
  },
  {
   "idx": 372,
   "en": "It's your turn.\\f",
-  "cz": ""
+  "cz": "Jste na tahu.\\f"
  },
  {
   "idx": 373,
   "en": "You may lose the battle if you\\rforget to finish securing cities.\\fAlways start your turn by having\\runits complete previous orders.\\f",
-  "cz": ""
+  "cz": "Muzete bitvu prohrat, kdyz\\rzapomenete dokoncit obsazovani.\\fZacinejte tah vzdy dokoncenim\\rpredchozich rozkazu jednotek.\\f"
  },
  {
   "idx": 374,
   "en": "Now, this city is yours!\\fIt's the same color as your troops,\\rright? You can now use it as a base.\\f",
-  "cz": ""
+  "cz": "A ted je toto mesto vase!\\fMa stejnou barvu jako vase vojska,\\rze? Muzete ho pouzit jako zakladnu.\\f"
  },
  {
   "idx": 375,
   "en": "So, now you can see that\\rthese cities are under enemy control.\\f",
-  "cz": ""
+  "cz": "Takze ted vidite, ze tato\\rmesta ovlada nepritel.\\f"
  },
  {
   "idx": 376,
   "en": "By the way, gray\\rcities are neutral.\\f",
-  "cz": ""
+  "cz": "Mimochodem, seda\\rmesta jsou neutralni.\\f"
  },
  {
   "idx": 377,
   "en": "Now, here's a problem for you.\\f",
-  "cz": ""
+  "cz": "A ted maly ukol pro vas.\\f"
  },
  {
   "idx": 378,
   "en": "Yes, that's the correct choice!\\fOf course, capturing either one\\rof these cities is a plus for you.\\fBut if you secure the enemy city,\\ryou also reduce your foe's funds.\\f",
-  "cz": ""
+  "cz": "Ano, to je spravna volba!\\fObsazeni kteryhokoli z techto\\rmest je pro vas samozrejme plus.\\fKdyz ale obsadite mesto nepritele,\\rsnizite mu take finance.\\f"
  },
  {
   "idx": 379,
   "en": "Oh, yes. There's one more thing\\ryou need to know.\\f",
-  "cz": ""
+  "cz": "Ach ano. Jeste jednu vec\\rmusite vedet.\\f"
  },
  {
   "idx": 380,
   "en": "Really?\\fOk, but just one.\\f",
-  "cz": ""
+  "cz": "Opravdu?\\fDobra, ale jen jednu.\\f"
  },
  {
   "idx": 381,
   "en": "Outstanding!\\fYou've reclaimed the area and\\rforced Blue Moon to withdraw!\\fThere's one more thing\\rI have to tell you.\\fYou receive funds by\\rcapturing cities, right?\\fWell, once you clear a map,\\ryou lose those funds. Sorry!\\fGood luck on the next battle!\\f",
-  "cz": ""
+  "cz": "Vyborne!\\fDobyl jste oblast zpet a donutil\\rBlue Moon k ustupu!\\fJeste jednu vec vam\\rmusim rict.\\fZa obsazovani mest\\rdostavate finance, ze?\\fJenze jakmile dokoncite mapu,\\ro tyto finance prijdete. Pardon!\\fHodne stesti v dalsi bitve!\\f"
  },
  {
   "idx": 382,
   "en": "Oh, no!\\rYou've been defeated...\\fRegroup and try again.\\rGood luck!\\f",
-  "cz": ""
+  "cz": "Ale ne!\\rByl jste porazen...\\fSeradte se a zkuste to znovu.\\rHodne stesti!\\f"
  },
  {
   "idx": 383,
   "en": "Olaf has his bases covered.\\fIt looks like he understands the\\rimportance of holding this area.\\fAlmost all of our units heading for\\rLost Fortress have been eliminated.\\f",
-  "cz": ""
+  "cz": "Olaf ma zakladny dobre kryte.\\fVypada to, ze chape, jak dulezite\\rje tuto oblast udrzet.\\fTemer vsechny nase jednotky mirici\\rk Lost Fortress byly znicene.\\f"
  },
  {
   "idx": 384,
   "en": "To repair a unit, just move it to an\\rallied city or a secure base.\\f",
-  "cz": ""
+  "cz": "Opravu jednotky provedete tak, ze ji\\rpresunete do sveho mesta ci zakladny.\\f"
  },
  {
   "idx": 385,
   "en": "If you don't move the unit into a city,\\rit won't regain any HP.\\fWould you move it here, please?\\f",
-  "cz": ""
+  "cz": "Kdyz jednotku nepresunete do mesta,\\rnedoplni si zadne HP.\\fPresunete ji sem, prosim?\\f"
  },
  {
   "idx": 386,
   "en": "If you leave it out there next\\rto the enemy, it's done for.\\fLet's move it to a safe place.\\f",
-  "cz": ""
+  "cz": "Kdyz ji tam nechate vedle\\rnepritele, je s ni konec.\\fPresuneme ji na bezpecne misto.\\f"
  },
  {
   "idx": 387,
   "en": "I'd like to repair this unit now, but\\rthere's no safe place within\\fits movement range. There's\\rnothing we can do about that.\\fLet's get it as close to a city as\\rpossible and begin repairs next turn.\\f",
-  "cz": ""
+  "cz": "Rad bych tu jednotku opravil, ale\\rv jejim dosahu pohybu neni\\fzadne bezpecne misto. S tim\\rnic nenadelame.\\fDostanme ji co nejbliz k mestu\\ra opravu zacneme pristi tah.\\f"
  },
  {
   "idx": 388,
   "en": "Would you move it here, please?\\f",
-  "cz": ""
+  "cz": "Presunete ji sem, prosim?\\f"
  },
  {
   "idx": 389,
   "en": "I'm sorry for the confusion.\\fWould you please move the unit here?\\f",
-  "cz": ""
+  "cz": "Omlouvam se za zmatek.\\fPresunete tu jednotku sem, prosim?\\f"
  },
  {
   "idx": 390,
   "en": "That's right. Thank you.\\fBut we can't stop there, can we?\\f",
-  "cz": ""
+  "cz": "Presne tak. Dekuji.\\fAle tim to nekonci, ze?\\f"
  },
  {
   "idx": 391,
   "en": "Well, what to do now? How about\\rgiving it a little assistance?\\fLet's deploy other units around it to\\rprevent it from being attacked.\\fThis tactic is called building\\ra defensive wall.\\fOur available units are...\\f",
-  "cz": ""
+  "cz": "Co ted? Co takhle ji trochu\\rpomoct?\\fRozmistime kolem ni dalsi jednotky,\\raby na ni nepritel nedosahl.\\fTato taktika se nazyva stavba\\robranne zdi.\\fK dispozici mame tyto jednotky...\\f"
  },
  {
   "idx": 392,
   "en": "Move it here to create\\ra defensive wall.\\f",
-  "cz": ""
+  "cz": "Presunte ji sem a vytvorte\\robrannou zed.\\f"
  },
  {
   "idx": 393,
   "en": "At this point, our goal is to\\rprotect this unit.\\f",
-  "cz": ""
+  "cz": "Nasim cilem je ted ochranit\\rtuto jednotku.\\f"
  },
  {
   "idx": 394,
   "en": "So, we need to block the enemy's\\rapproach with one of our other units.\\f",
-  "cz": ""
+  "cz": "Musime tedy zablokovat pristup\\rnepriteli jinou nasi jednotkou.\\f"
  },
  {
   "idx": 395,
   "en": "There! Now the unit is safe\\rfrom enemy attack.\\fEnemy units can't cross allied\\rlines and vice-versa.\\fYou can see why a defensive wall is\\rsuch an effective strategic tool.\\f",
-  "cz": ""
+  "cz": "A je to! Jednotka je ted v bezpeci\\rpred utokem nepritele.\\fNepratelske jednotky nemohou projit\\rnasimi radami a naopak.\\fVidite, proc je obranna zed tak\\rucinny takticky nastroj.\\f"
  }
 ]

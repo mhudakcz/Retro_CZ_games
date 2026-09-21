@@ -2,661 +2,661 @@
  {
   "idx": 0,
   "en": "Map10",
-  "cz": ""
+  "cz": "Map10"
  },
  {
   "idx": 1,
   "en": "Design Maps",
-  "cz": ""
+  "cz": "Tvorba map"
  },
  {
   "idx": 2,
   "en": "War Room",
-  "cz": ""
+  "cz": "Valecna mistnost"
  },
  {
   "idx": 3,
   "en": "4P Maps",
-  "cz": ""
+  "cz": "Mapy pro 4"
  },
  {
   "idx": 4,
   "en": "3P Maps",
-  "cz": ""
+  "cz": "Mapy pro 3"
  },
  {
   "idx": 5,
   "en": "Pre-Deployed",
-  "cz": ""
+  "cz": "Rozmistene"
  },
  {
   "idx": 6,
   "en": "Vs.",
-  "cz": ""
+  "cz": "Vs."
  },
  {
   "idx": 7,
   "en": "Special",
-  "cz": ""
+  "cz": "Specialni"
  },
  {
   "idx": 8,
   "en": "Campaign",
-  "cz": ""
+  "cz": "Tazeni"
  },
  {
   "idx": 9,
   "en": "Field Training",
-  "cz": ""
+  "cz": "Vycvik"
  },
  {
   "idx": 10,
   "en": "Edit 3",
-  "cz": ""
+  "cz": "Uprava 3"
  },
  {
   "idx": 11,
   "en": "Edit 2",
-  "cz": ""
+  "cz": "Uprava 2"
  },
  {
   "idx": 12,
   "en": "Edit 1",
-  "cz": ""
+  "cz": "Uprava 1"
  },
  {
   "idx": 13,
   "en": "Rivals!",
-  "cz": ""
+  "cz": "Rivalove!"
  },
  {
   "idx": 14,
   "en": "The Final Battle!",
-  "cz": ""
+  "cz": "Posledni bitva!"
  },
  {
   "idx": 15,
   "en": "Enigma",
-  "cz": ""
+  "cz": "Zahada"
  },
  {
   "idx": 16,
   "en": "Andy Times Two!",
-  "cz": ""
+  "cz": "Dva Andyove!"
  },
  {
   "idx": 17,
   "en": "Battle Mystery!",
-  "cz": ""
+  "cz": "Zahadna bitva!"
  },
  {
   "idx": 18,
   "en": "Wings of Victory!",
-  "cz": ""
+  "cz": "Kridla vitezstvi!"
  },
  {
   "idx": 19,
   "en": "Naval Clash!",
-  "cz": ""
+  "cz": "Stret na mori!"
  },
  {
   "idx": 20,
   "en": "Captain Drake!",
-  "cz": ""
+  "cz": "Kapitan Drake!"
  },
  {
   "idx": 21,
   "en": "Sonja's Goal!",
-  "cz": ""
+  "cz": "Sonjin cil!"
  },
  {
   "idx": 22,
   "en": "Sami Marches On!",
-  "cz": ""
+  "cz": "Sami jde dal!"
  },
  {
   "idx": 23,
   "en": "Divide & Conquer!",
-  "cz": ""
+  "cz": "Rozdel a panuj!"
  },
  {
   "idx": 24,
   "en": "Kanbei's Error?",
-  "cz": ""
+  "cz": "Kanbeiova chyba?"
  },
  {
   "idx": 25,
   "en": "Mighty Kanbei!",
-  "cz": ""
+  "cz": "Mocny Kanbei!"
  },
  {
   "idx": 26,
   "en": "Kanbei Arrives!",
-  "cz": ""
+  "cz": "Kanbei prichazi!"
  },
  {
   "idx": 27,
   "en": "Sami's Debut!",
-  "cz": ""
+  "cz": "Samin debut!"
  },
  {
   "idx": 28,
   "en": "History Lesson!",
-  "cz": ""
+  "cz": "Lekce historie!"
  },
  {
   "idx": 29,
   "en": "Blizzard Battle!",
-  "cz": ""
+  "cz": "Bitva ve vanici!"
  },
  {
   "idx": 30,
   "en": "Sniper!",
-  "cz": ""
+  "cz": "Ostrelovac!"
  },
  {
   "idx": 31,
   "en": "Olaf's Sea Strike!",
-  "cz": ""
+  "cz": "Olafuv utok z more!"
  },
  {
   "idx": 32,
   "en": "Olaf's Navy",
-  "cz": ""
+  "cz": "Olafovo lodstvo"
  },
  {
   "idx": 33,
   "en": "Max's Folly?",
-  "cz": ""
+  "cz": "Maxova chyba?"
  },
  {
   "idx": 34,
   "en": "Max Strikes!",
-  "cz": ""
+  "cz": "Max utoci!"
  },
  {
   "idx": 35,
   "en": "Air Ace!",
-  "cz": ""
+  "cz": "Letecke eso!"
  },
  {
   "idx": 36,
   "en": "Gunfighter!",
-  "cz": ""
+  "cz": "Strelec!"
  },
  {
   "idx": 37,
   "en": "It's War!",
-  "cz": ""
+  "cz": "Je valka!"
  },
  {
   "idx": 38,
   "en": "Special Intel",
-  "cz": ""
+  "cz": "Specialni info"
  },
  {
   "idx": 39,
   "en": "Fog of War",
-  "cz": ""
+  "cz": "Mlha valky"
  },
  {
   "idx": 40,
   "en": "Climate Status",
-  "cz": ""
+  "cz": "Stav pocasi"
  },
  {
   "idx": 41,
   "en": "Naval Forces",
-  "cz": ""
+  "cz": "Namorni sily"
  },
  {
   "idx": 42,
   "en": "Dogfights",
-  "cz": ""
+  "cz": "Vzdusne souboje"
  },
  {
   "idx": 43,
   "en": "Air Defense",
-  "cz": ""
+  "cz": "Obrana proti letadlum"
  },
  {
   "idx": 44,
   "en": "Air Assault",
-  "cz": ""
+  "cz": "Letecky utok"
  },
  {
   "idx": 45,
   "en": "Copter Tactics",
-  "cz": ""
+  "cz": "Taktika vrtulniku"
  },
  {
   "idx": 46,
   "en": "Tank Ops",
-  "cz": ""
+  "cz": "Tankove operace"
  },
  {
   "idx": 47,
   "en": "APC ABCs",
-  "cz": ""
+  "cz": "Zaklady APC"
  },
  {
   "idx": 48,
   "en": "Unit Repair",
-  "cz": ""
+  "cz": "Opravy jednotek"
  },
  {
   "idx": 49,
   "en": "Base Capture",
-  "cz": ""
+  "cz": "Obsazeni zakladny"
  },
  {
   "idx": 50,
   "en": "Terrain Intel",
-  "cz": ""
+  "cz": "Znalost terenu"
  },
  {
   "idx": 51,
   "en": "Troop Orders",
-  "cz": ""
+  "cz": "Rozkazy jednotkam"
  },
  {
   "idx": 52,
   "en": "Last Mission",
-  "cz": ""
+  "cz": "Posledni mise"
  },
  {
   "idx": 53,
   "en": "Ring Islands",
-  "cz": ""
+  "cz": "Prstenec ostrovu"
  },
  {
   "idx": 54,
   "en": "Rivers Four",
-  "cz": ""
+  "cz": "Ctyri reky"
  },
  {
   "idx": 55,
   "en": "Stamp Islands",
-  "cz": ""
+  "cz": "Ostrovy Razitko"
  },
  {
   "idx": 56,
   "en": "Terra Maw",
-  "cz": ""
+  "cz": "Zemska tlama"
  },
  {
   "idx": 57,
   "en": "Egg Islands",
-  "cz": ""
+  "cz": "Vajecne ostrovy"
  },
  {
   "idx": 58,
   "en": "Dire Range",
-  "cz": ""
+  "cz": "Zlovestne hory"
  },
  {
   "idx": 59,
   "en": "Twin Isle",
-  "cz": ""
+  "cz": "Dvojostrov"
  },
  {
   "idx": 60,
   "en": "Toil Ferry",
-  "cz": ""
+  "cz": "Tezky prevoz"
  },
  {
   "idx": 61,
   "en": "Bounty River",
-  "cz": ""
+  "cz": "Reka hojnosti"
  },
  {
   "idx": 62,
   "en": "Mial's Hope",
-  "cz": ""
+  "cz": "Mialova nadeje"
  },
  {
   "idx": 63,
   "en": "Ridge Island",
-  "cz": ""
+  "cz": "Hrebenovy ostrov"
  },
  {
   "idx": 64,
   "en": "Point Stormy",
-  "cz": ""
+  "cz": "Bourlivy mys"
  },
  {
   "idx": 65,
   "en": "Kita Straight",
-  "cz": ""
+  "cz": "Uzina Kita"
  },
  {
   "idx": 66,
   "en": "Land's End",
-  "cz": ""
+  "cz": "Konec sveta"
  },
  {
   "idx": 67,
   "en": "Pivot Isle",
-  "cz": ""
+  "cz": "Stredovy ostrov"
  },
  {
   "idx": 68,
   "en": "Sole Harbor",
-  "cz": ""
+  "cz": "Jediny pristav"
  },
  {
   "idx": 69,
   "en": "Duo Falls",
-  "cz": ""
+  "cz": "Dvoji vodopady"
  },
  {
   "idx": 70,
   "en": "Moji Island",
-  "cz": ""
+  "cz": "Ostrov Moji"
  },
  {
   "idx": 71,
   "en": "Spann Island",
-  "cz": ""
+  "cz": "Ostrov Spann"
  },
  {
   "idx": 72,
   "en": "Glory Islands",
-  "cz": ""
+  "cz": "Ostrovy slavy"
  },
  {
   "idx": 73,
   "en": "South Cape",
-  "cz": ""
+  "cz": "Jizni mys"
  },
  {
   "idx": 74,
   "en": "Fable Hills",
-  "cz": ""
+  "cz": "Bajne kopce"
  },
  {
   "idx": 75,
   "en": "Traitor River",
-  "cz": ""
+  "cz": "Zradna reka"
  },
  {
   "idx": 76,
   "en": "Alakule",
-  "cz": ""
+  "cz": "Alakule"
  },
  {
   "idx": 77,
   "en": "Island X",
-  "cz": ""
+  "cz": "Ostrov X"
  },
  {
   "idx": 78,
   "en": "Tatter River",
-  "cz": ""
+  "cz": "Roztrhana reka"
  },
  {
   "idx": 79,
   "en": "Spring Lakes",
-  "cz": ""
+  "cz": "Pramenna jezera"
  },
  {
   "idx": 80,
   "en": "Chain Canal",
-  "cz": ""
+  "cz": "Retezovy kanal"
  },
  {
   "idx": 81,
   "en": "Jay Islands",
-  "cz": ""
+  "cz": "Ostrovy Jay"
  },
  {
   "idx": 82,
   "en": "Cap Narrows",
-  "cz": ""
+  "cz": "Uzina Cap"
  },
  {
   "idx": 83,
   "en": "Web River",
-  "cz": ""
+  "cz": "Pavucinova reka"
  },
  {
   "idx": 84,
   "en": "Patriot Cove",
-  "cz": ""
+  "cz": "Zatoka vlastencu"
  },
  {
   "idx": 85,
   "en": "Islas Five",
-  "cz": ""
+  "cz": "Pet ostrovu"
  },
  {
   "idx": 86,
   "en": "Plus Canal",
-  "cz": ""
+  "cz": "Kanal Plus"
  },
  {
   "idx": 87,
   "en": "Loop Road",
-  "cz": ""
+  "cz": "Okruzni silnice"
  },
  {
   "idx": 88,
   "en": "Rival Islands",
-  "cz": ""
+  "cz": "Ostrovy rivalu"
  },
  {
   "idx": 89,
   "en": "Tween Isle",
-  "cz": ""
+  "cz": "Prostredni ostrov"
  },
  {
   "idx": 90,
   "en": "Crop River",
-  "cz": ""
+  "cz": "Urodna reka"
  },
  {
   "idx": 91,
   "en": "Rocket Cape",
-  "cz": ""
+  "cz": "Raketovy mys"
  },
  {
   "idx": 92,
   "en": "Four Corners",
-  "cz": ""
+  "cz": "Ctyri rohy"
  },
  {
   "idx": 93,
   "en": "Thorn Islands",
-  "cz": ""
+  "cz": "Trnite ostrovy"
  },
  {
   "idx": 94,
   "en": "Jab Peninsula",
-  "cz": ""
+  "cz": "Poloostrov Jab"
  },
  {
   "idx": 95,
   "en": "Eel Channels",
-  "cz": ""
+  "cz": "Uhori kanaly"
  },
  {
   "idx": 96,
   "en": "Atlas River",
-  "cz": ""
+  "cz": "Reka Atlas"
  },
  {
   "idx": 97,
   "en": "Nail Canal",
-  "cz": ""
+  "cz": "Hrebikovy kanal"
  },
  {
   "idx": 98,
   "en": "Liar's Cove",
-  "cz": ""
+  "cz": "Zatoka lharu"
  },
  {
   "idx": 99,
   "en": "Shear Port",
-  "cz": ""
+  "cz": "Pristav Shear"
  },
  {
   "idx": 100,
   "en": "Devil's Inlet",
-  "cz": ""
+  "cz": "Certova zatoka"
  },
  {
   "idx": 101,
   "en": "Glass Heights",
-  "cz": ""
+  "cz": "Sklenene vysiny"
  },
  {
   "idx": 102,
   "en": "Gem Creek",
-  "cz": ""
+  "cz": "Klenotni potok"
  },
  {
   "idx": 103,
   "en": "Peril Maze",
-  "cz": ""
+  "cz": "Bludiste hruzy"
  },
  {
   "idx": 104,
   "en": "Shield Hills",
-  "cz": ""
+  "cz": "Stitove kopce"
  },
  {
   "idx": 105,
   "en": "Ink Canal",
-  "cz": ""
+  "cz": "Inkoustovy kanal"
  },
  {
   "idx": 106,
   "en": "Channel City",
-  "cz": ""
+  "cz": "Mesto kanalu"
  },
  {
   "idx": 107,
   "en": "Mantis River",
-  "cz": ""
+  "cz": "Kudlankova reka"
  },
  {
   "idx": 108,
   "en": "Fork River",
-  "cz": ""
+  "cz": "Rozvetvena reka"
  },
  {
   "idx": 109,
   "en": "Keyhole Cove",
-  "cz": ""
+  "cz": "Klicova zatoka"
  },
  {
   "idx": 110,
   "en": "Clover Keys",
-  "cz": ""
+  "cz": "Jetelove ostrovy"
  },
  {
   "idx": 111,
   "en": "Bead Islands",
-  "cz": ""
+  "cz": "Koralkove ostrovy"
  },
  {
   "idx": 112,
   "en": "Pyramid Cape",
-  "cz": ""
+  "cz": "Pyramidovy mys"
  },
  {
   "idx": 113,
   "en": "Battle Cube",
-  "cz": ""
+  "cz": "Bojova kostka"
  },
  {
   "idx": 114,
   "en": "Leaf Haven",
-  "cz": ""
+  "cz": "Listovy raj"
  },
  {
   "idx": 115,
   "en": "Coil Range",
-  "cz": ""
+  "cz": "Klikate hory"
  },
  {
   "idx": 116,
   "en": "Blue Lake",
-  "cz": ""
+  "cz": "Modre jezero"
  },
  {
   "idx": 117,
   "en": "Poem Cape",
-  "cz": ""
+  "cz": "Basnicky mys"
  },
  {
   "idx": 118,
   "en": "Delta Heights",
-  "cz": ""
+  "cz": "Vysiny Delta"
  },
  {
   "idx": 119,
   "en": "Liaison Wood",
-  "cz": ""
+  "cz": "Spojovaci les"
  },
  {
   "idx": 120,
   "en": "Pointing River",
-  "cz": ""
+  "cz": "Ukazujici reka"
  },
  {
   "idx": 121,
   "en": "Scarab Road",
-  "cz": ""
+  "cz": "Skarabeova cesta"
  },
  {
   "idx": 122,
   "en": "Bundle City",
-  "cz": ""
+  "cz": "Mesto svazku"
  },
  {
   "idx": 123,
   "en": "Rapid Ferry",
-  "cz": ""
+  "cz": "Rychly prevoz"
  },
  {
   "idx": 124,
   "en": "Wrench Island",
-  "cz": ""
+  "cz": "Ostrov Klic"
  },
  {
   "idx": 125,
   "en": "Jewel Canal",
-  "cz": ""
+  "cz": "Klenotni kanal"
  },
  {
   "idx": 126,
   "en": "Mint Plateau",
-  "cz": ""
+  "cz": "Matova plosina"
  },
  {
   "idx": 127,
   "en": "Moon Isle",
-  "cz": ""
+  "cz": "Mesicni ostrov"
  },
  {
   "idx": 128,
   "en": "River Range",
-  "cz": ""
+  "cz": "Ricni hory"
  },
  {
   "idx": 129,
   "en": "Brace Range",
-  "cz": ""
+  "cz": "Vzperove hory"
  },
  {
   "idx": 130,
   "en": "Go Islands",
-  "cz": ""
+  "cz": "Ostrovy Go"
  },
  {
   "idx": 131,
   "en": "Swan Cove",
-  "cz": ""
+  "cz": "Labuti zatoka"
  }
 ]

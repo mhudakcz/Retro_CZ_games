@@ -2,661 +2,661 @@
  {
   "idx": 528,
   "en": "Nell?\\rWhat is it?\\f",
-  "cz": ""
+  "cz": "Nell?\\rCo se deje?\\f"
  },
  {
   "idx": 529,
   "en": "Your Power Meter is full!\\fAndy's CO Power lets you\\rrepair all damaged units, right?\\fDo you know when it's best to\\ruse it?\\f",
-  "cz": ""
+  "cz": "Ukazatel sily je plny!\\fAndyho CO sila opravi vsechny\\rposkozene jednotky, ze?\\fVis, kdy je nejlepsi ji\\rpouzit?\\f"
  },
  {
   "idx": 530,
   "en": "Um... No, I don't.\\f",
-  "cz": ""
+  "cz": "Ehm... Ne, nevim.\\f"
  },
  {
   "idx": 531,
   "en": "Well, I guess I'll have to tell you.\\f",
-  "cz": ""
+  "cz": "Tak to ti to budu muset rict.\\f"
  },
  {
   "idx": 532,
   "en": "Since you're able to repair all of your\\runits, you should use your Power\\fwhen you have damaged units.\\rOh, and one more thing.\\f",
-  "cz": ""
+  "cz": "Kdyz umis opravit vsechny sve\\rjednotky, pouzij svou silu\\fve chvili, kdy mas poskozene kusy.\\rAha, a jeste jedna vec.\\f"
  },
  {
   "idx": 533,
   "en": "When you use your Power, all\\rof your units will be a little stronger\\ffor that turn. Don't forget what\\rI just told you, OK?\\f",
-  "cz": ""
+  "cz": "Kdyz pouzijes svou silu, vsechny\\rtve jednotky budou o kus silnejsi\\fpro ten tah. Nezapomen na to,\\rco jsem ti rekla, ano?\\f"
  },
  {
   "idx": 534,
   "en": "Is that clear?\\f",
-  "cz": ""
+  "cz": "Je to jasne?\\f"
  },
  {
   "idx": 535,
   "en": "I lost again!\\fWho in the world are you?\\f",
-  "cz": ""
+  "cz": "Zase jsem prohral!\\fKdo vlastne jsi?\\f"
  },
  {
   "idx": 536,
   "en": "Hey, grandpa. Who are you?\\f",
-  "cz": ""
+  "cz": "Hej, dedo. Kdo jsi?\\f"
  },
  {
   "idx": 537,
   "en": "Who am I, you ask?\\fThroughout Orange Star I\\rwas known as...\\f",
-  "cz": ""
+  "cz": "Ptas se, kdo jsem?\\fV celem Orange Star me znali\\rjako...\\f"
  },
  {
   "idx": 538,
   "en": "Nell's papa?\\f",
-  "cz": ""
+  "cz": "Nellin tatinek?\\f"
  },
  {
   "idx": 539,
   "en": "That's right, Nell's... What? No!\\fThat's what I get for being nice\\rto children! No respect!\\fGrrr... You just watch yourself,\\rlittle boy!\\f",
-  "cz": ""
+  "cz": "Presne tak, Nellin... Coze? Ne!\\fTo mam za to, ze jsem hodny\\rna deti! Zadna ucta!\\fGrr... Davej si pozor,\\rklucino!\\f"
  },
  {
   "idx": 540,
   "en": "Olaf's Power isn't fair, is it?\\fIt's almost impossible to move\\rwhen it starts snowing.\\fI suggest moving in groups\\rin the snow.\\fKeep up the good work!\\f",
-  "cz": ""
+  "cz": "Olafova sila neni fer, ze?\\fKdyz zacne snezit, je skoro\\rnemozne se hnout.\\fVe snehu doporucuji postupovat\\rve skupinach.\\fJen tak dal!\\f"
  },
  {
   "idx": 541,
   "en": "What's up, Nell?\\f",
-  "cz": ""
+  "cz": "Co se deje, Nell?\\f"
  },
  {
   "idx": 542,
   "en": "Well, um...\\f",
-  "cz": ""
+  "cz": "No, ehm...\\f"
  },
  {
   "idx": 543,
   "en": "Oh, my. Well, let's go through it again.\\f",
-  "cz": ""
+  "cz": "Ale ne. Tak si to projdeme znovu.\\f"
  },
  {
   "idx": 544,
   "en": "First, place the cursor on a base and\\rpress the A Button.\\fA list of units will then be displayed.\\rUse the + Control Pad to scroll\\fthrough the list, and press the\\rA Button to select the unit you want\\fto deploy. Units that you can't afford\\rwill appear in gray. Don't forget that.\\fEach day, you'll receive funds from\\rall of the bases you hold. You'll\\fhave to make do with that amount.\\rRemember, you can't deploy new units\\fand move them on the same turn.\\rHope you got all of that. Good luck!\\f",
-  "cz": ""
+  "cz": "Nejdriv najed kurzorem na zakladnu\\ra stiskni tlacitko A.\\fZobrazi se seznam jednotek.\\rSmerovym krizem v nem posouvej\\fa tlacitkem A vyber jednotku,\\rkterou chces nasadit. Jednotky, na\\fktere nemas finance, jsou sede.\\rNa to nezapomen.\\fKazdy den dostanes finance ze\\rvsech zakladen, ktere drzis.\\fS tou castkou musis vystacit.\\rPamatuj, nove jednotky nemuzes\\fnasadit a hnout s nimi v jednom tahu.\\rSnad je to jasne. Hodne stesti!\\f"
  },
  {
   "idx": 545,
   "en": "Yeah, Nell. We're here.\\rWhat's going on?\\f",
-  "cz": ""
+  "cz": "Jo, Nell. Jsme tady.\\rCo se deje?\\f"
  },
  {
   "idx": 546,
   "en": "We've learned that Grit is\\rthe opposing CO!\\fGrit is an indirect-fire expert whose\\rattack range is larger than normal.\\fPlus, his range gets even bigger\\rwhen he uses his CO Power!\\fMake sure you check Grit's attack\\rrange throughout the battle.\\f",
-  "cz": ""
+  "cz": "Zjistili jsme, ze nepratelsky\\rvelitel je Grit!\\fGrit je expert na neprimou palbu,\\rjeho dostrel je vetsi nez bezny.\\fA kdyz pouzije svou CO silu,\\rdostrel se jeste zvetsi!\\fBehem cele bitvy sleduj Grituv\\rdosah utoku.\\f"
  },
  {
   "idx": 547,
   "en": "Understood. Hey, Nell...\\fHow do you know so much\\rabout this guy?\\f",
-  "cz": ""
+  "cz": "Rozumim. Hele, Nell...\\fJak to, ze o nem vis\\rtolik veci?\\f"
  },
  {
   "idx": 548,
   "en": "Well...we used to be...friends.\\fUm,  that's all I had to tell you.\\rNell out.\\f",
-  "cz": ""
+  "cz": "No... kdysi jsme byli... pratele.\\fEhm, to je vse, co jsem chtela.\\rNell konci.\\f"
  },
  {
   "idx": 549,
   "en": "Huh? Nell was sure in a hurry.\\rI wonder what was wrong?\\f",
-  "cz": ""
+  "cz": "He? Nell mela najednou naspech.\\rCo ji asi je?\\f"
  },
  {
   "idx": 550,
   "en": "Possum spit! This area wasn't\\rBlue Moon's to begin with.\\fBlue Moon is just plain greedy.\\rThat's what it is.\\fFightin' for these folks just\\rdon't sit well with me.\\fWell, I guess I'll just mosey on out\\rand see what happens.\\f",
-  "cz": ""
+  "cz": "Ale to je fuk! Tahle oblast\\rBlue Moon nikdy nepatrila.\\fBlue Moon je proste hrabivy.\\rTak to je.\\fBojovat za tyhle lidi mi\\rnejak nesedi.\\fInu, asi se tam potulim\\ra uvidim, co z toho bude.\\f"
  },
  {
   "idx": 551,
   "en": "Stop calling me Junior!\\fI have a name! It's Andy!\\f",
-  "cz": ""
+  "cz": "Prestan mi rikat Junior!\\fMam jmeno! Jsem Andy!\\f"
  },
  {
   "idx": 552,
   "en": "Well now! That's the spirit!\\fY'all are new to the Orange\\rStar Army, right?\\f",
-  "cz": ""
+  "cz": "No teda! To je duch!\\fVy jste v armade Orange\\rStar novacci, vid?\\f"
  },
  {
   "idx": 553,
   "en": "Yeah, so?\\fHey! How'd you know that?\\f",
-  "cz": ""
+  "cz": "Jo, a co?\\fHele! Jak to vis?\\f"
  },
  {
   "idx": 554,
   "en": "Grit's indirect fire abilities increase\\rwhen he uses his CO Power.\\fSo, you should try and take out his\\rindirect combat units before his Power\\fMeter fills up. His direct combat units\\raren't very strong, so you shouldn't\\fworry about them too much.\\rGood luck on the next battle!\\f",
-  "cz": ""
+  "cz": "Gritova neprima palba sili,\\rkdyz pouzije svou CO silu.\\fZkus tedy znicit jeho jednotky\\rneprime palby drive, nez se mu\\fnaplni ukazatel sily. Jeho jednotky\\rprime palby nejsou moc silne,\\ftak si s nimi nelam hlavu.\\rHodne stesti v dalsi bitve!\\f"
  },
  {
   "idx": 555,
   "en": "Didn't Nell say this area was empty?\\rAs in, no enemies?\\f",
-  "cz": ""
+  "cz": "Nerikala Nell, ze je tu prazdno?\\rTedy zadni nepratele?\\f"
  },
  {
   "idx": 556,
   "en": "Nell!\\rThere are hostile forces here!\\f",
-  "cz": ""
+  "cz": "Nell!\\rJsou tu nepratelske sily!\\f"
  },
  {
   "idx": 557,
   "en": "You're too late, Nell.\\f",
-  "cz": ""
+  "cz": "Je pozde, Nell.\\f"
  },
  {
   "idx": 558,
   "en": "What? Does that mean\\ryou're already under attack?\\fWell... Um... Good luck!\\f",
-  "cz": ""
+  "cz": "Coze? To znamena, ze uz\\rjste pod utokem?\\fNo... Ehm... Hodne stesti!\\f"
  },
  {
   "idx": 559,
   "en": "Nell left us! She ran away...\\f",
-  "cz": ""
+  "cz": "Nell nas nechala! Utekla...\\f"
  },
  {
   "idx": 560,
   "en": "I... I lost?\\fHuh? It's you! Andy!\\f",
-  "cz": ""
+  "cz": "Ja... prohral jsem?\\fHe? To jsi ty! Andy!\\f"
  },
  {
   "idx": 561,
   "en": "Yeah, but...who are you?\\f",
-  "cz": ""
+  "cz": "Jo, ale... kdo jsi ty?\\f"
  },
  {
   "idx": 562,
   "en": "Don't play dumb with me, boy!\\fI'll never forget what you've done!\\f",
-  "cz": ""
+  "cz": "Nedelej ze mne hlupaka, hochu!\\fNikdy nezapomenu, cos provedl!\\f"
  },
  {
   "idx": 563,
   "en": "Huh?\\f",
-  "cz": ""
+  "cz": "He?\\f"
  },
  {
   "idx": 564,
   "en": "So, continuing to feign\\rignorance, eh?\\f",
-  "cz": ""
+  "cz": "Takze si dal hrajes na\\rnevedomeho, co?\\f"
  },
  {
   "idx": 565,
   "en": "Very well, but the next time we\\rmeet will be our last!\\f",
-  "cz": ""
+  "cz": "Dobra, ale az se sejdeme\\rpriste, bude to naposledy!\\f"
  },
  {
   "idx": 566,
   "en": "Hey! Wait up!\\fHe's gone.\\fWhat was that all about?\\f",
-  "cz": ""
+  "cz": "Hej! Pockej!\\fJe pryc.\\fO co tu vlastne slo?\\f"
  },
  {
   "idx": 567,
   "en": "Cripes! I can't believe I have to be a\\rnanny to this little kid...\\f",
-  "cz": ""
+  "cz": "Sakra! Ja mam delat chuvu\\rtomuhle capartovi...\\f"
  },
  {
   "idx": 568,
   "en": "I'm not a little kid! I'm a CO in\\rthe Orange Star Army!\\fAnd I don't need a nanny!\\r...Whatever that is.\\f",
-  "cz": ""
+  "cz": "Nejsem zadny capart! Jsem velitel\\rarmady Orange Star!\\fA zadnou chuvu nepotrebuju!\\r...At uz je to cokoli.\\f"
  },
  {
   "idx": 569,
   "en": "Uh-huh.\\fOK, little man, why don't you tell me\\rhow to use the bases on this map?\\f",
-  "cz": ""
+  "cz": "Aha.\\fTak fajn, mrnousi, povez mi,\\rk cemu jsou zakladny na teto mape.\\f"
  },
  {
   "idx": 570,
   "en": "No problem!\\rYou use the naval base to deploy\\fnaval units and the air base\\rto deploy air units.\\f",
-  "cz": ""
+  "cz": "Zadny problem!\\rZ pristavu nasazujes namorni\\fjednotky a z letiste\\rvzdusne jednotky.\\f"
  },
  {
   "idx": 571,
   "en": "Not bad! I'm surprised you know\\rthat much.\\fBut if a CO doesn't have guts,\\rhe's got nothin'.\\fShow me what you can do, kid.\\f",
-  "cz": ""
+  "cz": "Neni spatne! Divim se, ze toho\\rvis tolik.\\fAle velitel bez odvahy\\rneni k nicemu.\\fUkaz, co v tobe je, klucino.\\f"
  },
  {
   "idx": 572,
   "en": "Ha ha ha ha ha!\\rBehold! Gaze upon my beautiful army!\\fOrange Star may match me in\\rnumbers, but I have so\\fmuch more power!\\f",
-  "cz": ""
+  "cz": "Ha ha ha ha ha!\\rHlete! Pohledte na mou krasnou armadu!\\fOrange Star se mi mozna vyrovna\\rpoctem, ale ja mam\\fdaleko vetsi silu!\\f"
  },
  {
   "idx": 573,
   "en": "But you're not very well balanced...\\fWhat if the enemy send its subs\\runder? That'll stop you cold.\\f",
-  "cz": ""
+  "cz": "Ale nemate to moc vyvazene...\\fCo kdyz nepritel posle ponorky\\rpod hladinu? To vas zastavi.\\f"
  },
  {
   "idx": 574,
   "en": "Battleships at sea!\\fMd Tanks on land!\\fIs there anything more I need?\\rNo! Nothing at all!\\fAttack! Attack! Attack!\\f",
-  "cz": ""
+  "cz": "Bitevni lode na mori!\\fTezke tanky na zemi!\\fPotrebuji jeste neco?\\rNe! Vubec nic!\\fUtok! Utok! Utok!\\f"
  },
  {
   "idx": 575,
   "en": "Well, as long as you're happy, Boss.\\f",
-  "cz": ""
+  "cz": "Inu, kdyz jste spokojeny, sefe.\\f"
  },
  {
   "idx": 576,
   "en": "See? I told you!\\f",
-  "cz": ""
+  "cz": "Vidite? Rikal jsem to!\\f"
  },
  {
   "idx": 577,
   "en": "Hey! Not bad, kid. Not bad at all.\\f'Course, I woulda finished that up\\ra bit quicker, but...\\f",
-  "cz": ""
+  "cz": "Hej! Neni spatne, mrnousi. Vubec ne.\\fJa bych to sice zvladl\\ro kus rychleji, ale...\\f"
  },
  {
   "idx": 578,
   "en": "What did you say?\\f",
-  "cz": ""
+  "cz": "Cos to rekl?\\f"
  },
  {
   "idx": 579,
   "en": "Huh? You wanna piece of me?\\f",
-  "cz": ""
+  "cz": "He? Chces si neco zacit?\\f"
  },
  {
   "idx": 580,
   "en": "Knock it off, both of you!\\fMax, this is hardly the mature\\rbehavior I was expecting from you!\\f",
-  "cz": ""
+  "cz": "Oba dva toho nechte!\\fMax, tohle je sotva dospele\\rchovani, jake jsem od tebe cekala!\\f"
  },
  {
   "idx": 581,
   "en": "But he started...\\f",
-  "cz": ""
+  "cz": "Ale on zacal...\\f"
  },
  {
   "idx": 582,
   "en": "Max!\\f",
-  "cz": ""
+  "cz": "Max!\\f"
  },
  {
   "idx": 583,
   "en": "Hee, hee!\\f",
-  "cz": ""
+  "cz": "Chi, chi!\\f"
  },
  {
   "idx": 584,
   "en": "If you keep this up, you're going to\\rhave your heads handed to you!\\f",
-  "cz": ""
+  "cz": "Jestli takhle budete pokracovat,\\rsetrou s vami podlahu!\\f"
  },
  {
   "idx": 585,
   "en": "Blast!\\fGrit's troops are all around me!\\fIf I stay put, I'll be blasted to\\rsmithereens. If I retreat, our HQ\\fwill be captured... How am I\\rgonna get out of this?\\f",
-  "cz": ""
+  "cz": "Sakra!\\fGritovy jednotky jsou vsude kolem!\\fKdyz zustanu, rozstrileji me na\\rkusy. Kdyz ustoupim, obsadi nam\\fHQ... Jak se z tohohle\\rmam dostat?\\f"
  },
  {
   "idx": 586,
   "en": "Ya...Yahoo!\\f",
-  "cz": ""
+  "cz": "Ju... Juhu!\\f"
  },
  {
   "idx": 587,
   "en": "You're awful beat up to\\rbe celebratin'.\\f",
-  "cz": ""
+  "cz": "Na to, jak jsi zrizeny,\\rdost slavis.\\f"
  },
  {
   "idx": 588,
   "en": "Well...\\f",
-  "cz": ""
+  "cz": "No...\\f"
  },
  {
   "idx": 589,
   "en": "Yeah, exactly. You know, Maxie,\\ryou never were any good at indirect\\fcombat. Why, if you'd have just used\\rthose big boys a little more, you\\fwouldn't have taken such a poundin'.\\f",
-  "cz": ""
+  "cz": "Jo, presne tak. Vis, Maxie,\\rneprima palba ti nikdy moc\\fnesla. Kdybys ty velky hochy\\rpouzival trochu vic, tak\\fbys tak nedostal na frak.\\f"
  },
  {
   "idx": 590,
   "en": "Um...\\f",
-  "cz": ""
+  "cz": "Ehm...\\f"
  },
  {
   "idx": 591,
   "en": "And long as I'm givin' you what-for,\\rwhat's up with you and the kid?\\fHe ain't got your particular\\rshortcomings, so give him a break!\\fHe's pretty darn good, and you know\\rit. C'mon Maxie, what do you say?\\f",
-  "cz": ""
+  "cz": "A kdyz uz ti to takhle vytmavuju,\\rco mas s tim klukem?\\fOn tvoje slabiny nema,\\rtak mu dej pokoj!\\fJe zatracene dobry a ty to vis.\\rNo tak, Maxie, co ty na to?\\f"
  },
  {
   "idx": 592,
   "en": "Yeah...I guess you're right.\\fHey! Andy!\\rSorry for being such a jerk.\\f",
-  "cz": ""
+  "cz": "Jo... asi mas pravdu.\\fHej! Andy!\\rPromin, ze jsem byl takovy pitomec.\\f"
  },
  {
   "idx": 593,
   "en": "Huh?\\fAs long as you're cool,\\rI'm cool.\\fHey, Grit!\\f",
-  "cz": ""
+  "cz": "He?\\fKdyz jsi v pohode ty,\\rjsem i ja.\\fHej, Grit!\\f"
  },
  {
   "idx": 594,
   "en": "What's up, Junior?\\f",
-  "cz": ""
+  "cz": "Co je, Junior?\\f"
  },
  {
   "idx": 595,
   "en": "How many times do I have\\rto tell you to stop calling me Junior?\\f",
-  "cz": ""
+  "cz": "Kolikrat ti mam rikat,\\rabys mi nerikal Junior?\\f"
  },
  {
   "idx": 596,
   "en": "Whoa! I hear you, I hear you.\\rMy apologies.\\fWell now, look at the time.\\rGotta go, boys!\\fSee y'all later! Take care, Junior.\\f",
-  "cz": ""
+  "cz": "Klid! Slysim te, slysim.\\rOmlouvam se.\\fNo teda, koukni na ten cas.\\rMusim jit, hosi!\\fTak zas nekdy! Opatruj se, Junior.\\f"
  },
  {
   "idx": 597,
   "en": "Fog of War...\\f",
-  "cz": ""
+  "cz": "Mlha valky...\\f"
  },
  {
   "idx": 598,
   "en": "Good memory!\\fI guess there's no need for any\\rspecial explanation, then.\\fLet's get started!\\f",
-  "cz": ""
+  "cz": "Dobra pamet!\\fTak to asi nepotrebujes zadne\\rzvlastni vysvetlovani.\\fPustme se do toho!\\f"
  },
  {
   "idx": 599,
   "en": "The things I do for my country... (sigh)\\fThis gray stuff that's blocking our\\rvision, that's Fog of War.\\fAs you can imagine, the enemy\\ris out there, hidden.\\f",
-  "cz": ""
+  "cz": "Co vsechno pro vlast neudelam... (ach)\\fTa seda mlha, co nam brani\\rve vyhledu, to je Mlha valky.\\fJak si dovedes predstavit, nepritel\\rje tam nekde schovany.\\f"
  },
  {
   "idx": 600,
   "en": "Wow, that's creepy.\\fSo, how do we find the bad guys?\\f",
-  "cz": ""
+  "cz": "Teda, to je desive.\\fJak teda najdeme ty zlouny?\\f"
  },
  {
   "idx": 601,
   "en": "Hm hm hm...\\fHee hee hee...\\fHa ha ha ha ha!\\fBehold!\\rOlaf's Navy is here!\\fIt's no longer just battleships, I've\\rassembled a complete armada!\\f",
-  "cz": ""
+  "cz": "Hm hm hm...\\fChi chi chi...\\fHa ha ha ha ha!\\fHlete!\\rOlafovo namornictvo je tu!\\fUz to nejsou jen bitevni lode,\\rdal jsem dohromady celou flotilu!\\f"
  },
  {
   "idx": 602,
   "en": "Um... Pardon me, Your Stoutness,\\fbut if the enemy heads inland, your\\rnaval powerhouse'll be useless.\\f",
-  "cz": ""
+  "cz": "Ehm... Prominte, Vase Statnosti,\\fale kdyz nepritel vyrazi do vnitrozemi,\\rvase flotila bude k nicemu.\\f"
  },
  {
   "idx": 603,
   "en": "Now it's my turn!\\fMy fleet will crush those detestable\\rOrange Star fools!\\fHa ha ha ha ha!\\f",
-  "cz": ""
+  "cz": "Ted je rada na mne!\\fMa flotila rozdrti ty odporne\\rhlupaky z Orange Star!\\fHa ha ha ha ha!\\f"
  },
  {
   "idx": 604,
   "en": "But you don't even have a single\\rinfantry or mech unit deployed, and...\\fMan, he ain't even listenin'.\\f",
-  "cz": ""
+  "cz": "Ale vy nemate nasazenou ani jednu\\rpechotu nebo mecha a...\\fClovece, on me vubec neposloucha.\\f"
  },
  {
   "idx": 605,
   "en": "Grrr... I... I lost again...\\f",
-  "cz": ""
+  "cz": "Grr... Ja... zase jsem prohral...\\f"
  },
  {
   "idx": 606,
   "en": "This will be such a disservice to...\\rhim...if things continue this way.\\fGrit!\\f",
-  "cz": ""
+  "cz": "Takhle... jemu... jen uskodim,\\rkdyz to takhle pujde dal.\\fGrit!\\f"
  },
  {
   "idx": 607,
   "en": "Yep.\\f",
-  "cz": ""
+  "cz": "Jo.\\f"
  },
  {
   "idx": 608,
   "en": "Get out there and stop\\rthe Orange Star Army!\\f",
-  "cz": ""
+  "cz": "Vyraz tam a zastav\\rarmadu Orange Star!\\f"
  },
  {
   "idx": 609,
   "en": "That's easy to say, Boss.\\rBut you left me nothin' to work with.\\f",
-  "cz": ""
+  "cz": "To se snadno rekne, sefe.\\rAle nenechal jste mi vubec nic.\\f"
  },
  {
   "idx": 610,
   "en": "Don't get saucy! Just rally the\\rtroops and do something!\\fI must go and pay...him...my respects.\\fI'll return later.\\f",
-  "cz": ""
+  "cz": "Zadne reci! Seber vojska\\ra neco udelej!\\fMusim jit vzdat...jemu...uctu.\\fVratim se pozdeji.\\f"
  },
  {
   "idx": 611,
   "en": "Well, well, he's finally off to visit\\rthe mystery man.\\fThink I'll just tag along and see\\rwhat I can see.\\f",
-  "cz": ""
+  "cz": "Ale ale, konecne jde za tim\\rzahadnym chlapikem.\\fAsi se povezu za nim a uvidim,\\rco se da videt.\\f"
  },
  {
   "idx": 612,
   "en": "Inconceivable!\\fMy beautiful navy has\\rbeen destroyed!\\fYou... You villains!\\fNow you'll have to face\\rOlaf's Sea Strike!\\f",
-  "cz": ""
+  "cz": "Nemyslitelne!\\fMe krasne namornictvo\\rbylo zniceno!\\fVy... Vy darebaci!\\fTed se postavite\\rOlafovu Uderu z more!\\f"
  },
  {
   "idx": 613,
   "en": "Olaf's Navy was as strong\\ras we expected.\\fYou went head to head with him, but...\\fYou should have moved all\\rof your troops inland.\\fIf you're away from the sea, you're\\rout of the battleships' attack range!\\fThen you could've concentrated on\\rcapturing the enemy HQ.\\fOh, well. Better luck next time.\\f",
-  "cz": ""
+  "cz": "Olafovo namornictvo bylo silne,\\rjak jsme cekali.\\fPostavil ses mu celem, ale...\\fMel jsi presunout vsechny\\rsve jednotky do vnitrozemi.\\fDaleko od more jsi mimo\\rdostrel bitevnich lodi!\\fPak by ses mohl soustredit na\\robsazeni nepratelskeho HQ.\\fNo nic. Priste vic stesti.\\f"
  },
  {
   "idx": 614,
   "en": "Gimme a break!\\rNot this guy again.\\f",
-  "cz": ""
+  "cz": "To si delas srandu!\\rZase tenhle chlap.\\f"
  },
  {
   "idx": 615,
   "en": "What's wrong, Max?\\rDon't you like Olaf?\\f",
-  "cz": ""
+  "cz": "Co je, Max?\\rNemas rad Olafa?\\f"
  },
  {
   "idx": 616,
   "en": "That's probably the safest way to\\rweather a storm.\\fAnyway, let's move out!\\f",
-  "cz": ""
+  "cz": "To je asi nejbezpecnejsi zpusob,\\rjak preckat bouri.\\fTak jdeme na to!\\f"
  },
  {
   "idx": 617,
   "en": "Get moving!\\fYeah! Right there!\\fGet 'em!\\fHa ha ha ha ha!\\f",
-  "cz": ""
+  "cz": "Pohyb!\\fAno! Presne tam!\\fNa ne!\\fHa ha ha ha ha!\\f"
  },
  {
   "idx": 618,
   "en": "Grrr... Another defeat!\\f",
-  "cz": ""
+  "cz": "Grr... Dalsi porazka!\\f"
  },
  {
   "idx": 619,
   "en": "He will not be pleased with me\\rif this losing streak continues.\\fGrit!\\f",
-  "cz": ""
+  "cz": "Nebude se mnou spokojeny,\\rkdyz budu dal prohravat.\\fGrit!\\f"
  },
  {
   "idx": 620,
   "en": "Yep.\\f",
-  "cz": ""
+  "cz": "Jo.\\f"
  },
  {
   "idx": 621,
   "en": "Get out there and stop that\\rcursed Orange Star Army!\\f",
-  "cz": ""
+  "cz": "Vyraz tam a zastav tu\\rproklatou armadu Orange Star!\\f"
  },
  {
   "idx": 622,
   "en": "Easier said than done, Boss. You\\rdidn't leave me anything to work with.\\f",
-  "cz": ""
+  "cz": "To se snadno rekne, sefe.\\rNenechal jste mi vubec nic.\\f"
  },
  {
   "idx": 623,
   "en": "Don't get saucy!\\rRally the troops and do something!\\fI have to go and pay...him...my respects.\\fDon't fail me, Grit!\\f",
-  "cz": ""
+  "cz": "Zadne reci!\\rSeber vojska a neco udelej!\\fMusim jit vzdat...jemu...uctu.\\fNezklam me, Grit!\\f"
  },
  {
   "idx": 624,
   "en": "Well, well, well...\\fOlaf's finally off to see his\\rmysterious benefactor.\\fThink I'll just tag along behind and\\rsee what I can see.\\f",
-  "cz": ""
+  "cz": "Ale ale ale...\\fOlaf konecne vyrazil za svym\\rzahadnym dobrodincem.\\fAsi se povezu za nim a uvidim,\\rco se da videt.\\f"
  },
  {
   "idx": 625,
   "en": "Well, Max. You're here to help, too?\\f",
-  "cz": ""
+  "cz": "Tak, Max. Ty jsi prisel taky pomoct?\\f"
  },
  {
   "idx": 626,
   "en": "How you doin', Nell?\\fNow that I'm here, what's the\\rkid gonna do?\\f",
-  "cz": ""
+  "cz": "Jak se vede, Nell?\\fKdyz uz jsem tady, co bude\\rdelat ten kluk?\\f"
  },
  {
   "idx": 627,
   "en": "Oh, Max. You haven't changed a bit.\\f",
-  "cz": ""
+  "cz": "Ach, Max. Vubec ses nezmenil.\\f"
  },
  {
   "idx": 628,
   "en": "But I must tell you, Andy's\\rquite a capable CO.\\fIf you're not careful,\\rhe may just pass you up.\\fSee you later. Good luck!\\f",
-  "cz": ""
+  "cz": "Ale musim ti rict, Andy je\\rdocela schopny velitel.\\fKdyz si nedas pozor,\\rmuze te i predbehnout.\\fZatim. Hodne stesti!\\f"
  },
  {
   "idx": 629,
   "en": "How's that? What do you think\\rof that power?\\f",
-  "cz": ""
+  "cz": "Tak co? Co rikas\\rna tuhle silu?\\f"
  },
  {
   "idx": 630,
   "en": "Cool! There's no way I could do\\rthat much damage.\\f",
-  "cz": ""
+  "cz": "Super! Ja bych takove skody\\rnikdy nenadelal.\\f"
  },
  {
   "idx": 631,
   "en": "Yeah! That's right!\\f",
-  "cz": ""
+  "cz": "Jasne! Presne tak!\\f"
  },
  {
   "idx": 632,
   "en": "As long as I didn't use\\rmy indirect combat units, that is.\\f",
-  "cz": ""
+  "cz": "Tedy pokud jsem nepouzil sve\\rjednotky neprime palby.\\f"
  },
  {
   "idx": 633,
   "en": "Oooh...you...\\f",
-  "cz": ""
+  "cz": "Och... ty...\\f"
  },
  {
   "idx": 634,
   "en": "That's exactly right.\\fMax doesn't use indirect combat units\\rbecause he's clumsy.\\f",
-  "cz": ""
+  "cz": "Presne tak.\\fMax nepouziva jednotky neprime\\rpalby, protoze je nemotorny.\\f"
  },
  {
   "idx": 635,
   "en": "And your range of fire is small, too.\\rThat's life threatening, isn't it?\\f",
-  "cz": ""
+  "cz": "A tvuj dostrel je taky maly.\\rTo je zivotu nebezpecne, ze?\\f"
  },
  {
   "idx": 636,
   "en": "Ha!\\fI'll do just fine without relying\\ron those units.\\f",
-  "cz": ""
+  "cz": "Ha!\\fZvladnu to i bez spolehani\\rna takove jednotky.\\f"
  },
  {
   "idx": 637,
   "en": "I wonder about that.\\fAnyway, excellent work, Max!\\fNow, you two work together\\rand try to get along.\\f",
-  "cz": ""
+  "cz": "To bych rada videla.\\fKazdopadne skvela prace, Max!\\fA ted spolupracujte\\ra snazte se vychazet.\\f"
  },
  {
   "idx": 638,
   "en": "You heard the lady. Let's\\rstop fighting and do this, Andy.\\f",
-  "cz": ""
+  "cz": "Slysels tu damu. Prestanme\\rse hadat a jdeme na to, Andy.\\f"
  },
  {
   "idx": 639,
   "en": "I think she was talking to you, Max.\\f",
-  "cz": ""
+  "cz": "Myslim, ze to rikala tobe, Max.\\f"
  },
  {
   "idx": 640,
   "en": "Each CO has his or\\rher own CO Power.\\fDo you think it might\\rbe a good idea to try another CO?\\fBest of luck!\\f",
-  "cz": ""
+  "cz": "Kazdy velitel ma svou\\rvlastni CO silu.\\fNechces zkusit\\rnejakeho jineho velitele?\\fHodne stesti!\\f"
  },
  {
   "idx": 641,
   "en": "Fog of War...\\f",
-  "cz": ""
+  "cz": "Mlha valky...\\f"
  },
  {
   "idx": 642,
   "en": "What's \"Fog of War\"?\\f",
-  "cz": ""
+  "cz": "Co je \"Mlha valky\"?\\f"
  },
  {
   "idx": 643,
   "en": "Please tell me you're joking.\\fSee that gray stuff blocking your\\rvision? That's Fog of War.\\fNow, I wonder where the enemy\\rtroops are hidden.\\f",
-  "cz": ""
+  "cz": "Rekni, ze delas srandu.\\fVidis tu sedou mlhu, co brani\\rve vyhledu? To je Mlha valky.\\fTak kdepak asi jsou schovane\\rnepratelske jednotky.\\f"
  },
  {
   "idx": 644,
   "en": "How do we find 'em?\\f",
-  "cz": ""
+  "cz": "Jak je najdeme?\\f"
  },
  {
   "idx": 645,
   "en": "Boy, that seems pretty simple.\\f",
-  "cz": ""
+  "cz": "Teda, to vypada dost jednoduse.\\f"
  },
  {
   "idx": 646,
   "en": "You just don't know enough to\\rrealize the danger, Andy.\\fIf we can hide units in the woods,\\rthen so can our opponent.\\fIf we're not careful, hidden units\\rwill blow us away!\\fAll right. Let's move out!\\f",
-  "cz": ""
+  "cz": "Jen toho vis moc malo, abys\\rvidel to nebezpeci, Andy.\\fKdyz muzeme schovat jednotky\\rv lese, muze to i nepritel.\\fKdyz si nedame pozor, skryte\\rjednotky nas rozstrileji!\\fDobra. Vyrazime!\\f"
  },
  {
   "idx": 647,
   "en": "Howdy Max. Long time, no see.\\f",
-  "cz": ""
+  "cz": "Zdravim, Max. Dlouho jsme se nevideli.\\f"
  },
  {
   "idx": 648,
   "en": "Grit? Is that you?\\fI was wondering why I hadn't seen you\\raround lately, and now I know.\\fYou're working for Blue Moon!\\rYou traitorous piece of gar--\\f",
-  "cz": ""
+  "cz": "Grit? To jsi ty?\\fRikal jsem si, proc te posledni\\rdobou nevidim, a ted to vim.\\fDelas pro Blue Moon!\\rTy zradna hromado sme--\\f"
  },
  {
   "idx": 649,
   "en": "Aww, Maxie. Don't be like that.\\fI got my reasons for doin' what\\rI do, you know?\\fMan, I'm getting out of here before\\ryou get started preachin' again.\\fSee y'all down the road!\\f",
-  "cz": ""
+  "cz": "Ale Maxie. Nebud takovy.\\fMam sve duvody, proc delam,\\rco delam, vis?\\fRadsi zmizim driv, nez zase\\rzacnes kazat.\\fTak nekdy na ceste!\\f"
  },
  {
   "idx": 650,
   "en": "Hold it, Grit!\\fDang! He got away.\\fBut what's he doing\\rwith Blue Moon?\\f",
-  "cz": ""
+  "cz": "Stuj, Grit!\\fSakra! Utekl.\\fAle co dela\\rs Blue Moon?\\f"
  },
  {
   "idx": 651,
   "en": "Grit's going to hide some units in\\rthe woods.\\fIt's important that you remember that\\rand advance with the utmost caution.\\fBetter luck next time.\\f",
-  "cz": ""
+  "cz": "Grit schova cast jednotek\\rv lese.\\fPamatuj na to a postupuj\\rs nejvetsi opatrnosti.\\fPriste vic stesti.\\f"
  },
  {
   "idx": 652,
   "en": "What is it, Nell?\\f",
-  "cz": ""
+  "cz": "Co se deje, Nell?\\f"
  },
  {
   "idx": 653,
   "en": "I've learned that this is a vital\\rdeployment point for Olaf.\\fIf we can drive him from the region,\\rwe may just cripple his army!\\f",
-  "cz": ""
+  "cz": "Zjistila jsem, ze tohle je pro\\rOlafa klicove misto nasazeni.\\fKdyz ho z oblasti vytlacime,\\rmuzeme ochromit jeho armadu!\\f"
  },
  {
   "idx": 654,
   "en": "Really? This may be where we can\\rend this conflict with Olaf!\\f",
-  "cz": ""
+  "cz": "Vazne? Tady mozna ten konflikt\\rs Olafem ukoncime!\\f"
  },
  {
   "idx": 655,
   "en": "That's right!\\fYou just need to capture as much\\rproperty as possible, and fast!\\fThe first army to secure twelve\\rproperties will win this battle!\\fStay alert and good luck!\\f",
-  "cz": ""
+  "cz": "Presne tak!\\fStaci obsadit co nejvic\\rbudov, a to rychle!\\fPrvni armada, ktera obsadi\\rdvanact budov, bitvu vyhraje!\\fBud ve strehu a hodne stesti!\\f"
  },
  {
   "idx": 656,
   "en": "Let's see... Yep, we've got\\rbases for deploying troops, and...\\fOK! Understood. Let's go!\\f",
-  "cz": ""
+  "cz": "Tak schvalne... Jo, mame\\rzakladny na nasazovani vojsk a...\\fJasne! Rozumim. Jdeme!\\f"
  },
  {
   "idx": 657,
   "en": "Grrr... Not again!\\fHe will not be pleased with me\\rif this losing streak continues.\\fGrit!\\f",
-  "cz": ""
+  "cz": "Grr... Zase ne!\\fNebude se mnou spokojeny,\\rkdyz budu dal prohravat.\\fGrit!\\f"
  },
  {
   "idx": 658,
   "en": "Yep.\\f",
-  "cz": ""
+  "cz": "Jo.\\f"
  },
  {
   "idx": 659,
   "en": "Get out there and stop that\\rcursed Orange Star Army!\\f",
-  "cz": ""
+  "cz": "Vyraz tam a zastav tu\\rproklatou armadu Orange Star!\\f"
  }
 ]

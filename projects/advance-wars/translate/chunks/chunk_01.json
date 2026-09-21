@@ -2,661 +2,661 @@
  {
   "idx": 132,
   "en": "Hat Harbor",
-  "cz": ""
+  "cz": "Hat Harbor"
  },
  {
   "idx": 133,
   "en": "Piston Dam",
-  "cz": ""
+  "cz": "Piston Dam"
  },
  {
   "idx": 134,
   "en": "Vision Bridge",
-  "cz": ""
+  "cz": "Vision Bridge"
  },
  {
   "idx": 135,
   "en": "Tribe Islands",
-  "cz": ""
+  "cz": "Tribe Islands"
  },
  {
   "idx": 136,
   "en": "Rail Strait",
-  "cz": ""
+  "cz": "Rail Strait"
  },
  {
   "idx": 137,
   "en": "Rainy Haven",
-  "cz": ""
+  "cz": "Rainy Haven"
  },
  {
   "idx": 138,
   "en": "Ruby Keys",
-  "cz": ""
+  "cz": "Ruby Keys"
  },
  {
   "idx": 139,
   "en": "Switchback",
-  "cz": ""
+  "cz": "Switchback"
  },
  {
   "idx": 140,
   "en": "Zero Wood",
-  "cz": ""
+  "cz": "Zero Wood"
  },
  {
   "idx": 141,
   "en": "Cog Isle",
-  "cz": ""
+  "cz": "Cog Isle"
  },
  {
   "idx": 142,
   "en": "Asphalt Maze",
-  "cz": ""
+  "cz": "Asphalt Maze"
  },
  {
   "idx": 143,
   "en": "Sabre Range",
-  "cz": ""
+  "cz": "Sabre Range"
  },
  {
   "idx": 144,
   "en": "Portal Bridge",
-  "cz": ""
+  "cz": "Portal Bridge"
  },
  {
   "idx": 145,
   "en": "Eon Springs",
-  "cz": ""
+  "cz": "Eon Springs"
  },
  {
   "idx": 146,
   "en": "Star Islands",
-  "cz": ""
+  "cz": "Star Islands"
  },
  {
   "idx": 147,
   "en": "Beaker River",
-  "cz": ""
+  "cz": "Beaker River"
  },
  {
   "idx": 148,
   "en": "Sun Canal",
-  "cz": ""
+  "cz": "Sun Canal"
  },
  {
   "idx": 149,
   "en": "Little Island",
-  "cz": ""
+  "cz": "Little Island"
  },
  {
   "idx": 150,
   "en": "Royal Channel",
-  "cz": ""
+  "cz": "Royal Channel"
  },
  {
   "idx": 151,
   "en": "Shark Strait",
-  "cz": ""
+  "cz": "Shark Strait"
  },
  {
   "idx": 152,
   "en": "Mirror Islands",
-  "cz": ""
+  "cz": "Mirror Islands"
  },
  {
   "idx": 153,
   "en": "Cube Keys",
-  "cz": ""
+  "cz": "Cube Keys"
  },
  {
   "idx": 154,
   "en": "Squash Island",
-  "cz": ""
+  "cz": "Squash Island"
  },
  {
   "idx": 155,
   "en": "Turtle Atoll",
-  "cz": ""
+  "cz": "Turtle Atoll"
  },
  {
   "idx": 156,
   "en": "Volcano Isle",
-  "cz": ""
+  "cz": "Volcano Isle"
  },
  {
   "idx": 157,
   "en": "Lost River",
-  "cz": ""
+  "cz": "Lost River"
  },
  {
   "idx": 158,
   "en": "Alara Range",
-  "cz": ""
+  "cz": "Alara Range"
  },
  {
   "idx": 159,
   "en": "Deer Harbor",
-  "cz": ""
+  "cz": "Deer Harbor"
  },
  {
   "idx": 160,
   "en": "Fist Peninsula",
-  "cz": ""
+  "cz": "Fist Peninsula"
  },
  {
   "idx": 161,
   "en": "Puzzle Trio",
-  "cz": ""
+  "cz": "Puzzle Trio"
  },
  {
   "idx": 162,
   "en": "Coral Lagoon",
-  "cz": ""
+  "cz": "Coral Lagoon"
  },
  {
   "idx": 163,
   "en": "Ball Islands",
-  "cz": ""
+  "cz": "Ball Islands"
  },
  {
   "idx": 164,
   "en": "Triangles",
-  "cz": ""
+  "cz": "Triangles"
  },
  {
   "idx": 165,
   "en": "Crater Isle",
-  "cz": ""
+  "cz": "Crater Isle"
  },
  {
   "idx": 166,
   "en": "Bean Island",
-  "cz": ""
+  "cz": "Bean Island"
  },
  {
   "idx": 167,
   "en": "BLACK HOLE",
-  "cz": ""
+  "cz": "BLACK HOLE"
  },
  {
   "idx": 168,
   "en": "YELLOW COMET",
-  "cz": ""
+  "cz": "YELLOW COMET"
  },
  {
   "idx": 169,
   "en": "GREEN EARTH",
-  "cz": ""
+  "cz": "GREEN EARTH"
  },
  {
   "idx": 170,
   "en": "BLUE MOON",
-  "cz": ""
+  "cz": "BLUE MOON"
  },
  {
   "idx": 171,
   "en": "ORANGE STAR",
-  "cz": ""
+  "cz": "ORANGE STAR"
  },
  {
   "idx": 172,
   "en": "NEUTRAL",
-  "cz": ""
+  "cz": "NEUTRAL"
  },
  {
   "idx": 173,
   "en": "DAY",
-  "cz": ""
+  "cz": "DEN"
  },
  {
   "idx": 174,
   "en": "OFF",
-  "cz": ""
+  "cz": "VYP"
  },
  {
   "idx": 175,
   "en": " MAP:%02d",
-  "cz": ""
+  "cz": " MAP:%02d"
  },
  {
   "idx": 176,
   "en": "SNOW:%s",
-  "cz": ""
+  "cz": "SNOW:%s"
  },
  {
   "idx": 177,
   "en": "SAKU:%s",
-  "cz": ""
+  "cz": "SAKU:%s"
  },
  {
   "idx": 178,
   "en": "R: SAKUTEKI  ON",
-  "cz": ""
+  "cz": "R: SAKUTEKI  ON"
  },
  {
   "idx": 179,
   "en": "R: SAKUTEKI  OFF",
-  "cz": ""
+  "cz": "R: SAKUTEKI  OFF"
  },
  {
   "idx": 180,
   "en": "CP",
-  "cz": ""
+  "cz": "CP"
  },
  {
   "idx": 181,
   "en": "VS",
-  "cz": ""
+  "cz": "VS"
  },
  {
   "idx": 182,
   "en": "PAUSE",
-  "cz": ""
+  "cz": "PAUZA"
  },
  {
   "idx": 183,
   "en": "ORANGE STAR WIN",
-  "cz": ""
+  "cz": "ORANGE STAR VYHRAL"
  },
  {
   "idx": 184,
   "en": "BLUE MOON WIN",
-  "cz": ""
+  "cz": "BLUE MOON VYHRAL"
  },
  {
   "idx": 185,
   "en": "SYUTO SENRYO",
-  "cz": ""
+  "cz": "SYUTO SENRYO"
  },
  {
   "idx": 186,
   "en": "X SENRYO",
-  "cz": ""
+  "cz": "X SENRYO"
  },
  {
   "idx": 187,
   "en": "SUDDEN DEATH",
-  "cz": ""
+  "cz": "NAHLA SMRT"
  },
  {
   "idx": 188,
   "en": "NEXT PHASE",
-  "cz": ""
+  "cz": "DALSI FAZE"
  },
  {
   "idx": 189,
   "en": "PRESS A BUTTON",
-  "cz": ""
+  "cz": "STISKNI A"
  },
  {
   "idx": 190,
   "en": "ABCDEFGHIKLMNOPRSTUVXYZ",
-  "cz": ""
+  "cz": "ABCDEFGHIKLMNOPRSTUVXYZ"
  },
  {
   "idx": 191,
   "en": "ON",
-  "cz": ""
+  "cz": "ZAP"
  },
  {
   "idx": 192,
   "en": "OFF",
-  "cz": ""
+  "cz": "VYP"
  },
  {
   "idx": 193,
   "en": "FLAG CONTROL",
-  "cz": ""
+  "cz": "FLAG CONTROL"
  },
  {
   "idx": 194,
   "en": "FLAG",
-  "cz": ""
+  "cz": "FLAG"
  },
  {
   "idx": 195,
   "en": "  SAVEDATA",
-  "cz": ""
+  "cz": "  SAVEDATA"
  },
  {
   "idx": 196,
   "en": "  FLAGALL",
-  "cz": ""
+  "cz": "  FLAGALL"
  },
  {
   "idx": 197,
   "en": "  COINS",
-  "cz": ""
+  "cz": "  COINS"
  },
  {
   "idx": 198,
   "en": "  COIN",
-  "cz": ""
+  "cz": "  COIN"
  },
  {
   "idx": 199,
   "en": "  MISSION",
-  "cz": ""
+  "cz": "  MISSION"
  },
  {
   "idx": 200,
   "en": "  TUTORIAL",
-  "cz": ""
+  "cz": "  TUTORIAL"
  },
  {
   "idx": 201,
   "en": "  HISTORY",
-  "cz": ""
+  "cz": "  HISTORY"
  },
  {
   "idx": 202,
   "en": "EDIT",
-  "cz": ""
+  "cz": "EDIT"
  },
  {
   "idx": 203,
   "en": "  FLASH << DUMMY (L.R.SELECT)",
-  "cz": ""
+  "cz": "  FLASH << DUMMY (L.R.SELECT)"
  },
  {
   "idx": 204,
   "en": "  FLASH >> DUMMY (A BUTTON)",
-  "cz": ""
+  "cz": "  FLASH >> DUMMY (A BUTTON)"
  },
  {
   "idx": 205,
   "en": "BACKUP UTL",
-  "cz": ""
+  "cz": "BACKUP UTL"
  },
  {
   "idx": 206,
   "en": "OFF",
-  "cz": ""
+  "cz": "VYP"
  },
  {
   "idx": 207,
   "en": "YELLOW",
-  "cz": ""
+  "cz": "YELLOW"
  },
  {
   "idx": 208,
   "en": "GREEN",
-  "cz": ""
+  "cz": "GREEN"
  },
  {
   "idx": 209,
   "en": "BLUE",
-  "cz": ""
+  "cz": "BLUE"
  },
  {
   "idx": 210,
   "en": "RED",
-  "cz": ""
+  "cz": "RED"
  },
  {
   "idx": 211,
   "en": "NEUT",
-  "cz": ""
+  "cz": "NEUT"
  },
  {
   "idx": 212,
   "en": "HUMAN",
-  "cz": ""
+  "cz": "HUMAN"
  },
  {
   "idx": 213,
   "en": "NON",
-  "cz": ""
+  "cz": "NON"
  },
  {
   "idx": 214,
   "en": "HEL",
-  "cz": ""
+  "cz": "HEL"
  },
  {
   "idx": 215,
   "en": "MOP",
-  "cz": ""
+  "cz": "MOP"
  },
  {
   "idx": 216,
   "en": "EAGL",
-  "cz": ""
+  "cz": "EAGL"
  },
  {
   "idx": 217,
   "en": "ASKA",
-  "cz": ""
+  "cz": "ASKA"
  },
  {
   "idx": 218,
   "en": "KIKU",
-  "cz": ""
+  "cz": "KIKU"
  },
  {
   "idx": 219,
   "en": "BILY",
-  "cz": ""
+  "cz": "BILY"
  },
  {
   "idx": 220,
   "en": "DOMI",
-  "cz": ""
+  "cz": "DOMI"
  },
  {
   "idx": 221,
   "en": "WHIP",
-  "cz": ""
+  "cz": "WHIP"
  },
  {
   "idx": 222,
   "en": "MAX",
-  "cz": ""
+  "cz": "MAX"
  },
  {
   "idx": 223,
   "en": "RYO",
-  "cz": ""
+  "cz": "RYO"
  },
  {
   "idx": 224,
   "en": "CATH",
-  "cz": ""
+  "cz": "CATH"
  },
  {
   "idx": 225,
   "en": "NORMAL",
-  "cz": ""
+  "cz": "NORMAL"
  },
  {
   "idx": 226,
   "en": "FORCE   /",
-  "cz": ""
+  "cz": "FORCE   /"
  },
  {
   "idx": 227,
   "en": "PLAY",
-  "cz": ""
+  "cz": "PLAY"
  },
  {
   "idx": 228,
   "en": "MONEY",
-  "cz": ""
+  "cz": "MONEY"
  },
  {
   "idx": 229,
   "en": "BREAK",
-  "cz": ""
+  "cz": "BREAK"
  },
  {
   "idx": 230,
   "en": "TEAM",
-  "cz": ""
+  "cz": "TEAM"
  },
  {
   "idx": 231,
   "en": "SYOGUN",
-  "cz": ""
+  "cz": "SYOGUN"
  },
  {
   "idx": 232,
   "en": "SAKUTEKI",
-  "cz": ""
+  "cz": "SAKUTEKI"
  },
  {
   "idx": 233,
   "en": "SORT",
-  "cz": ""
+  "cz": "SORT"
  },
  {
   "idx": 234,
   "en": "COLOR",
-  "cz": ""
+  "cz": "COLOR"
  },
  {
   "idx": 235,
   "en": "METEOR STRIKE",
-  "cz": ""
+  "cz": "METEOR STRIKE"
  },
  {
   "idx": 236,
   "en": "TSUNAMI",
-  "cz": ""
+  "cz": "TSUNAMI"
  },
  {
   "idx": 237,
   "en": "LIGHTNING STRIKE",
-  "cz": ""
+  "cz": "LIGHTNING STRIKE"
  },
  {
   "idx": 238,
   "en": "ENHANCED VISION",
-  "cz": ""
+  "cz": "ENHANCED VISION"
  },
  {
   "idx": 239,
   "en": "MORALE BOOST",
-  "cz": ""
+  "cz": "MORALE BOOST"
  },
  {
   "idx": 240,
   "en": "SNIPE ATTACK",
-  "cz": ""
+  "cz": "SNIPE ATTACK"
  },
  {
   "idx": 241,
   "en": "DOUBLE TIME",
-  "cz": ""
+  "cz": "DOUBLE TIME"
  },
  {
   "idx": 242,
   "en": "BLIZZARD",
-  "cz": ""
+  "cz": "BLIZZARD"
  },
  {
   "idx": 243,
   "en": "MAX FORCE",
-  "cz": ""
+  "cz": "MAX FORCE"
  },
  {
   "idx": 244,
   "en": "HYPER REPAIR",
-  "cz": ""
+  "cz": "HYPER REPAIR"
  },
  {
   "idx": 245,
   "en": "LUCKY STAR",
-  "cz": ""
+  "cz": "LUCKY STAR"
  },
  {
   "idx": 246,
   "en": "Black Hole",
-  "cz": ""
+  "cz": "Black Hole"
  },
  {
   "idx": 247,
   "en": "Yellow Comet",
-  "cz": ""
+  "cz": "Yellow Comet"
  },
  {
   "idx": 248,
   "en": "Green Earth",
-  "cz": ""
+  "cz": "Green Earth"
  },
  {
   "idx": 249,
   "en": "Blue Moon",
-  "cz": ""
+  "cz": "Blue Moon"
  },
  {
   "idx": 250,
   "en": "Orange Star",
-  "cz": ""
+  "cz": "Orange Star"
  },
  {
   "idx": 251,
   "en": "Neutral Bases",
-  "cz": ""
+  "cz": "Neutralni zakl."
  },
  {
   "idx": 252,
   "en": "ATK",
-  "cz": ""
+  "cz": "ATK"
  },
  {
   "idx": 253,
   "en": "LEFTARMY",
-  "cz": ""
+  "cz": "LEFTARMY"
  },
  {
   "idx": 254,
   "en": "ARMY",
-  "cz": ""
+  "cz": "ARMY"
  },
  {
   "idx": 255,
   "en": "SOLD",
-  "cz": ""
+  "cz": "SOLD"
  },
  {
   "idx": 256,
   "en": "WEP",
-  "cz": ""
+  "cz": "WEP"
  },
  {
   "idx": 257,
   "en": "TER",
-  "cz": ""
+  "cz": "TER"
  },
  {
   "idx": 258,
   "en": "JEN",
-  "cz": ""
+  "cz": "JEN"
  },
  {
   "idx": 259,
   "en": "HP",
-  "cz": ""
+  "cz": "HP"
  },
  {
   "idx": 260,
   "en": "AHP",
-  "cz": ""
+  "cz": "AHP"
  },
  {
   "idx": 261,
   "en": "DEF",
-  "cz": ""
+  "cz": "DEF"
  },
  {
   "idx": 262,
   "en": "RIGHTARMY",
-  "cz": ""
+  "cz": "RIGHTARMY"
  },
  {
   "idx": 263,
   "en": "WEATHER",
-  "cz": ""
+  "cz": "WEATHER"
  }
 ]
